@@ -1,0 +1,3 @@
+set echo middle center 
+font echo 16 sans bold
+color echo [xf4f5ef] # biology template page bkg color (tan)

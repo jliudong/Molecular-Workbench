@@ -1,0 +1,27 @@
+labels off
+set echo myEcho off
+set labelfront
+
+select tail 
+halos off
+tailHalosFlag=false
+
+delay 0.3
+
+moveto /* time, axisAngle */ 3.0 { 12 -133 991 166.61} /* zoom, translation */  375.99 0.0 0.0  /* center, rotationRadius */ {-9.6165 -0.144 7.9135003} 21.646587 /* navigation center, translation, depth */ {0.0 0.0 0.0} -68.47003 -45.027954 50.0;
+
+delay 0.3
+select oxygen
+halos on
+headHalosFlag=true
+if opaqueFlag
+  halos 100%
+endif
+
+delay 0.2
+select atomno=1
+label two electron-greedy|oxygen atoms|make the head|polar
+color label red
+font label 12 sans bold
+set labeloffset 50 1
+

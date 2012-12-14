@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The glass simulation box</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#29627;&#29827;&#27169;&#25311;&#31665;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#19981;&#21516;&#20110;&#20854;&#20182;3D&#29615;&#22659;&#65292;&#21407;&#23376;&#21644;&#20998;&#23376;&#22312;&#36825;&#20010;3D&#29615;&#22659;&#20013;&#21482;&#38480;&#20110;&#19968;&#20010;&#31665;&#23376;&#20869;&#65292;&#24403;&#30896;&#25758;&#31665;&#23376;&#34920;&#38754;&#26102;&#65292;&#23427;&#20204;&#20250;&#34987;&#40664;&#35748;&#21453;&#23556;&#12290;&#36825;&#26159;&#24517;&#38656;&#30340;&#65292;&#22240;&#20026;&#22312;&#25105;&#20204;&#30340;&#27169;&#25311;&#20013;&#65292;&#27599;&#20010;&#21407;&#23376;&#37117;&#21487;&#20197;&#28909;&#21147;&#36816;&#21160;&#12290;&#22240;&#27492;&#65292;&#38450;&#27490;&#23427;&#20204;&#25193;&#25955;&#28040;&#22833;&#22312;&#25105;&#20204;&#30340;&#35270;&#37326;&#20013;&#65292;&#26159;&#38750;&#24120;&#37325;&#35201;&#30340;&#12290;&#20026;&#20102;&#33021;&#35753;&#25105;&#20204;&#35266;&#23519;&#21040;&#37324;&#38754;&#30340;&#24773;&#20917;&#65292;&#31665;&#23376;&#24517;&#39035;&#26159;&#36879;&#26126;&#30340;&#65292; &#31216;&#20043;&#20026;&#29627;&#29827;&#27169;&#25311;&#31665;&#65288;&#22914;&#19979;&#25152;&#31034;&#65289;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#23481;&#22120;&#12305;
+
+&#26174;&#31034;&#25110;&#38544;&#34255;&#29627;&#29827;&#27169;&#25311;&#31665;
+
+&#29627;&#29827;&#27169;&#25311;&#31665;&#26377;&#30001;&#20843;&#26465;&#32454;&#32447;&#32472;&#25104;&#30340;&#36793;&#12290;&#22312;&#40664;&#35748;&#29366;&#24577;&#19979;&#65292;&#29627;&#29827;&#27169;&#25311;&#31665;&#26174;&#31034;&#65292;&#22914;&#26524;&#22312;3D&#27169;&#22411;&#23481;&#22120;&#30340;&#35270;&#22270;&#33756;&#21333;&#20013;&#21462;&#28040;&#36873;&#23450;&#30340;&#36873;&#39033;&#8220;&#26174;&#31034;&#29627;&#29827;&#27169;&#25311;&#31665;&#8221;&#65292;&#23601;&#21487;&#20197;&#38544;&#34255;&#12290;&#20294;&#26159;&#65292;&#26174;&#31034;&#29627;&#29827;&#27169;&#25311;&#31665;&#26377;&#26102;&#24456;&#37325;&#35201;&#65292;&#29305;&#21035;&#26159;&#22312;&#27169;&#25311;&#21407;&#23376;&#21487;&#33021;&#39057;&#32321;&#30896;&#25758;&#31665;&#20869;&#34920;&#38754;&#30340;&#27668;&#20307;&#26102;&#12290;
+
+&#35843;&#25972;&#29627;&#29827;&#27169;&#25311;&#31665;
+
+&#22914;&#26524;&#36873;&#25321; &quot; &quot; &#25353;&#38062;&#65292; &#36890;&#36807;&#25380;&#21387;&#21487;&#20197;&#25913;&#21464;&#27169;&#25311;&#31665;&#30340;&#22823;&#23567;&#65288;&#25353;&#20303;&#19968;&#38754;&#65292;&#25353;&#20303;&#40736;&#26631;&#25353;&#38062;,&#28982;&#21518;&#31227;&#21160;&#65289;&#12290;&#27880;&#24847;&#65306; &#21487;&#20197;&#35774;&#32622;&#30340;&#26368;&#23567;&#23610;&#23544;&#65292;&#21462;&#20915;&#20110;&#27169;&#22411;&#20013;&#29616;&#26377;&#29289;&#20307;&#30340;&#36793;&#30028;&#26694;&#12290;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#19979;&#21015;&#25351;&#20196;&#65292;&#29992;&#20110;&#25913;&#21464;&#27169;&#25311;&#31665;&#30340;&#22823;&#23567;&#65306;
+
+&#35774;&#32622;&#21333;&#20301;&#38271;&#24230;&#12304;&#25968;&#20540;&#12305;
+&#35774;&#32622;&#21333;&#20301;&#23485;&#24230; &#12304;&#25968;&#20540;&#12305;
+&#35774;&#32622;&#21333;&#20301;&#39640;&#24230;&#12304;&#25968;&#20540;&#12305;
+
+&#12304;&#25968;&#20540;&#12305;&#21442;&#25968;&#24212;&#35813;&#20197;&#22467;&#20026;&#21333;&#20301;&#12290;&#21333;&#20301;&#38271;&#24230;&#12289;&#23485;&#24230;&#12289;&#39640;&#24230;&#20998;&#21035;&#26159;X&#26041;&#21521;&#12289;Y&#26041;&#21521;&#12289;Z&#26041;&#21521;&#30340;&#22823;&#23567;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="518">
+<paragraph start="0" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="5">
+<bold>true</bold><italic>true</italic><size>15</size></content>
+
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="7">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="26">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="7" end="9">
+<size>11</size></content>
+
+<content start="9" end="12">
+<size>11</size><href>field3d.cml</href></content>
+
+<content start="12" end="15">
+<size>11</size></content>
+
+<content start="15" end="17">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="17" end="20">
+<size>11</size></content>
+
+<content start="20" end="23">
+<size>11</size><href>drop3d.cml</href></content>
+
+<content start="23" end="25">
+<size>11</size></content>
+
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="27">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="172">
+<LeftIndent>140.0</LeftIndent>
+<content start="27" end="172">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="172" end="173">
+<LeftIndent>140.0</LeftIndent>
+<content start="172" end="173">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="173" end="175">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="173" end="174">
+<component><class>org.concord.modeler.PageMd3d</class><resource>glassbox$0.mdd</resource><coordinate>glassbox$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="174" end="175">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="175" end="187">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="175" end="186">
+<size>10</size></content>
+
+<content start="186" end="187">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="187" end="188">
+<LeftIndent>140.0</LeftIndent>
+<content start="187" end="188">
+</content>
+
+</paragraph>
+<paragraph start="188" end="199">
+<LeftIndent>140.0</LeftIndent>
+<content start="188" end="198">
+<size>11</size><bold>true</bold></content>
+
+<content start="198" end="199">
+</content>
+
+</paragraph>
+<paragraph start="199" end="200">
+<LeftIndent>140.0</LeftIndent>
+<content start="199" end="200">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="200" end="309">
+<LeftIndent>140.0</LeftIndent>
+<content start="200" end="308">
+<size>11</size></content>
+
+<content start="308" end="309">
+</content>
+
+</paragraph>
+<paragraph start="309" end="310">
+<LeftIndent>140.0</LeftIndent>
+<content start="309" end="310">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="310" end="318">
+<LeftIndent>140.0</LeftIndent>
+<content start="310" end="317">
+<size>11</size><bold>true</bold></content>
+
+<content start="317" end="318">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="318" end="319">
+<LeftIndent>140.0</LeftIndent>
+<content start="318" end="319">
+</content>
+
+</paragraph>
+<paragraph start="319" end="395">
+<LeftIndent>140.0</LeftIndent>
+<content start="319" end="325">
+<size>11</size></content>
+
+<content start="325" end="326">
+<size>11</size><icon>ChangeBox.gif</icon></content>
+
+<content start="326" end="395">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="395" end="396">
+<LeftIndent>140.0</LeftIndent>
+<content start="395" end="396">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="396" end="401">
+<LeftIndent>140.0</LeftIndent>
+<content start="396" end="400">
+<size>11</size><bold>true</bold></content>
+
+<content start="400" end="401">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="401" end="402">
+<LeftIndent>140.0</LeftIndent>
+<content start="401" end="402">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="402" end="419">
+<LeftIndent>140.0</LeftIndent>
+<content start="402" end="419">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="419" end="420">
+<LeftIndent>140.0</LeftIndent>
+<content start="419" end="420">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="420" end="431">
+<LeftIndent>160.0</LeftIndent>
+<content start="420" end="431">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="431" end="443">
+<LeftIndent>160.0</LeftIndent>
+<content start="431" end="443">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="443" end="454">
+<LeftIndent>160.0</LeftIndent>
+<content start="443" end="453">
+<size>11</size><family>Courier New</family></content>
+
+<content start="453" end="454">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="454" end="455">
+<LeftIndent>140.0</LeftIndent>
+<content start="454" end="455">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="455" end="498">
+<LeftIndent>140.0</LeftIndent>
+<content start="455" end="497">
+<size>11</size></content>
+
+<content start="497" end="498">
+</content>
+
+</paragraph>
+<paragraph start="498" end="499">
+<LeftIndent>140.0</LeftIndent>
+<content start="498" end="499">
+</content>
+
+</paragraph>
+<paragraph start="499" end="518">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="499" end="501">
+<size>11</size></content>
+
+<content start="501" end="504">
+<size>11</size><href>field3d.cml</href></content>
+
+<content start="504" end="507">
+<size>11</size></content>
+
+<content start="507" end="509">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="509" end="512">
+<size>11</size></content>
+
+<content start="512" end="515">
+<size>11</size><href>drop3d.cml</href></content>
+
+<content start="515" end="517">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

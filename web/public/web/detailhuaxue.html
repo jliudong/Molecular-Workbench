@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xhtml="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>分子工作台</title>
+<meta name="description" content="分子工作台" />
+<link href="css/default.css" rel="stylesheet" type="text/css" media="screen,projection" />
+<link href="css/toaster.css" rel="stylesheet" type="text/css" media="screen,projection" />
+<link href="css/shadowbox.css" rel="stylesheet" type="text/css" media="screen,projection" />
+
+</head>
+
+<body class="home">
+<div id="page">
+<div id="container">
+  <div id="header">
+    <a href="index.html" title="分子工作平台"><img id="mwlogo" src="img/logo.png" alt="分子工作平台LOGO" /></a></div>
+  <div id="body">
+
+    <div id="content">
+    <h1 style="font-family:'微软雅黑'">化学模型</h1>
+    <hr />
+    <span style="font-size:14px; line-height:24px; height:auto">
+	<applet code="org.concord.modeler.MwApplet" archive="../lib/mwapplet.jar" width="850" height="600">
+        <param name="script" value="page:0:import m2/sm.cml"/>
+      </applet>
+	</span><br style="clear: both;" />
+  </div>
+    </div>
+  </div>
+</div>
+	<div id="bubble"> <div class="fl"><a href="#">法律声明</a></div></div>
+<div id="footer"></div>
+</div>
+<!-- jQuery Library and Plugins -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="_assets/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="_assets/js/jquery.toaster.js"></script>
+<script type="text/javascript" src="_assets/js/common.js"></script>
+<script type="text/javascript" src="_assets/js/shadowbox/shadowbox.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+// execute functions on page load
+$(document).ready(function(){
+	// testimonials
+	rotateQuotes(0);
+	// add tool tips to gallery thumbnails
+	$(".gallery a[title]").tooltip();
+	// add video link interaction to featured simulation graphic
+	$("#play-btn").hover(function(){$("#play-btn").css({"opacity": 1.0})}, function(){$("#play-btn").css({"opacity": .5})});
+	$("#featured-simulation").mouseenter(function(){$("#play-btn").css({"opacity": 1.0})});
+	Shadowbox.init();
+});
+// Pop-up Message on Launch/Download
+function jt(myPosition, myBase) {
+	$.toaster({
+        base: myBase,
+        position: myPosition,
+        title: 'Please Wait...',
+        text: 'Your download may take some time depending on the speed of your internet connection.<br /><br />The first time you run Molecular Workbench you will have to download several megabytes of data. The next time you run MW, start-up will be much faster.',
+        timeout: 10000,
+        cssclass: 'important'
+    });
+}
+
+//]]>
+</script>
+</body>
+</html>

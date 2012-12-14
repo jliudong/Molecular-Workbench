@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Dropping and dragging a single atom</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#25918;&#20837;&#21644;&#25302;&#21160;&#21333;&#20010;&#21407;&#23376;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#20174;&#38646;&#24320;&#22987;&#65292;&#21019;&#24314;&#19968;&#20010;3D&#20998;&#23376;&#27169;&#22411;&#12290;&#22312;&#32452;&#24314;&#38190;&#21019;&#24314;&#20998;&#23376;&#20043;&#21069;&#65292;&#39318;&#20808;&#35201;&#20570;&#30340;&#65292;&#23601;&#26159;&#22312;3D&#31354;&#38388;&#25918;&#19968;&#20123;&#21407;&#23376;&#12290;&#22312;3D&#31354;&#38388;&#20013;&#25918;&#19968;&#20010;&#29289;&#20307;&#19982;&#25105;&#20204;&#20043;&#21069;&#20171;&#32461;&#30340;&#22312;2D&#27169;&#22411;&#25918;&#19968;&#20010;&#29289;&#20307;&#26377;&#30528;&#26126;&#26174;&#30340;&#19981;&#21516;&#12290;&#20174;&#38646;&#24320;&#22987;&#65292;&#21019;&#24314;&#19968;&#20010;3D&#20998;&#23376;&#27169;&#22411;&#12290;&#22312;&#32452;&#24314;&#38190;&#21019;&#24314;&#20998;&#23376;&#20043;&#21069;&#65292;&#39318;&#20808;&#35201;&#20570;&#30340;&#65292;&#23601;&#26159;&#22312;3D&#31354;&#38388;&#25918;&#19968;&#20123;&#21407;&#23376;&#12290;&#22312;3D&#31354;&#38388;&#20013;&#25918;&#19968;&#20010;&#29289;&#20307;&#19982;&#25105;&#20204; &#20043;&#21069;.&#20171;&#32461;&#30340;&#22312;2D&#27169;&#22411;&#25918;&#19968;&#20010;&#29289;&#20307;&#26377;&#30528;&#26126;&#26174;&#30340;&#19981;&#21516;&#12290;
+
+&#22312;&#36741;&#21161;&#24179;&#38754;&#19978;&#25918;&#32622;&#21407;&#23376;
+
+&#22240;&#20026;&#30005;&#33041;&#23631;&#24149;&#26159;2D&#65292;&#24403;&#28857;&#20987;&#27169;&#22411;&#31383;&#21475;&#30340;&#26576;&#22788;&#26102;&#65292;&#26412;&#36136;&#19978;&#65292;&#20174;&#28857;&#20987;&#28857;&#22788;&#65292;3D&#22352;&#26631;&#26159;&#19981;&#33021;&#34987;&#30830;&#23450;&#30340;&#12290;&#29702;&#35770;&#19978;&#65292;&#22312;3D&#34394;&#25311;&#31354;&#38388;&#37324;&#26377;&#26080;&#25968;&#20010;&#28857;&#65292;&#38544;&#34255;&#22312;&#25105;&#20204;&#25152;&#30475;&#21040;&#30340;&#23631;&#24149;&#20687;&#32032;&#30340;&#21518;&#38754;&#12290;&#19979;&#38754;&#20171;&#32461;3&#31181;&#31227;&#21160;&#36741;&#21161;&#24179;&#38754;&#26469;&#24110;&#21161;&#25105;&#20204;&#30830;&#23450;&#22352;&#26631;&#65306;&#22402;&#30452;&#20110;X-&#65292;Y-&#21644;Z-&#36724;&#30340;&#24179;&#38754;&#65292;&#24182;&#33021;&#20998;&#21035;&#27839;&#20854;&#31227;&#21160;&#12290;&#24403;&#25353;&#19979;&#24037;&#20855;&#26639;&#37324;&#30456;&#24212;&#30340;&#25353;&#38062;&#26102; (&quot; &quot; &#25110;&#32773; &quot; &quot; &#25110;&#32773; &quot; &quot;)&#12290;&#19977;&#20010;&#36741;&#21161;&#24179;&#38754;&#20013;&#30340;&#19968;&#20010;&#19988;&#21482;&#26377;&#19968;&#20010;&#21487;&#20197;&#26174;&#31034;&#12290; &#24403; &#21452;&#20987; &#36825;&#20123;&#36741;&#21161;&#24179;&#38754;&#20013;&#30340;&#19968;&#20010;&#24179;&#38754;&#26102;&#65292;&#25152;&#36873;&#23450;&#31867;&#22411;&#30340;&#19968;&#20010;&#21407;&#23376;&#23601;&#20250;&#34987;&#28155;&#21152;&#21040;&#23427;&#19978;&#38754;&#30340;&#20301;&#32622;&#19978;&#12290;&#20320;&#21487;&#20197;&#25226;&#23450;&#20301;&#24819;&#35937;&#20026;&#19968;&#26465;&#32447;&#21644;&#36741;&#21161;&#24179;&#38754;&#30340;&#20132;&#21449;&#28857;&#65292;&#20854;&#20013;&#65292;&#35813;&#26465;&#32447;&#19982;&#30005;&#33041;&#23631;&#24149;&#22402;&#30452;&#24182;&#36143;&#31359;&#28857;&#20987;&#28857;&#65292;&#32780;&#36741;&#21161;&#24179;&#38754;&#23558;&#20316;&#20026;&#25918;&#32622;&#21407;&#23376;&#30340;&#21487;&#35843;&#33410;&#24615;&#22320;&#38754;&#12290;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#36741;&#21161;&#24179;&#38754;&#30340;&#23631;&#24149;&#25130;&#22270;&#12305;
+
+&#20999;&#25442;&#21040;&#19981;&#21516;&#30340;&#36741;&#21161;&#24179;&#38754;&#65292;&#21491;&#20987;&#65288;&#25110;CTRL +&#21333;&#20987;Mac OS X &#38750;&#22810;&#37325;&#25353;&#38062;&#40736;&#26631;&#65289;&#25353;&#38062;&#65292; &#28982;&#21518;&#20174;&#24377;&#20986;&#33756;&#21333;&#36873;&#25321;&#30456;&#24212;&#30340;&#36873;&#39033;&#12290; 
+
+&#24403;&#31163;&#24320;&#27492;&#32534;&#36753;&#27169;&#24335;&#65292;&#36741;&#21161;&#24179;&#38754;&#23601;&#20250;&#28040;&#22833;&#12290;
+
+&#31227;&#21160;&#36741;&#21161;&#24179;&#38754;
+
+&#29992;&#31661;&#22836;&#38190;&#65292;&#21487;&#20197;&#27839;&#30528;&#30456;&#23545;&#24212;&#30340;&#36724;&#19978;&#19979;&#31227;&#21160;&#36741;&#21161;&#24179;&#38754;&#65292;&#22914;&#23631;&#24149;&#21491;&#19979;&#35282;&#25152;&#31034;&#12290;&#20363;&#22914;&#65292;&#22914;&#26524;&#29992;&#22402;&#30452;&#20110;Z-&#36724;&#30340;&#36741;&#21161;&#24179;&#38754;&#65292;&#24403;&#25353;UP&#65288;&#21521;&#19978;&#65289;&#65288;&#25110;Right&#65288;&#21521;&#21491;&#65289;&#65289;&#31661;&#22836;&#38190;&#26102;&#65292;&#24179;&#38754;&#23601;&#20250;&#21521;&#20854;Z-&#22352;&#26631;&#22686;&#22823;&#30340;&#26041;&#21521;&#31227;&#21160;&#12290;&#22914;&#26524;&#25353;Down&#65288;&#21521;&#19979;&#65289;&#65288;&#25110;Left&#65288;&#21521;&#24038;&#65289;&#65289;&#31661;&#22836;&#65292;&#24179;&#38754;&#23601;&#20250;&#21521;&#30456;&#21453;&#30340;&#26041;&#21521;&#31227;&#21160;&#12290;
+
+&#22312;&#24179;&#38754;&#20013;&#31227;&#21160;&#21407;&#23376;
+
+&#27492;&#32534;&#36753;&#27169;&#24335;&#36824;&#20801;&#35768;&#36873;&#25321;&#19968;&#20010;&#33539;&#24503;&#29926;&#32819;&#26031;&#29699;&#20307;&#19982;&#36741;&#21161;&#24179;&#38754;&#20132;&#21449;&#30340;&#21407;&#23376;&#65292;&#24182;&#22312;&#24179;&#38754;&#20013;&#27839;&#30456;&#24212;&#30340;&#36724;&#22402;&#30452;&#31227;&#21160;&#12290;&#20363;&#22914;&#65292;&#22914;&#26524;&#24212;&#29992;&#22402;&#30452;&#20110;Z-&#36724;&#30340;&#36741;&#21161;&#24179;&#38754;&#65292;&#25302;&#30528;&#24179;&#38754;&#19978;&#30340;&#19968;&#20010;&#21407;&#23376;&#23601;&#33021;&#22312;&#20854;&#20013;&#20219;&#24847;&#31227;&#21160;&#23427;&#12290;&#22914;&#26524;&#36873;&#25321;&#30340;&#21407;&#23376;&#19981;&#26159;&#22312;&#36741;&#21161;&#24179;&#38754;&#19978;&#65292;&#20294;&#26159;&#20854;&#33539;&#24503;&#29926;&#23572;&#26031;&#29699;&#20307;&#19982;&#24179;&#38754;&#20132;&#21449;&#65292;&#25302;&#30528;&#23427;&#23601;&#33021;&#22312;&#27178;&#31359;&#21407;&#23376;&#20013;&#24515;&#30340;Z-&#24179;&#38754;&#19978;&#38543;&#24847;&#31227;&#21160;&#23427;&#12290;&#20063;&#23601;&#26159;&#35828;&#65292;&#24403;&#25302;&#20303;&#21407;&#23376;&#26102;&#65292;X&#21644;Y&#22352;&#26631;&#20250;&#25913;&#21464;&#65292;&#20294;&#26159;Z-&#22352;&#26631;&#19981;&#21464;&#12290; &#22914;&#26524;&#19968;&#20010;&#21407;&#23376;&#30340;&#33539;&#24503;&#29926;&#23572;&#26031;&#29699;&#20307;&#19981;&#19982;&#36741;&#21161;&#24179;&#38754;&#20132;&#21449;&#65292;&#23601;&#19981;&#33021;&#36873;&#25321;&#23427;&#12290;
+
+ 
+&#25552;&#31034;&#65306; &#22312;&#28155;&#21152;&#25110;&#31227;&#21160;&#21407;&#23376;&#20043;&#21069;&#65292;&#24314;&#35758;&#25226;&#36741;&#21161;&#24179;&#38754;&#26059;&#36716;&#38754;&#21521;&#23631;&#24149;&#65292;&#36825;&#26679;&#23545;&#36317;&#31163;&#21644;&#20301;&#32622;&#30340;&#35270;&#35273;&#24863;&#30693;&#20250;&#20934;&#30830;&#12290;
+ 
+
+&#36873;&#25321;&#20803;&#32032;
+
+&#24403;&#24038;&#20987;&#25353;&#38062;&#26102;&#65292;&#20250;&#20986;&#29616;&#19968;&#20010;&#24377;&#20986;&#24335;&#33756;&#21333;&#65288;&#35265;&#20197;&#19979;&#23631;&#24149;&#25130;&#22270;&#65289;&#65292;&#22312;&#33756;&#21333;&#37324;&#21487;&#20197;&#36873;&#25321;&#20803;&#32032;&#12290;&#40664;&#35748;&#29366;&#24577;&#19979;&#65292;&#27686;&#20250;&#34987;&#36873;&#23450;&#12290;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12305;
+
+&#36825;&#20010;&#19979;&#25289;&#24335;&#33756;&#21333;&#26174;&#31034;&#20102;&#25152;&#26377;&#21487;&#20197;&#28155;&#21152;&#21040;&#27169;&#22411;&#20013;&#30340;&#20803;&#32032;&#12290;&#22914;&#26524;&#36873;&#23450;&#19968;&#31181;&#65292;&#36825;&#23601;&#26159;&#20320;&#35201;&#28155;&#21152;&#30340;&#21407;&#23376;&#31867;&#22411;&#12290;
+
+&#32451;&#20064;
+
+&#20320;&#21487;&#20197;&#25805;&#20316;&#19979;&#38754;&#30340;&#27169;&#22411;&#23481;&#22120;&#65292;&#20102;&#35299;&#19968;&#19979;&#36825;&#20123;&#24037;&#20855;&#26159;&#22914;&#20309;&#24037;&#20316;&#30340;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="1200">
+<paragraph start="0" end="10">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="9">
+<bold>true</bold><italic>true</italic><size>15</size></content>
+
+<content start="9" end="10">
+</content>
+
+</paragraph>
+<paragraph start="10" end="11">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="10" end="11">
+</content>
+
+</paragraph>
+<paragraph start="11" end="30">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="11" end="13">
+<size>11</size></content>
+
+<content start="13" end="16">
+<size>11</size><href>glassbox.cml</href></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="21">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="21" end="24">
+<size>11</size></content>
+
+<content start="24" end="27">
+<size>11</size><href>dropmol3d.cml</href></content>
+
+<content start="27" end="29">
+<size>11</size></content>
+
+<content start="29" end="30">
+</content>
+
+</paragraph>
+<paragraph start="30" end="31">
+<LeftIndent>140.0</LeftIndent>
+<content start="30" end="31">
+</content>
+
+</paragraph>
+<paragraph start="31" end="200">
+<LeftIndent>140.0</LeftIndent>
+<content start="31" end="175">
+<size>11</size></content>
+
+<content start="175" end="177">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="177" end="178">
+<size>11</size></content>
+
+<content start="178" end="199">
+<size>11</size></content>
+
+<content start="199" end="200">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="200" end="201">
+<LeftIndent>140.0</LeftIndent>
+<content start="200" end="201">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="201" end="212">
+<LeftIndent>140.0</LeftIndent>
+<content start="201" end="211">
+<size>11</size><bold>true</bold></content>
+
+<content start="211" end="212">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="212" end="213">
+<LeftIndent>140.0</LeftIndent>
+<content start="212" end="213">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="213" end="500">
+<LeftIndent>140.0</LeftIndent>
+<content start="213" end="355">
+<size>11</size></content>
+
+<content start="355" end="356">
+<icon>AddAtomOnXPlane.gif</icon></content>
+
+<content start="356" end="362">
+<size>11</size></content>
+
+<content start="362" end="363">
+<icon>AddAtomOnYPlane.gif</icon></content>
+
+<content start="363" end="369">
+<size>11</size></content>
+
+<content start="369" end="370">
+<icon>AddAtomOnZPlane.gif</icon></content>
+
+<content start="370" end="396">
+<size>11</size></content>
+
+<content start="396" end="398">
+<size>11</size><bold>true</bold></content>
+
+<content start="398" end="500">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="500" end="501">
+<LeftIndent>140.0</LeftIndent>
+<content start="500" end="501">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="501" end="504">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="501" end="502">
+<size>11</size></content>
+
+<content start="502" end="503">
+<icon>helperplane.gif</icon></content>
+
+<content start="503" end="504">
+</content>
+
+</paragraph>
+<paragraph start="504" end="520">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="504" end="519">
+<size>10</size></content>
+
+<content start="519" end="520">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="520" end="521">
+<LeftIndent>140.0</LeftIndent>
+<content start="520" end="521">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="521" end="582">
+<LeftIndent>140.0</LeftIndent>
+<content start="521" end="532">
+<size>11</size><bold>true</bold></content>
+
+<content start="532" end="582">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="582" end="583">
+<LeftIndent>140.0</LeftIndent>
+<content start="582" end="583">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="583" end="602">
+<LeftIndent>140.0</LeftIndent>
+<content start="583" end="602">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="602" end="603">
+<LeftIndent>140.0</LeftIndent>
+<content start="602" end="603">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="603" end="610">
+<LeftIndent>140.0</LeftIndent>
+<content start="603" end="609">
+<size>11</size><bold>true</bold></content>
+
+<content start="609" end="610">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="610" end="611">
+<LeftIndent>140.0</LeftIndent>
+<content start="610" end="611">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="611" end="743">
+<LeftIndent>140.0</LeftIndent>
+<content start="611" end="743">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="743" end="744">
+<LeftIndent>140.0</LeftIndent>
+<content start="743" end="744">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="744" end="753">
+<LeftIndent>140.0</LeftIndent>
+<content start="744" end="752">
+<size>11</size><bold>true</bold></content>
+
+<content start="752" end="753">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="753" end="754">
+<LeftIndent>140.0</LeftIndent>
+<content start="753" end="754">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="754" end="957">
+<LeftIndent>140.0</LeftIndent>
+<content start="754" end="926">
+<size>11</size></content>
+
+<content start="926" end="956">
+<size>11</size><bold>true</bold></content>
+
+<content start="956" end="957">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="957" end="958">
+<LeftIndent>140.0</LeftIndent>
+<content start="957" end="958">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="958" end="960">
+<LeftIndent>140.0</LeftIndent>
+<content start="958" end="959">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="959" end="960">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="960" end="1007">
+<LeftIndent>200.0</LeftIndent>
+<RightIndent>100.0</RightIndent>
+<content start="960" end="963">
+<size>11</size><bold>true</bold></content>
+
+<content start="963" end="964">
+<italic>true</italic><size>11</size><bold>true</bold></content>
+
+<content start="964" end="1007">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1007" end="1009">
+<LeftIndent>140.0</LeftIndent>
+<content start="1007" end="1008">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="1008" end="1009">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1009" end="1010">
+<LeftIndent>140.0</LeftIndent>
+<content start="1009" end="1010">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1010" end="1015">
+<LeftIndent>140.0</LeftIndent>
+<content start="1010" end="1014">
+<size>11</size><bold>true</bold></content>
+
+<content start="1014" end="1015">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1015" end="1016">
+<LeftIndent>140.0</LeftIndent>
+<content start="1015" end="1016">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1016" end="1067">
+<LeftIndent>140.0</LeftIndent>
+<content start="1016" end="1067">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1067" end="1068">
+<LeftIndent>140.0</LeftIndent>
+<content start="1067" end="1068">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1068" end="1071">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="1068" end="1069">
+<size>11</size></content>
+
+<content start="1069" end="1070">
+<icon>ElementPopupMenu.gif</icon></content>
+
+<content start="1070" end="1071">
+</content>
+
+</paragraph>
+<paragraph start="1071" end="1082">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="1071" end="1081">
+<size>10</size></content>
+
+<content start="1081" end="1082">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1082" end="1083">
+<LeftIndent>140.0</LeftIndent>
+<content start="1082" end="1083">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1083" end="1128">
+<LeftIndent>140.0</LeftIndent>
+<content start="1083" end="1128">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1128" end="1129">
+<LeftIndent>140.0</LeftIndent>
+<content start="1128" end="1129">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1129" end="1132">
+<LeftIndent>140.0</LeftIndent>
+<content start="1129" end="1131">
+<size>11</size><bold>true</bold></content>
+
+<content start="1131" end="1132">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1132" end="1133">
+<LeftIndent>140.0</LeftIndent>
+<content start="1132" end="1133">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1133" end="1162">
+<LeftIndent>140.0</LeftIndent>
+<content start="1133" end="1162">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1162" end="1163">
+<LeftIndent>140.0</LeftIndent>
+<content start="1162" end="1163">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1163" end="1165">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="1163" end="1164">
+<component><class>org.concord.modeler.PageMd3d</class><resource>drop3d$0.mdd</resource><coordinate>drop3d$0.xyz</coordinate><width>600</width><height>400</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="1164" end="1165">
+</content>
+
+</paragraph>
+<paragraph start="1165" end="1179">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="1165" end="1178">
+<size>10</size></content>
+
+<content start="1178" end="1179">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1179" end="1180">
+<LeftIndent>140.0</LeftIndent>
+<content start="1179" end="1180">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1180" end="1181">
+<LeftIndent>140.0</LeftIndent>
+<content start="1180" end="1181">
+</content>
+
+</paragraph>
+<paragraph start="1181" end="1200">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="1181" end="1183">
+<size>11</size></content>
+
+<content start="1183" end="1186">
+<size>11</size><href>glassbox.cml</href></content>
+
+<content start="1186" end="1189">
+<size>11</size></content>
+
+<content start="1189" end="1191">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="1191" end="1194">
+<size>11</size></content>
+
+<content start="1194" end="1197">
+<size>11</size><href>dropmol3d.cml</href></content>
+
+<content start="1197" end="1199">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

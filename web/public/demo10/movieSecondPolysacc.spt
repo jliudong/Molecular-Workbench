@@ -1,0 +1,63 @@
+set echo off
+
+set echo myecho 0 0
+script jmol-echoFade.spt
+font echo 14 sans bold
+color echo [xf4f5ef]
+color echo background none
+
+set echo myecho1 0 200
+color echo background black
+script jmol-echoFade.spt
+
+#delay 0.2
+restrict none
+display all
+select all
+hbonds off
+cpk off
+
+echo "When two polysaccharide chains line up together..."
+delay 2
+
+echo "When two polysaccharide chains line up together...|hydrogen bonds form between them"
+
+delay 3
+
+moveto /* time, axisAngle */ 0.0 { 13 470 883 135.46} /* zoom, translation */  114.95 0.0 0.0  /* center, rotationRadius */ {4.297226 4.0643153 -0.9957283} 13.833857 /* navigation center, translation, depth */ {0.0 0.0 0.0} 24.028795 4.929878 50.0;
+
+select ~chainA
+wireframe 0.2
+color cpk
+
+delay 3
+
+moveto /* time, axisAngle */ 3.0 { -901 -431 -47 140.94} /* zoom, translation */  79.53 -1.88 8.0  /* center, rotationRadius */ {1.8493093 5.740348 -3.2996325} 13.833857 /* navigation center, translation, depth */ {0.0 0.0 0.0} -19.044945 -9.707306 50.0;
+
+select ~chainB
+off2wf
+
+
+delay 1
+script hbondsCarb.spt
+#script phobicInt.spt
+
+delay 2
+
+moveto /* time, axisAngle */ 2.0 { -912 -407 -56 141.09} /* zoom, translation */  140 0.0 0.0  /* center, rotationRadius */ {1.8493093 5.740348 -3.2996325} 13.833857 /* navigation center, translation, depth */ {0.0 0.0 0.0} -28.650494 -33.300076 50.0;
+
+delay 1
+script jmol-echoFade.spt
+
+delay 0.3
+echo "In chains that are thousands of sugars long|these interactions add up to a strong force"
+
+#set echo myecho 0 25
+#echo "Hydrogen bonds are shown in blue "
+#color echo [xccccff] 
+#color echo background black
+
+#set echo myecho1 0 0
+#echo "and hydrophobic interactions are in pink "
+#color echo pink
+#color echo background black

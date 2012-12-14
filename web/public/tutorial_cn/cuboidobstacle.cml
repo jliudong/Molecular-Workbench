@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Adding, resizing and moving cuboid obstacles</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#28155;&#21152;&#65292;&#35843;&#25972;&#25110;&#31227;&#38500;&#38271;&#26041;&#20307;&#38556;&#30861;&#29289;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#19968;&#20010;&#38271;&#26041;&#20307;&#65288;&#38271;&#26041;&#20307;&#25110;&#38271;&#26041;&#26609;&#65289;&#38556;&#30861;&#29289;&#26159;&#19968;&#20010;&#38271;&#26041;&#24418;&#30340;&#21306;&#22495;&#65292;&#31890;&#23376;&#19981;&#33021;&#36827;&#20837;&#36825;&#37324;&#65292;&#24182;&#19988;&#22312;&#21457;&#29983;&#30896;&#25758;&#26102;&#21453;&#23556;&#22312;&#23427;&#30340;&#34920;&#38754;&#12290;
+
+&#28155;&#21152;&#38271;&#26041;&#20307;&#38556;&#30861;&#29289;&#65292;&#36873;&#25321;&#24037;&#20855; (&quot; &quot; &#25110; &quot; &quot; &#25110; &quot; &quot;, &#21487;&#20197;&#21491;&#20987;&#65288;&#25110;CTRL +&#21333;&#20987;Mac OS X &#38750;&#22810;&#37325;&#25353;&#38062;&#40736;&#26631;&#65289;&#30456;&#23545;&#24212;&#30340;&#25353;&#38062;&#65292;&#24182;&#22312;&#23558;&#35201;&#25805;&#20316;&#30340;&#26041;&#21521;&#36873;&#25321;&#36741;&#21161;&#24179;&#38754;&#65289;&#65292;&#28982;&#21518;&#23601;&#21487;&#20197;&#30475;&#21040;&#19968;&#20010;&#21322;&#36879;&#26126;&#21576;&#32511;&#33394;&#30340;&#36741;&#21161;&#24179;&#38754;&#20986;&#29616;&#12290; &#29992;&#31661;&#22836;&#38190;&#19978;&#19979;&#31227;&#21160;&#23427;&#21040;&#20320;&#24819;&#35201;&#28155;&#21152;&#30340;&#38271;&#26041;&#20307;&#38556;&#30861;&#29289;&#22788;&#12290;&#31227;&#21160;&#40736;&#26631;&#22312;&#24179;&#38754;&#19978;&#30011;&#19968;&#20010;&#38271;&#26041;&#24418;&#12290;&#24403;&#26494;&#24320;&#40736;&#26631;&#25353;&#38062;&#26102;&#65292;&#19968;&#20010;&#23567;&#30340;&#38271;&#26041;&#20307;&#65288;&#38271;&#26041;&#24418;&#65289;&#23601;&#22312;&#24179;&#38754;&#19978;&#24418;&#25104;&#20102;&#12290;
+
+&#29616;&#22312;&#65292;&#25105;&#20204;&#24517;&#39035;&#29992;&#25380;&#21387;&#24037;&#20855; (&quot; &quot;) &#26469;&#25380;&#21387;&#36825;&#20010;&#38271;&#26041;&#24418;&#25104;&#20026;&#38271;&#26041;&#20307;&#12290;&#24403;&#25380;&#21387;&#24037;&#20855;&#34987;&#36873;&#23450;&#65292;&#40736;&#26631;&#28369;&#36807;&#30340;&#38271;&#26041;&#20307;&#30340;&#38754;&#20250;&#34987;&#26631;&#31034;&#65292; &#34920;&#26126;&#21487;&#20197;&#34987;&#25512;&#25289;&#20102;&#12290;&#25353;&#20303;&#19968;&#20010;&#38754;&#28982;&#21518;&#31227;&#21160;&#40736;&#26631;&#12290;&#20320;&#23601;&#20250;&#21457;&#29616;&#36825;&#20010;&#38271;&#26041;&#20307;&#20250;&#21521;&#20320;&#25512;&#25289;&#30340;&#26041;&#21521;&#25918;&#22823;&#25110;&#32553;&#23567;&#65292;
+
+&#32451;&#20064;
+
+&#20320;&#21487;&#20197;&#29992;&#19979;&#38754;&#30340;&#27169;&#25311;&#22120;&#65292;&#20307;&#39564;&#19968;&#19979;&#26377;&#20851;&#28155;&#21152;&#21450;/&#25110;&#25380;&#21387;&#38271;&#26041;&#20307;&#38556;&#30861;&#29289;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="451">
+<paragraph start="0" end="15">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="14">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="14" end="15">
+</content>
+
+</paragraph>
+<paragraph start="15" end="16">
+<RightIndent>20.0</RightIndent>
+<content start="15" end="16">
+</content>
+
+</paragraph>
+<paragraph start="16" end="35">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="16" end="18">
+<size>11</size></content>
+
+<content start="18" end="21">
+<size>11</size><href>extrusion.cml</href></content>
+
+<content start="21" end="24">
+<size>11</size></content>
+
+<content start="24" end="26">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="26" end="29">
+<size>11</size></content>
+
+<content start="29" end="32">
+<size>11</size><href>cylindericobstacle.cml</href></content>
+
+<content start="32" end="34">
+<size>11</size></content>
+
+<content start="34" end="35">
+</content>
+
+</paragraph>
+<paragraph start="35" end="36">
+<LeftIndent>140.0</LeftIndent>
+<content start="35" end="36">
+</content>
+
+</paragraph>
+<paragraph start="36" end="89">
+<LeftIndent>140.0</LeftIndent>
+<content start="36" end="89">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="89" end="90">
+<LeftIndent>140.0</LeftIndent>
+<content start="89" end="90">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="90" end="271">
+<LeftIndent>140.0</LeftIndent>
+<content start="90" end="106">
+<size>11</size></content>
+
+<content start="106" end="107">
+<icon>AddRectangleOnXPlane.gif</icon></content>
+
+<content start="107" end="112">
+<size>11</size></content>
+
+<content start="112" end="113">
+<icon>AddRectangleOnYPlane.gif</icon></content>
+
+<content start="113" end="118">
+<size>11</size></content>
+
+<content start="118" end="119">
+<icon>AddRectangleOnZPlane.gif</icon></content>
+
+<content start="119" end="271">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="271" end="272">
+<LeftIndent>140.0</LeftIndent>
+<content start="271" end="272">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="272" end="376">
+<LeftIndent>140.0</LeftIndent>
+<content start="272" end="287">
+<size>11</size></content>
+
+<content start="287" end="288">
+<icon>Extrude.gif</icon></content>
+
+<content start="288" end="376">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="376" end="377">
+<LeftIndent>140.0</LeftIndent>
+<content start="376" end="377">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="377" end="380">
+<LeftIndent>140.0</LeftIndent>
+<content start="377" end="379">
+<bold>true</bold><size>11</size></content>
+
+<content start="379" end="380">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="380" end="381">
+<LeftIndent>140.0</LeftIndent>
+<content start="380" end="381">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="381" end="413">
+<LeftIndent>140.0</LeftIndent>
+<content start="381" end="413">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="413" end="414">
+<LeftIndent>140.0</LeftIndent>
+<content start="413" end="414">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="414" end="416">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="414" end="415">
+<component><class>org.concord.modeler.PageMd3d</class><resource>cuboidobstacle$0.mdd</resource><coordinate>cuboidobstacle$0.xyz</coordinate><width>500</width><height>400</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="415" end="416">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="416" end="430">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="416" end="429">
+<size>10</size></content>
+
+<content start="429" end="430">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="430" end="431">
+<LeftIndent>140.0</LeftIndent>
+<content start="430" end="431">
+</content>
+
+</paragraph>
+<paragraph start="431" end="432">
+<LeftIndent>140.0</LeftIndent>
+<content start="431" end="432">
+</content>
+
+</paragraph>
+<paragraph start="432" end="451">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="432" end="434">
+<size>11</size></content>
+
+<content start="434" end="437">
+<size>11</size><href>extrusion.cml</href></content>
+
+<content start="437" end="440">
+<size>11</size></content>
+
+<content start="440" end="442">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="442" end="445">
+<size>11</size></content>
+
+<content start="445" end="448">
+<size>11</size><href>cylindericobstacle.cml</href></content>
+
+<content start="448" end="450">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

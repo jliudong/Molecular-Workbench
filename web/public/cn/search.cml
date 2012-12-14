@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="GB18030"?>
+<document>
+<language>GB18030</language>
+<page_title>搜索</page_title>
+<text>  
+
+搜索分子工作台网站
+
+ 
+
+ 只搜索模型库    只搜索用户手册   
+
+ 
+您必须在线才能使用此搜索引擎。搜索结果可能含有XML标记。
+ 
+
+ 
+ 返回分子工作台简体中文主页 </text>
+<section start="0" end="94">
+<paragraph start="0" end="3">
+<Alignment>1</Alignment>
+<content start="0" end="1">
+</content>
+
+<content start="1" end="2">
+<icon>searchbanner.gif</icon></content>
+
+<content start="2" end="3">
+</content>
+
+</paragraph>
+<paragraph start="3" end="4">
+<content start="3" end="4">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="4" end="14">
+<Alignment>1</Alignment>
+<content start="4" end="13">
+<size>15</size></content>
+
+<content start="13" end="14">
+</content>
+
+</paragraph>
+<paragraph start="14" end="15">
+<content start="14" end="15">
+</content>
+
+</paragraph>
+<paragraph start="15" end="17">
+<Alignment>1</Alignment>
+<content start="15" end="16">
+<component><class>org.concord.modeler.SearchTextField</class>
+<type>4</type>
+</component></content>
+
+<content start="16" end="17">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="17" end="18">
+<content start="17" end="18">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="18" end="40">
+<Alignment>1</Alignment>
+<LeftIndent>10.0</LeftIndent>
+<content start="18" end="19">
+<size>14</size></content>
+
+<content start="19" end="25">
+<size>14</size><href>../student/index.cml</href></content>
+
+<content start="25" end="29">
+<size>14</size></content>
+
+<content start="29" end="36">
+<size>14</size><href>../tutorial/searchUG.cml</href></content>
+
+<content start="36" end="39">
+<size>14</size></content>
+
+<content start="39" end="40">
+</content>
+
+</paragraph>
+<paragraph start="40" end="41">
+<content start="40" end="41">
+</content>
+
+</paragraph>
+<paragraph start="41" end="43">
+<Alignment>1</Alignment>
+<content start="41" end="42">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.75</width><SpaceAbove>2</SpaceAbove><SpaceBelow>2</SpaceBelow><opaque>false</opaque><bgcolor>-1000000</bgcolor></icon></content>
+
+<content start="42" end="43">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="43" end="73">
+<Alignment>1</Alignment>
+<content start="43" end="44">
+<size>14</size></content>
+
+<content start="44" end="46">
+<size>14</size><bold>true</bold></content>
+
+<content start="46" end="72">
+<size>14</size></content>
+
+<content start="72" end="73">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="73" end="75">
+<Alignment>1</Alignment>
+<content start="73" end="74">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.75</width><SpaceAbove>2</SpaceAbove><SpaceBelow>2</SpaceBelow><opaque>false</opaque><bgcolor>-1000000</bgcolor></icon></content>
+
+<content start="74" end="75">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="75" end="76">
+<Alignment>1</Alignment>
+<content start="75" end="76">
+</content>
+
+</paragraph>
+<paragraph start="76" end="78">
+<Alignment>1</Alignment>
+<content start="76" end="77">
+<icon>house.gif</icon></content>
+
+<content start="77" end="78">
+</content>
+
+</paragraph>
+<paragraph start="78" end="94">
+<Alignment>1</Alignment>
+<content start="78" end="79">
+</content>
+
+<content start="79" end="92">
+<href>index.cml</href><family>SimHei</family></content>
+
+<content start="92" end="93">
+<size>10</size></content>
+
+</paragraph>
+</section>
+</document>

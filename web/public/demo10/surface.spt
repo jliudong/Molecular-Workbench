@@ -1,0 +1,5 @@
+isosurface delete colorscheme "rwb" color range -0.14 0.14 solvent 0.4 map mep 
+isosurface off
+color isosurface opaque
+opaqueFlag=false
+

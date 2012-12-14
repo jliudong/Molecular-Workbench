@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Pressure equilibrium measured by pressure gauges</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#65288;&#21387;&#21147;&#65289;&#34920;&#27979;&#37327;&#21387;&#21147;&#24179;&#34913;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#31532;&#20108;&#20010;&#21387;&#21147;&#35745;&#27979;&#35797;&#26159;&#65292;&#25226;&#38556;&#30861;&#29289;&#20316;&#20026;&#27963;&#22622;&#65292;&#25226;&#20004;&#20010;&#21387;&#21147;&#34920;&#25918;&#22312;&#20004;&#36793;&#24182;&#30417;&#27979;&#27979;&#37327;&#30340;&#21387;&#21147;&#12290;&#25105;&#20204;&#24212;&#35813;&#25226;&#27979;&#37327;&#32467;&#26524;&#19982;&#27963;&#22622;&#36816;&#21160;&#32467;&#21512;&#65292;&#30001;&#20110;&#27963;&#22622;&#23436;&#20840;&#34987;&#21387;&#21147;&#24046;&#25511;&#21046;&#65292;&#20877;&#21152;&#19978;&#19968;&#20010;&#38459;&#23612;&#21147;&#12290;&#24403;&#20004;&#20010;&#38548;&#38388;&#30340;&#21387;&#21147;&#22823;&#33268;&#30456;&#21516;&#26102;&#65292;&#30001;&#20110;&#38459;&#23612;&#21147;&#65292;&#27963;&#22622;&#24212;&#35813;&#20572;&#27490;&#32780;&#19981;&#26159;&#25391;&#33633;&#12290;
+
+&#36825;&#26159;&#21542;&#20250;&#21457;&#29983;? &#29992;&#19979;&#38754;&#30340;&#35797;&#39564;&#27979;&#35797;&#19968;&#19979;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&#19981;&#20986;&#25152;&#26009;, &#24403;&#21387;&#21147;&#26354;&#32447;&#25910;&#25947;&#26102;&#27963;&#22622;&#20572;&#27490;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341;| &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="222">
+<paragraph start="0" end="12">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="11">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="11" end="12">
+</content>
+
+</paragraph>
+<paragraph start="12" end="13">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="12" end="13">
+</content>
+
+</paragraph>
+<paragraph start="13" end="32">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="13" end="15">
+<size>11</size></content>
+
+<content start="15" end="18">
+<size>11</size><href>multipressureprobe.cml</href></content>
+
+<content start="18" end="21">
+<size>11</size></content>
+
+<content start="21" end="23">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="23" end="26">
+<size>11</size></content>
+
+<content start="26" end="29">
+<size>11</size><href>isopressure.cml</href></content>
+
+<content start="29" end="31">
+<size>11</size></content>
+
+<content start="31" end="32">
+</content>
+
+</paragraph>
+<paragraph start="32" end="33">
+<LeftIndent>140.0</LeftIndent>
+<content start="32" end="33">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="33" end="143">
+<LeftIndent>140.0</LeftIndent>
+<content start="33" end="143">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="143" end="144">
+<LeftIndent>140.0</LeftIndent>
+<content start="143" end="144">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="144" end="164">
+<LeftIndent>140.0</LeftIndent>
+<content start="144" end="164">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="164" end="165">
+<LeftIndent>140.0</LeftIndent>
+<content start="164" end="165">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="165" end="168">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="165" end="166">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>pressurediff$0.mml</resource><menubar>false</menubar></component></content>
+
+<content start="166" end="167">
+<component><class>org.concord.modeler.PageXYGraph</class>
+<model>0</model>
+<time_series_x>Time (fs)</time_series_x>
+<time_series_y1 color="-1000000" style="0" width="1.0" symbol="0" size="4" spacing="5">West pressure:Obstacle #0</time_series_y1>
+<time_series_y2 color="-1000000" style="2" width="1.0" symbol="0" size="4" spacing="5">East pressure:Obstacle #0</time_series_y2>
+<autofity>false</autofity>
+<axis_y_min>0.0</axis_y_min>
+<axis_y_max>4.0</axis_y_max>
+<width>300</width>
+<height>284</height>
+<axis_x_title>Time (fs)</axis_x_title>
+<axis_y_title>Pressure (bar)</axis_y_title>
+<legend_x>50</legend_x>
+<legend_y>45</legend_y>
+<bgcolor>-1</bgcolor>
+<fgcolor>-1</fgcolor>
+<menubar>false</menubar>
+<border>Raised Bevel</border>
+</component></content>
+
+<content start="167" end="168">
+</content>
+
+</paragraph>
+<paragraph start="168" end="182">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="168" end="181">
+<size>10</size></content>
+
+<content start="181" end="182">
+</content>
+
+</paragraph>
+<paragraph start="182" end="183">
+<LeftIndent>140.0</LeftIndent>
+<content start="182" end="183">
+</content>
+
+</paragraph>
+<paragraph start="183" end="203">
+<LeftIndent>140.0</LeftIndent>
+<content start="183" end="203">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="203" end="204">
+<LeftIndent>140.0</LeftIndent>
+<content start="203" end="204">
+</content>
+
+</paragraph>
+<paragraph start="204" end="222">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="204" end="206">
+<size>11</size></content>
+
+<content start="206" end="209">
+<size>11</size><href>multipressureprobe.cml</href></content>
+
+<content start="209" end="212">
+<size>11</size></content>
+
+<content start="212" end="214">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="214" end="216">
+<size>11</size></content>
+
+<content start="216" end="219">
+<size>11</size><href>isopressure.cml</href></content>
+
+<content start="219" end="221">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

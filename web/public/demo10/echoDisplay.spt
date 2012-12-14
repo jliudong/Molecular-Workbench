@@ -1,0 +1,11 @@
+set echo titleEcho 0% 100%
+font echo 16 sans bold
+color echo [xf4f5ef] # biology template page bkg color (tan)
+
+set echo myEcho 0% 0%
+font echo 16 sans bold
+color echo yellow
+
+set echo movieEcho 0% 0%
+font echo 14 sans bold
+color echo yellow

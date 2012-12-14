@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Manipulating a molecule: rotating and translating</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#25805;&#32437;&#20998;&#23376;&#65306;&#26059;&#36716;&#21644;&#36716;&#21270;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#24403;&#21019;&#24314;&#25110;&#32534;&#36753;&#20998;&#23376;&#26102;&#65292;&#24149;&#21518;&#30340;3D&#27169;&#22411;&#31995;&#32479;&#23601;&#20250;&#33258;&#21160;&#20998;&#36776;&#20986;&#37027;&#20123;&#21407;&#23376;&#23646;&#20110;&#37027;&#20123;&#20998;&#23376;&#12290;&#21407;&#23376;&#34987;&#26469;&#33258;&#21516;&#19968;&#20010;&#20998;&#23376;&#30340;&#24452;&#21521;&#38190;&#65288;radial bonds&#65289; &#10102; &#36335;&#25152;&#36830;&#25509;&#12290;
+
+&#21333;&#20010;&#20998;&#23376;&#24456;&#23481;&#26131;&#34987;&#25805;&#32437;&#12290;&#21487;&#20197;&#26059;&#36716;,&#36716;&#25442;,&#25110;&#21024;&#38500;&#12290;&#26059;&#36716;&#19968;&#20010;&#20998;&#23376;&#65292;&#36873;&#25321;&#24037;&#20855;&#26639;&#20013; &quot; &quot; &#25353;&#38062;&#65292; &#28982;&#21518;&#25918;&#20837;&#20998;&#23376;&#30340;&#19968;&#20010;&#21407;&#23376;&#12290;&#36716;&#25442;&#19968;&#20010;&#20998;&#23376;&#65292;&#21491;&#20987;&#25353;&#38062;&#24182;&#36873;&#25321; &quot; &quot; &#39033;&#12290;&#24037;&#20855;&#26639;&#30340;&#25353;&#38062;&#22270;&#26631;&#29616;&#22312;&#20250;&#21464;&#20026; &quot; &quot;&#12290;&#22914;&#26524;&#36824;&#27809;&#26377;&#25353;&#65292;&#23601;&#25353;&#19979;&#25353;&#38062;&#12290;&#28982;&#21518;&#21487;&#20197;&#25918;&#20837;&#20998;&#23376;&#30340;&#19968;&#20010;&#21407;&#23376;&#26469;&#36716;&#25442;&#12290; &#27880;&#24847;&#65292;&#30001;&#20110;&#36825;&#31181;&#27169;&#24335;&#30340;&#36716;&#25442;&#26159;&#22312;&#27169;&#25311;&#31665;&#30340;&#27178;&#26029;&#38754;&#21457;&#29983;&#30340;&#65292;&#22240;&#27492;&#24456;&#38590;&#25226;&#20998;&#23376;&#20934;&#30830;&#30340;&#25918;&#22312;&#20320;&#24819;&#35201;&#30340;&#20301;&#32622;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+ 
+&#10102; &#22914;&#26524;&#25105;&#20204;&#33021;&#21457;&#29616;&#19968;&#20010;&#38190;&#36335;&#21253;&#21547;&#24452;&#21521;&#38190;, &#20174;&#19968;&#20010;&#21407;&#23376;&#24320;&#22987;&#20110;&#21478;&#19968;&#20010;&#32467;&#26463;&#65292;&#37027;&#20040;&#36825;&#20004;&#20010;&#21407;&#23376;&#34987;&#35270;&#20026;&#8220;&#36830;&#25509;&#30340;&#8221;&#12290;&#36890;&#24120;,&#19968;&#20010;&#20998;&#23376;&#21487;&#20197;&#34987;&#35270;&#20026;   &#22270;&#24418;&#35770;.&#20013;&#30340;&#19968;&#20010;&#26354;&#32447;&#22270;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="397">
+<paragraph start="0" end="11">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="10">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="10" end="11">
+</content>
+
+</paragraph>
+<paragraph start="11" end="12">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="11" end="12">
+</content>
+
+</paragraph>
+<paragraph start="12" end="31">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="12" end="14">
+<size>11</size></content>
+
+<content start="14" end="17">
+<size>11</size><href>dropmol3d.cml</href></content>
+
+<content start="17" end="20">
+<size>11</size></content>
+
+<content start="20" end="22">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="22" end="25">
+<size>11</size></content>
+
+<content start="25" end="28">
+<size>11</size><href>position3d.cml</href></content>
+
+<content start="28" end="30">
+<size>11</size></content>
+
+<content start="30" end="31">
+</content>
+
+</paragraph>
+<paragraph start="31" end="32">
+<LeftIndent>140.0</LeftIndent>
+<content start="31" end="32">
+</content>
+
+</paragraph>
+<paragraph start="32" end="106">
+<LeftIndent>140.0</LeftIndent>
+<content start="32" end="98">
+<size>11</size></content>
+
+<content start="98" end="99">
+<size>13</size></content>
+
+<content start="99" end="100">
+<size>11</size></content>
+
+<content start="100" end="105">
+<size>11</size></content>
+
+<content start="105" end="106">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="106" end="107">
+<LeftIndent>140.0</LeftIndent>
+<content start="106" end="107">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="107" end="279">
+<LeftIndent>140.0</LeftIndent>
+<content start="107" end="145">
+<size>11</size></content>
+
+<content start="145" end="146">
+<icon>RotateAtoms.gif</icon></content>
+
+<content start="146" end="180">
+<size>11</size></content>
+
+<content start="180" end="181">
+<icon>TranslateAtoms.gif</icon></content>
+
+<content start="181" end="200">
+<size>11</size></content>
+
+<content start="200" end="201">
+<icon>TranslateAtoms.gif</icon></content>
+
+<content start="201" end="279">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="279" end="280">
+<LeftIndent>140.0</LeftIndent>
+<content start="279" end="280">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="280" end="282">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="280" end="281">
+<component><class>org.concord.modeler.PageMd3d</class><resource>movemol3d$0.mdd</resource><coordinate>movemol3d$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="281" end="282">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="282" end="296">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="282" end="296">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="296" end="297">
+<LeftIndent>140.0</LeftIndent>
+<content start="296" end="297">
+</content>
+
+</paragraph>
+<paragraph start="297" end="299">
+<LeftIndent>140.0</LeftIndent>
+<SpaceBelow>2.0</SpaceBelow>
+<SpaceAbove>2.0</SpaceAbove>
+<content start="297" end="298">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.7</width><height>1</height><opaque>false</opaque><bgcolor>-1000000</bgcolor></icon></content>
+
+<content start="298" end="299">
+</content>
+
+</paragraph>
+<paragraph start="299" end="377">
+<LeftIndent>140.0</LeftIndent>
+<content start="299" end="300">
+<size>13</size></content>
+
+<content start="300" end="301">
+</content>
+
+<content start="301" end="362">
+<size>11</size></content>
+
+<content start="362" end="363">
+<icon>htmlink.gif</icon></content>
+
+<content start="363" end="364">
+<size>11</size></content>
+
+<content start="364" end="367">
+<size>11</size><href>http://en.wikipedia.org/wiki/Graph_theory</href></content>
+
+<content start="367" end="376">
+<size>11</size></content>
+
+<content start="376" end="377">
+</content>
+
+</paragraph>
+<paragraph start="377" end="378">
+<LeftIndent>140.0</LeftIndent>
+<content start="377" end="378">
+</content>
+
+</paragraph>
+<paragraph start="378" end="397">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="378" end="380">
+<size>11</size></content>
+
+<content start="380" end="383">
+<size>11</size><href>dropmol3d.cml</href></content>
+
+<content start="383" end="386">
+<size>11</size></content>
+
+<content start="386" end="388">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="388" end="391">
+<size>11</size></content>
+
+<content start="391" end="394">
+<size>11</size><href>position3d.cml</href></content>
+
+<content start="394" end="396">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

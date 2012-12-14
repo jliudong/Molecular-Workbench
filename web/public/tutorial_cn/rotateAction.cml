@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Rotating Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#26059;&#36716;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#26059;&#36716;&#24037;&#20855; &quot; &quot; &#21487;&#20197;&#29992;&#26469;&#26059;&#36716;&#19968;&#20010;&#21487;&#26059;&#36716;&#30340;&#23545;&#35937;(&#22312;&#20998;&#23376;&#24037;&#20316;&#21488;&#65292;&#24182;&#38750;&#25152;&#26377;&#23545;&#35937;&#37117;&#24050;&#32463;&#21487;&#20197;&#26059;&#36716;)&#12290;&#23601;&#20687;&#22312;&#22823;&#22810;&#25968;&#31243;&#24207;&#20013;&#65292;&#20026;&#20102;&#26059;&#36716;&#19968;&#20010;&#23545;&#35937;&#65292;&#20320;&#38656;&#35201;&#25235;&#20303;&#19968;&#20010;&#26059;&#36716;&#22788;&#29702;&#31243;&#24207;&#12290;
+
+&#26059;&#36716;&#19968;&#20010;&#20998;&#23376;
+
+&#23545;&#20110;&#19968;&#20010;&#20998;&#23376;&#65292;&#26059;&#36716;&#22788;&#29702;&#31243;&#24207;&#30475;&#36215;&#26469;&#20687;&#65306;
+
+              
+&#25235;&#20303;&#26059;&#36716;&#22788;&#29702;&#31243;&#24207;&#65292;&#24182;&#22260;&#32469;&#36136;&#37327;&#20013;&#24515;&#25302;&#21160;&#12290;
+
+&#20320;&#21487;&#20197;&#29992;&#19979;&#38754;&#30340;&#27169;&#22411;&#32451;&#20064;&#26059;&#36716;&#19968;&#20010;&#20998;&#23376;&#65306;
+
+ 
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+&#26059;&#36716;&#19968;&#20010;Gay-Berne&#31890;&#23376;
+
+&#23545;&#20110;Gay-Berne&#31890;&#23376;&#32780;&#35328;&#65292;&#26059;&#36716;&#22788;&#29702;&#31243;&#24207;&#30475;&#36215;&#26469;&#20687;&#65306;
+
+  
+
+&#20320;&#21487;&#20197;&#20351;&#29992;&#22914;&#19979;&#27169;&#22411;&#32451;&#20064;&#26059;&#36716;&#19968;&#20010;Gay-Berne&#31890;&#23376;&#65306;
+
+ 
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#20351;&#29992;&#22914;&#19979;&#21629;&#20196;&#65292;&#21487;&#20197;&#26059;&#36716;&#19968;&#20010;Gay-Berne&#31890;&#23376;&#65306; &#35774;&#32622; &#31890;&#23376;[i].&#952;(&#20215;&#20540;)&#12290;&#22312;&#26412;&#39029;&#30340;&#31532;&#20108;&#20010;&#27169;&#22411;&#20013;&#65292;&#28369;&#22359;&#36890;&#36807;&#19968;&#20123;&#33050;&#26412;&#35774;&#32622;&#31890;&#23376;&#30340;&#21462;&#21521;&#12290;
+
+&#22312;&#22522;&#26412;&#30340;2D&#20998;&#23376;&#27169;&#25311;&#22120;&#20013;&#27809;&#26377;&#38024;&#23545;&#26059;&#36716;&#19968;&#20010;&#20998;&#23376;&#30340;&#30452;&#25509;&#33050;&#26412;&#65292;&#20294;&#26159;&#20320;&#21487;&#20197;&#20351;&#29992;&#19968;&#20123;&#31616;&#21333;&#30340; &#25968;&#23398;&#34920;&#36798;&#24335;. &#33258;&#24049;&#23454;&#26045;&#12290;&#22312;&#31532;&#19968;&#20010;&#27169;&#22411;&#20013;&#65292;&#36890;&#36807;&#25353;&#27169;&#22411;&#19979;&#38754;&#30340;&#25353;&#38062;&#65292;&#20320;&#21487;&#20197;&#26059;&#36716;&#20854;&#20013;&#30340;&#19968;&#20010;&#20998;&#23376;&#12290;&#19979;&#38754;&#30340;&#33050;&#26412;&#24120;&#24120;&#29992;&#26469;&#26059;&#36716;&#20998;&#23376;&#65306;
+
+&#23450;&#20041;% xc %&#20998;&#23376;[0]&#12290;x;/ / &#20998;&#23376;&#36136;&#37327;&#20013;&#24515;&#30340;x&#22352;&#26631;
+&#23450;&#20041;% yc %&#20998;&#23376;[0]&#12290;y;/ / y&#22352;&#26631;&#30340;&#36136;&#24515;&#30340;&#20998;&#23376;
+/ /&#23450;&#20041;% xc %&#21407;&#23376;[9]&#12290;rx;/ /&#22914;&#26524;&#22260;&#32469;&#21407;&#23376;&#26059;&#36716;&#65292;&#35831;&#21462;&#28040;&#27880;&#37322;
+/ /&#23450;&#20041;% yc %&#21407;&#23376;[9]&#12290;&#25925;;/ /&#22914;&#26524;&#22260;&#32469;&#21407;&#23376;&#26059;&#36716;&#65292;&#35831;&#21462;&#28040;&#27880;&#37322;
+&#23450;&#20041; %sintheta &quot;sin(pi/18)&quot;;
+&#23450;&#20041; %costheta &quot;cos(pi/18)&quot;;
+&#24490;&#29615;1;
+&#35774;&#32622; %i %loop_count;
+&#35774;&#32622; %xi %atom[%i].rx;
+&#35774;&#32622; %yi %atom[%i].ry;
+&#25918;&#32622;&#21407;&#23376;[%i].rx &quot;%xc+(%xi-%xc)*%costheta-(%yi-%yc)*%sintheta&quot;;
+&#25918;&#32622;&#21407;&#23376;[%i].ry &quot;%yc+(%xi-%xc)*%sintheta+(%yi-%yc)*%costheta&quot;;
+&#24490;&#29615; 12;
+
+&#19982;&#24635;&#26159;&#20351;&#20998;&#23376;&#22260;&#32469;&#20854;&#36136;&#37327;&#20013;&#24515;&#26059;&#36716;&#30340;&#26059;&#36716;&#24037;&#20855;&#19981;&#21516;&#65292;&#19968;&#20010;&#36890;&#36807;&#33050;&#26412;&#23454;&#26045;&#30340;&#26059;&#36716;&#21487;&#20197;&#22260;&#32469;&#20219;&#20309;&#28857;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="932">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>DampingAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>removeAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="106">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="32">
+<size>11</size></content>
+
+<content start="32" end="33">
+<size>11</size><icon>Rotate.gif</icon></content>
+
+<content start="33" end="106">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="106" end="107">
+<LeftIndent>140.0</LeftIndent>
+<content start="106" end="107">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="107" end="114">
+<LeftIndent>140.0</LeftIndent>
+<content start="107" end="113">
+<bold>true</bold><size>11</size></content>
+
+<content start="113" end="114">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="114" end="115">
+<LeftIndent>140.0</LeftIndent>
+<content start="114" end="115">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="115" end="134">
+<LeftIndent>140.0</LeftIndent>
+<content start="115" end="134">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="134" end="135">
+<LeftIndent>100.0</LeftIndent>
+<content start="134" end="135">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="135" end="150">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="135" end="136">
+<size>11</size></content>
+
+<content start="136" end="137">
+<size>11</size><icon>RotatingMol.gif</icon></content>
+
+<content start="137" end="148">
+<size>11</size></content>
+
+<content start="148" end="149">
+<size>11</size><icon>RotatingMol2.gif</icon></content>
+
+<content start="149" end="150">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="150" end="170">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="150" end="169">
+<size>10</size></content>
+
+<content start="169" end="170">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="170" end="171">
+<LeftIndent>140.0</LeftIndent>
+<content start="170" end="171">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="171" end="190">
+<LeftIndent>140.0</LeftIndent>
+<content start="171" end="190">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="190" end="191">
+<LeftIndent>100.0</LeftIndent>
+<content start="190" end="191">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="191" end="193">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="191" end="192">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>rotateAction$0.mml</resource><menubar>false</menubar><statusbar>false</statusbar><recorderless>true</recorderless>
+<button>Rotate Object</button><button>Select Object</button></component><size>11</size></content>
+
+<content start="192" end="193">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="193" end="196">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="193" end="194">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Rotate molecule around the center of mass using scripts</title>
+<tooltip>Rotate molecule through MW script</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>define %xc %molecule[0].x;
+define %yc %molecule[0].y;
+define %sintheta &quot;sin(pi/18)&quot;;
+define %costheta &quot;cos(pi/18)&quot;;
+loop 1;
+set %i &quot;%loop_count&quot;;
+set %xi %atom[%i].rx;
+set %yi %atom[%i].ry;
+set atom[%i].rx &quot;%xc+(%xi-%xc)*%costheta-(%yi-%yc)*%sintheta&quot;;
+set atom[%i].ry &quot;%yc+(%xi-%xc)*%sintheta+(%yi-%yc)*%costheta&quot;;
+loop 12;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="194" end="195">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Rotate molecule around an atom using scripts</title>
+<tooltip>Rotate molecule through MW script</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>define %xc %atom[9].rx;
+define %yc %atom[9].ry;
+define %sintheta &quot;sin(pi/18)&quot;;
+define %costheta &quot;cos(pi/18)&quot;;
+loop 1;
+set %i &quot;%loop_count&quot;;
+set %xi %atom[%i].rx;
+set %yi %atom[%i].ry;
+set atom[%i].rx &quot;%xc+(%xi-%xc)*%costheta-(%yi-%yc)*%sintheta&quot;;
+set atom[%i].ry &quot;%yc+(%xi-%xc)*%sintheta+(%yi-%yc)*%costheta&quot;;
+loop 12;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="195" end="196">
+</content>
+
+</paragraph>
+<paragraph start="196" end="211">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="196" end="210">
+<size>10</size></content>
+
+<content start="210" end="211">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="211" end="227">
+<LeftIndent>140.0</LeftIndent>
+<content start="211" end="226">
+<bold>true</bold><size>11</size></content>
+
+<content start="226" end="227">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="227" end="228">
+<LeftIndent>140.0</LeftIndent>
+<content start="227" end="228">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="228" end="256">
+<LeftIndent>140.0</LeftIndent>
+<content start="228" end="256">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="256" end="257">
+<LeftIndent>100.0</LeftIndent>
+<content start="256" end="257">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="257" end="260">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="257" end="258">
+<size>11</size></content>
+
+<content start="258" end="259">
+<size>11</size><icon>RatatingGB.gif</icon></content>
+
+<content start="259" end="260">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="260" end="261">
+<LeftIndent>100.0</LeftIndent>
+<content start="260" end="261">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="261" end="289">
+<LeftIndent>140.0</LeftIndent>
+<content start="261" end="289">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="289" end="290">
+<LeftIndent>100.0</LeftIndent>
+<content start="289" end="290">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="290" end="292">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="290" end="291">
+<component><class>org.concord.mw2d.activity.GBContainer</class>
+<resource>rotateAction$0.gbl</resource><menubar>false</menubar><statusbar>false</statusbar><recorderless>true</recorderless>
+<button>Rotate Object</button><button>Select Object</button></component><size>11</size></content>
+
+<content start="291" end="292">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="292" end="294">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="292" end="293">
+<component><class>org.concord.modeler.PageSlider</class>
+<modelclass>org.concord.mw2d.models.MesoModel</modelclass>
+<model>2</model>
+<value>0.0</value>
+<minimum>0.0</minimum>
+<maximum>360.0</maximum>
+<nstep>36</nstep>
+<title>Set the orientation through script</title>
+<tooltip>Set the orientation through MW script</tooltip>
+<width>400</width>
+<height>70</height>
+<opaque>false</opaque>
+<disabled_at_script>true</disabled_at_script>
+<tick>true</tick>
+<labeltable>{value=&quot;180.0&quot;, label=&quot;180&quot;}{value=&quot;360.0&quot;, label=&quot;360 (degree)&quot;}{value=&quot;0.0&quot;, label=&quot;0&quot;}</labeltable>
+<script>set particle[0].theta &quot;%val*pi/180&quot;;</script>
+<change>Execute MW script</change>
+</component></content>
+
+<content start="293" end="294">
+</content>
+
+</paragraph>
+<paragraph start="294" end="309">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="294" end="309">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="309" end="310">
+<LeftIndent>140.0</LeftIndent>
+<content start="309" end="310">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="310" end="315">
+<LeftIndent>140.0</LeftIndent>
+<content start="310" end="314">
+<bold>true</bold><size>11</size></content>
+
+<content start="314" end="315">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="315" end="316">
+<LeftIndent>140.0</LeftIndent>
+<content start="315" end="316">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="316" end="385">
+<LeftIndent>140.0</LeftIndent>
+<content start="316" end="342">
+<size>11</size></content>
+
+<content start="342" end="344">
+<href>script_set.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="344" end="384">
+<family>Courier New</family><size>11</size></content>
+
+<content start="384" end="385">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="385" end="386">
+<LeftIndent>140.0</LeftIndent>
+<content start="385" end="386">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="386" end="486">
+<LeftIndent>140.0</LeftIndent>
+<content start="386" end="426">
+<family>Courier New</family><size>11</size></content>
+
+<content start="426" end="427">
+<size>11</size></content>
+
+<content start="427" end="432">
+<href>script_expression.cml</href><size>11</size></content>
+
+<content start="432" end="486">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="486" end="487">
+<LeftIndent>140.0</LeftIndent>
+<content start="486" end="487">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="487" end="518">
+<LeftIndent>160.0</LeftIndent>
+<content start="487" end="517">
+<size>11</size></content>
+
+<content start="517" end="518">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="518" end="548">
+<LeftIndent>160.0</LeftIndent>
+<content start="518" end="548">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="548" end="586">
+<LeftIndent>160.0</LeftIndent>
+<content start="548" end="586">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="586" end="623">
+<LeftIndent>160.0</LeftIndent>
+<content start="586" end="623">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="623" end="650">
+<LeftIndent>160.0</LeftIndent>
+<content start="623" end="650">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="650" end="677">
+<LeftIndent>160.0</LeftIndent>
+<content start="650" end="677">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="677" end="682">
+<LeftIndent>160.0</LeftIndent>
+<content start="677" end="682">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="682" end="701">
+<LeftIndent>160.0</LeftIndent>
+<content start="682" end="701">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="701" end="722">
+<LeftIndent>160.0</LeftIndent>
+<content start="701" end="722">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="722" end="743">
+<LeftIndent>160.0</LeftIndent>
+<content start="722" end="743">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="743" end="802">
+<LeftIndent>160.0</LeftIndent>
+<content start="743" end="802">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="802" end="861">
+<LeftIndent>160.0</LeftIndent>
+<content start="802" end="861">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="861" end="868">
+<LeftIndent>160.0</LeftIndent>
+<content start="861" end="867">
+<family>Courier New</family><size>11</size></content>
+
+<content start="867" end="868">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="868" end="869">
+<LeftIndent>140.0</LeftIndent>
+<content start="868" end="869">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="869" end="912">
+<LeftIndent>140.0</LeftIndent>
+<content start="869" end="912">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="912" end="913">
+<RightIndent>20.0</RightIndent>
+<content start="912" end="913">
+</content>
+
+</paragraph>
+<paragraph start="913" end="932">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="913" end="915">
+<size>11</size></content>
+
+<content start="915" end="918">
+<href>DampingAction.cml</href><size>11</size></content>
+
+<content start="918" end="921">
+<size>11</size></content>
+
+<content start="921" end="923">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="923" end="926">
+<size>11</size></content>
+
+<content start="926" end="929">
+<href>removeAction.cml</href><size>11</size></content>
+
+<content start="929" end="931">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

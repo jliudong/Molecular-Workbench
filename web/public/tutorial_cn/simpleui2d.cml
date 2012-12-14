@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document>
+<language>ISO-8859-1</language>
+<page_title>Simplifying the user interface</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>¼ò»¯ÓÃ»§½çÃæ
+
+&lt; ÉÏÒ»Ò³ | Ë÷Òý | ÏÂÒ»Ò³ &gt;
+
+µ±Äã¹¹½¨Ò»¸öÄ£ÐÍÊ±£¬¹¹½¨Ä£ÐÍµÄÓÃ»§½çÃæ(UI)´ó¶àÊÇÓÐÓÃµÄ¡£Ò»µ©½¨Ä£Íê³É£¬ÓÃ»§½çÃæUI¿ÉÒÔÎªÄãµÄÄ£ÐÍÔ¤ÆÚµÄ×îÖÕÓÃ»§½øÐÐ¼ò»¯£¬ËûÃÇ²»ÐèÒª¿´µ½¸´ÔÓµÄ½¨Ä£½Ó¿Ú¡£ÀýÈç£¬ ¹¤¾ßÀ¸ ºÍ²Ëµ¥À¸¶¼¿ÉÒÔ±»É¾³ý(Òò´Ë£¬¶ÔÓÚÖ÷ÒªÕë¶Ô±à³ÌÔ±¶øÉè¼ÆµÄÑ¡ÏîºÍ¿ØÖÆ·ÃÎÊ£¬¿ÉÒÔ±»×èÈûµô)¡£¼øÓÚ½Å±¾ÓïÑÔÒÑ¹ã·ºÆôÓÃ£¬ºÜÉÙÐèÒªÎªÁË×îÖÕÓÃ»§¶ø±£³ÖËüÃÇ¡£ÔÚ²Ëµ¥À¸ºÍ¹¤¾ßÀ¸µÄ´ó¶àÊý²Ù×÷¶¼¿ÉÒÔÍ¨¹ý ½Å±¾, ½»¸¶£¬ÕâÐ©½Å±¾ ¿ÉÒÔÕë¶Ô´ó²¿·ÖµÄÐ¡¹¤¾ßºÍ³¬Á´½Ó½øÐÐÉèÖÃ. Ä£Äâ¿ØÖÆ¿ÉÒÔ±»Òþ²Ø£¬²¢ÓÉÎª¿ØÖÆÄ£Äâ¶øÊ¹ÓÃ  ÔËÐÐ, Í£Ö¹, ºÍ ÉèÖÃ ÃüÁî ²åÈë°´Å¥ ËùÈ¡´ú¡£ÊÂÊµÉÏ£¬Ä£ÐÍÈÝÆ÷Ö»ÄÜÓÐ·Ö×ÓÊÓÍ¼(¼´£ºÏÔÊ¾Ô­×ÓµÄ´°¿Ú)£¬¶øËùÓÐµÄÆäËû×é¼þÔò¾ù±»ÒÆ³ý(¼û ±¾Ò³ Ê¾Àý --- Ä£ÄâÊÇÓÉÍ¨¹ýÕë¶Ô µ¥Ñ¡°´Å¥ ÉèÖÃµÄ½Å±¾Ëù¿ØÖÆ). ·Ö×ÓÊÓÍ¼µÄ±ß½ç£¬Ò²¿ÉÒÔ±»Òþ²Ø£¬ÒÔ´´½¨Ò»¸öÊÓ¾õÐ§¹û£¬·Â·ðÄ£ÄâÊÇ¸ÃÒ³ÃæµÄÒ»²¿·Ö(¼û ±¾Ò³ µÄ2DÊ¾Àý²¢±¾Ò³µÄ3DÊ¾Àý)¡£).
+
+Èç¹ûÒÔºóÐèÒªÐÞ¸ÄÒ»¸öÄ£ÐÍ£¬Äã¿ÉÒÔºÜÈÝÒ×µØ°ÑÄ£ÐÍ¹¹½¨µÄÓÃ»§½çÃæUI·Å»Ø¡£
+
+¾¡¹ÜÎÒÃÇÇ¿ÁÒµØ½¨ÒéÎª×îÖÕÓÃ»§³ÊÏÖÒ»¸ö¼ò»¯µÄÓÃ»§½çÃæUI£¬µ«ÄãÈÔÈ»¿ÉÒÔ±£ÁôÕâÐ©¿Ø¼þ£¬ÒòÎªÄãÏàÐÅ£¬×îÖÕÓÃ»§Ò²»áÔÚ»î¶¯ÖÐÒòÊ¹ÓÃËüÃÇ¶øÊÜÒæ¡£ÀýÈç£¬ÔÚ Ò»¸öÀ©É¢»î¶¯, ÖÐ£¬ÎªÁËÔÚ¹¤¾ßÀ¸Ìí¼Ó¡¢ÒÆ¶¯ºÍÉ¾³ýÁ£×Ó£¬²¢ÎªÁËÈÃÑ§ÉúÃÇÔÚÉèÖÃ×Ô¼ºµÄÀ©É¢Ä£ÐÍÊ±Ê¹ÓÃËüÃÇ£¬Äã¿ÉÄÜÏëÒª±£ÁôÕâÐ©°´Å¥¡£
+
+&lt; ÉÏÒ»Ò³ | Ë÷Òý | ÏÂÒ»Ò³ &gt;</text>
+<section start="0" end="615">
+<paragraph start="0" end="7">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="6">
+<bold>true</bold><size>16</size><italic>true</italic></content>
+
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="8">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="27">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="8" end="10">
+<size>11</size></content>
+
+<content start="10" end="13">
+<href>accessGBProp.cml</href><size>11</size></content>
+
+<content start="13" end="16">
+<size>11</size></content>
+
+<content start="16" end="18">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="18" end="21">
+<size>11</size></content>
+
+<content start="21" end="24">
+<href>ImageInModel.cml</href><size>11</size></content>
+
+<content start="24" end="26">
+<size>11</size></content>
+
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="28">
+<LeftIndent>140.0</LeftIndent>
+<content start="27" end="28">
+</content>
+
+</paragraph>
+<paragraph start="28" end="423">
+<LeftIndent>140.0</LeftIndent>
+<content start="28" end="109">
+<size>11</size></content>
+
+<content start="109" end="112">
+<href>toolbar.cml</href><size>11</size></content>
+
+<content start="112" end="204">
+<size>11</size></content>
+
+<content start="204" end="206">
+<href>mwscripts.cml</href><size>11</size></content>
+
+<content start="206" end="216">
+<size>11</size></content>
+
+<content start="216" end="235">
+<href>script_where.cml</href><size>11</size></content>
+
+<content start="235" end="258">
+<size>11</size></content>
+
+<content start="258" end="259">
+<size>11</size></content>
+
+<content start="259" end="261">
+<href>script_run.cml</href><size>11</size></content>
+
+<content start="261" end="263">
+<size>11</size></content>
+
+<content start="263" end="265">
+<href>script_stop.cml</href><size>11</size></content>
+
+<content start="265" end="269">
+<size>11</size></content>
+
+<content start="269" end="271">
+<href>script_reset.cml</href><size>11</size></content>
+
+<content start="271" end="275">
+<size>11</size></content>
+
+<content start="275" end="279">
+<href>insertButton.cml</href><size>11</size></content>
+
+<content start="279" end="326">
+<size>11</size></content>
+
+<content start="326" end="327">
+<size>11</size></content>
+
+<content start="327" end="329">
+<href>../student/gaslaws/avogadro.cml</href><size>11</size></content>
+
+<content start="329" end="346">
+<size>11</size></content>
+
+<content start="346" end="351">
+<href>insertRadioButton.cml</href><size>11</size></content>
+
+<content start="351" end="402">
+<size>11</size></content>
+
+<content start="402" end="404">
+<href>../student/organic/threebenzene.cml</href><size>11</size></content>
+
+<content start="404" end="423">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="423" end="424">
+<LeftIndent>140.0</LeftIndent>
+<content start="423" end="424">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="424" end="460">
+<LeftIndent>140.0</LeftIndent>
+<content start="424" end="460">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="460" end="461">
+<LeftIndent>140.0</LeftIndent>
+<content start="460" end="461">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="461" end="595">
+<LeftIndent>140.0</LeftIndent>
+<content start="461" end="532">
+<size>11</size></content>
+
+<content start="532" end="538">
+<href>../part1/dan/DandOpage2.cml</href><size>11</size></content>
+
+<content start="538" end="595">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="595" end="596">
+<LeftIndent>140.0</LeftIndent>
+<content start="595" end="596">
+</content>
+
+</paragraph>
+<paragraph start="596" end="615">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="596" end="598">
+<size>11</size></content>
+
+<content start="598" end="601">
+<href>accessGBProp.cml</href><size>11</size></content>
+
+<content start="601" end="604">
+<size>11</size></content>
+
+<content start="604" end="606">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="606" end="609">
+<size>11</size></content>
+
+<content start="609" end="612">
+<href>ImageInModel.cml</href><size>11</size></content>
+
+<content start="612" end="614">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

@@ -1,0 +1,101 @@
+set echo off
+
+set echo myecho 0 0
+font echo 14 sans bold
+color echo [xf4f5ef]
+color echo background none
+
+# center unit1 --------------
+
+moveto /* time, axisAngle */ 0.0 { 94 461 882 141.99} /* zoom, translation */  170.3 0.0 -7.0  /* center, rotationRadius */ {10.041351 9.120002 -3.3900542} 13.833857 /* navigation center, translation, depth */ {0.0 0.0 0.0} 77.301544 2.7005463 50.0;
+
+# MOVIE -------------------------------------------------------------------
+
+# start with one unit, add the rest in chain (3 more units) --------------
+echo "Building a polysaccharide chain"
+
+select ~unit1
+display selected
+cpk off
+off2wf
+delay 1.5
+
+script jmol-echoFade.spt
+echo "we start with one sugar - a monosaccharide"
+move -90 0 0 0 0 0 0 0 1
+delay 0.3
+move 90 0 0 0 0 0 0 0 1
+
+delay 1
+script jmol-echoFade.spt
+delay 0.2
+
+set echo cclogo1 0 0 ;set echo cclogo1 IMAGE "sun.gif"
+set echo myecho 42 0
+echo "watch for the sun|to see where the next sugar will bond"
+delay 2.5
+script jmol-echoFade.spt
+set echo cclogo1 off
+delay 0.5
+
+set echo cclogo @{{atomno=2}};set echo cclogo center;set echo cclogo IMAGE "sun.gif"
+set echo myecho 0 0
+echo "a second sugar is added to the first"
+delay 0.5
+
+zoomto 1 (~unit2) 200
+delay 0.5
+
+select ~unit2 or atomno=2
+display displayed or ~unit2
+wireframe 0.06
+delay 0.5
+move 90 0 0 0 0 0 0 0 0.5
+delay 0.5
+off2wf
+
+delay 0.5
+script jmol-echoFade.spt
+set echo myecho 0 0
+echo "additional sugars are added..."
+delay 0.5
+set echo cclogo @{{atomno=33}};set echo cclogo center;set echo cclogo IMAGE "sun.gif"
+
+delay 0.5
+zoomto 1 (~unit3) 200
+delay 0.5
+
+select ~unit3 or atomno=33
+display displayed or ~unit3
+wireframe 0.06
+delay 0.5
+move 90 0 0 0 0 0 0 0 0.5
+delay 0.5
+off2wf
+set echo cclogo @{{atomno=45}};set echo cclogo center;set echo cclogo IMAGE "sun.gif"
+delay 0.5
+
+zoomto 1 (~unit4) 200
+delay 0.5
+
+select ~unit4 or atomno=45
+display displayed or ~unit4
+wireframe 0.06
+delay 0.5
+move 90 0 0 0 0 0 0 0 0.5
+delay 0.5
+off2wf
+delay 0.5
+script jmol-echoFade.spt
+set echo myecho 0 0
+echo "polysaccharides can grow to thousands of sugars| "
+delay 1
+set echo myecho 0 0
+echo "polysaccharides can grow to thousands of sugars|...only four are shown here for simplicity"
+
+
+zoomto (~unit1 or ~unit2 or ~unit3 or ~unit4) 115
+
+moveto /* time, axisAngle */ 1.0 { -271 906 326 147.4} /* zoom, translation */  114.95 0.0 0.0  /* center, rotationRadius */ {4.297226 4.0643153 -0.9957283} 13.833857 /* navigation center, translation, depth */ {0.0 0.0 0.0} 24.598711 6.4971385 50.0;
+
+moveto /* time, axisAngle */ 1.0 { 13 470 883 135.46} /* zoom, translation */  114.95 0.0 0.0  /* center, rotationRadius */ {4.297226 4.0643153 -0.9957283} 13.833857 /* navigation center, translation, depth */ {0.0 0.0 0.0} 24.028795 4.929878 50.0;

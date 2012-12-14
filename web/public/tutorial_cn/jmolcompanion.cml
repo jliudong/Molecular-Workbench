@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Exporting structures for Jmol to display</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#26174;&#31034;Jmol&#30340;&#36755;&#20986;&#32467;&#26500;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+3D&#20998;&#23376;&#26500;&#36896;&#20989;&#25968;&#21487;&#20197;&#29992;&#20110;&#32452;&#24314;&#32467;&#26500;&#36825;&#20010;&#29305;&#24449;&#23545;&#20110;&#37027;&#20123;&#24819;&#29992;Jmol&#20174;&#38646;&#24320;&#22987;&#21019;&#24314;&#32467;&#26500;\&#25110;&#20462;&#25913;&#29616;&#26377;&#32467;&#26500;&#30340;&#20351;&#29992;&#32773;&#26469;&#35828;&#65292;&#38750;&#24120;&#26377;&#29992;&#12290;
+
+&#19979;&#38754;&#30340;&#20363;&#23376;&#26174;&#31034;, &#20351;&#29992;3D&#26500;&#36896;&#20989;&#25968;(&#24038;&#36793;&#30340;&#23481;&#22120;) &#21019;&#24314;&#30340;&#19968;&#20010;&#32435;&#31859;&#31649;&#36830;&#25509;&#65292;&#21487;&#20197;&#34987;&#21152;&#36733;&#21040;&#19968;&#20010;Jmol&#25351;&#31034;&#22120;(&#21491;&#36793;&#30340;&#23481;&#22120;):
+
+  
+&#12304;&#24038;&#36793;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;3D&#27169;&#22411;&#65292;&#23427;&#36816;&#34892;&#20998;&#23376;&#21160;&#21147;&#27169;&#25311;&#12290; &#21491;&#36793;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;Jmol&#25351;&#31034;&#22120;&#65292;&#23427;&#21482;&#26174;&#31034;&#32467;&#26500;&#12290;&#12305;
+
+&#29992;&#26500;&#36896;&#20989;&#25968;/&#27169;&#25311;&#22120;&#65292;&#21487;&#20197;&#21019;&#24314;&#21508;&#31181;&#32467;&#26500;&#65292;&#21482;&#21463;&#38480;&#20110;&#24819;&#35937;&#21147;&#12290;&#22914;&#26524;&#38656;&#35201;&#22312;&#32593;&#32476;&#19978;&#23637;&#31034;&#25152;&#21019;&#24314;&#30340;&#32467;&#26500;,&#21487;&#20197;&#20351;&#29992;Jmol Applet&#25351;&#31034;&#22120;&#23637;&#31034;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | I&#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="295">
+<paragraph start="0" end="12">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="11">
+<bold>true</bold><italic>true</italic><size>15</size></content>
+
+<content start="11" end="12">
+</content>
+
+</paragraph>
+<paragraph start="12" end="13">
+<RightIndent>20.0</RightIndent>
+<content start="12" end="13">
+</content>
+
+</paragraph>
+<paragraph start="13" end="32">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="13" end="15">
+<size>11</size></content>
+
+<content start="15" end="18">
+<size>11</size><href>io3d.cml</href></content>
+
+<content start="18" end="21">
+<size>11</size></content>
+
+<content start="21" end="23">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="23" end="26">
+<size>11</size></content>
+
+<content start="26" end="29">
+<size>11</size><href>resizecontainer3d.cml</href></content>
+
+<content start="29" end="31">
+<size>11</size></content>
+
+<content start="31" end="32">
+</content>
+
+</paragraph>
+<paragraph start="32" end="33">
+<LeftIndent>140.0</LeftIndent>
+<content start="32" end="33">
+</content>
+
+</paragraph>
+<paragraph start="33" end="92">
+<LeftIndent>140.0</LeftIndent>
+<content start="33" end="92">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="92" end="93">
+<LeftIndent>140.0</LeftIndent>
+<content start="92" end="93">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="93" end="153">
+<LeftIndent>140.0</LeftIndent>
+<content start="93" end="153">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="153" end="154">
+<LeftIndent>140.0</LeftIndent>
+<content start="153" end="154">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="154" end="157">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="154" end="155">
+<component><class>org.concord.modeler.PageMd3d</class><resource>Jmolcompanion$0.mdd</resource><coordinate>Jmolcompanion$0.xyz</coordinate><width>340</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="155" end="156">
+<component><class>org.concord.modeler.PageMolecularViewer</class>
+<axes>true</axes><resource>jmolcompanion$0.xyz</resource><state>Jmolcompanion$0.jms</state><width>340.0</width>
+<height>300.0</height>
+<border>Raised Bevel</border>
+</component></content>
+
+<content start="156" end="157">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="157" end="207">
+<RightIndent>100.0</RightIndent>
+<Alignment>1</Alignment>
+<LeftIndent>240.0</LeftIndent>
+<content start="157" end="206">
+<size>10</size></content>
+
+<content start="206" end="207">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="207" end="208">
+<LeftIndent>140.0</LeftIndent>
+<content start="207" end="208">
+</content>
+
+</paragraph>
+<paragraph start="208" end="274">
+<LeftIndent>140.0</LeftIndent>
+<content start="208" end="273">
+<size>11</size></content>
+
+<content start="273" end="274">
+</content>
+
+</paragraph>
+<paragraph start="274" end="275">
+<LeftIndent>140.0</LeftIndent>
+<content start="274" end="275">
+</content>
+
+</paragraph>
+<paragraph start="275" end="295">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="275" end="277">
+<size>11</size></content>
+
+<content start="277" end="280">
+<size>11</size><href>io3d.cml</href></content>
+
+<content start="280" end="283">
+<size>11</size></content>
+
+<content start="283" end="286">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="286" end="289">
+<size>11</size></content>
+
+<content start="289" end="292">
+<size>11</size><href>resizecontainer3d.cml</href></content>
+
+<content start="292" end="294">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Marking Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#26631;&#35760;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#25353;&#19979; &quot; &quot; &#25353;&#38062;&#65292;&#36873;&#25321;&#26631;&#35760;&#24037;&#20855;&#12290;
+
+&#26631;&#35760;&#23545;&#35937;&#65292;&#39318;&#20808;&#21333;&#20987;&#26631;&#35760;&#24037;&#20855;&#25353;&#38062;&#65292;&#28982;&#21518;&#25302;&#21160;&#40736;&#26631;&#26469;&#36873;&#25321;&#19968;&#20010;&#35206;&#30422;&#20102;&#38656;&#35201;&#26631;&#35760;&#30340;&#23545;&#35937;&#30340;&#30697;&#24418;&#21306;&#22495;&#12290;&#24403;&#40736;&#26631;&#34987;&#37322;&#25918;&#21518;&#65292;&#23427;&#20204;&#23601;&#20250;&#34987;&#26631;&#35760;&#12290;
+
+&#20320;&#21487;&#20197;&#36890;&#36807;&#21452;&#20987;&#26631;&#35760;&#25353;&#38062;&#24182;&#20174;&#24377;&#20986;&#31383;&#21475;&#30340;&#35843;&#33394;&#26495;&#19978;&#36873;&#25321;&#19968;&#31181;&#39068;&#33394;&#26469;&#35774;&#32622;&#26631;&#35760;&#21629;&#20196;&#12290;&#20445;&#23384;&#27169;&#22411;&#20043;&#21518;&#65292;&#26631;&#35760;&#21644;&#39068;&#33394;&#37117;&#23558;&#34987;&#20445;&#23384;&#12290;
+
+&#22312;&#19979;&#38754;&#30340;&#27169;&#22411;&#20013;&#65292;&#20320;&#21487;&#20197;&#29992;&#26631;&#35760;&#24037;&#20855;&#36827;&#34892;&#32451;&#20064;&#65306;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#26631;&#35760; &#21629;&#20196;&#21487;&#20197;&#29992;&#19968;&#31181;&#25351;&#23450;&#30340;&#39068;&#33394;&#26469;&#26631;&#35760;&#36873;&#20013;&#30340;&#31890;&#23376;&#12290;&#32467;&#21512; &#24490;&#29615; &#21644; &#24310;&#36831; &#21629;&#20196;&#65292;&#36825;&#21487;&#20197;&#29992;&#20110;&#38378;&#29616;&#36873;&#23450;&#30340;&#31890;&#23376;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="281">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="12">
+<href>CountingTool.cml</href><size>11</size></content>
+
+<content start="12" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>chargeAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="44">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="30">
+<size>11</size></content>
+
+<content start="30" end="31">
+<size>11</size><icon>Mark.gif</icon></content>
+
+<content start="31" end="44">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="44" end="45">
+<LeftIndent>140.0</LeftIndent>
+<content start="44" end="45">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="45" end="105">
+<LeftIndent>140.0</LeftIndent>
+<content start="45" end="105">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="105" end="106">
+<LeftIndent>140.0</LeftIndent>
+<content start="105" end="106">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="106" end="161">
+<LeftIndent>140.0</LeftIndent>
+<content start="106" end="161">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="161" end="162">
+<LeftIndent>140.0</LeftIndent>
+<content start="161" end="162">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="162" end="184">
+<LeftIndent>140.0</LeftIndent>
+<content start="162" end="183">
+<size>11</size></content>
+
+<content start="183" end="184">
+</content>
+
+</paragraph>
+<paragraph start="184" end="185">
+<LeftIndent>100.0</LeftIndent>
+<content start="184" end="185">
+</content>
+
+</paragraph>
+<paragraph start="185" end="187">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="185" end="186">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>markAction$0.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+<button>Mark Object</button><button>Select Object</button></component></content>
+
+<content start="186" end="187">
+</content>
+
+</paragraph>
+<paragraph start="187" end="202">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="187" end="201">
+<size>10</size></content>
+
+<content start="201" end="202">
+</content>
+
+</paragraph>
+<paragraph start="202" end="203">
+<RightIndent>20.0</RightIndent>
+<content start="202" end="203">
+</content>
+
+</paragraph>
+<paragraph start="203" end="208">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="203" end="207">
+<bold>true</bold><size>11</size></content>
+
+<content start="207" end="208">
+</content>
+
+</paragraph>
+<paragraph start="208" end="209">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="208" end="209">
+</content>
+
+</paragraph>
+<paragraph start="209" end="261">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="209" end="211">
+<href>script_mark.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="211" end="236">
+<size>11</size></content>
+
+<content start="236" end="238">
+<href>script_loop.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="238" end="241">
+<size>11</size></content>
+
+<content start="241" end="243">
+<href>script_delay.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="243" end="244">
+<size>11</size></content>
+
+<content start="244" end="260">
+<size>11</size></content>
+
+<content start="260" end="261">
+</content>
+
+</paragraph>
+<paragraph start="261" end="262">
+<RightIndent>20.0</RightIndent>
+<content start="261" end="262">
+</content>
+
+</paragraph>
+<paragraph start="262" end="281">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="262" end="264">
+<size>11</size></content>
+
+<content start="264" end="267">
+<href>CountingTool.cml</href><size>11</size></content>
+
+<content start="267" end="270">
+<size>11</size></content>
+
+<content start="270" end="272">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="272" end="275">
+<size>11</size></content>
+
+<content start="275" end="278">
+<href>chargeAction.cml</href><size>11</size></content>
+
+<content start="278" end="280">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

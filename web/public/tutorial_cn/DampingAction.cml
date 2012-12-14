@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Damping Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#38459;&#23612;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#19968;&#20010;&#23545;&#35937;&#19978;&#30340;&#38459;&#23612;&#21147;&#26159;&#19968;&#31181;&#19982;&#23545;&#35937;&#30340;&#36895;&#24230;&#25104;&#27491;&#27604;&#30340;&#19968;&#31181;&#21147;&#65292;&#20854;&#26041;&#21521;&#19982;&#20854;&#36816;&#21160;&#30340;&#26041;&#21521;&#30456;&#21453;&#12290;&#22240;&#27492;&#65292;&#24403;&#26045;&#21152;&#35813;&#21147;&#26102;&#65292;&#23427;&#20250;&#20943;&#32531;&#23545;&#35937;&#30340;&#36895;&#24230;&#12290;&#29289;&#20307;&#36816;&#21160;&#30340;&#36895;&#24230;&#36234;&#24555;&#65292;&#20854;&#38459;&#23612;&#21147;&#36234;&#22823;&#12290;
+
+&#20320;&#21487;&#20197;&#29992;&#19979;&#38754;&#30340;&#27169;&#22411;&#65292;&#20351;&#29992;&#38459;&#23612;&#24037;&#20855;&#36827;&#34892;&#32451;&#20064;&#65306;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#21487;&#20197;&#20351;&#29992; &#38459;&#23612; &#21629;&#20196;&#21521;&#25152;&#36873;&#25321;&#30340;&#31890;&#23376;&#26045;&#21152;&#19968;&#20010;&#20855;&#26377;&#25351;&#23450;&#25705;&#25830;&#31995;&#25968;&#30340;&#38459;&#23612;&#21147;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="206">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>restrainAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>rotateAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="103">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="103">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="103" end="104">
+<LeftIndent>140.0</LeftIndent>
+<content start="103" end="104">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="104" end="126">
+<LeftIndent>140.0</LeftIndent>
+<content start="104" end="125">
+<size>11</size></content>
+
+<content start="125" end="126">
+</content>
+
+</paragraph>
+<paragraph start="126" end="127">
+<LeftIndent>100.0</LeftIndent>
+<content start="126" end="127">
+</content>
+
+</paragraph>
+<paragraph start="127" end="129">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="127" end="128">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>DampingAction$0.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+<button>Increase Damping</button><button>Decrease Damping</button><button>Change Velocity</button><button>Select Object</button></component></content>
+
+<content start="128" end="129">
+</content>
+
+</paragraph>
+<paragraph start="129" end="144">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="129" end="143">
+<size>10</size></content>
+
+<content start="143" end="144">
+</content>
+
+</paragraph>
+<paragraph start="144" end="145">
+<RightIndent>20.0</RightIndent>
+<content start="144" end="145">
+</content>
+
+</paragraph>
+<paragraph start="145" end="150">
+<LeftIndent>140.0</LeftIndent>
+<content start="145" end="149">
+<bold>true</bold><size>11</size></content>
+
+<content start="149" end="150">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="150" end="151">
+<LeftIndent>140.0</LeftIndent>
+<content start="150" end="151">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="151" end="186">
+<LeftIndent>140.0</LeftIndent>
+<content start="151" end="155">
+<size>11</size></content>
+
+<content start="155" end="156">
+<size>11</size></content>
+
+<content start="156" end="158">
+<href>script_damp.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="158" end="185">
+<size>11</size></content>
+
+<content start="185" end="186">
+</content>
+
+</paragraph>
+<paragraph start="186" end="187">
+<RightIndent>20.0</RightIndent>
+<content start="186" end="187">
+</content>
+
+</paragraph>
+<paragraph start="187" end="206">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="187" end="189">
+<size>11</size></content>
+
+<content start="189" end="192">
+<href>restrainAction.cml</href><size>11</size></content>
+
+<content start="192" end="195">
+<size>11</size></content>
+
+<content start="195" end="197">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="197" end="200">
+<size>11</size></content>
+
+<content start="200" end="203">
+<href>rotateAction.cml</href><size>11</size></content>
+
+<content start="203" end="205">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

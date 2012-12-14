@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Printing a model, making screenshots and producing image streams</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#25171;&#21360;&#19968;&#20010;&#27169;&#22411;&#65292;&#36827;&#34892;&#23631;&#24149;&#25130;&#22270;&#21644;&#29983;&#25104;&#22270;&#20687;&#27969;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#8220;&#22522;&#30784;&#8221;&#37096;&#20998;&#26174;&#31034; &#22914;&#20309;&#25171;&#21360;&#39029;&#38754;&#12290;&#20107;&#23454;&#19978;&#65292;&#20320;&#21487;&#20197;&#21482;&#25171;&#21360;&#19968;&#20010;&#27169;&#22411;&#65292;&#32780;&#26080;&#38656;&#25171;&#21360;&#39029;&#38754;&#19978;&#30340;&#20854;&#20182;&#19996;&#35199;&#12290;&#20174;&#27169;&#22411;&#23481;&#22120;&#30340;&#25991;&#20214;&#33756;&#21333;&#36873;&#25321;&#8220;&#25171;&#21360;&#8221;&#39033;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#25805;&#20316;&#31995;&#32479;&#30340;&#25171;&#21360;&#26426;&#23545;&#35805;&#26694;&#31383;&#21475;&#23558;&#34987;&#35843;&#29992;&#12290;&#39029;&#38754;&#35774;&#32622;&#39033;&#65292;&#20801;&#35768;&#20320;&#20026;&#25171;&#21360;&#27169;&#22411;&#35774;&#32622;&#39029;&#38754;&#26684;&#24335;(&#20363;&#22914;&#65292;&#27178;&#21521;&#25110;&#32437;&#21521;)&#12290;
+
+&#22914;&#26524;&#36873;&#25321;&#25991;&#20214;&#33756;&#21333;&#30340;&#8220;&#20445;&#23384;&#19968;&#20010;&#27169;&#22411;&#30340;&#23631;&#24149;&#25130;&#22270;&#8221;&#36873;&#39033;&#65292;&#21487;&#20197;&#22312;JPEG&#25110;PNG&#26684;&#24335;&#19979;&#20445;&#23384;&#22270;&#20687;&#30340;&#19968;&#20010;&#27169;&#22411; (&#25105;&#20204;&#25512;&#33616;&#20351;&#29992;PNG&#26684;&#24335;)&#12290;
+
+&#22914;&#26524;&#20320;&#24819;&#21019;&#24314;&#19968;&#20010;&#22270;&#20687;&#27969;(PNG&#26684;&#24335;)&#65292;&#35831;&#36873;&#25321;&#8220;&#20445;&#23384;&#22270;&#20687;&#27969;&#8221;&#36873;&#39033;&#12290;&#36873;&#25321;&#33756;&#21333;&#39033;&#21518;&#65292;&#20320;&#21487;&#20197;&#22312;&#25509;&#19979;&#26469;&#23558;&#35201;&#20986;&#29616;&#30340;&#23545;&#35805;&#26694;&#20013;&#25351;&#23450;&#30005;&#24433;&#21442;&#25968;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#8220;&#27983;&#35272;&#8221;&#25353;&#38062;&#65292;&#20801;&#35768;&#20320;&#36873;&#25321;&#19968;&#20010;&#23384;&#25918;PHG&#22270;&#20687;&#30340;&#30446;&#24405;&#12290;&#22270;&#20687;&#25991;&#20214;&#30340;&#25968;&#37327;(&#24103;)&#21644;&#25293;&#29031;&#23427;&#20204;&#30340;&#26102;&#38388;&#38388;&#38548;&#21487;&#20197;&#22312;&#22312;&#25509;&#19979;&#26469;&#30340;&#20004;&#20010;&#19979;&#25289;&#21015;&#34920;&#20013;&#25351;&#23450;&#12290;&#22312;&#21019;&#24314;&#20102;&#22270;&#20687;&#27969;&#20043;&#21518;&#65292;&#20320;&#21487;&#20197;&#20351;&#29992;&#20854;&#20182;&#36719;&#20214;&#24037;&#20855;(&#22914;&#65292;Adobe PhotoshopTM)&#23548;&#20837;&#25152;&#26377;&#30340;&#26694;&#26550;&#24182;&#20197;&#19981;&#21516;&#30340;&#35270;&#39057;&#26684;&#24335;&#36827;&#34892;&#32534;&#30721;(&#27604;&#22914;&#21160;&#30011;GIF&#25110;QuicktimeTM)&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="486">
+<paragraph start="0" end="20">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="19">
+<size>15</size><bold>true</bold><italic>true</italic></content>
+
+<content start="19" end="20">
+<bold>true</bold><italic>true</italic></content>
+
+</paragraph>
+<paragraph start="20" end="21">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="20" end="21">
+</content>
+
+</paragraph>
+<paragraph start="21" end="40">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="21" end="23">
+<size>11</size></content>
+
+<content start="23" end="26">
+<size>11</size><href>autostop.cml</href></content>
+
+<content start="26" end="29">
+<size>11</size></content>
+
+<content start="29" end="31">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="31" end="34">
+<size>11</size></content>
+
+<content start="34" end="37">
+<size>11</size><href>modelProp.cml</href></content>
+
+<content start="37" end="39">
+<size>11</size></content>
+
+<content start="39" end="40">
+</content>
+
+</paragraph>
+<paragraph start="40" end="41">
+<LeftIndent>100.0</LeftIndent>
+<content start="40" end="41">
+</content>
+
+</paragraph>
+<paragraph start="41" end="105">
+<LeftIndent>140.0</LeftIndent>
+<content start="41" end="50">
+<size>11</size></content>
+
+<content start="50" end="56">
+<size>11</size><href>print.cml</href></content>
+
+<content start="56" end="105">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="105" end="106">
+<LeftIndent>140.0</LeftIndent>
+<content start="105" end="106">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="106" end="109">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="106" end="107">
+<size>11</size></content>
+
+<content start="107" end="108">
+<icon>FileMenu.gif</icon></content>
+
+<content start="108" end="109">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="109" end="121">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="109" end="120">
+<size>10</size></content>
+
+<content start="120" end="121">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="121" end="122">
+<LeftIndent>140.0</LeftIndent>
+<content start="121" end="122">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="122" end="172">
+<LeftIndent>140.0</LeftIndent>
+<content start="122" end="172">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="172" end="173">
+<LeftIndent>140.0</LeftIndent>
+<content start="172" end="173">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="173" end="237">
+<LeftIndent>140.0</LeftIndent>
+<content start="173" end="237">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="237" end="238">
+<content start="237" end="238">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="238" end="301">
+<LeftIndent>140.0</LeftIndent>
+<content start="238" end="301">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="301" end="302">
+<LeftIndent>100.0</LeftIndent>
+<content start="301" end="302">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="302" end="305">
+<LeftIndent>100.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="302" end="303">
+<size>11</size></content>
+
+<content start="303" end="304">
+<size>11</size><icon>SMILMovieCreator.gif</icon></content>
+
+<content start="304" end="305">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="305" end="317">
+<LeftIndent>100.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="305" end="316">
+<size>10</size></content>
+
+<content start="316" end="317">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="317" end="318">
+<LeftIndent>100.0</LeftIndent>
+<content start="317" end="318">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="318" end="466">
+<LeftIndent>140.0</LeftIndent>
+<content start="318" end="465">
+<size>11</size></content>
+
+<content start="465" end="466">
+</content>
+
+</paragraph>
+<paragraph start="466" end="467">
+<LeftIndent>100.0</LeftIndent>
+<content start="466" end="467">
+</content>
+
+</paragraph>
+<paragraph start="467" end="486">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="467" end="469">
+<size>11</size></content>
+
+<content start="469" end="472">
+<size>11</size><href>autostop.cml</href></content>
+
+<content start="472" end="475">
+<size>11</size></content>
+
+<content start="475" end="477">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="477" end="480">
+<size>11</size></content>
+
+<content start="480" end="484">
+<size>11</size><href>modelProp.cml</href></content>
+
+<content start="484" end="485">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

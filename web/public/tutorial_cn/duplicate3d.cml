@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Duplicating a molecule</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#22797;&#21046;&#20998;&#23376;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#22914;&#26524;&#24050;&#32463;&#24314;&#36896;&#20102;&#19968;&#20010;&#20998;&#23376;, &#21487;&#20197;&#29992;&#22797;&#21046;&#24037;&#20855; (&quot; &quot;)&#26469;&#22810;&#20221;&#22797;&#21046;&#12290;&#19968;&#20010;&#22797;&#21046;&#30340;&#20998;&#23376;&#19982;&#21407;&#26469;&#20998;&#23376;&#26377;&#30528;&#23436;&#20840;&#30456;&#21516;&#30340;&#20869;&#37096;&#22352;&#26631;&#21644;&#38190;&#32467;&#26500;&#12290;
+
+&#20363;&#22914;,&#22312;&#20197;&#19979;&#27169;&#22411;&#20013;, &#25105;&#20204;&#24050;&#32463;&#30001;&#20004;&#20010;&#33519;&#20998;&#23376;&#21019;&#24314;&#20102;&#19968;&#20010;&#33816;&#20998;&#23376;&#12290;&#23613;&#31649;&#36825;&#20010;&#36807;&#31243;&#30456;&#24403;&#31616;&#21333; &#8211; &#21482;&#26159;&#28857;&#20987;&#20960;&#19979;&#40736;&#26631;&#65292;&#25105;&#20204;&#19981;&#24819;&#37325;&#22797;&#22914;&#27492;&#21333;&#35843;&#30340;&#36807;&#31243;&#12290;&#25152;&#20197;&#25105;&#20204;&#21487;&#20197;&#29992;&#22797;&#21046;&#24037;&#20855;&#26469;&#22797;&#21046;&#24819;&#35201;&#30340;&#33816;&#20998;&#23376;&#25968;&#37327;&#65288;&#21463;&#38480;&#20110;&#21333;&#20010;&#27169;&#22411;&#20013;&#25152;&#20801;&#35768;&#30340;&#21407;&#23376;&#26368;&#22823;&#25968;&#30446;&#65289;&#12290;
+
+&#22914;&#26524;&#27809;&#26377;&#30475;&#21040; &quot; &quot; &#22270;&#26631;&#65292;&#23601;&#25214;&#26377; &quot; &quot; &#22270;&#26631;&#30340;&#25353;&#38062;&#65292;&#28982;&#21518;&#21491;&#20987;&#65288;&#25110;CTRL +&#21333;&#20987;Mac OS X &#38750;&#22810;&#37325;&#25353;&#38062;&#40736;&#26631;&#65289;&#25353;&#38062;&#12290;&#23601;&#20250;&#30475;&#21040;&#19968;&#20010;&#24555;&#25463;&#33756;&#21333;&#65292;&#22312;&#24555;&#25463;&#33756;&#21333;&#20013;&#21487;&#20197;&#30475;&#21040;&#8220;&#8221;&#22270;&#26631;&#12290;&#36873;&#23450;&#23427;&#24182;&#25353;&#25353;&#38062;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="334">
+<paragraph start="0" end="5">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="4">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<size>11</size><href>tbond3d.cml</href></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<size>11</size><href>delete3d.cml</href></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>140.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="87">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="49">
+<size>11</size></content>
+
+<content start="49" end="50">
+<icon>DuplicateMolecule.gif</icon></content>
+
+<content start="50" end="87">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="87" end="88">
+<LeftIndent>140.0</LeftIndent>
+<content start="87" end="88">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="88" end="198">
+<LeftIndent>140.0</LeftIndent>
+<content start="88" end="198">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="198" end="199">
+<LeftIndent>140.0</LeftIndent>
+<content start="198" end="199">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="199" end="296">
+<LeftIndent>140.0</LeftIndent>
+<content start="199" end="207">
+<size>11</size></content>
+
+<content start="207" end="208">
+<icon>DuplicateMolecule.gif</icon></content>
+
+<content start="208" end="218">
+<size>11</size></content>
+
+<content start="218" end="219">
+<icon>RotateAtoms.gif</icon></content>
+
+<content start="219" end="296">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="296" end="297">
+<LeftIndent>140.0</LeftIndent>
+<content start="296" end="297">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="297" end="299">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="297" end="298">
+<component><class>org.concord.modeler.PageMd3d</class><resource>duplicate3d$0.mdd</resource><coordinate>duplicate3d$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="298" end="299">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="299" end="313">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="299" end="313">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="313" end="314">
+<LeftIndent>140.0</LeftIndent>
+<content start="313" end="314">
+</content>
+
+</paragraph>
+<paragraph start="314" end="315">
+<LeftIndent>140.0</LeftIndent>
+<content start="314" end="315">
+</content>
+
+</paragraph>
+<paragraph start="315" end="334">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="315" end="317">
+<size>11</size></content>
+
+<content start="317" end="320">
+<size>11</size><href>tbond3d.cml</href></content>
+
+<content start="320" end="323">
+<size>11</size></content>
+
+<content start="323" end="325">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="325" end="328">
+<size>11</size></content>
+
+<content start="328" end="331">
+<size>11</size><href>delete3d.cml</href></content>
+
+<content start="331" end="333">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

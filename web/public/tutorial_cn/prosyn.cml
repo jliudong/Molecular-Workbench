@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Using the Protein Synthesis Simulator</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#20351;&#29992;&#34507;&#30333;&#36136;&#21512;&#25104;&#65288;&#29289;&#65289;&#27169;&#25311;&#22120;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#36890;&#36807;DNA&#36716;&#24405;&#21644;&#36716;&#35793;&#65292;&#34507;&#30333;&#36136;&#30340;&#21512;&#25104;&#26159;&#20998;&#23376;&#29983;&#29289;&#23398;&#30340;&#20013;&#24515;&#27861;&#21017;&#12290;&#30001;&#20110;&#20854;&#33258;&#36523;&#30340;&#26681;&#26412;&#37325;&#35201;&#24615;,&#29992;&#19968;&#20010;&#19987;&#38376;&#35774;&#35745;&#27169;&#22411;&#23481;&#22120;&#26469;&#38416;&#26126;&#23427;&#12290;&#22522;&#20110; &#31616;&#26131;&#27169;&#22411;.&#65292;&#27169;&#25311;&#26159;&#19968;&#20010;&#25511;&#21046;&#21160;&#30011;&#21644;&#34507;&#30333;&#36136;&#20998;&#23376;&#21160;&#21147;&#23398;&#35745;&#31639;&#30340;&#32452;&#21512;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#29992;&#20110;&#34507;&#30333;&#36136;&#21512;&#25104;&#30340;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&#23481;&#22120;&#30340;&#24213;&#37096;&#26377;&#19968;&#20010;&#25511;&#21046;&#26438; (&#22312;DNA&#28378;&#21160;&#26465;&#19979;),&#21487;&#20197;&#29992;&#20110;&#36816;&#34892;&#25110;&#33258;&#23450;&#20041;&#27169;&#22411;&#65306;
+
+ &#36825;&#20010;&#25353;&#38062;&#21487;&#20197;&#29992;&#26469;&#33258;&#23450;&#20041;&#23494;&#30721;&#23376;&#21160;&#30011;&#12290;&#20004;&#20010;&#21442;&#25968;&#65292;&#19968;&#20010;&#20855;&#20307;&#35828;&#26126;&#36716;&#24405;&#30340;&#36895;&#24230;&#65292;&#21478;&#19968;&#20010;&#35828;&#26126;&#36716;&#21464;&#30340;&#36895;&#24230;&#65292;&#21487;&#20197;&#28857;&#20987;&#25353;&#38062;&#24320;&#21551;&#23545;&#35805;&#31383;&#21475;&#26469;&#35774;&#32622;&#12290;
+
+ &#36825;&#20010;&#25353;&#38062;&#21487;&#20197;&#29992;&#26469;&#36755;&#20837;&#19968;&#20010;DNA&#38142;(&#22797;&#21046;&#65292;&#31896;&#36148;,&#25110;&#25171;&#23383;&#36755;&#20837;)&#12290;DNA&#20195;&#30721;&#24212;&#35813;&#24212;&#29992;&#21040;&#26377;&#20041;&#38142;&#65292;&#20363;&#22914;&#65292;5 &apos;- 3 &apos;&#38142;&#12290;&#19968;&#20010;ATG&#19977;&#32852;&#24577;&#65292;&#34920;&#31034;&#36716;&#21270;&#30340;&#24320;&#22987;&#65292;&#23427;&#23558;&#20250;&#38468;&#22312;&#20320;&#36755;&#20837;&#30340;&#39034;&#24207;&#30340;&#36215;&#28857;&#65292;&#20551;&#22914;&#19981;&#26159;&#20197;ATG&#24320;&#22987;&#12290;
+
+ &#36825;&#20010;&#25353;&#38062;&#29992;&#26469;&#37325;&#35774;&#25972;&#20010;&#27169;&#25311;&#12290;&#24403;&#25353;&#37325;&#35774;&#25353;&#38062;&#26102;&#65292;&#27169;&#22411;&#20250;&#37325;&#26032;&#35774;&#32622;&#21040;&#20320;&#38024;&#23545;&#34507;&#30333;&#36136;&#30456;&#20114;&#20316;&#29992;&#30340;&#26368;&#21021;&#35774;&#32622;&#12290;
+
+ &#36825;&#20010;&#25353;&#38062;&#26159;&#26242;&#20572;&#27169;&#25311;&#12290;
+
+ &#36825;&#20010;&#25353;&#38062;&#26159;&#21333;&#27493;&#35843;&#35797;&#27169;&#25311;&#12290;&#20063;&#23601;&#26159;&#35828;&#65292;&#27599;&#28857;&#20987;&#19968;&#27425;&#25353;&#38062;&#65292;&#19968;&#20010;&#19988;&#21482;&#26377;&#19968;&#20010;&#36716;&#24405;&#25110;&#36716;&#21464;&#27493;&#39588;&#23436;&#25104;&#12290;
+
+ &#36825;&#20010;&#25353;&#38062;&#26159;&#24320;&#22987;&#25110;&#37325;&#26032;&#24320;&#22987;&#27169;&#25311;&#12290;&#22914;&#26524;&#19968;&#24320;&#22987;&#65292;&#23601;&#28857;&#20987;&#36825;&#20010;&#25353;&#38062;,&#27169;&#25311;&#20250;&#20174;&#36716;&#24405;&#24320;&#22987;&#21040;&#36716;&#21464;&#32467;&#26463;&#12290;
+
+&#20174;&#38646;&#24320;&#22987;&#21019;&#24314;&#19968;&#20010;&#34507;&#30333;&#36136;&#21512;&#25104;&#27169;&#22411;&#65292;&#36981;&#24490;&#20197;&#19979;&#27493;&#39588;&#65306;
+
+&#10112; &#26032;&#24314;&#19968;&#20010;&#39029;&#38754;&#65306; &#25991;&#20214; &gt; &#26032;&#31354;&#30333;&#39029;
+
+&#10113; &#25554;&#20837;&#19968;&#20010;&#34507;&#30333;&#36136;&#21512;&#25104;&#27169;&#22411;&#65306; &#25554;&#20837;&gt;&#27169;&#22411;&#23481;&#22120;&gt; 2 D&#34507;&#30333;&#36136;&#21512;&#25104;&#27169;&#25311;&#22120;&#12290;&#20250;&#38382;&#20320;&#26159;&#21542;&#24819;&#35201;&#22312;DNA&#38142;&#19978;&#38468;&#21152;&#19968;&#20010;&#21551;&#21160;&#23376;&#21644;&#19968;&#20010;&#32456;&#27490;&#23376;&#12290;&#21551;&#21160;&#23376;&#21306;&#21644;&#32456;&#27490;&#23376;&#21306;&#65292;&#38468;&#21152;&#22312;&#32534;&#30721;&#21306;&#65292;&#21487;&#20197;&#24110;&#21161;&#20256;&#36798;&#65316;&#65326;&#65313;&#19981;&#20165;&#26159;&#20998;&#23376;&#65292;&#32780;&#19988;&#26159;&#22312;&#36951;&#20256;&#29615;&#22659;&#20013;&#30340;&#36825;&#26679;&#19968;&#20010;&#27010;&#24565;&#12290;&#40664;&#35748;&#24773;&#20917;&#19979;&#65292;&#35813;&#27169;&#22411;&#23481;&#22120;&#27809;&#26377;&#33756;&#21333;&#26639;&#21644;&#24037;&#20855;&#26639;&#12290;&#36827;&#20837;&#27169;&#22411;&#23481;&#22120;&#30340;&#21151;&#33021;&#65292;&#35832;&#22914;&#35843;&#25972;&#23481;&#22120;&#65292;&#21487;&#20197;&#24038;&#20987;&#33756;&#21333;&#28155;&#21152;&#33756;&#21333;&#26639;&#65292;&#25110;&#22312;&#24037;&#20855;&#26639;&#36873;&#25321;&#24037;&#20855;&#26639;&#25353;&#38062;&#12290;&#24378;&#28872;&#24314;&#35758;&#65292;&#24403;&#29992;&#23436;&#27169;&#22411;&#65292;&#38544;&#34255;&#24037;&#20855;&#26639;&#21644;&#33756;&#21333;&#26639;&#65292;&#22240;&#20026;&#23427;&#20204;&#30340;&#21151;&#33021;&#21487;&#33021;&#20250;&#24178;&#25200;&#34507;&#30333;&#36136;&#21512;&#25104;&#27169;&#22411;&#12290;
+
+&#10114; &#26032;&#25554;&#20837;&#30340;&#34507;&#30333;&#36136;&#21512;&#25104;&#27169;&#22411;&#26377;&#19968;&#20010;&#40664;&#35748;&#30340;DNA&#29255;&#27573;&#65292;&#21253;&#21547;&#19968;&#20010;&#21551;&#21160;&#23376;&#65292;&#19968;&#20010;&#26377;&#40664;&#35748;&#20195;&#30721;&#30340;&#32534;&#30721;&#21306;&#21644;&#19968;&#20010;&#32456;&#27490;&#23376;&#12290;&#21487;&#20197;&#22312;&#27169;&#22411;&#23481;&#22120;&#30340;&#24213;&#37096;&#28857;&#20987; &quot; &quot;&#25353;&#38062;&#36755;&#20837;&#19968;&#20010;DNA&#38142;&#12290;&#21487;&#20197;&#36755;&#20837;&#30340;&#26368;&#22823;&#38271;&#24230;DNA&#24207;&#21015;,&#26159;1500&#20010;&#26680;&#33527;&#37240;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="897">
+<paragraph start="0" end="14">
+<RightIndent>8.0</RightIndent>
+<Alignment>2</Alignment>
+<SpaceAbove>8.0</SpaceAbove>
+<content start="0" end="13">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="13" end="14">
+<size>14</size><bold>true</bold></content>
+
+</paragraph>
+<paragraph start="14" end="15">
+<RightIndent>8.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="14" end="15">
+</content>
+
+</paragraph>
+<paragraph start="15" end="34">
+<RightIndent>8.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="15" end="23">
+<size>11</size></content>
+
+<content start="23" end="25">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="25" end="28">
+<size>11</size></content>
+
+<content start="28" end="31">
+<size>11</size><href>prosyn2.cml</href></content>
+
+<content start="31" end="33">
+<size>11</size></content>
+
+<content start="33" end="34">
+</content>
+
+</paragraph>
+<paragraph start="34" end="35">
+<LeftIndent>140.0</LeftIndent>
+<content start="34" end="35">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="35" end="126">
+<LeftIndent>140.0</LeftIndent>
+<content start="35" end="95">
+<size>11</size></content>
+
+<content start="95" end="99">
+<size>11</size><href>../teacher/molsim/folding.cml</href></content>
+
+<content start="99" end="126">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="126" end="127">
+<LeftIndent>140.0</LeftIndent>
+<content start="126" end="127">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="127" end="129">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="127" end="128">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>prosyn$0.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+<dna>ATGGGGGGGGGGAAGGGAGTTGGCGTAGATTTTCAAATGGCGGGGAAACCCTTTGGGGGGGGGAAAGTGCCCCCCTTTAAATCCGGGGGGGGGCCCGGGTGAAAAGGGCCCTTTGGGTAGCCCTGGCCCAAACACGAATTT</dna><dna_dt1>10</dna_dt1><dna_dt2>500</dna_dt2><dna_context>true</dna_context></component></content>
+
+<content start="128" end="129">
+</content>
+
+</paragraph>
+<paragraph start="129" end="151">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="129" end="150">
+<size>10</size></content>
+
+<content start="150" end="151">
+</content>
+
+</paragraph>
+<paragraph start="151" end="152">
+<LeftIndent>8.0</LeftIndent>
+<SpaceAbove>8.0</SpaceAbove>
+<content start="151" end="152">
+</content>
+
+</paragraph>
+<paragraph start="152" end="189">
+<LeftIndent>140.0</LeftIndent>
+<content start="152" end="188">
+<size>10</size></content>
+
+<content start="188" end="189">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="189" end="190">
+<LeftIndent>140.0</LeftIndent>
+<content start="189" end="190">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="190" end="253">
+<LeftIndent>160.0</LeftIndent>
+<content start="190" end="191">
+<icon>Animation.gif</icon></content>
+
+<content start="191" end="252">
+</content>
+
+<content start="252" end="253">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="253" end="254">
+<LeftIndent>160.0</LeftIndent>
+<content start="253" end="254">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="254" end="356">
+<LeftIndent>160.0</LeftIndent>
+<content start="254" end="255">
+<icon>DNACode.gif</icon></content>
+
+<content start="255" end="355">
+</content>
+
+<content start="355" end="356">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="356" end="357">
+<LeftIndent>160.0</LeftIndent>
+<content start="356" end="357">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="357" end="404">
+<LeftIndent>160.0</LeftIndent>
+<content start="357" end="358">
+<icon>Reset.gif</icon></content>
+
+<content start="358" end="404">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="404" end="405">
+<LeftIndent>160.0</LeftIndent>
+<content start="404" end="405">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="405" end="417">
+<LeftIndent>160.0</LeftIndent>
+<content start="405" end="406">
+<icon>Pause.gif</icon></content>
+
+<content start="406" end="417">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="417" end="418">
+<LeftIndent>160.0</LeftIndent>
+<content start="417" end="418">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="418" end="462">
+<LeftIndent>160.0</LeftIndent>
+<content start="418" end="419">
+<icon>StepForward.gif</icon></content>
+
+<content start="419" end="462">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="462" end="463">
+<LeftIndent>160.0</LeftIndent>
+<content start="462" end="463">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="463" end="508">
+<LeftIndent>160.0</LeftIndent>
+<content start="463" end="464">
+<icon>Play.gif</icon></content>
+
+<content start="464" end="508">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="508" end="509">
+<LeftIndent>140.0</LeftIndent>
+<content start="508" end="509">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="509" end="533">
+<LeftIndent>140.0</LeftIndent>
+<content start="509" end="533">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="533" end="534">
+<LeftIndent>140.0</LeftIndent>
+<content start="533" end="534">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="534" end="554">
+<LeftIndent>140.0</LeftIndent>
+<content start="534" end="535">
+<size>14</size></content>
+
+<content start="535" end="554">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="554" end="555">
+<LeftIndent>140.0</LeftIndent>
+<content start="554" end="555">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="555" end="772">
+<LeftIndent>140.0</LeftIndent>
+<content start="555" end="556">
+<size>14</size></content>
+
+<content start="556" end="772">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="772" end="773">
+<LeftIndent>140.0</LeftIndent>
+<content start="772" end="773">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="773" end="877">
+<LeftIndent>140.0</LeftIndent>
+<content start="773" end="774">
+<size>14</size></content>
+
+<content start="774" end="838">
+<size>11</size></content>
+
+<content start="838" end="839">
+<icon>DNACode.gif</icon></content>
+
+<content start="839" end="877">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="877" end="878">
+<LeftIndent>140.0</LeftIndent>
+<content start="877" end="878">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="878" end="897">
+<RightIndent>8.0</RightIndent>
+<Alignment>2</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="878" end="886">
+<size>11</size></content>
+
+<content start="886" end="888">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="888" end="891">
+<size>11</size></content>
+
+<content start="891" end="894">
+<size>11</size><href>prosyn2.cml</href></content>
+
+<content start="894" end="896">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

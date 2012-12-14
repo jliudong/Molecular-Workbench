@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Deleting Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#21024;&#38500;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#24403;&#20320;&#36873;&#25321;&#19968;&#20010;&#23545;&#35937;&#65292;&#20320;&#21482;&#38656;&#28857;&#20987;CTRL + X(&#20803;+ X&#22312;Mac)&#12289;&#21024;&#38500;&#25110;&#36864;&#26684;&#38190;&#26469;&#21024;&#38500;&#23427;&#12290;&#28982;&#32780;&#65292;&#36825;&#21482;&#20801;&#35768;&#20320;&#19968;&#27425;&#21024;&#38500;&#19968;&#20010;&#23545;&#35937;&#12290;
+
+&#22914;&#26524;&#20320;&#24819;&#19968;&#27425;&#21024;&#38500;&#22810;&#20010;&#23545;&#35937;&#65292;&#35831;&#20351;&#29992;&#21024;&#38500;&#24037;&#20855;&#12290;&#39318;&#20808;&#21333;&#20987;&#25353;&#38062;(&quot; &quot;) &#65292;&#28982;&#21518;&#25302;&#21160;&#40736;&#26631;&#26469;&#35774;&#32622;&#30697;&#24418;&#21306;&#22495;&#30340;&#22823;&#23567;&#65292;&#22312;&#37322;&#25918;&#40736;&#26631;&#25353;&#38062;&#26102;&#65292;&#35813;&#21306;&#22495;&#20869;&#30340;&#25152;&#26377;&#21407;&#23376;&#65292;&#36830;&#21516;&#19982;&#36825;&#20123;&#34987;&#21024;&#38500;&#30340;&#21407;&#23376;&#30456;&#20851;&#30340;&#25152;&#26377;&#30340;&#24452;&#21521;&#38190;&#21644;&#35282;&#38190;&#65292;&#37117;&#23558;&#34987;&#21024;&#38500;&#65292;&#22914;&#19979;&#25152;&#31034;&#65306;
+
+
+  
+
+&#22914;&#26524;&#20320;&#22312;&#22788;&#29702;&#19968;&#20010;Gay-Berne&#27169;&#22411;&#65292;Gay-Berne&#31890;&#23376;&#21487;&#20197;&#31867;&#20284;&#30340;&#26041;&#24335;&#34987;&#21024;&#38500;&#65306;
+
+  
+
+&#25152;&#26377;&#30340;&#20854;&#20182;&#32452;&#20214;&#65292;&#22914;&#38556;&#30861;&#21644;&#25991;&#26412;&#26694;&#65292;&#22914;&#26524;&#23427;&#20204;&#19982;&#25152;&#36873;&#25321;&#30340;&#21306;&#22495;&#30456;&#20132;&#65292;&#20063;&#23558;&#20250;&#34987;&#21024;&#38500;&#12290;
+
+&#22914;&#26524;&#19981;&#23567;&#24515;&#21024;&#38500;&#20102;&#19968;&#20123;&#20320;&#24182;&#19981;&#24819;&#21024;&#38500;&#30340;&#19996;&#35199;&#65292;&#20320;&#21487;&#20197;&#20351;&#29992;&#8220;&#32534;&#36753;&gt;&#25764;&#38144;&#8221;&#33756;&#21333;&#12289;&#25110;CTRL + Z(Windows)/&#20803;+ Z(Mac OS X)&#26469;&#21462;&#28040;&#36825;&#20010;&#25805;&#20316;&#12290;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#21024;&#38500; &#21629;&#20196;&#65292;&#36830;&#21516; &#36873;&#25321; &#19968;&#36215;&#65292;&#21487;&#20197;&#36890;&#36807;&#20351;&#29992; &#36923;&#36753;&#34920;&#36798;&#24335;. &#20197;&#36873;&#25321;&#21629;&#20196;&#25152;&#20801;&#35768;&#30340;&#25152;&#26377;&#28789;&#27963;&#30340;&#26041;&#24335;&#21024;&#38500;&#23545;&#35937;&#12290;&#20363;&#22914;&#65292;&#20351;&#29992;&#22312;&#20869;&#26465;&#27454;&#65292;&#20320;&#21487;&#20197;&#22312;&#19968;&#20010;&#25351;&#23450;&#30340;&#30697;&#24418;&#21306;&#22495;&#20869;&#21024;&#38500;&#26576;&#20123;&#31867;&#22411;&#30340;&#21407;&#23376;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="477">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>rotateAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>duplicateAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="88">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="88">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="88" end="89">
+<LeftIndent>140.0</LeftIndent>
+<content start="88" end="89">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="89" end="195">
+<LeftIndent>140.0</LeftIndent>
+<content start="89" end="118">
+<size>11</size></content>
+
+<content start="118" end="119">
+<size>11</size><icon>BlockRemove.gif</icon></content>
+
+<content start="119" end="195">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="195" end="196">
+<LeftIndent>100.0</LeftIndent>
+<content start="195" end="196">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="196" end="197">
+<LeftIndent>100.0</LeftIndent>
+<content start="196" end="197">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="197" end="200">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="197" end="198">
+<size>11</size></content>
+
+<content start="198" end="199">
+<size>11</size><icon>deleteAtomsScene.gif</icon></content>
+
+<content start="199" end="200">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="200" end="201">
+<LeftIndent>100.0</LeftIndent>
+<content start="200" end="201">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="201" end="244">
+<LeftIndent>140.0</LeftIndent>
+<content start="201" end="244">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="244" end="245">
+<LeftIndent>100.0</LeftIndent>
+<content start="244" end="245">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="245" end="248">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="245" end="246">
+<size>11</size></content>
+
+<content start="246" end="247">
+<size>11</size><icon>deleteGBsScene.gif</icon></content>
+
+<content start="247" end="248">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="248" end="249">
+<LeftIndent>140.0</LeftIndent>
+<content start="248" end="249">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="249" end="287">
+<LeftIndent>140.0</LeftIndent>
+<content start="249" end="287">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="287" end="288">
+<LeftIndent>140.0</LeftIndent>
+<content start="287" end="288">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="288" end="365">
+<LeftIndent>140.0</LeftIndent>
+<content start="288" end="365">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="365" end="366">
+<LeftIndent>140.0</LeftIndent>
+<content start="365" end="366">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="366" end="371">
+<LeftIndent>140.0</LeftIndent>
+<content start="366" end="370">
+<bold>true</bold><size>11</size></content>
+
+<content start="370" end="371">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="371" end="372">
+<LeftIndent>140.0</LeftIndent>
+<content start="371" end="372">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="372" end="457">
+<LeftIndent>140.0</LeftIndent>
+<content start="372" end="374">
+<href>script_remove.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="374" end="381">
+<size>11</size></content>
+
+<content start="381" end="383">
+<href>script_select.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="383" end="394">
+<size>11</size></content>
+
+<content start="394" end="399">
+<href>script_logical.cml</href><size>11</size></content>
+
+<content start="399" end="456">
+<size>11</size></content>
+
+<content start="456" end="457">
+</content>
+
+</paragraph>
+<paragraph start="457" end="458">
+<LeftIndent>100.0</LeftIndent>
+<content start="457" end="458">
+</content>
+
+</paragraph>
+<paragraph start="458" end="477">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="458" end="460">
+<size>11</size></content>
+
+<content start="460" end="463">
+<href>rotateAction.cml</href><size>11</size></content>
+
+<content start="463" end="466">
+<size>11</size></content>
+
+<content start="466" end="468">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="468" end="471">
+<size>11</size></content>
+
+<content start="471" end="474">
+<href>duplicateAction.cml</href><size>11</size></content>
+
+<content start="474" end="476">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Synchronizing realtime simulations with premade animations</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#19982;&#39044;&#21046;&#22909;&#30340;&#21160;&#30011;&#21516;&#27493;&#23454;&#26102;&#27169;&#25311;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#20316;&#20026;&#19968;&#20010;&#32534;&#31243;&#21592;&#65292;&#20026;&#20102;&#24314;&#31435;&#19968;&#20010;&#23439;&#35266;-&#24494;&#35266;&#20851;&#31995;&#65292;&#32463;&#24120;&#38656;&#35201;&#36830;&#25509;&#65288;&#21516;&#27493;&#26356;&#22909;&#65289;&#19968;&#20010;&#20998;&#23376;&#27169;&#25311;&#21644;&#19968;&#20010;&#39044;&#21046;&#22909;&#30340;&#21160;&#30011;&#12290;&#20197;&#19979;&#27169;&#22411;&#28436;&#31034;&#20102;&#36825;&#26679;&#19968;&#20010;&#31034;&#20363;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&#22312;&#20197;&#19978;&#31383;&#21475;&#30340;&#24038;&#36793;&#26159;&#19968;&#20010;&#20998;&#23376;&#21160;&#21147;&#23398;&#27169;&#22411;&#12290;&#21491;&#36793;&#26159;&#19968;&#20010;&#21160;&#30011;GIF&#65288;&#22270;&#24418;&#20132;&#25442;&#26684;&#24335;&#65289;&#22270;&#20687;&#12290;&#36825;&#20010;&#31034;&#20363;&#20351;&#29992;&#19968;&#20010;&#31616;&#21333;&#30340;&#33258;&#23450;&#20041;&#20219;&#21153;&#65306;
+
+if(%model_time&lt;1201);
+  set %frame 0;
+  set image[0].frame 0;
+  return;
+endif;
+if(%number_of_particles&lt;10);
+  return;
+endif;
+select particle 0;
+remove;
+set image[0].frame %frame;
+++%frame;
+
+&#21327;&#35843;&#27169;&#25311;&#36807;&#31243;&#21644;&#21160;&#30011;&#36807;&#31243;&#12290;&#21160;&#30011;GIF&#25991;&#20214;&#30340;&#24490;&#29615;&#21442;&#25968;&#35774;&#32622;&#20026;- 1&#65292;&#36825;&#26679;&#24403;&#27169;&#22411;&#36816;&#34892;&#26102;&#65292;&#21487;&#31105;&#29992;&#33258;&#21160;&#25773;&#25918;&#21160;&#30011;&#12290;&#26174;&#31034;&#21160;&#30011;GIF&#30340;&#21738;&#19968;&#24103;&#21462;&#20915;&#20110;&#20197;&#19978;&#33258;&#23450;&#20041;&#33050;&#26412;&#20013;&#35745;&#31639;&#21442;&#25968;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="465">
+<paragraph start="0" end="14">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="13">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="13" end="14">
+</content>
+
+</paragraph>
+<paragraph start="14" end="15">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="14" end="15">
+</content>
+
+</paragraph>
+<paragraph start="15" end="34">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="15" end="17">
+<size>11</size></content>
+
+<content start="17" end="20">
+<size>11</size><href>TriangleInModel.cml</href></content>
+
+<content start="20" end="23">
+<size>11</size></content>
+
+<content start="23" end="25">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="25" end="28">
+<size>11</size></content>
+
+<content start="28" end="31">
+<size>11</size><href>pressureprobe.cml</href></content>
+
+<content start="31" end="33">
+<size>11</size></content>
+
+<content start="33" end="34">
+</content>
+
+</paragraph>
+<paragraph start="34" end="35">
+<RightIndent>20.0</RightIndent>
+<content start="34" end="35">
+</content>
+
+</paragraph>
+<paragraph start="35" end="100">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="35" end="99">
+<size>11</size></content>
+
+<content start="99" end="100">
+</content>
+
+</paragraph>
+<paragraph start="100" end="101">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="100" end="101">
+</content>
+
+</paragraph>
+<paragraph start="101" end="103">
+<RightIndent>20.0</RightIndent>
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="101" end="102">
+<component><class>org.concord.mw2d.activity.GBContainer</class>
+<resource>simanim$0.gbl</resource><menubar>false</menubar><recorderless>true</recorderless>
+</component></content>
+
+<content start="102" end="103">
+</content>
+
+</paragraph>
+<paragraph start="103" end="117">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="103" end="116">
+<size>10</size></content>
+
+<content start="116" end="117">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="117" end="118">
+<LeftIndent>140.0</LeftIndent>
+<content start="117" end="118">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="118" end="176">
+<LeftIndent>140.0</LeftIndent>
+<content start="118" end="176">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="176" end="177">
+<LeftIndent>140.0</LeftIndent>
+<content start="176" end="177">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="177" end="199">
+<LeftIndent>200.0</LeftIndent>
+<content start="177" end="199">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="199" end="215">
+<LeftIndent>200.0</LeftIndent>
+<content start="199" end="215">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="215" end="239">
+<LeftIndent>200.0</LeftIndent>
+<content start="215" end="239">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="239" end="249">
+<LeftIndent>200.0</LeftIndent>
+<content start="239" end="249">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="249" end="256">
+<LeftIndent>200.0</LeftIndent>
+<content start="249" end="256">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="256" end="285">
+<LeftIndent>200.0</LeftIndent>
+<content start="256" end="285">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="285" end="295">
+<LeftIndent>200.0</LeftIndent>
+<content start="285" end="295">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="295" end="302">
+<LeftIndent>200.0</LeftIndent>
+<content start="295" end="302">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="302" end="321">
+<LeftIndent>200.0</LeftIndent>
+<content start="302" end="321">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="321" end="329">
+<LeftIndent>200.0</LeftIndent>
+<content start="321" end="329">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="329" end="356">
+<LeftIndent>200.0</LeftIndent>
+<content start="329" end="356">
+<size>11</size><family>Courier New</family></content>
+
+</paragraph>
+<paragraph start="356" end="366">
+<LeftIndent>200.0</LeftIndent>
+<content start="356" end="365">
+<size>11</size><family>Courier New</family></content>
+
+<content start="365" end="366">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="366" end="367">
+<LeftIndent>140.0</LeftIndent>
+<content start="366" end="367">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="367" end="445">
+<LeftIndent>140.0</LeftIndent>
+<content start="367" end="444">
+<size>11</size></content>
+
+<content start="444" end="445">
+</content>
+
+</paragraph>
+<paragraph start="445" end="446">
+<LeftIndent>140.0</LeftIndent>
+<content start="445" end="446">
+</content>
+
+</paragraph>
+<paragraph start="446" end="465">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="446" end="448">
+<size>11</size></content>
+
+<content start="448" end="451">
+<size>11</size><href>TriangleInModel.cml</href></content>
+
+<content start="451" end="454">
+<size>11</size></content>
+
+<content start="454" end="456">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="456" end="459">
+<size>11</size></content>
+
+<content start="459" end="462">
+<size>11</size><href>pressureprobe.cml</href></content>
+
+<content start="462" end="464">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

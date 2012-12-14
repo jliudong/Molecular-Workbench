@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Dropping a molecule</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#25918;&#20837;&#20998;&#23376;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#36890;&#36807;&#25918;&#20837;&#19968;&#20123;&#21407;&#23376;&#20174;&#38646;&#24320;&#22987;&#21019;&#24314;&#19968;&#20010;&#20998;&#23376;&#65292; &#28982;&#21518;&#28155;&#21152;&#38190;&#25226;&#23427;&#20204;&#36830;&#25509;&#22312;&#19968;&#36215;&#12290;&#20294;&#26159;&#22914;&#26524;&#35201;&#21019;&#24314;&#19968;&#20010;&#36739;&#22797;&#26434;&#20998;&#23376;&#31995;&#32479;&#65292;&#36825;&#26679;&#24456;&#40635;&#28902;&#12290;&#25105;&#20204;&#36824;&#21487;&#20197;&#25552;&#20379; &#21508;&#31181;&#21508;&#26679;&#30340;&#20998;&#23376; &#20316;&#20026;&#26500;&#24314;&#27169;&#22359;&#12290;
+
+&#22312;&#36741;&#21161;&#24179;&#38754;&#19978;&#25918;&#32622;&#20998;&#23376;
+&#23601;&#20687; &#25918;&#20837;&#19968;&#20010;&#21407;&#23376;, &#25105;&#20204;&#38656;&#35201;&#22312;&#36741;&#21161;&#24179;&#38754;&#19978;&#25805;&#20316;&#12290; &#22312;&#24037;&#20855;&#26639;&#28857;&#20987;&#25353;&#38062; (&quot; &quot; &#25110; &quot; &quot; &#25110; &quot; &quot;) &#23601;&#20250;&#25171;&#24320;&#19968;&#20010;&#22402;&#30452;&#20110;X&#25110;Y&#25110;Z&#36724;&#30340;&#24179;&#38754;&#12290;&#24403;&#21452;&#20987;&#36825;&#20123;&#24179;&#38754;&#26102;&#65292;&#25152;&#36873;&#23450;&#20803;&#32032;&#30340;&#19968;&#20010;&#20998;&#23376;&#23601;&#20250;&#34987;&#28155;&#21152;&#65292;&#22312;&#24179;&#38754;&#19978;&#28857;&#20987;&#22788;&#30340;&#20013;&#24515;&#28857;&#65288;&#27880;&#24847;&#65306;&#19981;&#26159;&#29289;&#20307;&#30340;&#20013;&#24515;&#65289;&#65292;&#40664;&#35748;&#30340;&#20869;&#37096;&#22352;&#26631;&#30830;&#23450;&#20102;&#20998;&#23376;&#30340;&#26041;&#21521;&#12290;&#31245;&#21518;&#65292;&#25105;&#20204;&#20250;&#23398;&#20064;&#22914;&#20309;&#25913;&#21464;&#19968;&#20010;&#20998;&#23376;&#30340;&#20301;&#32622;&#21644;&#26041;&#21521;&#12290;
+
+  
+
+&#20999;&#25442;&#21040;&#19981;&#21516;&#30340;&#36741;&#21161;&#24179;&#38754;&#65292;&#21491;&#20987;&#65288;&#25110;CTRL +&#21333;&#20987;Mac OS X &#38750;&#22810;&#37325;&#25353;&#38062;&#40736;&#26631;&#65289;&#25353;&#38062;&#65292;&#28982;&#21518;&#20174;&#24377;&#20986;&#33756;&#21333;&#36873;&#25321;&#30456;&#24212;&#30340;&#36873;&#39033;&#12290;
+
+&#31227;&#21160;&#36741;&#21161;&#24179;&#38754;
+
+&#29992;&#31661;&#22836;&#38190;&#65292;&#21487;&#20197;&#27839;&#30528;&#30456;&#23545;&#24212;&#30340;&#36724;&#19978;&#19979;&#31227;&#21160;&#36741;&#21161;&#24179;&#38754;&#65292;&#22914;&#23631;&#24149;&#21491;&#19979;&#35282;&#25152;&#31034;&#12290;&#20363;&#22914;&#65292;&#22914;&#26524;&#29992;&#22402;&#30452;&#20110;Z-&#36724;&#30340;&#36741;&#21161;&#24179;&#38754;&#65292;&#24403;&#25353;UP&#65288;&#21521;&#19978;&#65289;&#65288;&#25110;Right&#65288;&#21521;&#21491;&#65289;&#65289;&#31661;&#22836;&#38190;&#26102;&#65292;&#24179;&#38754;&#23601;&#20250;&#21521;&#20854;Z-&#22352;&#26631;&#22686;&#22823;&#30340;&#26041;&#21521;&#31227;&#21160;&#12290;&#22914;&#26524;&#25353;Down&#65288;&#21521;&#19979;&#65289;&#65288;&#25110;Left&#65288;&#21521;&#24038;&#65289;&#65289;&#31661;&#22836;&#65292;&#24179;&#38754;&#23601;&#20250;&#21521;&#30456;&#21453;&#30340;&#26041;&#21521;&#31227;&#21160;&#12290;
+
+&#36873;&#25321;&#20998;&#23376;
+
+&#24403;&#24038;&#20987;&#25353;&#38062;&#26102;&#65292;&#20250;&#20986;&#29616;&#19968;&#20010;&#24377;&#20986;&#24335;&#33756;&#21333;&#65288;&#35265;&#20197;&#19979;&#23631;&#24149;&#25130;&#22270;&#65289;&#65292;&#22312;&#19978;&#38754;&#21487;&#20197;&#36873;&#25321;&#35201;&#28155;&#21152;&#30340;&#20998;&#23376;&#12290;&#20998;&#23376;&#21015;&#34920;&#26159;&#25353;&#23383;&#27597;&#25490;&#24207;&#30340;&#12290;&#22312;&#40664;&#35748;&#29366;&#24577;&#19979;&#65292;&#20250;&#36873;&#23450;&#31532;&#19968;&#20010;&#12290;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12305;
+
+&#32451;&#20064;
+
+&#20320;&#21487;&#20197;&#25805;&#20316;&#19979;&#38754;&#30340;&#27169;&#22411;&#23481;&#22120;&#65292;&#20102;&#35299;&#19968;&#19979;&#22312;3D&#31354;&#38388;&#37324;&#26159;&#22914;&#20309;&#22312;&#19981;&#21516;&#20301;&#32622;&#28155;&#21152;&#20998;&#23376;&#30340;&#65288;&#22914;&#26524;&#22312;&#24037;&#20855;&#26639;&#30475;&#21040;&#36825;&#20010;&quot; &quot; &#25353;&#38062;&#21491;&#20987;&#65292;&#24182;&#36873;&#25321;&quot; &quot; &#65292;&#25110;&#31867;&#20284;&#65289;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="687">
+<paragraph start="0" end="5">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="4">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<size>11</size><href>drop3d.cml</href></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<size>11</size><href>movemol3d.cml</href></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>140.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="107">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="91">
+<size>11</size></content>
+
+<content start="91" end="98">
+<size>11</size><href>SupportedMolecules.cml</href></content>
+
+<content start="98" end="107">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="107" end="108">
+<LeftIndent>140.0</LeftIndent>
+<content start="107" end="108">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="108" end="119">
+<LeftIndent>140.0</LeftIndent>
+<content start="108" end="118">
+<bold>true</bold><size>11</size></content>
+
+<content start="118" end="119">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="119" end="279">
+<LeftIndent>140.0</LeftIndent>
+<content start="119" end="122">
+<size>11</size></content>
+
+<content start="122" end="128">
+<size>11</size><href>drop3d.cml</href></content>
+
+<content start="128" end="155">
+<size>11</size></content>
+
+<content start="155" end="156">
+<icon>AddMolOnXPlane.gif</icon></content>
+
+<content start="156" end="161">
+<size>11</size></content>
+
+<content start="161" end="162">
+<icon>AddMolOnYPlane.gif</icon></content>
+
+<content start="162" end="167">
+<size>11</size></content>
+
+<content start="167" end="168">
+<icon>AddMolOnZPlane.gif</icon></content>
+
+<content start="168" end="279">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="279" end="280">
+<LeftIndent>140.0</LeftIndent>
+<content start="279" end="280">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="280" end="283">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="280" end="281">
+<size>11</size></content>
+
+<content start="281" end="282">
+<icon>helperplane.gif</icon></content>
+
+<content start="282" end="283">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="283" end="284">
+<LeftIndent>140.0</LeftIndent>
+<content start="283" end="284">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="284" end="343">
+<LeftIndent>140.0</LeftIndent>
+<content start="284" end="295">
+<bold>true</bold><size>11</size></content>
+
+<content start="295" end="343">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="343" end="344">
+<LeftIndent>140.0</LeftIndent>
+<content start="343" end="344">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="344" end="351">
+<LeftIndent>140.0</LeftIndent>
+<content start="344" end="350">
+<bold>true</bold><size>11</size></content>
+
+<content start="350" end="351">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="351" end="352">
+<LeftIndent>140.0</LeftIndent>
+<content start="351" end="352">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="352" end="484">
+<LeftIndent>140.0</LeftIndent>
+<content start="352" end="484">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="484" end="485">
+<LeftIndent>140.0</LeftIndent>
+<content start="484" end="485">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="485" end="490">
+<LeftIndent>140.0</LeftIndent>
+<content start="485" end="489">
+<bold>true</bold><size>11</size></content>
+
+<content start="489" end="490">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="490" end="491">
+<LeftIndent>140.0</LeftIndent>
+<content start="490" end="491">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="491" end="559">
+<LeftIndent>140.0</LeftIndent>
+<content start="491" end="559">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="559" end="560">
+<LeftIndent>140.0</LeftIndent>
+<content start="559" end="560">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="560" end="563">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="560" end="561">
+<size>11</size></content>
+
+<content start="561" end="562">
+<icon>MoleculePopupMenu.gif</icon></content>
+
+<content start="562" end="563">
+</content>
+
+</paragraph>
+<paragraph start="563" end="574">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="563" end="574">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="574" end="575">
+<LeftIndent>140.0</LeftIndent>
+<content start="574" end="575">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="575" end="578">
+<LeftIndent>140.0</LeftIndent>
+<content start="575" end="577">
+<bold>true</bold><size>11</size></content>
+
+<content start="577" end="578">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="578" end="579">
+<LeftIndent>140.0</LeftIndent>
+<content start="578" end="579">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="579" end="649">
+<LeftIndent>140.0</LeftIndent>
+<content start="579" end="627">
+<size>11</size></content>
+
+<content start="627" end="628">
+<icon>AddAtomOnXPlane.gif</icon></content>
+
+<content start="628" end="639">
+<size>11</size></content>
+
+<content start="639" end="640">
+<icon>AddMolOnXPlane.gif</icon></content>
+
+<content start="640" end="649">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="649" end="650">
+<LeftIndent>140.0</LeftIndent>
+<content start="649" end="650">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="650" end="652">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="650" end="651">
+<component><class>org.concord.modeler.PageMd3d</class><resource>dropmol3d$0.mdd</resource><coordinate>dropmol3d$0.xyz</coordinate><width>600</width><height>400</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="651" end="652">
+</content>
+
+</paragraph>
+<paragraph start="652" end="666">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="652" end="665">
+<size>10</size></content>
+
+<content start="665" end="666">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="666" end="667">
+<LeftIndent>140.0</LeftIndent>
+<content start="666" end="667">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="667" end="668">
+<LeftIndent>140.0</LeftIndent>
+<content start="667" end="668">
+</content>
+
+</paragraph>
+<paragraph start="668" end="687">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="668" end="670">
+<size>11</size></content>
+
+<content start="670" end="673">
+<size>11</size><href>drop3d.cml</href></content>
+
+<content start="673" end="676">
+<size>11</size></content>
+
+<content start="676" end="678">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="678" end="681">
+<size>11</size></content>
+
+<content start="681" end="684">
+<size>11</size><href>movemol3d.cml</href></content>
+
+<content start="684" end="686">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

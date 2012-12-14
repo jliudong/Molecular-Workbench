@@ -1,0 +1,29 @@
+delay 2
+color echo [255,255,255]; delay 0.05
+color echo [245,245,245]; delay 0.05
+color echo [235,235,235]; delay 0.05
+color echo [225,225,225]; delay 0.05
+color echo [215,215,215]; delay 0.05
+color echo [205,205,205]; delay 0.05
+color echo [195,195,195]; delay 0.05
+color echo [185,185,185]; delay 0.05
+color echo [175,175,175]; delay 0.05
+color echo [165,165,165]; delay 0.05
+color echo [155,155,155]; delay 0.05
+color echo [145,145,145]; delay 0.05
+color echo [135,135,135]; delay 0.05
+color echo [125,125,125]; delay 0.05
+color echo [115,115,115]; delay 0.05
+color echo [105,105,105]; delay 0.05
+color echo [95,95,95]; delay 0.05
+color echo [85,85,85]; delay 0.05
+color echo [75,75,75]; delay 0.05
+color echo [65,65,65]; delay 0.05
+color echo [55,55,55]; delay 0.05
+color echo [45,45,45]; delay 0.05
+color echo [35,35,35]; delay 0.05
+color echo [25,25,25]; delay 0.05
+color echo [15,15,15]; delay 0.05
+color echo [5,5,5]; delay 0.05
+color echo [0,0,0]
+echo " "

@@ -1,0 +1,10 @@
+moveto /* time, axisAngle */ 0.0 { 470 253 846 53.47} /* zoom, translation */  50 0.0 -7.5  /* center, rotationRadius */ {3.6555 1.1120001 -8.080999} 5.4659233 /* navigation center, translation, depth */ {0.0 0.0 0.0} 7.453299 61.78945 50.0;
+
+background IMAGE "elementsCHOjmol200.gif"; frank off; script echoDisplay.spt; 
+
+set echo myecho 0 200
+echo "Carbohydrate: Glucose (a sugar)";
+font echo 12 sans bold
+
+script ballstick.spt
+script surface.spt; isosurface off

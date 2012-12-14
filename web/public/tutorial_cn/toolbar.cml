@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Customizing the tool bar</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#23450;&#21046;&#24037;&#20855;&#26639;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#26500;&#24314;&#19968;&#20010;&#27169;&#22411;&#30340;&#29992;&#25143;&#30028;&#38754;&#30001;&#35768;&#22810;&#24037;&#20855;&#32452;&#25104;(&#23558;&#20174;&#19979;&#19968;&#33410;&#24320;&#22987;&#20171;&#32461;)&#65292;&#20854;&#20013;&#19968;&#20123;&#21487;&#20197;&#25918;&#22312;&#27169;&#22411;&#23481;&#22120;&#30340;&#24037;&#20855;&#26639;&#19978;&#12290;&#23613;&#31649;&#36825;&#20123;&#24037;&#20855;&#20013;&#24456;&#22810;&#34987;&#35774;&#35745;&#20026;&#30001;&#31243;&#24207;&#21592;&#26500;&#24314;&#27169;&#22411;&#65292;&#20854;&#20013;&#19968;&#20123;&#20063;&#21487;&#34987;&#32456;&#31471;&#29992;&#25143;&#29992;&#26469;&#23454;&#29616;&#19982;&#27169;&#22411;&#36827;&#34892;&#20132;&#20114;&#12290;&#20363;&#22914;&#65292; &#36873;&#25321;&#21644;&#31227;&#21160;&#29289;&#20307; &#30340;&#24037;&#20855;&#22312;&#26576;&#20123;&#27169;&#22411;&#20013;&#21487;&#33021;&#26377;&#29992;&#65292;&#22312;&#36825;&#31181;&#27169;&#22411;&#20013;&#65292;&#32456;&#31471;&#29992;&#25143;&#38656;&#35201;&#22235;&#22788;&#31227;&#21160;&#23545;&#35937;&#20197;&#21019;&#24314;&#26576;&#20123;&#24773;&#24418;&#12290;
+
+&#20320;&#65292;&#20316;&#20026;&#31243;&#24207;&#21592;&#65292;&#24212;&#35813;&#20915;&#23450;&#21738;&#20123;&#24037;&#20855;&#24212;&#35813;&#20445;&#30041;&#22312;&#24037;&#20855;&#26639;&#20379;&#32456;&#31471;&#29992;&#25143;&#20351;&#29992;&#12290;&#19968;&#33324;&#26469;&#35828;&#65292;&#25226;&#25152;&#26377;&#24037;&#20855;&#30041;&#22312;&#24037;&#20855;&#26639;&#19978;&#26159;&#19981;&#21487;&#21462;&#30340;&#65292;&#22240;&#20026;&#22823;&#22810;&#25968;&#30340;&#24037;&#20855;&#23545;&#19982;&#24403;&#21069;&#30340;&#27169;&#22411;&#36827;&#34892;&#20132;&#20114;&#21487;&#33021;&#24182;&#19981;&#38656;&#35201;&#12290;&#22914;&#26524;&#23427;&#20204;&#34987;&#30041;&#22312;&#24037;&#20855;&#26639;&#19978;&#65292;&#32456;&#31471;&#29992;&#25143;&#20250;&#20998;&#24515;&#25110;&#24863;&#21040;&#22256;&#24785;&#12290;&#36890;&#24120;&#65292;&#21019;&#24314;&#8220;&#27801;&#31665;&#8221;&#20250;&#26159;&#19968;&#20010;&#19981;&#38169;&#30340;&#20027;&#24847;&#65292;&#32456;&#31471;&#29992;&#25143;&#21487;&#20197;&#22312;&#20854;&#20869;&#36827;&#34892;&#25805;&#20316;&#12290;&#20363;&#22914;&#65292;&#20320;&#21487;&#33021;&#21482;&#24076;&#26395;&#29992;&#25143;&#22235;&#22788;&#31227;&#21160;&#21407;&#23376;&#65292;&#20294;&#19981;&#24819;&#35753;&#23427;&#20204;&#20174;&#27169;&#22411;&#20013;&#31227;&#38500;&#25110;&#21521;&#27169;&#22411;&#20013;&#25554;&#20837;&#26356;&#22810;&#30340;&#21407;&#23376;&#65292;&#22240;&#20026;&#21518;&#32773;&#30340;&#34892;&#21160;&#21487;&#33021;&#20250;&#23548;&#33268;&#19982;&#19978;&#19979;&#25991;&#30340;&#19981;&#19968;&#33268; ---&#20174;&#19968;&#31181;&#28082;&#20307;&#25110;&#22266;&#20307;&#20013;&#31227;&#38500;&#22826;&#22810;&#30340;&#21407;&#23376;&#65292;&#26377;&#21487;&#33021;&#20250;&#25226;&#23427;&#21464;&#25104;&#19968;&#31181;&#27668;&#20307;&#65292;&#32780;&#21521;&#19968;&#31181;&#27668;&#20307;&#20013;&#28155;&#21152;&#22826;&#22810;&#30340;&#21407;&#23376;&#65292;&#21017;&#26377;&#21487;&#33021;&#20250;&#25226;&#23427;&#21464;&#25104;&#19968;&#31181;&#28082;&#20307;&#12290;
+
+&#22914;&#26524;&#20174;&#27169;&#22411;&#23481;&#22120;&#30340;&#8220;&#24037;&#20855;&#26639;&#8221;&#36873;&#25321;&#8220;&#33258;&#23450;&#20041;&#8221;&#36873;&#39033;&#65292;&#23450;&#21046;&#30340;&#24037;&#20855;&#26639;&#21487;&#32463;&#30001;&#21363;&#23558;&#24377;&#20986;&#30340;&#23545;&#35805;&#26694;&#23436;&#25104;&#65292;&#22914;&#19979;&#22270;&#25152;&#31034;&#65306;
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#20363;&#22914;&#65292;&#19979;&#38754;&#26159;&#19968;&#20010;&#31354;&#30340;&#27169;&#22411;&#23481;&#22120;&#65292;&#23427;&#30340;&#24037;&#20855;&#26639;&#19978;&#26377;&#25152;&#26377;&#21487;&#29992;&#30340;&#25353;&#38062;&#65306;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#22312;&#19978;&#36848;&#24773;&#20917;&#19979;&#65292;&#25152;&#26377;&#25353;&#38062;&#30340;&#24635;&#38271;&#24230;&#36229;&#36807;&#20102;&#27169;&#22411;&#23481;&#22120;&#30340;&#23485;&#24230;&#12290;&#22240;&#27492;&#65292;&#19981;&#26159;&#25152;&#26377;&#25353;&#38062;&#37117;&#33021;&#26174;&#31034;&#22312;&#24037;&#20855;&#26639;&#19978;&#12290;&#19981;&#36866;&#21512;&#22312;&#24037;&#20855;&#26639;&#19978;&#26174;&#31034;&#30340;&#25353;&#38062;&#65292;&#21487;&#20197;&#22312;&#19968;&#20010;&#24377;&#20986;&#33756;&#21333;&#20013;&#25214;&#21040;&#65292;&#24377;&#20986;&#33756;&#21333;&#21487;&#20197;&#36890;&#36807;&#28857;&#20987;&#24037;&#20855;&#26639;&#21491;&#31471;&#30340;&#31661;&#22836;&#25353;&#38062;&#36827;&#34892;&#35843;&#29992;&#12290;
+
+&#19968;&#26086;&#21019;&#24314;&#20102;&#19968;&#20010;&#26377;&#20123;&#25353;&#38062;&#30340;&#24037;&#20855;&#26639;&#65292;&#20320;&#23601;&#21487;&#20197;&#31227;&#21160;&#25110;&#32773;&#21024;&#38500;&#26576;&#20010;&#25353;&#38062;&#12290;&#22914;&#26524;&#21491;&#38190;&#21333;&#20987;(&#25110;&#32773;CTRL +&#21333;&#20987;&#26080;&#22810;&#37325;&#25353;&#38062;&#40736;&#26631;&#30340;Mac OS X)&#25353;&#38062;&#65292;&#20320;&#23558;&#20250;&#30475;&#21040;&#19968;&#20010;&#24377;&#20986;&#33756;&#21333;&#65292;&#35265;&#22914;&#19979;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#36825;&#20010;&#33756;&#21333;&#65292;&#23558;&#20801;&#35768;&#20320;&#22312;&#24037;&#20855;&#26639;&#20869;&#21521;&#21069;&#25110;&#32773;&#21521;&#21518;&#31227;&#21160;&#28857;&#20987;&#30340;&#25353;&#38062;&#65292;&#25110;&#32773;&#21024;&#38500;&#28857;&#20987;&#30340;&#25353;&#38062;&#65292;&#25110;&#32773;&#21024;&#38500;&#25972;&#20010;&#24037;&#20855;&#26639;&#12290;&#20320;&#36824;&#21487;&#20197;&#36890;&#36807;&#21462;&#28040;&#36873;&#20013;&#30456;&#24212;&#30340;&#8220;&#23450;&#21046;&#8221;&#23545;&#35805;&#26694;&#31383;&#21475;&#30340;&#22797;&#36873;&#26694;&#21024;&#38500;&#25353;&#38062;&#12290;&#22914;&#26524;&#20320;&#24819;&#38500;&#25481;&#25972;&#20010;&#24037;&#20855;&#26639;&#65292;&#20320;&#36824;&#21487;&#20197;&#20174;&#8220;&#24037;&#20855;&#26639;&#8221;&#33756;&#21333;&#36873;&#25321;&#8220;&#21024;&#38500;&#24037;&#20855;&#26639;&#8221;&#12290;
+
+&#22914;&#22312;&#20197;&#19979;&#27169;&#22411;&#20013;&#25152;&#31034;&#65292;&#20320;&#21487;&#20197;&#25226;&#20219;&#20309;&#25353;&#38062;&#26174;&#31034;&#22312;&#24037;&#20855;&#26639;&#19978;&#65306;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#22914;&#26524;&#32456;&#31471;&#29992;&#25143;&#19981;&#38656;&#35201;&#20351;&#29992;&#20219;&#20309;&#36825;&#20123;&#24037;&#20855;&#65292;&#24212;&#35813;&#21024;&#38500;&#24037;&#20855;&#26639;&#12290;&#29087;&#24713; &#33050;&#26412; &#22788;&#29702;&#30340;&#32534;&#31243;&#21592;&#65292;&#21487;&#20197;&#35774;&#32622;&#27604;&#36825;&#20123;&#24037;&#20855;&#25152;&#25552;&#20379;&#30340;&#20132;&#20114;&#26356;&#20026;&#22797;&#26434;&#30340;&#20132;&#20114;&#12290;&#20363;&#22914;&#65292;&#32534;&#31243;&#21592;&#21487;&#20197; &#37096;&#32626;&#21453;&#22797;&#20351;&#29992;&#28155;&#21152;&#21629;&#20196;&#30340;&#33050;&#26412; &#22312;&#21487;&#29992;&#25968;&#23383;&#34920;&#31034;&#30340;&#20855;&#20307;&#20301;&#32622;&#33258;&#21160;&#22320;&#25554;&#20837;&#19968;&#32452;&#21407;&#23376;&#65292;&#32780;&#26080;&#38656;&#35831;&#27714;&#32456;&#31471;&#29992;&#25143;&#20351;&#29992; &quot;&#28404;&#23545;&#35937;&quot; &#25353;&#38062;&#19968;&#20010;&#20010;&#22320;&#25554;&#20837;&#65292;&#28982;&#21518;&#23545;&#20854;&#36827;&#34892; &#24494;&#35843;.
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="1084">
+<paragraph start="0" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="5">
+<bold>true</bold><size>16</size><italic>true</italic></content>
+
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="7">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="26">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="7" end="9">
+<size>11</size></content>
+
+<content start="9" end="12">
+<size>11</size><href>ContainerMenuBar.cml</href></content>
+
+<content start="12" end="15">
+<size>11</size></content>
+
+<content start="15" end="17">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="17" end="20">
+<size>11</size></content>
+
+<content start="20" end="23">
+<size>11</size><href>selectAction.cml</href></content>
+
+<content start="23" end="25">
+<size>11</size></content>
+
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="27">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="174">
+<LeftIndent>140.0</LeftIndent>
+<content start="27" end="124">
+<size>11</size></content>
+
+<content start="124" end="131">
+<size>11</size><href>selectAction.cml</href></content>
+
+<content start="131" end="174">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="174" end="175">
+<LeftIndent>140.0</LeftIndent>
+<content start="174" end="175">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="175" end="440">
+<LeftIndent>140.0</LeftIndent>
+<content start="175" end="440">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="440" end="441">
+<LeftIndent>140.0</LeftIndent>
+<content start="440" end="441">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="441" end="491">
+<LeftIndent>140.0</LeftIndent>
+<content start="441" end="491">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="491" end="494">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="491" end="492">
+<size>11</size></content>
+
+<content start="492" end="493">
+<size>11</size><icon>ToolBarCustomizationDialog.gif</icon></content>
+
+<content start="493" end="494">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="494" end="506">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="494" end="505">
+<size>10</size></content>
+
+<content start="505" end="506">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="506" end="507">
+<LeftIndent>140.0</LeftIndent>
+<content start="506" end="507">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="507" end="538">
+<LeftIndent>140.0</LeftIndent>
+<content start="507" end="538">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="538" end="539">
+<LeftIndent>100.0</LeftIndent>
+<content start="538" end="539">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="539" end="541">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="539" end="540">
+<size>11</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>toolbar$0.mml</resource><recorderless>true</recorderless>
+<button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Obstacle</button><button>Fill Area with Nt Atoms</button><button>Fill Area with Pl Atoms</button><button>Fill Area with Ws Atoms</button><button>Fill Area with Ck Atoms</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add an Amino Acid to Polypeptide</button><button>Subtract an Amino Acid from Polypeptide</button><button>Add a Nucleotide to DNA</button><button>Subtract a Nucleotide from DNA</button><button>Heat Selected Objects</button><button>Cool Selected Objects</button><button>Add Positive Charge</button><button>Add Negative Charge</button><button>Increase Restraint</button><button>Decrease Restraint</button><button>Increase Damping</button><button>Decrease Damping</button><button>Rotate Object</button><button>Duplicate Object</button><button>Delete Objects</button><button>Setup Boundary</button><button>Change Type</button><button>Change Velocity</button><button>Build Radial Bond</button><button>Build Angular Bond</button></component></content>
+
+<content start="540" end="541">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="541" end="556">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="541" end="555">
+<size>10</size></content>
+
+<content start="555" end="556">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="556" end="557">
+<LeftIndent>100.0</LeftIndent>
+<content start="556" end="557">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="557" end="655">
+<LeftIndent>140.0</LeftIndent>
+<content start="557" end="655">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="655" end="656">
+<LeftIndent>140.0</LeftIndent>
+<content start="655" end="656">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="656" end="741">
+<LeftIndent>140.0</LeftIndent>
+<content start="656" end="741">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="741" end="742">
+<LeftIndent>140.0</LeftIndent>
+<content start="741" end="742">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="742" end="745">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="742" end="743">
+<size>11</size></content>
+
+<content start="743" end="744">
+<size>11</size><icon>ToolBarButtonMenu.gif</icon></content>
+
+<content start="744" end="745">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="745" end="757">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="745" end="756">
+<size>10</size></content>
+
+<content start="756" end="757">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="757" end="758">
+<LeftIndent>140.0</LeftIndent>
+<content start="757" end="758">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="758" end="872">
+<LeftIndent>140.0</LeftIndent>
+<content start="758" end="872">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="872" end="873">
+<LeftIndent>140.0</LeftIndent>
+<content start="872" end="873">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="873" end="900">
+<LeftIndent>140.0</LeftIndent>
+<content start="873" end="900">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="900" end="901">
+<LeftIndent>100.0</LeftIndent>
+<content start="900" end="901">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="901" end="903">
+<Alignment>1</Alignment>
+<LeftIndent>100.0</LeftIndent>
+<content start="901" end="902">
+<size>11</size><component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>toolbar$1.mml</resource><recorderless>true</recorderless>
+<button>Select Object</button><button>What's This?</button><button>Draw Lines</button><button>Mark Object</button><button>Count Objects</button><button>Measure Distance</button><button>Toggle Trajectory</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button></component></content>
+
+<content start="902" end="903">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="903" end="918">
+<Alignment>1</Alignment>
+<LeftIndent>100.0</LeftIndent>
+<content start="903" end="917">
+<size>10</size></content>
+
+<content start="917" end="918">
+</content>
+
+</paragraph>
+<paragraph start="918" end="919">
+<LeftIndent>140.0</LeftIndent>
+<content start="918" end="919">
+</content>
+
+</paragraph>
+<paragraph start="919" end="1064">
+<LeftIndent>140.0</LeftIndent>
+<content start="919" end="948">
+<size>11</size></content>
+
+<content start="948" end="950">
+<size>11</size><href>mwscripts.cml</href></content>
+
+<content start="950" end="990">
+<size>11</size></content>
+
+<content start="990" end="1003">
+<size>11</size><href>script_where.cml</href></content>
+
+<content start="1003" end="1039">
+<size>11</size></content>
+
+<content start="1039" end="1042">
+<size>11</size><href>dropAction.cml</href></content>
+
+<content start="1042" end="1060">
+<size>11</size></content>
+
+<content start="1060" end="1062">
+<size>11</size><href>selectAction.cml</href></content>
+
+<content start="1062" end="1063">
+<size>11</size></content>
+
+<content start="1063" end="1064">
+</content>
+
+</paragraph>
+<paragraph start="1064" end="1065">
+<LeftIndent>140.0</LeftIndent>
+<content start="1064" end="1065">
+</content>
+
+</paragraph>
+<paragraph start="1065" end="1084">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="1065" end="1067">
+<size>11</size></content>
+
+<content start="1067" end="1070">
+<size>11</size><href>ContainerMenuBar.cml</href></content>
+
+<content start="1070" end="1073">
+<size>11</size></content>
+
+<content start="1073" end="1075">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="1075" end="1078">
+<size>11</size></content>
+
+<content start="1078" end="1081">
+<size>11</size><href>selectAction.cml</href></content>
+
+<content start="1081" end="1083">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

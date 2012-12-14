@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The extrusion tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#25380;&#21387;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#22312;3D&#27169;&#22411;&#20013;&#65292;&#25380;&#21387;&#24037;&#20855;&#21487;&#20197;&#29992;&#20110;&#35843;&#25972;&#38750;&#21407;&#23376;&#65292;&#38750;&#20998;&#23376;&#30340;&#24418;&#29366;&#12290;&#20351;&#29992;&#36825;&#20010;&#24037;&#20855;&#65292;&#20808;&#36873;&#23450; &quot; &quot; &#25353;&#38062;&#12290; &#22914;&#26524;&#31227;&#21160;&#40736;&#26631;&#36234;&#36807;&#19968;&#20010;&#29289;&#20307;&#65292;&#20320;&#21487;&#33021;&#20250;&#27880;&#24847;&#21040;, &#26368;&#38752;&#36817;&#30340;&#38754;&#23545;&#40736;&#26631;&#24403;&#21069;&#27491;&#22312;&#30424;&#26059;&#30340;&#20250;&#34987;&#26631;&#31034;&#65292;&#34920;&#26126;&#23427;&#21487;&#20197;&#34987;&#25380;&#21387;&#20102;&#65292;&#25380;&#21387;&#34920;&#38754;&#65292;&#25805;&#32437;&#40736;&#26631;&#25353;&#38062;&#24182;&#21521;&#20320;&#24819;&#35201;&#24418;&#29366;&#25918;&#22823;&#25110;&#32553;&#27700;&#26041;&#21521;&#31227;&#21160;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="191">
+<paragraph start="0" end="5">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="4">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<size>11</size><href>genericparticle.cml</href></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<size>11</size><href>cuboidobstacle.cml</href></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>140.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="154">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="66">
+<size>11</size></content>
+
+<content start="66" end="67">
+<icon>Extrude.gif</icon></content>
+
+<content start="67" end="154">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="154" end="155">
+<LeftIndent>140.0</LeftIndent>
+<content start="154" end="155">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="155" end="157">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="155" end="156">
+<component><class>org.concord.modeler.PageMd3d</class><resource>extrusion$0.mdd</resource><coordinate>extrusion$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="156" end="157">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="157" end="171">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="157" end="170">
+<size>10</size></content>
+
+<content start="170" end="171">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="171" end="172">
+<LeftIndent>140.0</LeftIndent>
+<content start="171" end="172">
+</content>
+
+</paragraph>
+<paragraph start="172" end="191">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="172" end="174">
+<size>11</size></content>
+
+<content start="174" end="177">
+<size>11</size><href>genericparticle.cml</href></content>
+
+<content start="177" end="180">
+<size>11</size></content>
+
+<content start="180" end="182">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="182" end="185">
+<size>11</size></content>
+
+<content start="185" end="188">
+<size>11</size><href>cuboidobstacle.cml</href></content>
+
+<content start="188" end="190">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

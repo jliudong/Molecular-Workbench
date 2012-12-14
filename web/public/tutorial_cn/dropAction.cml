@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Dropping Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#25237;&#25918;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#25237;&#25918;&#24037;&#20855;&#22312;&#27169;&#22411;&#20013;&#25554;&#20837;&#23545;&#35937;&#12290;&#20320;&#21482;&#38656;&#28857;&#20987;&#19982;&#20320;&#24819;&#28155;&#21152;&#21040;&#27169;&#22411;&#20013;&#30340;&#23545;&#35937;&#31867;&#22411;&#30456;&#23545;&#24212;&#30340;&#24037;&#20855;&#26639;&#19978;&#30340;&#25353;&#38062;&#65292;&#28982;&#21518;&#28857;&#20987;&#30418;&#20869;&#30340;&#26576;&#20010;&#22320;&#26041;&#12290;&#22914;&#26524;&#24819;&#28155;&#21152;&#30456;&#21516;&#31867;&#22411;&#30340;&#26356;&#22810;&#23545;&#35937;&#65292;&#20320;&#26080;&#38656;&#20877;&#27425;&#21333;&#20987;&#25353;&#38062;&#12290;
+ 
+&#25237;&#25918;&#21407;&#23376;
+
+     &#25237;&#25918;&#19968;&#20010;# 1&#34394;&#26500;&#30340;&#20803;&#32032;(Nt&#21407;&#23376;)
+     &#25237;&#25918;&#19968;&#20010;# 2&#34394;&#26500;&#30340;&#20803;&#32032;(Pl&#21407;&#23376;)
+     &#25237;&#25918;&#19968;&#20010;# 3&#34394;&#26500;&#30340;&#20803;&#32032;(Ws&#21407;&#23376;)
+     &#25237;&#25918;&#19968;&#20010;# 4&#34394;&#26500;&#30340;&#20803;&#32032;(Ck&#21407;&#23376;)
+
+Nt&#12289;Pl&#12289;Ws&#12289;&#21644;Ck&#26159;&#34394;&#26500;&#30340;&#20803;&#32032;&#12290;&#20351;&#29992;&#20004;&#20010;&#23383;&#27597;&#30340;&#21517;&#31216;&#65292;&#26159;&#20026;&#20102;&#24378;&#35843;&#23427;&#20204;&#26159;&#20803;&#32032;(&#21407;&#23376;&#30340;&#31867;&#22411;)&#65292;&#32780;&#19981;&#26159;&#21407;&#23376;&#12290;&#23427;&#20204;&#30340;&#26174;&#31034;&#22914;&#19979;&#22270;&#12290;.
+ 
+   
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#25237;&#25918;&#20998;&#23376;
+     &#25237;&#25918;&#19968;&#20010;&#21452;&#21407;&#23376;&#20998;&#23376;
+
+&#19968;&#20010;&#21452;&#21407;&#23376;&#20998;&#23376;&#21253;&#21547;&#20004;&#20010;&#21407;&#23376;&#21644;&#19968;&#20010;  &#24452;&#21521;&#38190;. &#40664;&#35748;&#30340;&#21452;&#21407;&#23376;&#20998;&#23376;&#26159;&#19968;&#20010;PI-PI, &#20294;&#20320;&#21487;&#20197;&#36890;&#36807;&#21452;&#20987;&#25353;&#38062;&#26469;&#23450;&#21046;&#36825;&#19968;&#34892;&#20026;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#20320;&#20063;&#21487;&#20197;&#22312;&#20801;&#35768;&#30340;&#33539;&#22260;&#20869;&#23450;&#21046;&#23427;&#30340;&#38271;&#24230;&#21644;&#24378;&#24230;&#12290;
+
+     &#25237;&#25918;&#19968;&#20010;&#19977;&#21407;&#23376;&#20998;&#23376;
+
+&#19968;&#20010;&#19977;&#21407;&#23376;&#20998;&#23376;&#65292;&#30001;&#19977;&#20010;&#27687;&#21407;&#23376;&#12289;&#20004;&#20010;  &#24452;&#21521;&#38190; &#21644;&#19968;&#20010;  &#35282;&#38190;&#32452;&#25104;&#12290;&#40664;&#35748;&#30340;&#19977;&#21407;&#23376;&#20998;&#23376;&#26159;&#19968;&#20010;Pl-Ws-Pl&#65292;&#20294;&#20320;&#21487;&#20197;&#36890;&#36807;&#21452;&#20987;&#25353;&#38062;&#26469;&#23450;&#21046;&#36825;&#19968;&#34892;&#20026;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+     &#25237;&#25918;&#19968;&#20010;&#33519;&#20687;&#20998;&#23376;
+
+&#33519;&#20998;&#23376;&#30001;&#20845;&#20010;&#27682;&#21407;&#23376;(&#29992;Nt&#34920;&#31034;)&#12289;&#20845;&#20010;&#30899;&#21407;&#23376;(&#29992;Pl&#34920;&#31034;)&#12289;&#21313;&#20108;&#20010;&#24452;&#21521;&#38190;&#21644;&#21313;&#20108;&#20010;&#35282;&#38190;&#32452;&#25104;&#12290;&#22240;&#20026;&#36825;&#26159;&#19968;&#20010;2D&#27169;&#24335;&#65292;&#20182;&#27809;&#26377;  &#25197;&#36716;&#38190;.
+
+     &#25237;&#25918;&#19968;&#20010;&#38142;&#24335;&#20998;&#23376;
+
+&#19968;&#20010;&#38142;&#24335;&#20998;&#23376;&#65292;&#26159;&#30001;&#24452;&#21521;&#38190;&#21644;&#35282;&#38190;&#36830;&#25509;&#30340;&#19968;&#36830;&#20018;&#30340;&#21407;&#23376;&#12290;&#20320;&#21487;&#20197;&#36890;&#36807;&#21452;&#20987;&#25353;&#38062;&#26469;&#23450;&#21046;&#35813;&#38142;&#24335;&#20998;&#23376;&#30340;&#34892;&#20026;&#12290;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+&#26377;&#20960;&#20010;&#20320;&#21487;&#20197;&#25913;&#21464;&#30340;&#21442;&#25968;&#12290;&#36825;&#37324;&#26159;&#19968;&#20123;&#20363;&#23376;:
+
+   &#38191;&#40831;   
+   &#21367;&#36215;   
+   &#38543;&#26426;  
+
+&#21024;&#38500;&#19968;&#20010;&#30697;&#24418;&#30340;&#38556;&#30861;  
+
+&#19968;&#20010;&#30697;&#24418;&#30340;&#38556;&#30861;&#20250;&#25758;&#19978;&#21407;&#23376;&#21644;&#20998;&#23376;&#12290;&#23427;&#21487;&#20197;&#20316;&#20026;&#19968;&#20010;&#38556;&#30861;&#27169;&#22411;&#31665;&#20998;&#20026;&#20960;&#20010;&#20998;&#21306;&#30340;&#38548;&#38388;,&#25110;&#19968;&#20010;&#31227;&#21160;&#30340;&#32452;&#20214;,&#21442;&#19982;&#31995;&#32479;&#30340;&#21160;&#21147;&#23398;&#22914;&#26524;&#20854;&#36136;&#37327;&#35774;&#32622;&#19981;&#22826;&#37325;&#32780;&#19981;&#26159;&#37027;&#20123;&#21407;&#23376;&#32452;&#25104;&#30340;&#12290;&#21024;&#38500;&#19968;&#20010;&#30697;&#24418;&#38556;&#30861;&#26159;&#31245;&#24494;&#19981;&#21516;&#30340;&#27604;&#28404;&#19978;&#38754;&#30340;&#23545;&#35937;&#12290;&#21333;&#20987;&#23631;&#24149;&#19981;&#20250;&#21019;&#24314;&#19968;&#20010;&#38271;&#26041;&#24418;&#12290;&#20320;&#38656;&#35201;&#25302;&#21160;&#40736;&#26631;&#26469;&#25351;&#23450;&#22823;&#23567;&#12290;
+
+&#25237;&#25918;&#19968;&#20010;&#20998;&#23376;&#34920;&#38754;&#23545;&#35937;
+
+&#26377;&#19977;&#31181;&#22522;&#20110;&#33457;&#38190;&#31867;&#22411;&#30340;&#31354;&#24515;&#23545;&#35937;&#65306;&#22278;&#24418; ( ), &#30697;&#24418; ( ), &#21644;&#33258;&#30001;&#24418;&#24577; ( )&#65292;&#36824;&#26377;&#19977;&#31181;&#22522;&#20110;&#33457;&#38190;&#31867;&#22411;&#30340;&#22266;&#20307;&#23545;&#35937;&#65306;&#22278;&#24418;()( ), &#30697;&#24418; ( ), &#21644;&#33258;&#30001;&#24418;&#24577; ( ). &#27492;&#22806;&#65292;&#36824;&#26377;&#19968;&#31181;&#22522;&#20110;&#32447;&#30340;&#33258;&#30001;&#24418;&#24577;&#30340;&#22266;&#20307;&#23545;&#35937; ( ).
+
+&#38169;&#35823;&#36816;&#31639;
+
+&#24403;&#25554;&#20837;&#19968;&#20010;&#23545;&#35937;&#26102;&#65292;&#20320;&#21487;&#33021;&#20250;&#34987;&#35686;&#21578;&#26377;&#20004;&#31181;&#31867;&#22411;&#30340;&#38750;&#27861;&#25805;&#20316;&#12290;&#31532;&#19968;&#31867;&#26159;&#37325;&#21472;&#38169;&#35823;&#12290;&#22312;&#20320;&#22312;&#20854;&#20182;&#23545;&#35937;&#19978;&#26041;&#12289;&#25110;&#32773;&#36807;&#20110;&#25509;&#36817;&#20854;&#20182;&#23545;&#35937;&#32780;&#25237;&#25918;&#19968;&#20010;&#23545;&#35937;&#26102;&#65292;&#36825;&#19968;&#31867;&#38169;&#35823;&#20250;&#21457;&#29983;&#12290;&#31532;&#20108;&#31867;&#26159;&#30028;&#38480;&#22806;&#38169;&#35823;&#12290;&#24403;&#20320;&#30340;&#34892;&#21160;&#34987;&#26816;&#27979;&#21040;&#24050;&#32463;&#33853;&#22312;&#20102; &#29289;&#29702;&#30028;&#38480;.&#20043;&#22806;&#26102;&#65292;&#36825;&#31867;&#38169;&#35823;&#20250;&#21457;&#29983;&#12290;&#24403;&#36825;&#20004;&#31867;&#38169;&#35823;&#21457;&#29983;&#26102;&#65292;&#19968;&#20010;&#35686;&#21578;&#31383;&#21475;&#23558;&#20250;&#24377;&#20986;&#35686;&#21578;&#29992;&#25143;&#12290;&#38750;&#27861;&#25805;&#20316;&#26159;&#19981;&#20801;&#35768;&#30340;&#12290;
+
+&#20320;&#20063;&#35768;&#24819;&#32451;&#20064;&#29992;&#20197;&#19979;&#27169;&#22411;&#25237;&#25918;&#23545;&#35937;&#65306;
+
+ 
+&#12304;&#36825;&#26159;&#32451;&#20064;&#25237;&#25918;&#23545;&#35937;&#30340;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#25237;&#25918;&#19968;&#20010;Gay-Berne&#31890;&#23376;
+
+&#23545;&#20110;&#19968;&#20010;Gay-Berne&#27169;&#22411;&#65292;&#20320;&#33021;&#25237;&#25918;&#30340;&#21807;&#19968;&#23545;&#35937;&#23601;&#26159;&#19968;&#20010;Gay-Berne&#31890;&#23376;&#12290;&#20320;&#21487;&#20197;&#36890;&#36807;&#21452;&#20987;&#23427;&#65292;&#23545;&#25353;&#38062; (&quot; &quot;) &#36827;&#34892;&#23450;&#21046;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#25130;&#22270;&#12290;&#12305;
+
+&#36825;&#20801;&#35768;&#20320;&#38024;&#23545;&#21363;&#23558;&#25237;&#25918;&#21040;&#27169;&#22411;&#30340;Gay-Berne&#31890;&#23376;&#30340;&#26576;&#20123;&#21442;&#25968;&#36827;&#34892;&#26356;&#25913;&#65292;&#21253;&#25324;&#20854;&#22823;&#23567;&#12289;&#21021;&#22987;&#21462;&#21521;&#21644;&#20805;&#28385;&#27963;&#21147;&#30340;&#21442;&#25968;&#12290;&#24819;&#20102;&#35299;&#20854;&#20013;&#30340;&#19968;&#20123;&#21442;&#25968;&#65292;&#36824;&#35831;&#21442;&#35265;  &#31471;&#23545;&#31471; &#21644;  &#20391;&#23545;&#20391; &#30340;&#23433;&#25490;&#12290;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#28155;&#21152; &#21629;&#20196;&#21487;&#20197;&#29992;&#20110;&#23558;&#19968;&#20010;&#23545;&#35937;&#28155;&#21152;&#21040;&#25351;&#23450;&#30340;&#20301;&#32622;&#12290;&#32467;&#21512; &#24490;&#29615;&#21629;&#20196;&#65292;&#20320;&#21487;&#20197;&#22312;&#19968;&#20010;&#32473;&#23450;&#30340;&#21306;&#22495;&#65292;&#20197;&#33258;&#21160;&#21270;&#30340;&#26041;&#24335;&#25918;&#19979;&#19968;&#20010;&#25968;&#32452;&#25110;&#26230;&#26684;&#30340;&#31890;&#23376;&#12289;&#25110;&#32773;&#38543;&#26426;&#36755;&#36865;&#21407;&#23376; (&#20363;&#22914;&#65292;&#26597;&#30475; &#26597;&#30475;&#21407;&#23376;&#23618;&#21270;&#23398;&#27773;&#30456;&#28096;&#31215;&#30340;&#27169;&#25311;&#24773;&#20917;).
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="1510">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>selectAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>CountingTool.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="108">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="108">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="108" end="110">
+<LeftIndent>140.0</LeftIndent>
+<content start="108" end="110">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="110" end="115">
+<LeftIndent>140.0</LeftIndent>
+<content start="110" end="114">
+<bold>true</bold><size>11</size></content>
+
+<content start="114" end="115">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="115" end="116">
+<LeftIndent>100.0</LeftIndent>
+<content start="115" end="116">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="116" end="140">
+<LeftIndent>160.0</LeftIndent>
+<content start="116" end="117">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="117" end="119">
+<size>11</size></content>
+
+<content start="119" end="120">
+<size>11</size><icon>AddAtomA.gif</icon></content>
+
+<content start="120" end="140">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="140" end="164">
+<LeftIndent>160.0</LeftIndent>
+<content start="140" end="141">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="141" end="143">
+<size>11</size></content>
+
+<content start="143" end="144">
+<size>11</size><icon>AddAtomB.gif</icon></content>
+
+<content start="144" end="164">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="164" end="188">
+<LeftIndent>160.0</LeftIndent>
+<content start="164" end="165">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="165" end="167">
+<size>11</size></content>
+
+<content start="167" end="168">
+<size>11</size><icon>AddAtomC.gif</icon></content>
+
+<content start="168" end="188">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="188" end="212">
+<LeftIndent>160.0</LeftIndent>
+<content start="188" end="189">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="189" end="191">
+<size>11</size></content>
+
+<content start="191" end="192">
+<size>11</size><icon>AddAtomD.gif</icon></content>
+
+<content start="192" end="212">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="212" end="213">
+<LeftIndent>120.0</LeftIndent>
+<content start="212" end="213">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="213" end="277">
+<LeftIndent>140.0</LeftIndent>
+<content start="213" end="277">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="277" end="279">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="277" end="278">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>dropAction$0.mml</resource><menubar>false</menubar><statusbar>false</statusbar><border>none</border></component></content>
+
+<content start="278" end="279">
+</content>
+
+</paragraph>
+<paragraph start="279" end="283">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="279" end="280">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Run</title>
+<tooltip>Run</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>run</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="280" end="281">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Stop</title>
+<tooltip>Stop</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>stop</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="281" end="282">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Reset</title>
+<tooltip>Reset</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>reset</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="282" end="283">
+</content>
+
+</paragraph>
+<paragraph start="283" end="298">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="283" end="297">
+<size>10</size></content>
+
+<content start="297" end="298">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="298" end="299">
+<LeftIndent>140.0</LeftIndent>
+<content start="298" end="299">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="299" end="304">
+<LeftIndent>140.0</LeftIndent>
+<content start="299" end="303">
+<bold>true</bold><size>11</size></content>
+
+<content start="303" end="304">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="304" end="319">
+<LeftIndent>160.0</LeftIndent>
+<content start="304" end="305">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="305" end="307">
+<size>11</size></content>
+
+<content start="307" end="308">
+<size>11</size><icon>AddAB.gif</icon></content>
+
+<content start="308" end="319">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="319" end="320">
+<LeftIndent>120.0</LeftIndent>
+<content start="319" end="320">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="320" end="380">
+<LeftIndent>180.0</LeftIndent>
+<content start="320" end="337">
+<size>11</size></content>
+
+<content start="337" end="338">
+<size>11</size><icon>apiIcon.gif</icon></content>
+
+<content start="338" end="341">
+<link_width>400</link_width><link_height>400</link_height><link_left>50</link_left><link_menubar>false</link_menubar><link_top>50</link_top><size>11</size><link_toolbar>false</link_toolbar><href>glossary/RadialBond.cml</href><link_resizable>false</link_resizable><target>_blank</target></content>
+
+<content start="341" end="380">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="380" end="381">
+<LeftIndent>140.0</LeftIndent>
+<content start="380" end="381">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="381" end="384">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="381" end="382">
+<size>11</size></content>
+
+<content start="382" end="383">
+<size>11</size><icon>CustomizeDiatomic.gif</icon></content>
+
+<content start="383" end="384">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="384" end="396">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="384" end="395">
+<size>10</size></content>
+
+<content start="395" end="396">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="396" end="397">
+<LeftIndent>140.0</LeftIndent>
+<content start="396" end="397">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="397" end="419">
+<LeftIndent>180.0</LeftIndent>
+<content start="397" end="419">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="419" end="420">
+<LeftIndent>120.0</LeftIndent>
+<content start="419" end="420">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="420" end="435">
+<LeftIndent>160.0</LeftIndent>
+<content start="420" end="421">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="421" end="423">
+<size>11</size></content>
+
+<content start="423" end="424">
+<size>11</size><icon>AddABC.gif</icon></content>
+
+<content start="424" end="435">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="435" end="436">
+<LeftIndent>120.0</LeftIndent>
+<content start="435" end="436">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="436" end="508">
+<LeftIndent>180.0</LeftIndent>
+<content start="436" end="454">
+<size>11</size></content>
+
+<content start="454" end="455">
+<size>11</size><icon>apiIcon.gif</icon></content>
+
+<content start="455" end="458">
+<link_statusbar>false</link_statusbar><link_width>400</link_width><link_height>400</link_height><link_left>50</link_left><link_menubar>false</link_menubar><link_top>50</link_top><size>11</size><link_toolbar>false</link_toolbar><href>glossary/RadialBond.cml</href><link_resizable>false</link_resizable><target>_blank</target></content>
+
+<content start="458" end="463">
+<size>11</size></content>
+
+<content start="463" end="464">
+<size>11</size><icon>apiIcon.gif</icon></content>
+
+<content start="464" end="466">
+<link_statusbar>false</link_statusbar><link_width>400</link_width><link_height>400</link_height><link_left>50</link_left><link_menubar>false</link_menubar><link_top>50</link_top><size>11</size><link_toolbar>false</link_toolbar><href>glossary/AngularBond.cml</href><link_resizable>false</link_resizable><target>_blank</target></content>
+
+<content start="466" end="508">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="508" end="509">
+<LeftIndent>140.0</LeftIndent>
+<content start="508" end="509">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="509" end="512">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="509" end="510">
+<size>11</size></content>
+
+<content start="510" end="511">
+<size>11</size><icon>CustomizeTriatomic.gif</icon></content>
+
+<content start="511" end="512">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="512" end="524">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="512" end="523">
+<size>10</size></content>
+
+<content start="523" end="524">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="524" end="525">
+<LeftIndent>120.0</LeftIndent>
+<content start="524" end="525">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="525" end="539">
+<LeftIndent>160.0</LeftIndent>
+<content start="525" end="526">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="526" end="528">
+<size>11</size></content>
+
+<content start="528" end="529">
+<size>11</size><icon>AddBenz.gif</icon></content>
+
+<content start="529" end="539">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="539" end="540">
+<LeftIndent>120.0</LeftIndent>
+<content start="539" end="540">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="540" end="606">
+<LeftIndent>180.0</LeftIndent>
+<content start="540" end="600">
+<size>11</size></content>
+
+<content start="600" end="601">
+<size>11</size><icon>apiIcon.gif</icon></content>
+
+<content start="601" end="604">
+<link_statusbar>false</link_statusbar><link_width>400</link_width><link_height>400</link_height><link_left>50</link_left><link_menubar>false</link_menubar><link_top>50</link_top><size>11</size><link_toolbar>false</link_toolbar><href>glossary/TorsionalBond.cml</href><link_resizable>false</link_resizable><target>_blank</target></content>
+
+<content start="604" end="606">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="606" end="607">
+<LeftIndent>120.0</LeftIndent>
+<content start="606" end="607">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="607" end="621">
+<LeftIndent>160.0</LeftIndent>
+<content start="607" end="608">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="608" end="610">
+<size>11</size></content>
+
+<content start="610" end="611">
+<size>11</size><icon>AddChain.gif</icon></content>
+
+<content start="611" end="621">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="621" end="622">
+<LeftIndent>120.0</LeftIndent>
+<content start="621" end="622">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="622" end="669">
+<LeftIndent>180.0</LeftIndent>
+<content start="622" end="669">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="669" end="670">
+<LeftIndent>140.0</LeftIndent>
+<content start="669" end="670">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="670" end="673">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="670" end="671">
+<size>11</size></content>
+
+<content start="671" end="672">
+<size>11</size><icon>CustomizeChain.gif</icon></content>
+
+<content start="672" end="673">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="673" end="685">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="673" end="684">
+<size>10</size></content>
+
+<content start="684" end="685">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="685" end="706">
+<LeftIndent>180.0</LeftIndent>
+<content start="685" end="706">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="706" end="707">
+<LeftIndent>140.0</LeftIndent>
+<content start="706" end="707">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="707" end="716">
+<LeftIndent>200.0</LeftIndent>
+<content start="707" end="708">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$DiamondBulletIcon</icon></content>
+
+<content start="708" end="713">
+<size>11</size></content>
+
+<content start="713" end="714">
+<size>11</size><icon>ChainMol1.gif</icon></content>
+
+<content start="714" end="716">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="716" end="725">
+<LeftIndent>200.0</LeftIndent>
+<content start="716" end="717">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$DiamondBulletIcon</icon></content>
+
+<content start="717" end="722">
+<size>11</size></content>
+
+<content start="722" end="723">
+<size>11</size><icon>ChainMol2.gif</icon></content>
+
+<content start="723" end="725">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="725" end="733">
+<LeftIndent>200.0</LeftIndent>
+<content start="725" end="726">
+<size>11</size><icon>org.concord.modeler.text.BulletIcon$DiamondBulletIcon</icon></content>
+
+<content start="726" end="731">
+<size>11</size></content>
+
+<content start="731" end="732">
+<size>11</size><icon>ChainMol3.gif</icon></content>
+
+<content start="732" end="733">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="733" end="734">
+<LeftIndent>120.0</LeftIndent>
+<content start="733" end="734">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="734" end="746">
+<LeftIndent>140.0</LeftIndent>
+<content start="734" end="744">
+<bold>true</bold><size>11</size></content>
+
+<content start="744" end="745">
+<icon>AddObstacle_Small.gif</icon></content>
+
+<content start="745" end="746">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="746" end="747">
+<LeftIndent>120.0</LeftIndent>
+<content start="746" end="747">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="747" end="873">
+<LeftIndent>160.0</LeftIndent>
+<content start="747" end="873">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="873" end="874">
+<LeftIndent>140.0</LeftIndent>
+<content start="873" end="874">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="874" end="885">
+<LeftIndent>140.0</LeftIndent>
+<content start="874" end="884">
+<bold>true</bold><size>11</size></content>
+
+<content start="884" end="885">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="885" end="886">
+<LeftIndent>120.0</LeftIndent>
+<content start="885" end="886">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="886" end="997">
+<LeftIndent>160.0</LeftIndent>
+<content start="886" end="905">
+<size>11</size></content>
+
+<content start="905" end="906">
+<icon>AddCircularRibbon.gif</icon></content>
+
+<content start="906" end="913">
+<size>11</size></content>
+
+<content start="913" end="914">
+<icon>AddRectangularRibbon.gif</icon></content>
+
+<content start="914" end="924">
+<size>11</size></content>
+
+<content start="924" end="925">
+<icon>AddCurvedRibbon.gif</icon></content>
+
+<content start="925" end="948">
+<size>11</size></content>
+
+<content start="948" end="949">
+<icon>AddCircularSurface.gif</icon></content>
+
+<content start="949" end="956">
+<size>11</size></content>
+
+<content start="956" end="957">
+<icon>AddRectangularSurface.gif</icon></content>
+
+<content start="957" end="967">
+<size>11</size></content>
+
+<content start="967" end="968">
+<icon>AddCurvedSurface.gif</icon></content>
+
+<content start="968" end="993">
+<size>11</size></content>
+
+<content start="993" end="994">
+<icon>AddFreeFormSurface.gif</icon></content>
+
+<content start="994" end="997">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="997" end="998">
+<LeftIndent>140.0</LeftIndent>
+<content start="997" end="998">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="998" end="1003">
+<RightIndent>60.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="998" end="1002">
+<bold>true</bold><size>11</size></content>
+
+<content start="1002" end="1003">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1003" end="1004">
+<RightIndent>60.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="1003" end="1004">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1004" end="1156">
+<LeftIndent>160.0</LeftIndent>
+<content start="1004" end="1103">
+<size>11</size></content>
+
+<content start="1103" end="1107">
+<href>boundary.cml</href><size>11</size></content>
+
+<content start="1107" end="1156">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1156" end="1157">
+<LeftIndent>160.0</LeftIndent>
+<content start="1156" end="1157">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1157" end="1174">
+<LeftIndent>140.0</LeftIndent>
+<content start="1157" end="1174">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1174" end="1175">
+<LeftIndent>100.0</LeftIndent>
+<content start="1174" end="1175">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1175" end="1177">
+<Alignment>1</Alignment>
+<LeftIndent>100.0</LeftIndent>
+<content start="1175" end="1176">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>dropAction$1.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+<button>Select Object</button><button>Add Nt</button><button>Add Pl</button><button>Add Ws</button><button>Add Ck</button><button>Add Diatomic Molecule</button><button>Add Triatomic Molecule</button><button>Add Benzene</button><button>Add Chain Molecule</button><button>Add Rectangular Molecular Surface</button><button>Add Rectangular Molecular Ribbon</button><button>Add Circular Molecular Surface</button><button>Add Circular Molecular Ribbon</button><button>Add Curved Molecular Surface</button><button>Add Curved Molecular Ribbon</button><button>Add Molecular Surface in Free-Form Shape</button><button>Add Obstacle</button></component><size>11</size></content>
+
+<content start="1176" end="1177">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1177" end="1199">
+<Alignment>1</Alignment>
+<LeftIndent>100.0</LeftIndent>
+<content start="1177" end="1198">
+<size>10</size></content>
+
+<content start="1198" end="1199">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1199" end="1200">
+<LeftIndent>100.0</LeftIndent>
+<content start="1199" end="1200">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1200" end="1216">
+<LeftIndent>140.0</LeftIndent>
+<content start="1200" end="1215">
+<bold>true</bold><size>11</size></content>
+
+<content start="1215" end="1216">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1216" end="1217">
+<LeftIndent>140.0</LeftIndent>
+<content start="1216" end="1217">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1217" end="1283">
+<LeftIndent>140.0</LeftIndent>
+<content start="1217" end="1273">
+<size>11</size></content>
+
+<content start="1273" end="1274">
+<size>11</size><icon>AddGB.gif</icon></content>
+
+<content start="1274" end="1277">
+<size>11</size></content>
+
+<content start="1277" end="1282">
+<size>11</size></content>
+
+<content start="1282" end="1283">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1283" end="1284">
+<LeftIndent>100.0</LeftIndent>
+<content start="1283" end="1284">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1284" end="1287">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="1284" end="1285">
+<size>11</size></content>
+
+<content start="1285" end="1286">
+<size>11</size><icon>GBConfig.gif</icon></content>
+
+<content start="1286" end="1287">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1287" end="1297">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="1287" end="1296">
+<size>10</size></content>
+
+<content start="1296" end="1297">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1297" end="1298">
+<LeftIndent>100.0</LeftIndent>
+<content start="1297" end="1298">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1298" end="1385">
+<LeftIndent>140.0</LeftIndent>
+<content start="1298" end="1368">
+<size>11</size></content>
+
+<content start="1368" end="1369">
+<size>11</size><icon>apiIcon.gif</icon></content>
+
+<content start="1369" end="1372">
+<link_width>600</link_width><link_height>400</link_height><link_left>50</link_left><link_menubar>false</link_menubar><link_top>50</link_top><size>11</size><link_toolbar>false</link_toolbar><href>glossary/End2End.cml</href><link_resizable>false</link_resizable><target>_blank</target></content>
+
+<content start="1372" end="1375">
+<size>11</size></content>
+
+<content start="1375" end="1376">
+<size>11</size><icon>apiIcon.gif</icon></content>
+
+<content start="1376" end="1379">
+<link_width>600</link_width><link_height>400</link_height><link_left>50</link_left><link_menubar>false</link_menubar><link_top>50</link_top><size>11</size><link_toolbar>false</link_toolbar><href>glossary/SideBySide.cml</href><link_resizable>false</link_resizable><target>_blank</target></content>
+
+<content start="1379" end="1385">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1385" end="1386">
+<LeftIndent>140.0</LeftIndent>
+<content start="1385" end="1386">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1386" end="1391">
+<LeftIndent>140.0</LeftIndent>
+<content start="1386" end="1391">
+<bold>true</bold><size>11</size></content>
+
+</paragraph>
+<paragraph start="1391" end="1392">
+<LeftIndent>140.0</LeftIndent>
+<content start="1391" end="1392">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1392" end="1490">
+<LeftIndent>140.0</LeftIndent>
+<content start="1392" end="1394">
+<href>script_add.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="1394" end="1418">
+<size>11</size></content>
+
+<content start="1418" end="1420">
+<href>script_loop.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="1420" end="1471">
+<size>11</size></content>
+
+<content start="1471" end="1487">
+<href>../student/nano/alcvd.cml</href><size>11</size></content>
+
+<content start="1487" end="1490">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1490" end="1491">
+<LeftIndent>140.0</LeftIndent>
+<content start="1490" end="1491">
+</content>
+
+</paragraph>
+<paragraph start="1491" end="1510">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="1491" end="1493">
+<size>11</size></content>
+
+<content start="1493" end="1496">
+<href>selectAction.cml</href><size>11</size></content>
+
+<content start="1496" end="1499">
+<size>11</size></content>
+
+<content start="1499" end="1501">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="1501" end="1504">
+<size>11</size></content>
+
+<content start="1504" end="1507">
+<href>CountingTool.cml</href><size>11</size></content>
+
+<content start="1507" end="1509">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

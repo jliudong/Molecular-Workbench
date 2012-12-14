@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Accessing a Gay-Berne particle&apos;s properties</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#35775;&#38382;&#30422;&#20271;&#23572;&#23612;&#31890;&#23376;&#30340;&#23646;&#24615;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#35775;&#38382;&#30422;&#20271;&#23572;&#23612;&#31890;&#23376;&#30340;&#23646;&#24615;&#65292;&#24403;&#27169;&#22411;&#23481;&#22120;&#22788;&#20110;&#36873;&#25321;&#27169;&#24335;(&#21363;&#65306;&#25353;&#38062;&quot; &quot; &#34987;&#36873;&#23450;)&#26102;&#65292;&#21452;&#20987;&#35813;&#31890;&#23376;&#65292;&#28982;&#21518;&#20320;&#20250;&#30475;&#21040;&#19979;&#38754;&#30340;&#23545;&#35805;&#26694;&#31383;&#21475;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#36825;&#20010;&#23545;&#35805;&#26694;&#65292;&#23558;&#20801;&#35768;&#20320;&#25913;&#21464;&#19968;&#32452;&#21442;&#25968;&#12290;
+
+&#25913;&#21464;&#39068;&#33394;
+
+&#19982;&#21407;&#23376;&#19981;&#21516;&#65292;&#19968;&#20010;&#30422;&#20271;&#23572;&#23612;&#31890;&#23376;&#21487;&#20197;&#26377;&#33258;&#24049;&#30340;&#39068;&#33394;&#12290;
+
+&#25913;&#21464;&#36136;&#37327;
+
+&#19982;&#21407;&#23376;&#19981;&#21516;&#12290;&#19968;&#20010;&#30422;&#20271;&#23572;&#23612;&#31890;&#23376;&#21487;&#20197;&#26377;&#33258;&#24049;&#30340;&#36136;&#37327;&#12290;
+
+&#25913;&#21464;&#24815;&#24615;
+
+&#22312;&#40664;&#35748;&#29366;&#24577;&#19979;&#65292;&#19968;&#20010;&#30422;&#20271;&#23572;&#23612;&#31890;&#23376;&#30340;&#24815;&#24615;&#26159;mBL/2&#65292;&#20854;&#20013;&#65292;m&#26159;&#36136;&#37327;&#65292;B&#26159;&#23485;&#24230;&#65292;&#32780;L&#26159;&#38271;&#24230;&#12290;&#28982;&#32780;&#65292;&#20320;&#21487;&#20197;&#25913;&#21464;&#24815;&#24615;&#20026;&#19968;&#20010;&#20219;&#24847;&#20540;&#12290;&#19982;&#20844;&#24335;&#32473;&#23450;&#20540;&#30340;&#24815;&#24615;&#30340;&#20559;&#24046;&#65292;&#26159;&#22343;&#21248;&#30340;&#36136;&#37327;&#20998;&#37197;&#30340;&#20559;&#24046;&#30340;&#19968;&#20010;&#32467;&#26524;&#12290;
+
+&#25913;&#21464;&#30005;&#33655;
+
+&#22312;&#30422;&#20271;&#23572;&#23612;&#31890;&#23376;&#19978;&#30340;&#30005;&#33655;&#24212;&#35813;&#20301;&#20110;&#31890;&#23376;&#30340;&#20013;&#24515;&#12290;&#25913;&#21464;&#35813;&#30005;&#33655;&#30340;&#33050;&#26412;&#22914;&#19979;&#65306;&#35774;&#32622;&#31890;&#23376;[i].&#30005;&#33655;[&#20540;]&#65292;&#20854;&#20013;&#65292;i&#26159;&#31890;&#23376;&#30340;&#25351;&#25968;&#65292;&#32780;[&#20540;]&#26159;&#30005;&#33655;&#30340;&#20540;&#12290;
+
+&#25913;&#21464;&#20598;&#26497;&#30697;
+
+&#19968;&#20010;&#30422;&#20271;&#23572;&#23612;&#31890;&#23376;&#21487;&#20197;&#26377;&#19968;&#20010;&#20598;&#26497;&#30697;&#65292;&#23427;&#26159;&#27839;&#30528;&#38271;&#36724;&#24182;&#31359;&#36807;&#20013;&#24515;&#20174;&#19968;&#22836;&#25351;&#21521;&#21478;&#19968;&#22836;&#30340;&#19968;&#20010;&#30690;&#37327;&#12290;&#30005;&#33655;&#21644;&#20598;&#26497;&#30697;&#25353;&#19979;&#21015;&#20844;&#24335;&#36827;&#34892;&#20132;&#20114;&#65306;
+
+   
+
+&#25913;&#21464;&#20598;&#26497;&#30697;&#30340;&#33050;&#26412;&#22914;&#19979;&#65306;&#35774;&#32622;&#31890;&#23376;[i].&#20598;&#26497;&#23376;[&#20540;]&#65292;&#20854;&#20013;&#65292;i&#26159;&#31890;&#23376;&#30340;&#25351;&#25968;&#65292;&#32780;[&#20540;]&#21017;&#26159;&#20598;&#26497;&#30697;&#30340;&#20540;&#12290;
+
+&#25913;&#21464;&#36895;&#24230;
+
+&#38500;&#20102; &#30452;&#25509;&#25302;&#21160;&#36895;&#24230;&#30690;&#37327;,&#22806;&#65292;&#20320;&#20063;&#21487;&#20197;&#36890;&#36807;&#38190;&#20837;&#19968;&#20010;&#25968;&#23383;&#26469;&#25913;&#21464;&#36895;&#24230;&#20998;&#37327;&#12290;&#27604;&#22914;&#65292;&#24403;&#20320;&#38656;&#35201;&#35774;&#32622;&#25152;&#36873;&#31890;&#23376;&#30340;&#36895;&#24230;&#31934;&#30830;&#20026;&#38646;&#26102;&#65292;&#36825;&#26159;&#24456;&#26377;&#29992;&#30340;&#12290;&#20197;&#21069;&#30340;&#26041;&#27861;&#65292;&#24456;&#38590;&#25302;&#21160;&#30690;&#37327;&#65292;&#20197;&#33267;&#20110;&#23427;&#23436;&#20840;&#21464;&#25104;&#20102;&#19968;&#20010;&#28857;&#65292;&#32780;&#36825;&#20250;&#20135;&#29983;&#38646;&#36895;&#24230;&#12290;&#25913;&#21464;&#36895;&#24230;&#30340;&#33050;&#26412;&#22914;&#19979;&#65306;
+
+&#35774;&#32622;&#31890;&#23376;[i].vx[&#20540;];  --- &#20026;&#20102;&#25913;&#21464;x-&#20998;&#37327;&#36895;&#24230;
+&#35774;&#32622;&#31890;&#23376;[i].vx[&#20540;]&#65307;--- &#20026;&#20102;&#25913;&#21464;y-&#20998;&#37327;&#36895;&#24230;
+&#35774;&#32622;&#31890;&#23376;[i].omega[&#20540;]&#65307;----&#20026;&#20102;&#25913;&#21464;&#35282;&#36895;&#24230;
+
+&#26597;&#30475;&#21464;&#37327;&#30340;&#21382;&#21490;
+
+&#22312;&#23646;&#24615;&#31383;&#21475;&#21333;&#20987;&#34013;&#33394;&#19979;&#21010;&#32447;&#30340;&#21517;&#23383;&#23558;&#20250;&#24377;&#20986;&#19968;&#20010;&#31383;&#21475;&#65292;&#31383;&#21475;&#20013;&#20250;&#26174;&#31034;&#25152;&#36873;&#21464;&#37327;&#20316;&#20026;&#19968;&#20010;&#26102;&#38388;&#20989;&#25968;&#30340;&#22270;&#24418;&#12290;&#20320;&#21487;&#20197;&#30475;&#21040;&#25152;&#36873;&#31890;&#23376;&#30340;&#22352;&#26631;&#12289;&#36895;&#24230;&#21644;&#21152;&#36895;&#24230;&#12289;&#20197;&#21450;&#35282;&#12289;&#35282;&#36895;&#29575;&#21644;&#35282;&#21152;&#36895;&#24230;&#22914;&#20309;&#30456;&#23545;&#20110;&#26102;&#38388;&#21457;&#29983;&#21464;&#21270;&#12290; &#32472;&#22270; &#21629;&#20196;&#21487;&#29992;&#20110;&#22312;&#22270;&#24418;&#20013;&#26174;&#31034;&#19968;&#20010;&#21464;&#37327;&#30340;&#21382;&#21490;&#12290;&#20363;&#22914;&#65292;&#26174;&#31034;&#23450;&#21521;&#35282;&#30456;&#23545;&#20110;&#26102;&#38388;&#30340;&#21464;&#21270;&#65292;&#35831;&#20351;&#29992;&#65306;&#32472;&#22270;&#8220;%&#31890;&#23376;[i]&#952;&#8221;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="870">
+<paragraph start="0" end="12">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="11">
+<bold>true</bold><size>16</size><italic>true</italic></content>
+
+<content start="11" end="12">
+</content>
+
+</paragraph>
+<paragraph start="12" end="13">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="12" end="13">
+</content>
+
+</paragraph>
+<paragraph start="13" end="32">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="13" end="15">
+<size>11</size></content>
+
+<content start="15" end="18">
+<href>accessRectProp.cml</href><size>11</size></content>
+
+<content start="18" end="21">
+<size>11</size></content>
+
+<content start="21" end="23">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="23" end="26">
+<size>11</size></content>
+
+<content start="26" end="29">
+<href>simpleui2d.cml</href><size>11</size></content>
+
+<content start="29" end="31">
+<size>11</size></content>
+
+<content start="31" end="32">
+</content>
+
+</paragraph>
+<paragraph start="32" end="33">
+<LeftIndent>140.0</LeftIndent>
+<content start="32" end="33">
+</content>
+
+</paragraph>
+<paragraph start="33" end="93">
+<LeftIndent>140.0</LeftIndent>
+<content start="33" end="62">
+<size>11</size></content>
+
+<content start="62" end="63">
+<icon>Select.gif</icon><size>11</size></content>
+
+<content start="63" end="93">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="93" end="94">
+<LeftIndent>140.0</LeftIndent>
+<content start="93" end="94">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="94" end="97">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="94" end="95">
+<size>11</size></content>
+
+<content start="95" end="96">
+<icon>GBProp.gif</icon><size>11</size></content>
+
+<content start="96" end="97">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="97" end="109">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="97" end="108">
+<size>10</size></content>
+
+<content start="108" end="109">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="109" end="110">
+<LeftIndent>140.0</LeftIndent>
+<content start="109" end="110">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="110" end="128">
+<LeftIndent>140.0</LeftIndent>
+<content start="110" end="128">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="128" end="129">
+<LeftIndent>140.0</LeftIndent>
+<content start="128" end="129">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="129" end="134">
+<LeftIndent>140.0</LeftIndent>
+<content start="129" end="133">
+<bold>true</bold><size>11</size></content>
+
+<content start="133" end="134">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="134" end="135">
+<LeftIndent>140.0</LeftIndent>
+<content start="134" end="135">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="135" end="159">
+<LeftIndent>140.0</LeftIndent>
+<content start="135" end="159">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="159" end="160">
+<LeftIndent>140.0</LeftIndent>
+<content start="159" end="160">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="160" end="165">
+<LeftIndent>140.0</LeftIndent>
+<content start="160" end="164">
+<bold>true</bold><size>11</size></content>
+
+<content start="164" end="165">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="165" end="166">
+<LeftIndent>140.0</LeftIndent>
+<content start="165" end="166">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="166" end="190">
+<LeftIndent>140.0</LeftIndent>
+<content start="166" end="190">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="190" end="191">
+<LeftIndent>140.0</LeftIndent>
+<content start="190" end="191">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="191" end="196">
+<LeftIndent>140.0</LeftIndent>
+<content start="191" end="195">
+<bold>true</bold><size>11</size></content>
+
+<content start="195" end="196">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="196" end="197">
+<LeftIndent>140.0</LeftIndent>
+<content start="196" end="197">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="197" end="289">
+<LeftIndent>140.0</LeftIndent>
+<content start="197" end="289">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="289" end="290">
+<LeftIndent>140.0</LeftIndent>
+<content start="289" end="290">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="290" end="295">
+<LeftIndent>140.0</LeftIndent>
+<content start="290" end="295">
+<bold>true</bold><size>11</size></content>
+
+</paragraph>
+<paragraph start="295" end="296">
+<LeftIndent>140.0</LeftIndent>
+<content start="295" end="296">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="296" end="364">
+<LeftIndent>140.0</LeftIndent>
+<content start="296" end="364">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="364" end="365">
+<LeftIndent>140.0</LeftIndent>
+<content start="364" end="365">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="365" end="371">
+<LeftIndent>140.0</LeftIndent>
+<content start="365" end="370">
+<bold>true</bold><size>11</size></content>
+
+<content start="370" end="371">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="371" end="372">
+<LeftIndent>140.0</LeftIndent>
+<content start="371" end="372">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="372" end="431">
+<LeftIndent>140.0</LeftIndent>
+<content start="372" end="430">
+<size>11</size></content>
+
+<content start="430" end="431">
+</content>
+
+</paragraph>
+<paragraph start="431" end="432">
+<LeftIndent>100.0</LeftIndent>
+<content start="431" end="432">
+</content>
+
+</paragraph>
+<paragraph start="432" end="436">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="432" end="434">
+</content>
+
+<content start="434" end="435">
+<icon>GBChargeDipole.gif</icon></content>
+
+<content start="435" end="436">
+</content>
+
+</paragraph>
+<paragraph start="436" end="437">
+<LeftIndent>140.0</LeftIndent>
+<content start="436" end="437">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="437" end="487">
+<LeftIndent>140.0</LeftIndent>
+<content start="437" end="486">
+<size>11</size></content>
+
+<content start="486" end="487">
+</content>
+
+</paragraph>
+<paragraph start="487" end="488">
+<LeftIndent>140.0</LeftIndent>
+<content start="487" end="488">
+</content>
+
+</paragraph>
+<paragraph start="488" end="493">
+<LeftIndent>140.0</LeftIndent>
+<content start="488" end="492">
+<bold>true</bold><size>11</size></content>
+
+<content start="492" end="493">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="493" end="494">
+<LeftIndent>140.0</LeftIndent>
+<content start="493" end="494">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="494" end="603">
+<LeftIndent>140.0</LeftIndent>
+<content start="494" end="497">
+<size>11</size></content>
+
+<content start="497" end="505">
+<href>changeVelocityAction.cml</href><size>11</size></content>
+
+<content start="505" end="603">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="603" end="604">
+<LeftIndent>140.0</LeftIndent>
+<content start="603" end="604">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="604" end="635">
+<LeftIndent>160.0</LeftIndent>
+<content start="604" end="634">
+<family>Courier New</family><size>11</size></content>
+
+<content start="634" end="635">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="635" end="664">
+<LeftIndent>160.0</LeftIndent>
+<content start="635" end="663">
+<family>Courier New</family><size>11</size></content>
+
+<content start="663" end="664">
+<bold>true</bold><size>11</size></content>
+
+</paragraph>
+<paragraph start="664" end="693">
+<LeftIndent>160.0</LeftIndent>
+<content start="664" end="692">
+<family>Courier New</family><size>11</size></content>
+
+<content start="692" end="693">
+<bold>true</bold><size>11</size></content>
+
+</paragraph>
+<paragraph start="693" end="694">
+<LeftIndent>140.0</LeftIndent>
+<content start="693" end="694">
+<bold>true</bold><size>11</size></content>
+
+</paragraph>
+<paragraph start="694" end="702">
+<LeftIndent>140.0</LeftIndent>
+<content start="694" end="701">
+<bold>true</bold><size>11</size></content>
+
+<content start="701" end="702">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="702" end="703">
+<LeftIndent>140.0</LeftIndent>
+<content start="702" end="703">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="703" end="850">
+<LeftIndent>140.0</LeftIndent>
+<content start="703" end="794">
+<size>11</size></content>
+
+<content start="794" end="796">
+<href>script_plot.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="796" end="850">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="850" end="851">
+<LeftIndent>140.0</LeftIndent>
+<content start="850" end="851">
+</content>
+
+</paragraph>
+<paragraph start="851" end="870">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="851" end="853">
+<size>11</size></content>
+
+<content start="853" end="856">
+<href>accessRectProp.cml</href><size>11</size></content>
+
+<content start="856" end="859">
+<size>11</size></content>
+
+<content start="859" end="861">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="861" end="864">
+<size>11</size></content>
+
+<content start="864" end="867">
+<href>simpleui2d.cml</href><size>11</size></content>
+
+<content start="867" end="869">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

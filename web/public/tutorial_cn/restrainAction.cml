@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Restraining Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#25233;&#21046;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#25233;&#21046;&#19968;&#20010;&#23545;&#35937;&#65292;&#24847;&#21619;&#30528;&#22312;&#19968;&#20010;&#20301;&#32622;&#19978;&#20197;&#19968;&#31181;&#31616;&#35856;&#21147;&#26469;&#32422;&#26463;&#23427;&#65292;&#24403;&#23427;&#35270;&#22270;&#31163;&#24320;&#26102;&#65292;&#31616;&#35856;&#21147;&#23558;&#20250;&#25226;&#23427;&#25302;&#22238;&#12290;
+
+&#38024;&#23545;&#25233;&#21046;&#24037;&#20855;&#65292;&#26377;&#20004;&#20010;&#25353;&#38062;&#12290;&#19968;&#20010;&#26159;&#27599;&#27425;&#28857;&#20987;&#37117;&#28155;&#21152;&#19968;&#27425;&#25233;&#21046;(10)&#12290;&#21478;&#19968;&#20010;&#27599;&#27425;&#28857;&#20987;&#20943;&#23569;&#19968;&#27425;&#25233;&#21046;(10)&#12290;&#22312;&#19968;&#20010;&#31890;&#23376;&#19978;&#22686;&#21152;&#25110;&#20943;&#23569;&#25233;&#21046;&#65292;&#39318;&#20808;&#28857;&#20987;&#20854;&#20013;&#30340;&#19968;&#20010;&#25353;&#38062;&#65292;&#28982;&#21518;&#28857;&#20987;&#31890;&#23376;&#12290;
+
+&#20320;&#21487;&#20197;&#29992;&#19979;&#38754;&#30340;&#27169;&#22411;&#65292;&#20351;&#29992;&#25233;&#21046;&#24037;&#20855;&#36827;&#34892;&#32451;&#20064;&#65306;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#25233;&#21046;&#21629;&#20196; &#65292;&#21487;&#20197;&#29992;&#26469;&#20197;&#25351;&#23450;&#24378;&#24230;&#30340;&#21147;&#37327;&#25233;&#21046;&#25152;&#36873;&#23450;&#30340;&#31890;&#23376;(s)&#12290;&#25913;&#21464;&#19968;&#20010;&#31890;&#23376;&#19978;&#30340;&#25233;&#21046;&#30340;&#21478;&#19968;&#31181;&#26041;&#24335;&#65292;&#26159;&#36890;&#36807;&#35843;&#29992; &#35774;&#32622; &#21629;&#20196;:
+
+&#35774;&#32622;&#31890;&#23376;[i].restraint(&#20215;&#20540;);
+&#35774;&#32622;&#31890;&#23376;[i].x[xcoordinate];
+&#35774;&#32622;&#31890;&#23376;[i].restraint.y[ycoordinate];
+
+i &#26159;&#35813;&#31890;&#23376;&#30340;&#25351;&#25968;&#12290;&#22914;&#26524;&#32422;&#26463;&#24378;&#24230;&#34987;&#35774;&#32622;&#20026;&#38646;&#65292;&#31890;&#23376;&#23558;&#34987;&#37322;&#25918;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="398">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>polarizeAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>DampingAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="72">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="72">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="72" end="73">
+<LeftIndent>140.0</LeftIndent>
+<content start="72" end="73">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="73" end="157">
+<LeftIndent>140.0</LeftIndent>
+<content start="73" end="157">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="157" end="158">
+<LeftIndent>140.0</LeftIndent>
+<content start="157" end="158">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="158" end="180">
+<LeftIndent>140.0</LeftIndent>
+<content start="158" end="179">
+<size>11</size></content>
+
+<content start="179" end="180">
+</content>
+
+</paragraph>
+<paragraph start="180" end="181">
+<LeftIndent>140.0</LeftIndent>
+<content start="180" end="181">
+</content>
+
+</paragraph>
+<paragraph start="181" end="183">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="181" end="182">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>restrainAction$0.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+<button>Increase Restraint</button><button>Decrease Restraint</button><button>Select Object</button></component></content>
+
+<content start="182" end="183">
+</content>
+
+</paragraph>
+<paragraph start="183" end="198">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="183" end="197">
+<size>10</size></content>
+
+<content start="197" end="198">
+</content>
+
+</paragraph>
+<paragraph start="198" end="199">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="198" end="199">
+</content>
+
+</paragraph>
+<paragraph start="199" end="204">
+<LeftIndent>140.0</LeftIndent>
+<content start="199" end="203">
+<bold>true</bold><size>11</size></content>
+
+<content start="203" end="204">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="204" end="205">
+<LeftIndent>140.0</LeftIndent>
+<content start="204" end="205">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="205" end="265">
+<LeftIndent>140.0</LeftIndent>
+<content start="205" end="209">
+<href>script_restrain.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="209" end="258">
+<size>11</size></content>
+
+<content start="258" end="260">
+<href>script_set.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="260" end="261">
+<size>11</size></content>
+
+<content start="261" end="264">
+<size>11</size></content>
+
+<content start="264" end="265">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="265" end="266">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="265" end="266">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="266" end="289">
+<LeftIndent>160.0</LeftIndent>
+<content start="266" end="289">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="289" end="313">
+<LeftIndent>160.0</LeftIndent>
+<content start="289" end="313">
+<family>Courier New</family><size>11</size></content>
+
+</paragraph>
+<paragraph start="313" end="347">
+<LeftIndent>160.0</LeftIndent>
+<content start="313" end="346">
+<family>Courier New</family><size>11</size></content>
+
+<content start="346" end="347">
+</content>
+
+</paragraph>
+<paragraph start="347" end="348">
+<LeftIndent>140.0</LeftIndent>
+<content start="347" end="348">
+</content>
+
+</paragraph>
+<paragraph start="348" end="378">
+<LeftIndent>140.0</LeftIndent>
+<content start="348" end="377">
+<size>11</size></content>
+
+<content start="377" end="378">
+</content>
+
+</paragraph>
+<paragraph start="378" end="379">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="378" end="379">
+</content>
+
+</paragraph>
+<paragraph start="379" end="398">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="379" end="381">
+<size>11</size></content>
+
+<content start="381" end="384">
+<href>polarizeAction.cml</href><size>11</size></content>
+
+<content start="384" end="387">
+<size>11</size></content>
+
+<content start="387" end="389">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="389" end="392">
+<size>11</size></content>
+
+<content start="392" end="395">
+<href>DampingAction.cml</href><size>11</size></content>
+
+<content start="395" end="397">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

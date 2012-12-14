@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xhtml="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>分子工作台</title>
+<meta name="description" content="分子工作台" />
+<link href="css/default.css" rel="stylesheet" type="text/css" media="screen,projection" />
+<link href="css/toaster.css" rel="stylesheet" type="text/css" media="screen,projection" />
+<link href="css/shadowbox.css" rel="stylesheet" type="text/css" media="screen,projection" />
+
+</head>
+
+<body class="home">
+<div id="page">
+<div id="container">
+  <div id="header">
+    <a href="index.html" title="分子工作平台"><img id="mwlogo" src="img/logo.png" alt="分子工作平台LOGO" /></a></div>
+  <div id="body">
+
+    <div id="content">
+    <h1 style="font-family:'微软雅黑'">化学模型制作</h1>
+      <hr />
+     
+     <div style=" font-size:14px; line-height:24px; height: inherit">
+     首先部署环境
+<div>第一步：
+</div>点击 文件       新建       命名       确定
+<img src="img/3_2.png" alt="模拟件" width="850" height="600" />
+<div>第二步：</div>
+点击 右键      仿真计算模型       二维分子模拟器       工具       选择（在工具条上显示所有按钮）</div>
+<img src="img/2_2.png" alt="模拟件" width="850" height="600" />
+<img src="img/2_3.png" alt="模拟件" width="850" height="600" />
+开始编辑模型
+<div>
+第三步：</div>
+选择加入障碍物         选择障碍物点击右键 	    属性       将X轴改为0；
+
+<img src="img/2_5.png" alt="模拟件" width="850" height="600" />
+<img src="img/2_6.png" alt="模拟件" />
+<div>第四步：
+</div>
+选择 -------直线------点击右键-----属性----选择线性和粗细
+<img src="img/2_7.png" alt="模拟件"  />
+<img src="img/2_8.png" alt="模拟件"  />
+编辑完的效果如下：
+<img src="img/2_9.png" alt="模拟件"  />
+<div>第五步：</div>
+选择线条----右键-----选择绑定目标-----选择----确认
+<img src="img/2_10.png" alt="模拟件" width="850" height="600" />
+<img src="img/2_11.png" alt="模拟件"  />
+<div>第六步：
+</div>选择线条----点击次序----放在粒子层后
+<img src="img/2_12.png" alt="模拟件" width="850" height="600" />
+<div>第七步：
+</div>加入PL粒子----
+<img src="img/2_13.png" alt="模拟件" width="850" height="600" />
+<img src="img/2_14.png" alt="模拟件"  />
+<div>第八步：</div>
+点击文件----保存---命名
+
+<div>第九步：</div>
+点击右键---模型标准控件----按钮控件----填写属性和运行控件
+<img src="img/2_15.png" alt="模拟件" width="850" height="600" />
+<img src="img/2_16.png" alt="模拟件"  />
+<img src="img/2_18.png" alt="模拟件"  />
+<img src="img/2_19.png" alt="模拟件"/>
+
+<img src="img/2_20.png" alt="模拟件"  />
+<div>第十步：</div>
+点击右键---取消工具条---取消显示条----取消控制条----选择视觉效果—修改。
+<img src="img/2_21.png" alt="模拟件" width="850" height="600" />
+<img src="img/2_22.png" alt="模拟件" />
+
+
+完成:
+<img src="img/23.png" alt="模拟件" />
+
+保存。
+     <span style=" font-size:14px; line-height:24px; height:auto"></span><span style=" font-size:14px; line-height:24px; height:auto"></span> <br style="clear: both;" />
+  </div>
+    </div>
+  </div>
+</div>
+	<div id="bubble"> <div class="fl"><a href="#">法律声明</a></div></div>
+<div id="footer"></div>
+</div>
+<!-- jQuery Library and Plugins -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="_assets/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="_assets/js/jquery.toaster.js"></script>
+<script type="text/javascript" src="_assets/js/common.js"></script>
+<script type="text/javascript" src="_assets/js/shadowbox/shadowbox.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+// execute functions on page load
+$(document).ready(function(){
+	// testimonials
+	rotateQuotes(0);
+	// add tool tips to gallery thumbnails
+	$(".gallery a[title]").tooltip();
+	// add video link interaction to featured simulation graphic
+	$("#play-btn").hover(function(){$("#play-btn").css({"opacity": 1.0})}, function(){$("#play-btn").css({"opacity": .5})});
+	$("#featured-simulation").mouseenter(function(){$("#play-btn").css({"opacity": 1.0})});
+	Shadowbox.init();
+});
+// Pop-up Message on Launch/Download
+function jt(myPosition, myBase) {
+	$.toaster({
+        base: myBase,
+        position: myPosition,
+        title: 'Please Wait...',
+        text: 'Your download may take some time depending on the speed of your internet connection.<br /><br />The first time you run Molecular Workbench you will have to download several megabytes of data. The next time you run MW, start-up will be much faster.',
+        timeout: 10000,
+        cssclass: 'important'
+    });
+}
+
+//]]>
+</script>
+</body>
+</html>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Charging Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#20805;&#30005;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#38024;&#23545;&#20805;&#30005;&#24037;&#20855;&#65292;&#26377;&#20004;&#20010;&#25353;&#38062;&#12290;&#19968;&#20010;&#26159;&#22312;&#19968;&#20010;&#31890;&#23376;&#19978;&#28155;&#21152;&#19968;&#20010;&#27491;&#30005;&#33655;(&#40664;&#35748;&#29366;&#24577;&#19979;0.5 e)&#12290;&#21478;&#19968;&#20010;&#26159;&#22312;&#19968;&#20010;&#31890;&#23376;&#19978;&#28155;&#21152;&#19968;&#20010;&#36127;&#30005;&#33655;(&#40664;&#35748;&#29366;&#24577;&#19979;-0.5 e)&#12290;
+
+&#20026;&#31890;&#23376;&#20805;&#30005;&#65292;&#39318;&#20808;&#28857;&#20987;&#20004;&#20010;&#25353;&#38062;&#20013;&#30340;&#19968;&#20010;&#25353;&#38062;&#65292;&#28982;&#21518;&#21333;&#20987;&#31890;&#23376;&#12290;
+
+ 
+&#25552;&#31034;&#65306; &#36825;&#20004;&#20010;&#20805;&#30005;&#24037;&#20855;&#25353;&#38062;&#30340;&#21151;&#33021;&#26159;&#21487;&#20114;&#25442;&#30340;&#65306;&#22914;&#26524;&#25353;&#20303;SHIFT&#38190;&#65292;&#19968;&#20010;&#30456;&#21453;&#31526;&#21495;&#30340;&#30005;&#33655;&#23558;&#34987;&#28155;&#21152;&#12290;&#20363;&#22914;&#65292;&#22914;&#26524;&#36873;&#25321;&#8220;&#28155;&#21152;&#27491;&#30005;&#33655;&#8221;&#25353;&#38062;&#65292;&#20294;&#20320;&#25353;&#20303;SHIFT&#38190;&#65292;&#19968;&#20123;&#25968;&#37327;&#30340;&#30005;&#33655;&#23558;&#20250;&#34987;&#20943;&#23569;&#12290;
+
+ 
+
+&#22312;&#19979;&#38754;&#30340;&#27169;&#22411;&#20013;&#65292;&#20320;&#21487;&#20197;&#29992;&#20805;&#30005;&#24037;&#20855;&#36827;&#34892;&#32451;&#20064;&#65306;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#32473;&#19968;&#20123;&#31890;&#23376;&#20805;&#30005;&#21518;&#65292;&#24403;&#20320;&#36816;&#34892;&#35813;&#27169;&#22411;&#26102;&#65292;&#20320;&#20250;&#31435;&#21051;&#30475;&#21040;&#38745;&#30005;&#21147;&#30340;&#20316;&#29992;&#12290;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#25910;&#36153; &#21629;&#20196;&#65292;&#21487;&#20197;&#29992;&#20197;&#25351;&#23450;&#20540;&#30340;&#30005;&#33655;&#23545;&#36873;&#23450;&#30340;&#31890;&#23376;&#36827;&#34892;&#20805;&#30005;&#12290;&#21478;&#19968;&#31181;&#26041;&#27861;&#26159;&#20351;&#29992; &#35774;&#32622; &#21629;&#20196;&#65306;&#35774;&#32622;&#31890;&#23376;[i].&#30005;&#33655;(&#20215;&#20540;)&#65292;&#36825;&#37324;&#65292;i&#20195;&#34920;&#31890;&#23376;&#30340;&#25351;&#25968;&#12290;&#32467;&#21512; &#36873;&#25321; &#21644; &#24490;&#29615; &#21629;&#20196;&#65292;&#20197;&#19981;&#21516;&#30340;&#20540;&#32473;&#19968;&#32452;&#31890;&#23376;&#36827;&#34892;&#20805;&#30005;&#30340;&#20219;&#21153;&#65292;&#21487;&#20197;&#23454;&#29616;&#33258;&#21160;&#21270;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="436">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>markAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>polarizeAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="100">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="100">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="100" end="101">
+<LeftIndent>140.0</LeftIndent>
+<content start="100" end="101">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="101" end="130">
+<LeftIndent>140.0</LeftIndent>
+<content start="101" end="130">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="130" end="131">
+<LeftIndent>140.0</LeftIndent>
+<content start="130" end="131">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="131" end="133">
+<LeftIndent>140.0</LeftIndent>
+<content start="131" end="132">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="132" end="133">
+</content>
+
+</paragraph>
+<paragraph start="133" end="222">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="133" end="136">
+<bold>true</bold><size>11</size></content>
+
+<content start="136" end="221">
+<size>11</size></content>
+
+<content start="221" end="222">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="222" end="223">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="222" end="223">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="223" end="225">
+<LeftIndent>140.0</LeftIndent>
+<content start="223" end="224">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="224" end="225">
+</content>
+
+</paragraph>
+<paragraph start="225" end="226">
+<LeftIndent>140.0</LeftIndent>
+<content start="225" end="226">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="226" end="248">
+<LeftIndent>140.0</LeftIndent>
+<content start="226" end="247">
+<size>11</size></content>
+
+<content start="247" end="248">
+</content>
+
+</paragraph>
+<paragraph start="248" end="249">
+<LeftIndent>140.0</LeftIndent>
+<content start="248" end="249">
+</content>
+
+</paragraph>
+<paragraph start="249" end="251">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="249" end="250">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>chargeAction$0.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+<button>Add Positive Charge</button><button>Add Negative Charge</button><button>Select Object</button></component></content>
+
+<content start="250" end="251">
+</content>
+
+</paragraph>
+<paragraph start="251" end="266">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="251" end="265">
+<size>10</size></content>
+
+<content start="265" end="266">
+</content>
+
+</paragraph>
+<paragraph start="266" end="267">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>100.0</LeftIndent>
+<content start="266" end="267">
+</content>
+
+</paragraph>
+<paragraph start="267" end="299">
+<LeftIndent>140.0</LeftIndent>
+<content start="267" end="299">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="299" end="300">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="299" end="300">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="300" end="305">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="300" end="304">
+<bold>true</bold><size>11</size></content>
+
+<content start="304" end="305">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="305" end="306">
+<RightIndent>20.0</RightIndent>
+<LeftIndent>140.0</LeftIndent>
+<content start="305" end="306">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="306" end="416">
+<LeftIndent>140.0</LeftIndent>
+<content start="306" end="308">
+<href>script_charge.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="308" end="342">
+<size>11</size></content>
+
+<content start="342" end="344">
+<href>script_set.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="344" end="378">
+<size>11</size></content>
+
+<content start="378" end="380">
+<href>script_select.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="380" end="383">
+<size>11</size></content>
+
+<content start="383" end="385">
+<href>script_loop.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="385" end="415">
+<size>11</size></content>
+
+<content start="415" end="416">
+</content>
+
+</paragraph>
+<paragraph start="416" end="417">
+<RightIndent>20.0</RightIndent>
+<content start="416" end="417">
+</content>
+
+</paragraph>
+<paragraph start="417" end="436">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="417" end="419">
+<size>11</size></content>
+
+<content start="419" end="422">
+<href>markAction.cml</href><size>11</size></content>
+
+<content start="422" end="425">
+<size>11</size></content>
+
+<content start="425" end="427">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="427" end="430">
+<size>11</size></content>
+
+<content start="430" end="433">
+<href>polarizeAction.cml</href><size>11</size></content>
+
+<content start="433" end="435">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_05" class="java.beans.XMLDecoder">
+ <object class="org.concord.mw3d.ModelState">
+  <void property="cameraPosition">
+   <string>0.0 0.0 0.0</string>
+  </void>
+  <void property="drawList">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="org.concord.modeler.draw.TextContainerState">
+      <void property="borderType">
+       <byte>2</byte>
+      </void>
+      <void id="Point0" property="callOutPoint">
+       <void class="java.awt.Point" method="getField">
+        <string>x</string>
+        <void method="set">
+         <object idref="Point0">
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point0"/>
+            <int>64</int>
+           </void>
+          </void>
+         </object>
+         <int>60</int>
+        </void>
+       </void>
+      </void>
+      <void property="fillMode">
+       <object class="org.concord.modeler.draw.FillMode$ColorFill">
+        <void property="color">
+         <object class="java.awt.Color">
+          <int>0</int>
+          <int>255</int>
+          <int>0</int>
+          <int>255</int>
+         </object>
+        </void>
+       </object>
+      </void>
+      <void property="font">
+       <object class="java.awt.Font">
+        <string>宋体</string>
+        <int>3</int>
+        <int>12</int>
+       </object>
+      </void>
+      <void property="shadowType">
+       <byte>2</byte>
+      </void>
+      <void property="text">
+       <string>分支</string>
+      </void>
+      <void property="x">
+       <float>6.0</float>
+      </void>
+      <void property="y">
+       <float>6.0</float>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="fillMode">
+   <object class="org.concord.modeler.draw.FillMode$ColorFill">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>244</int>
+      <int>245</int>
+      <int>239</int>
+      <int>255</int>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="heatBath">
+   <object class="org.concord.mw3d.models.HeatBath">
+    <void property="expectedTemperature">
+     <float>300.0</float>
+    </void>
+   </object>
+  </void>
+  <void property="rotation">
+   <string>705 -538 -462 132.5 132</string>
+  </void>
+  <void property="showGlassSimulationBox">
+   <boolean>false</boolean>
+  </void>
+  <void property="timeStep">
+   <float>2.0</float>
+  </void>
+  <void property="x1Argb">
+   <int>-3355444</int>
+  </void>
+  <void property="x1Epsilon">
+   <float>0.02</float>
+  </void>
+  <void property="x1Mass">
+   <float>50.0</float>
+  </void>
+  <void property="x2Epsilon">
+   <float>0.02</float>
+  </void>
+  <void property="x2Mass">
+   <float>50.0</float>
+  </void>
+  <void property="x2Sigma">
+   <float>2.0</float>
+  </void>
+  <void property="x3Epsilon">
+   <float>0.02</float>
+  </void>
+  <void property="x3Mass">
+   <float>50.0</float>
+  </void>
+  <void property="x3Sigma">
+   <float>2.0</float>
+  </void>
+  <void property="x4Argb">
+   <int>-3355393</int>
+  </void>
+  <void property="x4Epsilon">
+   <float>0.02</float>
+  </void>
+  <void property="x4Mass">
+   <float>50.0</float>
+  </void>
+  <void property="x4Sigma">
+   <float>2.0</float>
+  </void>
+  <void property="xyzFileName">
+   <string>page6$1.xyz</string>
+  </void>
+ </object>
+</java>

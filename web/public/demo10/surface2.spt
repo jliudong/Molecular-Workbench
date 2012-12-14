@@ -1,0 +1,1 @@
+select atomno=1, atomno=2, atomno=3, atomno=4define head selectedselect (not head) and not (atomno=49, atomno=50, atomno=19, atomno=19, atomno=48, atomno=47)define tail selectedisosurface delete select {head} ignore(not selected) colorscheme "bwr" solvent 0.4 COLOR RANGE -0.5 0.5 map select {*} mep 

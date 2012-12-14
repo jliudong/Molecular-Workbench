@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Adding and removing torsional bonds</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#28155;&#21152;&#25110;&#21024;&#38500;&#25197;&#36716;&#38190;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+MW&#37324;&#30340;&#25197;&#36716;&#38190;&#36890;&#24120;&#22312;&#20998;&#23376;&#21147;&#23398;&#37324;&#31216;&#20026;&#25197;&#36716;&#65292;&#65288;&#35265;   NIH&#30340;&#20998;&#23376;&#21147;&#23398;&#20171;&#32461;).
+
+&#21046;&#20316;&#19968;&#20010;&#25197;&#36716;&#38190;,&#35201;&#22312;&#24037;&#20855;&#26639;&#36873;&#25321;&#25353;&#38062;(&quot; &quot;) &#12290;&#24403;&#26500;&#36896;&#20989;&#25968;&#22312;&#36825;&#31181;&#27169;&#24335;&#19979;,&#28857;&#20987;&#19968;&#20010;&#35282;&#24230;&#38190;,&#28982;&#21518;&#25353;&#20303;ALT +&#28857;&#20987;&#21478;&#19968;&#20010;&#35282;&#24230;&#38190;&#12290;&#19968;&#20010;&#25197;&#36716;&#38190;&#23601;&#20250;&#22312;&#25152;&#36873;&#30340;&#20004;&#20010;&#35282;&#24230;&#38190;&#20043;&#38388;&#24418;&#25104;&#12290;&#27880;&#24847;&#65292;&#19981;&#33021;&#22312;&#20004;&#20010;&#27809;&#36830;&#25509;&#30340;&#35282;&#24230;&#38190;&#20043;&#38388;&#21019;&#24314;&#25197;&#36716;&#38190;&#12290;&#23545;&#20110;&#37027;&#20123;&#26377;&#36830;&#25509;&#30340;&#35282;&#24230;&#38190;,&#21487;&#20197;&#22312;&#20004;&#20010;&#39034;&#24207;&#20026;A-B-C&#21644;B-C-D&#30340;&#35282;&#24230;&#38190;&#20043;&#38388;&#21019;&#24314;&#19968;&#20010;&#25197;&#36716;&#38190;,&#19981;&#33021;&#22312;A-B-C&#21644;D-B-C&#20043;&#38388;&#21019;&#24314;&#25197;&#36716;&#38190;&#12290;
+
+ 
+ 2D&#27169;&#22411;&#19981;&#38656;&#35201;&#25197;&#36716;&#38190;&#12290;&#22240;&#27492;&#22914;&#26524;&#20320;&#22312;MW&#20013;&#32452;&#24314;&#36807;2D&#27169;&#22411;&#65292;&#36825;&#26159;&#26032;&#20307;&#39564;&#12290;
+ 
+
+&#21024;&#38500;&#19968;&#20010;&#25197;&#36716;&#38190;&#65292;&#23601;&#21491;&#20987;(&#25110;CTRL +&#21333;&#20987;Mac OS X &#38750;&#22810;&#37325;&#25353;&#38062;&#40736;&#26631;&#65289;&#20004;&#20010;&#35282;&#24230;&#38190;&#20043;&#38388;&#30340;&#22810;&#36793;&#21306;&#22495;&#65292;&#24182;&#22312;&#24555;&#25463;&#33756;&#21333;&#20013;&#36873;&#25321;&#8220;CUT&#65288;&#21098;&#20999;&#65289;&#8221;&#12290;&#20219;&#20309;&#26102;&#20505;&#24403;&#36873;&#25321;&#20102;&#19968;&#20010;&#25197;&#36716;&#38190;&#65292;&#23427;&#23558;&#34987;&#26631;&#31034;&#20986;&#65292;&#21487;&#20197;&#29992;CTRL+X&#65288;Windows/Linux&#65289;&#25110;&#21629;&#20196;+X (Mac), &#25110;DELETE&#21644;BACKSPACE&#38190;&#26469;&#21024;&#38500;&#23427;&#12290;
+
+&#32451;&#20064;
+
+&#20320;&#21487;&#20197;&#29992;&#19979;&#38754;&#30340;&#31034;&#20363;&#65292;&#20307;&#39564;&#19968;&#19979;&#26377;&#20851;&#28155;&#21152;&#25110;&#21024;&#38500;&#25197;&#36716;&#38190;&#26469;&#23436;&#25104;&#21019;&#24314;&#19968;&#20010;&#20057;&#28911;&#20998;&#23376;&#12290;&#22914;&#26524;&#22312;&#27809;&#26377;&#28155;&#21152;&#25197;&#36716;&#38190;&#30340;&#24773;&#20917;&#19979;&#65292;&#36816;&#34892;&#36825;&#20010;&#27169;&#22411;&#65292;&#35266;&#23519;&#20998;&#23376;&#26159;&#22914;&#20309;&#25913;&#21464;&#24418;&#29366;&#26159;&#38750;&#24120;&#26377;&#36259;&#30340;&#12290;&#10102;.
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&#22914;&#26524;&#32452;&#24314;&#25197;&#36716;&#38190;&#26102;&#26377;&#22256;&#38590;&#65292;&#20320;&#21487;&#33021;&#24819;&#26597;&#30475;&#36825;&#20004;&#20010;&#39044;&#21046;&#27169;&#22411;&#12290; &#31532;&#19968;&#20010; &#21482;&#26377;&#20004;&#20010;&#25197;&#36716;&#38190;&#12290;&#31532;&#20108;&#20010;&#26377;&#22235;&#20010;&#12290;&#22240;&#27492;&#65292;&#22312; &#31532;&#20108;&#20010; &#27169;&#22411;&#20013;&#27604;&#22312;&#31532;&#19968;&#20010;&#20013;&#33021;&#26356;&#22909;&#30340;&#32500;&#25345;&#20998;&#23376;&#30340;&#24179;&#38754;&#24615;&#12290;
+
+ 
+&#10102; &#20057;&#28911;&#20998;&#23376;&#21253;&#21547;&#19968;&#20010;C=C&#21452;&#38190;&#65292; &#22240;&#27492;&#65292;&#19981;&#21516;&#20110;&#20057;&#28919;&#65292;&#24517;&#39035;&#28155;&#21152;&#25197;&#36716;&#38190;&#26469;&#32500;&#25345;&#32467;&#26500;&#30340;&#24179;&#38754;&#24615;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="684">
+<paragraph start="0" end="9">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="8">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="10">
+<RightIndent>20.0</RightIndent>
+<content start="9" end="10">
+</content>
+
+</paragraph>
+<paragraph start="10" end="29">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="10" end="12">
+<size>11</size></content>
+
+<content start="12" end="15">
+<size>11</size><href>abond3d.cml</href></content>
+
+<content start="15" end="18">
+<size>11</size></content>
+
+<content start="18" end="20">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="20" end="23">
+<size>11</size></content>
+
+<content start="23" end="26">
+<size>11</size><href>duplicate3d.cml</href></content>
+
+<content start="26" end="28">
+<size>11</size></content>
+
+<content start="28" end="29">
+</content>
+
+</paragraph>
+<paragraph start="29" end="30">
+<LeftIndent>140.0</LeftIndent>
+<content start="29" end="30">
+</content>
+
+</paragraph>
+<paragraph start="30" end="68">
+<LeftIndent>140.0</LeftIndent>
+<content start="30" end="53">
+<size>11</size></content>
+
+<content start="53" end="54">
+<icon>htmlink.gif</icon></content>
+
+<content start="54" end="55">
+<size>11</size></content>
+
+<content start="55" end="65">
+<size>11</size><href>http://cmm.cit.nih.gov/modeling/guide_documents/molecular_mechanics_document.html</href></content>
+
+<content start="65" end="68">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="68" end="69">
+<LeftIndent>140.0</LeftIndent>
+<content start="68" end="69">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="69" end="243">
+<LeftIndent>140.0</LeftIndent>
+<content start="69" end="88">
+<size>11</size></content>
+
+<content start="88" end="89">
+<icon>torsionbond.gif</icon></content>
+
+<content start="89" end="243">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="243" end="244">
+<LeftIndent>140.0</LeftIndent>
+<content start="243" end="244">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="244" end="246">
+<LeftIndent>140.0</LeftIndent>
+<content start="244" end="245">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="245" end="246">
+</content>
+
+</paragraph>
+<paragraph start="246" end="282">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="246" end="281">
+<size>11</size></content>
+
+<content start="281" end="282">
+</content>
+
+</paragraph>
+<paragraph start="282" end="284">
+<LeftIndent>140.0</LeftIndent>
+<content start="282" end="283">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="283" end="284">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="284" end="285">
+<LeftIndent>140.0</LeftIndent>
+<content start="284" end="285">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="285" end="437">
+<LeftIndent>140.0</LeftIndent>
+<content start="285" end="437">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="437" end="438">
+<LeftIndent>140.0</LeftIndent>
+<content start="437" end="438">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="438" end="441">
+<LeftIndent>140.0</LeftIndent>
+<content start="438" end="440">
+<bold>true</bold><size>11</size></content>
+
+<content start="440" end="441">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="441" end="442">
+<LeftIndent>140.0</LeftIndent>
+<content start="441" end="442">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="442" end="521">
+<LeftIndent>140.0</LeftIndent>
+<content start="442" end="518">
+<size>11</size></content>
+
+<content start="518" end="519">
+<size>13</size></content>
+
+<content start="519" end="521">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="521" end="522">
+<LeftIndent>140.0</LeftIndent>
+<content start="521" end="522">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="522" end="524">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="522" end="523">
+<component><class>org.concord.modeler.PageMd3d</class><resource>tbond3d$0.mdd</resource><coordinate>tbond3d$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="523" end="524">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="524" end="538">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="524" end="537">
+<size>10</size></content>
+
+<content start="537" end="538">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="538" end="539">
+<LeftIndent>140.0</LeftIndent>
+<content start="538" end="539">
+</content>
+
+</paragraph>
+<paragraph start="539" end="617">
+<LeftIndent>140.0</LeftIndent>
+<content start="539" end="566">
+<size>10</size></content>
+
+<content start="566" end="569">
+<size>11</size><href>tbond3da.cml</href></content>
+
+<content start="569" end="570">
+<size>11</size></content>
+
+<content start="570" end="589">
+<size>10</size></content>
+
+<content start="589" end="590">
+<size>11</size></content>
+
+<content start="590" end="593">
+<size>11</size><href>tbond3db.cml</href></content>
+
+<content start="593" end="616">
+<size>11</size></content>
+
+<content start="616" end="617">
+</content>
+
+</paragraph>
+<paragraph start="617" end="618">
+<LeftIndent>140.0</LeftIndent>
+<content start="617" end="618">
+</content>
+
+</paragraph>
+<paragraph start="618" end="620">
+<LeftIndent>140.0</LeftIndent>
+<content start="618" end="619">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><bgcolor>-1000000</bgcolor></icon></content>
+
+<content start="619" end="620">
+</content>
+
+</paragraph>
+<paragraph start="620" end="664">
+<LeftIndent>140.0</LeftIndent>
+<content start="620" end="621">
+<size>13</size></content>
+
+<content start="621" end="663">
+<size>11</size></content>
+
+<content start="663" end="664">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="664" end="665">
+<LeftIndent>140.0</LeftIndent>
+<content start="664" end="665">
+</content>
+
+</paragraph>
+<paragraph start="665" end="684">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="665" end="667">
+<size>11</size></content>
+
+<content start="667" end="670">
+<size>11</size><href>abond3d.cml</href></content>
+
+<content start="670" end="673">
+<size>11</size></content>
+
+<content start="673" end="675">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="675" end="678">
+<size>11</size></content>
+
+<content start="678" end="681">
+<size>11</size><href>duplicate3d.cml</href></content>
+
+<content start="681" end="683">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

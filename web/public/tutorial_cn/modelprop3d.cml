@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Accessing the model&apos;s properties</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#36827;&#20837;&#27169;&#22411;&#30340;&#23646;&#24615;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+es.
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12305;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="68">
+<paragraph start="0" end="8">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="7">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="9">
+<RightIndent>20.0</RightIndent>
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="28">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="9" end="17">
+<size>11</size></content>
+
+<content start="17" end="19">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="19" end="22">
+<size>11</size></content>
+
+<content start="22" end="25">
+<size>11</size><href>setview3d.cml</href></content>
+
+<content start="25" end="27">
+<size>11</size></content>
+
+<content start="27" end="28">
+</content>
+
+</paragraph>
+<paragraph start="28" end="29">
+<LeftIndent>140.0</LeftIndent>
+<content start="28" end="29">
+</content>
+
+</paragraph>
+<paragraph start="29" end="33">
+<LeftIndent>140.0</LeftIndent>
+<content start="29" end="33">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="33" end="34">
+<LeftIndent>140.0</LeftIndent>
+<content start="33" end="34">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="34" end="37">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="34" end="35">
+</content>
+
+<content start="35" end="36">
+<icon>modelprop3d.gif</icon></content>
+
+<content start="36" end="37">
+</content>
+
+</paragraph>
+<paragraph start="37" end="48">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="37" end="47">
+<size>10</size></content>
+
+<content start="47" end="48">
+</content>
+
+</paragraph>
+<paragraph start="48" end="49">
+<LeftIndent>140.0</LeftIndent>
+<content start="48" end="49">
+</content>
+
+</paragraph>
+<paragraph start="49" end="68">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="49" end="57">
+<size>11</size></content>
+
+<content start="57" end="59">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="59" end="62">
+<size>11</size></content>
+
+<content start="62" end="65">
+<size>11</size><href>setview3d.cml</href></content>
+
+<content start="65" end="67">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

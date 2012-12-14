@@ -1,0 +1,11 @@
+moveto /* time, axisAngle */ 0.0 { 114 993 19 26.17} /* zoom, translation */  70 0.0 0.0  /* center, rotationRadius */ {-2.92135 -0.50979996 0.021950126} 7.9187775 /* navigation center, translation, depth */ {0.0 0.0 0.0} 13.958236 -5.6438365 50.0;
+
+
+background IMAGE "elementsCHOjmol200.gif"; frank off; script echoDisplay.spt; 
+
+set echo myecho 0 200
+echo "Lipid: Decanoic Acid (a fatty acid)";
+font echo 12 sans bold
+
+script ballstick.spt
+script surface.spt; isosurface off

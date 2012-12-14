@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="GB18030"?>
+<document>
+<language>GB18030</language>
+<page_title>模型库</page_title>
+<bg_image>sidebar1b.gif</bg_image>
+<text>  
+搜索模型库
+ 
+（您必须在线才能搜索）
+
+ </text>
+<section start="0" end="26">
+<paragraph start="0" end="3">
+<LeftIndent>160.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="0" end="1">
+</content>
+
+<content start="1" end="2">
+<icon>lom.gif</icon></content>
+
+<content start="2" end="3">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="3" end="9">
+<LeftIndent>160.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="3" end="8">
+<bold>true</bold><size>14</size></content>
+
+<content start="8" end="9">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="9" end="11">
+<LeftIndent>160.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="9" end="10">
+<component><class>org.concord.modeler.SearchTextField</class>
+<type>3</type>
+</component></content>
+
+<content start="10" end="11">
+</content>
+
+</paragraph>
+<paragraph start="11" end="23">
+<LeftIndent>160.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="11" end="22">
+</content>
+
+<content start="22" end="23">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="23" end="24">
+<LeftIndent>160.0</LeftIndent>
+<content start="23" end="24">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="24" end="26">
+<LeftIndent>160.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="24" end="25">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>0.75</width>
+<height>300.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Verdana&quot;&gt;
+    &lt;center&gt;
+      &lt;table&gt;
+        &lt;tr&gt;
+          &lt;td valign=&quot;top&quot;&gt;
+            &lt;b&gt;&lt;font size=&quot;4&quot;&gt;&amp;#29289;&amp;#29702;&amp;#65306;&lt;/font&gt;&lt;/b&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/classic/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#32463;&amp;#20856;&amp;#21147;&amp;#23398;&lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/classic/motion/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#26426;&amp;#26800;&amp;#23398;&lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/wave/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#27874;&amp;#21160;&lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/fluid/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#27969;&amp;#20307;&lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/electrostatics/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#30005;&amp;#30913;&amp;#23398;&lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/gaslaws/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#27668;&amp;#20307;&amp;#23450;&amp;#24459;&lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/heattransfer/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#28909;&amp;#20256;&amp;#23548; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/light/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#20809;&amp;#21644;&amp;#29289;&amp;#36136;&amp;#30456;&amp;#20114;&amp;#20316;&amp;#29992; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/td&gt;
+          &lt;td valign=&quot;top&quot;&gt;
+            &lt;b&gt;&lt;font size=&quot;4&quot;&gt;&amp;#21270;&amp;#23398;&amp;#65306;&lt;/font&gt;&lt;/b&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/motionandforce/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#20998;&amp;#23376;&amp;#30456;&amp;#20114;&amp;#20316;&amp;#29992;&amp;#21644;&amp;#36816;&amp;#21160; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;font&gt;&lt;a href=&quot;../../student/organic/index.cml&quot;&gt;&amp;#26080;&amp;#26426;&amp;#21270;&amp;#23398;&lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;../../student/organic/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/stateofmatter/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#29289;&amp;#36136;&amp;#19977;&amp;#24577;&amp;#21644;&amp;#30456;&amp;#21464; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/solution/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#27700;&amp;#20998;&amp;#23376;&amp;#21644;&amp;#28342;&amp;#28082; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/reaction/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#21270;&amp;#23398;&amp;#21453;&amp;#24212;&amp;#21160;&amp;#21147;&amp;#23398; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/electrochem/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#30005;&amp;#21270;&amp;#23398; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/quantumchemistry/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#37327;&amp;#23376;&amp;#21270;&amp;#23398; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/td&gt;
+          &lt;td valign=&quot;top&quot;&gt;
+            &lt;b&gt;&lt;font size=&quot;4&quot;&gt;&amp;#29983;&amp;#29289;&amp;#65306;&lt;/font&gt;&lt;/b&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;molecules/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#20998;&amp;#23376;&amp;#24211; &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/proteinfolding/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#34507;&amp;#30333;&amp;#36136;&amp;#21512;&amp;#25104;&amp;#21644;&amp;#25240;&amp;#21472; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/biomodels/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#20854;&amp;#23427; &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td valign=&quot;top&quot;&gt;
+            &lt;b&gt;&lt;font size=&quot;4&quot;&gt;&amp;#32435;&amp;#31859;&amp;#25216;&amp;#26415;&lt;/font&gt;&lt;/b&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/nano/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#32435;&amp;#31859;&amp;#21046;&amp;#36896;&amp;#21644;&amp;#32435;&amp;#31859;&amp;#26426;&amp;#22120;&lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/materials/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#26448;&amp;#26009;&amp;#31185;&amp;#23398; 
+                &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/td&gt;
+          &lt;td valign=&quot;top&quot;&gt;
+            &lt;b&gt;&lt;font size=&quot;4&quot;&gt;&amp;#20854;&amp;#23427;&amp;#65306;&lt;/font&gt;&lt;/b&gt;
+
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/lab/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#23454;&amp;#39564;&amp;#25216;&amp;#26415; &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/fly/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#20998;&amp;#23376;&amp;#28459;&amp;#28216;&lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href=&quot;../../student/game/index.cml&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;#23567;&amp;#28216;&amp;#25103; &lt;/font&gt;&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+    &lt;/center&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+</paragraph>
+</section>
+</document>

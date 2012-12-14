@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Translating, rotating and zooming in the default viewing mode</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#22312;&#40664;&#35748;&#35270;&#22270;&#27169;&#24335;&#20013;&#30340;&#36716;&#25442;&#65292;&#26059;&#36716;&#19982;&#32553;&#25918;
+
+&lt; &#19978;&#19968;&#39029;| &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#24403; &quot; &quot; &#24037;&#20855;&#26639;&#19978;&#30340;&#25353;&#38062;&#34987;&#36873;&#20013;&#26102;&#65292; &#26500;&#25104;&#20989;&#25968;&#22788;&#20110;&#40664;&#35748;&#35270;&#22270;&#27169;&#24335;&#29366;&#24577;&#12290; &#22312;&#27492;&#27169;&#24335;&#19979;&#65292;&#20320;&#21487;&#20197;&#25302;&#21160;&#40736;&#26631;&#26059;&#36716;&#35270;&#22270;&#65292;&#25353;&#20303;SHIFT&#25110;ALT&#38190;&#65292;&#24182;&#25302;&#21160;&#40736;&#26631;&#26469;&#25918;&#22823;&#25110;&#32553;&#23567;&#35270;&#22270;&#12290;&#24403;&#8220;&#8221;&#25353;&#38062;&#34987;&#36873;&#20013;&#26102;&#65292;&#20320;&#21487;&#20197;&#25302;&#21160;&#40736;&#26631;&#26469;&#36716;&#25442;&#35270;&#22270;&#65288;aka pan&#65289;&#12290;&#36824;&#26377;&#19968;&#20010;&#19979;&#25289;&#33756;&#21333;&#65292;&#24110;&#21161;&#20320;&#24555;&#36895;&#35774;&#32622;&#21069;&#35270;&#22270;&#12289;&#21518;&#35270;&#22270;&#12289;&#19978;&#35270;&#22270;&#12289;&#19979;&#35270;&#22270;&#12289;&#24038;&#35270;&#22270;&#21450;&#21491;&#35270;&#22270;&#12290;
+
+ 
+&#27880;&#24847;&#65306;&#22312;&#36825;&#20123;&#27169;&#24335;&#20013;&#65292;&#20320;&#21482;&#26159;&#22312;&#35270;&#22270;&#31354;&#38388;&#37324;&#31227;&#21160;  --- &#30456;&#23545;&#20110;&#20854;&#22352;&#26631;&#31995;&#65292;&#21407;&#23376;&#24182;&#19981;&#31227;&#21160;&#65292;&#25105;&#20204;&#31216;&#20043;&#20026;&#27169;&#22411;&#31354;&#38388;&#12290;&#22312;&#36825;&#19968;3D&#24314;&#27169;&#29615;&#22659;&#20013;&#65292;&#21482;&#35201;&#30475;&#19968;&#19979;&#21491;&#19979;&#35282;&#30340;&#22352;&#26631;&#36724;&#65292;&#20320;&#23601;&#21487;&#20197;&#20998;&#36776;&#20986;&#27169;&#22411;&#31354;&#38388;&#20869;&#30340;&#29289;&#20307;&#31227;&#21160;&#19982;&#35270;&#22270;&#31354;&#38388;&#20869;&#30340;&#29289;&#20307;&#31227;&#21160;&#20043;&#38388;&#30340;&#21306;&#21035;&#12290;&#22914;&#26524;&#22352;&#26631;&#36724;&#19981;&#31227;&#21160;&#65292;&#21017;&#35270;&#22270;&#31354;&#38388;&#19981;&#31227;&#21160;&#65292;&#29289;&#20307;&#30340;&#20219;&#20309;&#31227;&#21160;&#26159;&#30001;&#20110;&#20320;&#30340;&#32534;&#36753;&#25110;&#20998;&#23376;&#21160;&#21147;&#23398;&#27169;&#25311;&#12290;&#38500;&#20102;&#22352;&#26631;&#36724;&#20043;&#22806;&#65292;&#29627;&#29827;&#27169;&#25311;&#31665;&#30340;&#26694;&#26550;&#20063;&#21487;&#20197;&#29992;&#20316;&#21442;&#32771;&#26694;&#26550;&#12290;
+ 
+
+&#38500;&#20102;&#19978;&#38754;&#30340;&#40736;&#26631;&#25805;&#20316;,&#36824;&#35774;&#32622;&#20102;&#22914;&#19979;&#30340;&#24555;&#25463;&#38190;&#26469;&#31227;&#21160;&#35270;&#22270;:
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&#22312;&#20197;&#19978;&#34920;&#26684;&#20013;&#65292;CW&#20195;&#34920;&#39034;&#26102;&#38024;&#26041;&#21521;&#65292;CCW&#20195;&#34920;&#36870;&#26102;&#38024;&#26041;&#21521;&#12290;
+&lt; &#19978;&#19968;&#39029;| &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="468">
+<paragraph start="0" end="18">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="17">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="17" end="18">
+</content>
+
+</paragraph>
+<paragraph start="18" end="19">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="18" end="19">
+</content>
+
+</paragraph>
+<paragraph start="19" end="37">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="19" end="21">
+<size>11</size></content>
+
+<content start="21" end="24">
+<href>basic3d.cml</href><size>11</size></content>
+
+<content start="24" end="26">
+<size>11</size></content>
+
+<content start="26" end="28">
+<href>index4.cml</href><size>11</size></content>
+
+<content start="28" end="31">
+<size>11</size></content>
+
+<content start="31" end="34">
+<href>mw3d_rove.cml</href><size>11</size></content>
+
+<content start="34" end="36">
+<size>11</size></content>
+
+<content start="36" end="37">
+</content>
+
+</paragraph>
+<paragraph start="37" end="38">
+<LeftIndent>140.0</LeftIndent>
+<content start="37" end="38">
+</content>
+
+</paragraph>
+<paragraph start="38" end="191">
+<LeftIndent>140.0</LeftIndent>
+<content start="38" end="41">
+<size>11</size></content>
+
+<content start="41" end="42">
+<icon>DefaultMode.gif</icon></content>
+
+<content start="42" end="63">
+<size>11</size></content>
+
+<content start="63" end="69">
+<bold>true</bold><size>11</size></content>
+
+<content start="69" end="190">
+<size>11</size></content>
+
+<content start="190" end="191">
+</content>
+
+</paragraph>
+<paragraph start="191" end="192">
+<LeftIndent>140.0</LeftIndent>
+<content start="191" end="192">
+</content>
+
+</paragraph>
+<paragraph start="192" end="194">
+<LeftIndent>140.0</LeftIndent>
+<content start="192" end="193">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="193" end="194">
+</content>
+
+</paragraph>
+<paragraph start="194" end="372">
+<LeftIndent>200.0</LeftIndent>
+<RightIndent>100.0</RightIndent>
+<content start="194" end="197">
+<bold>true</bold><size>11</size></content>
+
+<content start="197" end="208">
+<size>11</size></content>
+
+<content start="208" end="212">
+<bold>true</bold><size>11</size></content>
+
+<content start="212" end="241">
+<size>11</size></content>
+
+<content start="241" end="245">
+<bold>true</bold><size>11</size></content>
+
+<content start="245" end="372">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="372" end="374">
+<LeftIndent>140.0</LeftIndent>
+<content start="372" end="373">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="373" end="374">
+</content>
+
+</paragraph>
+<paragraph start="374" end="375">
+<LeftIndent>140.0</LeftIndent>
+<content start="374" end="375">
+</content>
+
+</paragraph>
+<paragraph start="375" end="402">
+<LeftIndent>140.0</LeftIndent>
+<content start="375" end="402">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="402" end="403">
+<LeftIndent>140.0</LeftIndent>
+<content start="402" end="403">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="403" end="406">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="403" end="404">
+<component><class>org.concord.modeler.PageTable</class>
+<columnname>Key, Action</columnname>
+<row>12</row>
+<column>2</column>
+<layout>107, 239</layout>
+<width>350.0</width>
+<height>360.0</height>
+<border>Lowered Etched</border>
+<hline>true</hline>
+<vline>true</vline>
+<elementarray><te>Up Arrow</te><te>Turn up</te><te>Down Arrow</te><te>Turn down</te><te>Left Arrow</te><te>Turn left</te><te>Right Arrow</te><te>Turn right</te><te>Shift+Up Arrow</te><te>Move up</te><te>Shift+Down Arrow</te><te>Move down</te><te>Shift+Left Arrow</te><te>Move left</te><te>Shift+Right Arrow</te><te>Move right</te><te>Z</te><te>Spin CW</te><te>Shift+Z</te><te>Spin CCW</te><te>A</te><te>Zoom in</te><te>S</te><te>Zoom out</te></elementarray>
+</component></content>
+
+<content start="404" end="405">
+<component><class>org.concord.modeler.PageMd3d</class><resource>mw3d_move$0.mdd</resource><coordinate>mw3d_move$0.xyz</coordinate><width>340</width><height>360</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="405" end="406">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="406" end="420">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="406" end="419">
+<size>10</size></content>
+
+<content start="419" end="420">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="420" end="421">
+<LeftIndent>140.0</LeftIndent>
+<content start="420" end="421">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="421" end="450">
+<LeftIndent>140.0</LeftIndent>
+<content start="421" end="449">
+<size>11</size></content>
+
+<content start="449" end="450">
+</content>
+
+</paragraph>
+<paragraph start="450" end="468">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="450" end="452">
+<size>11</size></content>
+
+<content start="452" end="455">
+<href>basic3d.cml</href><size>11</size></content>
+
+<content start="455" end="457">
+<size>11</size></content>
+
+<content start="457" end="459">
+<href>index4.cml</href><size>11</size></content>
+
+<content start="459" end="462">
+<size>11</size></content>
+
+<content start="462" end="465">
+<href>mw3d_rove.cml</href><size>11</size></content>
+
+<content start="465" end="467">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

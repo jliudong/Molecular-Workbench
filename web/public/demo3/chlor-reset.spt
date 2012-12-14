@@ -1,0 +1,13 @@
+echo ""
+
+moveto /* time, axisAngle */ 1.0 { 0 0 -1000 1.0} /* zoom, translation */  101.64 -9.43 -0.75  /* center, rotationRadius */ {0.0 0.0 0.0} 19.89804 /* navigation center, translation, depth */ {0.0 0.0 0.0} -9.523809 -0.75 50.0;
+
+
+select all
+color bonds none
+color cpk
+cpk 20%
+
+select magnesium 
+cpk 50%
+select all

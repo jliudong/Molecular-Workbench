@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Customizing a protein synthesis simulation</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#33258;&#23450;&#20041;&#19968;&#20010;&#34507;&#30333;&#36136;&#21512;&#25104;&#27169;&#25311;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#34507;&#30333;&#36136;&#21512;&#25104;&#26159;&#19968;&#20010;&#22797;&#26434;&#30340;&#36807;&#31243;&#12290;&#25152;&#20197;&#29992;&#21160;&#30011;&#26469;&#38416;&#26126;&#20102;&#23427;&#12290;&#20026;&#20102;&#26356;&#23481;&#26131;&#22320;&#29702;&#35299;&#25972;&#20010;&#36807;&#31243;&#65292;&#21487;&#20197;&#25226;&#27169;&#25311;&#20998;&#20026;&#20004;&#20010;&#38454;&#27573;&#65292;&#21363;&#65306;&#38500;&#20102;&#36816;&#34892;&#19968;&#20010;&#20174;&#36716;&#24405;&#21040;&#36716;&#35793;&#30340;&#19981;&#38388;&#26029;&#27169;&#25311;&#20043;&#22806;&#65292;&#20134;&#22914;&#21069;&#39029;&#25152;&#31034;&#65292;&#19968;&#20010;&#21482;&#26174;&#31034;&#36716;&#24405;, &#21478;&#19968;&#20010;&#21482;&#26174;&#31034;&#36716;&#35793;&#12290;
+
+&#39318;&#20808;&#65292;&#24517;&#39035;&#20808;&#21024;&#38500;&#23481;&#22120;&#24213;&#37096;&#30340;&#24037;&#20855;&#26639;&#65288;&#22914;&#26524;&#19981;&#21024;&#38500;&#65292;&#29992;&#25143;&#21487;&#20197;&#22312;&#23427;&#19978;&#38754;&#28857;&#20987;&#36816;&#34892;&#25353;&#38062;&#65292;&#24182;&#22312;&#36716;&#24405;&#21518;&#19981;&#38388;&#26029;&#22320;&#36816;&#34892;&#25972;&#20010;&#27169;&#25311;&#65289;&#12290;&#21491;&#20987;&#65288;&#25110;ctrl&#28857;&#20987;Mac OS X&#65292;&#38750;&#21452;&#25353;&#38062;&#40736;&#26631;&#65289;&#27169;&#22411;&#31383;&#21475;&#65292;&#20174;&#24377;&#20986;&#33756;&#21333;&#21462;&#28040;&#25152;&#36873;&#8220;&#26174;&#31034;&#24213;&#26639;&#8221;&#65288;&#30830;&#20445;&#36719;&#20214;&#26159;&#22312;&#21019;&#20316;&#27169;&#24335;&#65292;&#25110;&#33756;&#21333;&#21576;&#28784;&#33394;&#65289;&#12290;&#20043;&#21518;&#65292;&#24212;&#35813;&#20250;&#30475;&#21040;&#19968;&#20010;&#27809;&#26377;&#24213;&#37096;&#24037;&#20855;&#26639;&#30340;&#23481;&#22120;&#12290;&#22914;&#26524;&#38656;&#35201;&#25353;&#38062;&#19978;&#19982;&#20043;&#30456;&#20851;&#30340;&#21151;&#33021;&#65292;&#21487;&#20197;&#36890;&#36807;&#36873;&#25321;&#33756;&#21333;&#22312;&#20219;&#20309;&#26102;&#20505;&#25226;&#23427;&#25918;&#22238;&#65292;&#20294;&#19981;&#35201;&#24536;&#35760;&#23436;&#25104;&#21518;&#23558;&#20854;&#21024;&#38500;&#12290;
+
+&#29616;&#22312;&#21487;&#20197;&#25554;&#20837;&#25353;&#38062;&#26469;&#25511;&#21046;&#36716;&#24405;&#12290;&#36873;&#25321;&#8220;&#25554;&#20837;&gt;&#27169;&#22411;&#30340;&#26631;&#20934;&#25511;&#21046;&#22120;&gt;&#25353;&#38062;&#8221;&#65292;&#24182;&#23547;&#25214;&#36825;&#20123;&#36873;&#39033;&#65306;
+
+   &#36716;&#24405;DNA &#29983;&#25104;mRNA&#65288;&#20449;&#20351;&#26680;&#31958;&#26680;&#37240;&#65289;
+   &#36880;&#27493;&#36716;&#24405;
+   &#36716;&#21464;mRNA&#29983;&#25104;&#34507;&#30333;&#36136;
+   &#36880;&#27493;&#36716;&#21464;
+   &#20572;&#27490;&#65316;&#65326;&#65313;&#36716;&#24405;&#25110;&#36716;&#21464;
+   &#37325;&#35774;&#34507;&#30333;&#36136;&#21512;&#25104;&#27169;&#25311;
+
+&#19979;&#38754;&#26159;&#19968;&#20010;&#25554;&#20837;&#25353;&#38062;&#12289;&#29992;&#20197;&#25511;&#21046;&#36716;&#24405;&#21644;&#36716;&#35793;&#30340;&#34507;&#30333;&#36136;&#21512;&#25104;&#27169;&#22411;&#65292; 
+
+ 
+   
+    
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="527">
+<paragraph start="0" end="13">
+<RightIndent>8.0</RightIndent>
+<Alignment>2</Alignment>
+<SpaceAbove>8.0</SpaceAbove>
+<content start="0" end="12">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="12" end="13">
+<size>14</size><bold>true</bold></content>
+
+</paragraph>
+<paragraph start="13" end="14">
+<RightIndent>8.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="13" end="14">
+</content>
+
+</paragraph>
+<paragraph start="14" end="33">
+<RightIndent>8.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="14" end="16">
+<size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size><href>prosyn.cml</href></content>
+
+<content start="19" end="22">
+<size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="24" end="27">
+<size>11</size></content>
+
+<content start="27" end="30">
+<size>11</size><href>h2o.cml</href></content>
+
+<content start="30" end="32">
+<size>11</size></content>
+
+<content start="32" end="33">
+</content>
+
+</paragraph>
+<paragraph start="33" end="34">
+<LeftIndent>140.0</LeftIndent>
+<content start="33" end="34">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="34" end="133">
+<LeftIndent>140.0</LeftIndent>
+<content start="34" end="133">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="133" end="134">
+<LeftIndent>140.0</LeftIndent>
+<content start="133" end="134">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="134" end="323">
+<LeftIndent>140.0</LeftIndent>
+<content start="134" end="323">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="323" end="324">
+<LeftIndent>140.0</LeftIndent>
+<content start="323" end="324">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="324" end="366">
+<LeftIndent>140.0</LeftIndent>
+<content start="324" end="366">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="366" end="367">
+<LeftIndent>140.0</LeftIndent>
+<content start="366" end="367">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="367" end="391">
+<LeftIndent>160.0</LeftIndent>
+<content start="367" end="368">
+<icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="368" end="390">
+</content>
+
+<content start="390" end="391">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="391" end="399">
+<LeftIndent>160.0</LeftIndent>
+<content start="391" end="392">
+<icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="392" end="394">
+</content>
+
+<content start="394" end="399">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="399" end="414">
+<LeftIndent>160.0</LeftIndent>
+<content start="399" end="400">
+<icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="400" end="413">
+</content>
+
+<content start="413" end="414">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="414" end="422">
+<LeftIndent>160.0</LeftIndent>
+<content start="414" end="415">
+<icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="415" end="417">
+</content>
+
+<content start="417" end="422">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="422" end="436">
+<LeftIndent>160.0</LeftIndent>
+<content start="422" end="423">
+<icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="423" end="435">
+</content>
+
+<content start="435" end="436">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="436" end="449">
+<LeftIndent>160.0</LeftIndent>
+<content start="436" end="437">
+<icon>org.concord.modeler.text.BulletIcon$SquareBulletIcon</icon></content>
+
+<content start="437" end="439">
+</content>
+
+<content start="439" end="449">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="449" end="450">
+<LeftIndent>140.0</LeftIndent>
+<content start="449" end="450">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="450" end="480">
+<LeftIndent>140.0</LeftIndent>
+<content start="450" end="480">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="480" end="481">
+<LeftIndent>140.0</LeftIndent>
+<content start="480" end="481">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="481" end="483">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="481" end="482">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>prosyn2$0.mml</resource><menubar>false</menubar><statusbar>false</statusbar><recorderless>true</recorderless>
+<dna>ATGGGGGGGGGGAAGGGAGTTGGCGTAGATTTTCAAATGGCGGGGAAACCCTTTGGGGGGGGGAAAGTGCCCCCCTTTAAATCCGGGGGGGGGCCCGGGTGAAAAGGGCCCTTTGGGTAGCCCTGGCCCAAACACGAATTT</dna><dna_dt1>20</dna_dt1><dna_dt2>500</dna_dt2><dna_context>false</dna_context></component></content>
+
+<content start="482" end="483">
+</content>
+
+</paragraph>
+<paragraph start="483" end="487">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="483" end="484">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Stop</title>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>Stop DNA transcription or translation</action>
+</component></content>
+
+<content start="484" end="485">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Reset</title>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_run>true</disabled_at_run>
+<action>Reset protein synthesis simulation</action>
+</component></content>
+
+<content start="485" end="486">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Input DNA string</title>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>Input DNA string</action>
+</component></content>
+
+<content start="486" end="487">
+</content>
+
+</paragraph>
+<paragraph start="487" end="492">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="487" end="488">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Transcribe DNA to mRNA</title>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>Transcribe DNA to mRNA</action>
+</component></content>
+
+<content start="488" end="489">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Transcribe step by step</title>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>Transcribe step by step</action>
+</component></content>
+
+<content start="489" end="490">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Translate mRNA to protein</title>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>Translate mRNA to protein</action>
+</component></content>
+
+<content start="490" end="491">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Translate step by step</title>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>Translate step by step</action>
+</component></content>
+
+<content start="491" end="492">
+<italic>true</italic><size>11</size></content>
+
+</paragraph>
+<paragraph start="492" end="506">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="492" end="505">
+<size>11</size></content>
+
+<content start="505" end="506">
+</content>
+
+</paragraph>
+<paragraph start="506" end="507">
+<LeftIndent>140.0</LeftIndent>
+<content start="506" end="507">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="507" end="508">
+<LeftIndent>140.0</LeftIndent>
+<content start="507" end="508">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="508" end="527">
+<RightIndent>8.0</RightIndent>
+<Alignment>2</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="508" end="510">
+<size>11</size></content>
+
+<content start="510" end="513">
+<size>11</size><href>prosyn.cml</href></content>
+
+<content start="513" end="516">
+<size>11</size></content>
+
+<content start="516" end="518">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="518" end="521">
+<size>11</size></content>
+
+<content start="521" end="524">
+<size>11</size><href>h2o.cml</href></content>
+
+<content start="524" end="526">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

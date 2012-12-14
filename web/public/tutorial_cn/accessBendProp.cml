@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Accessing an angular bond&apos;s properties</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#35775;&#38382;&#35282;&#38190;&#23646;&#24615;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#35775;&#38382;&#24452;&#21521;&#38190;&#23646;&#24615;&#65292;&#24403;&#27169;&#22411;&#23481;&#22120;&#22788;&#20110;&#36873;&#25321;&#27169;&#24335;(&#21363;&#65306;&#25353;&#38062;&quot; &quot; &#34987;&#36873;&#23450;)&#26102;&#65292;&#21452;&#20987;&#35813;&#24452;&#21521;&#38190;&#65292;&#28982;&#21518;&#20320;&#20250;&#30475;&#21040;&#19979;&#38754;&#30340;&#23545;&#35805;&#26694;&#31383;&#21475;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+&#36825;&#20010;&#23545;&#35805;&#26694;&#23558;&#20801;&#35768;&#20320;&#26356;&#25913;&#38190;&#35282;&#21644;&#24378;&#24230;&#12290;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#25913;&#21464;&#35282;&#38190;&#23646;&#24615;&#65292;&#35831;&#20351;&#29992; &#35774;&#32622; &#21629;&#20196;&#12290;&#20363;&#22914;&#65292;&#35774;&#32622;abond[0].&#24378;&#24230;100&#65292;&#35774;&#32622;&#31532;&#19968;&#20010;&#35282;&#38190;&#30340;&#24378;&#24230;&#12290;&#30446;&#21069;&#65292;&#21482;&#26377;&#35282;&#38190;&#30340;&#20004;&#20010;&#23646;&#24615;&#21487;&#20197;&#36890;&#36807;&#33050;&#26412;&#36827;&#34892;&#35774;&#32622;&#65306;&#24378;&#24230;&#21644;&#38190;&#35282;&#12290;
+
+&#25913;&#21464;&#22810;&#37325;&#35282;&#38190;&#23646;&#24615;&#65292;&#39318;&#20808; &#36873;&#23450; &#23427;&#20204;&#65292;&#28982;&#21518;&#35843;&#29992;&#35774;&#32622;&#24378;&#24230;[&#20540;]&#26469;&#25913;&#21464;&#33258;&#24049;&#30340;&#24378;&#24230;&#65292;&#24182;&#35774;&#32622;&#38190;&#35282;[&#20540;]&#26469;&#25913;&#21464;&#20182;&#20204;&#30340;&#38190;&#35282;&#12290;
+
+&lt; &#19978;&#19968;&#39029; |I&#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="281">
+<paragraph start="0" end="7">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="6">
+<bold>true</bold><size>16</size><italic>true</italic></content>
+
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="8">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="27">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="8" end="10">
+<size>11</size></content>
+
+<content start="10" end="13">
+<href>accessBondProp.cml</href><size>11</size></content>
+
+<content start="13" end="16">
+<size>11</size></content>
+
+<content start="16" end="18">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="18" end="21">
+<size>11</size></content>
+
+<content start="21" end="24">
+<href>accessMolProp.cml</href><size>11</size></content>
+
+<content start="24" end="26">
+<size>11</size></content>
+
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="28">
+<LeftIndent>100.0</LeftIndent>
+<content start="27" end="28">
+</content>
+
+</paragraph>
+<paragraph start="28" end="85">
+<LeftIndent>140.0</LeftIndent>
+<content start="28" end="53">
+<size>11</size></content>
+
+<content start="53" end="54">
+<icon>Select.gif</icon><size>11</size></content>
+
+<content start="54" end="85">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="85" end="86">
+<LeftIndent>100.0</LeftIndent>
+<content start="85" end="86">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="86" end="89">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="86" end="87">
+<size>11</size></content>
+
+<content start="87" end="88">
+<icon>BendProp.gif</icon><size>11</size></content>
+
+<content start="88" end="89">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="89" end="101">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="89" end="101">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="101" end="119">
+<LeftIndent>140.0</LeftIndent>
+<content start="101" end="119">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="119" end="120">
+<LeftIndent>140.0</LeftIndent>
+<content start="119" end="120">
+</content>
+
+</paragraph>
+<paragraph start="120" end="125">
+<LeftIndent>140.0</LeftIndent>
+<content start="120" end="124">
+<bold>true</bold><size>11</size></content>
+
+<content start="124" end="125">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="125" end="126">
+<LeftIndent>140.0</LeftIndent>
+<content start="125" end="126">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="126" end="204">
+<LeftIndent>140.0</LeftIndent>
+<content start="126" end="137">
+<size>11</size></content>
+
+<content start="137" end="139">
+<href>script_set.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="139" end="204">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="204" end="205">
+<LeftIndent>140.0</LeftIndent>
+<content start="204" end="205">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="205" end="261">
+<LeftIndent>140.0</LeftIndent>
+<content start="205" end="217">
+<size>11</size></content>
+
+<content start="217" end="219">
+<href>script_select.cml</href><size>11</size></content>
+
+<content start="219" end="261">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="261" end="262">
+<content start="261" end="262">
+</content>
+
+</paragraph>
+<paragraph start="262" end="281">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="262" end="264">
+<size>11</size></content>
+
+<content start="264" end="267">
+<href>accessBondProp.cml</href><size>11</size></content>
+
+<content start="267" end="269">
+<size>11</size></content>
+
+<content start="269" end="272">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="272" end="275">
+<size>11</size></content>
+
+<content start="275" end="278">
+<href>accessMolProp.cml</href><size>11</size></content>
+
+<content start="278" end="280">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

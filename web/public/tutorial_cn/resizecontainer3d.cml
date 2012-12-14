@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Resizing the container</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#35843;&#25972;&#23481;&#22120;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#19968;&#26086;&#25554;&#20837;3D&#27169;&#22411;&#23481;&#22120;&#65292;&#21487;&#20197;&#29992;&#36873;&#25321;&#8220;Edit Resize Container&#8221; &#32534;&#36753;&#35843;&#25972;&#23481;&#22120;&#8221;&#33756;&#21333;&#23545;&#20854;&#36827;&#34892;&#35843;&#25972;&#12290;&#27880;&#24847;&#65306;&#23481;&#22120;&#30340;&#22823;&#23567;&#65292;&#20915;&#23450;&#20102;&#35270;&#31383;&#23631;&#24149;&#30340;&#22823;&#23567;&#65292;&#23427;&#19981;&#21516;&#20110; &#29627;&#29827;&#31665; &#30340;&#22823;&#23567;,&#20854;&#20013;&#21253;&#21547;3D&#20013;&#25152;&#26377;&#30340;&#24494;&#31890;&#31995;&#32479;&#12290;
+
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="152">
+<paragraph start="0" end="5">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="4">
+<bold>true</bold><italic>true</italic><size>15</size></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<size>11</size><href>jmolcompanion.cml</href></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<size>11</size><href>field3d.cml</href></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>140.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="131">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="107">
+<size>11</size></content>
+
+<content start="107" end="111">
+<size>11</size><href>glassbox.cml</href></content>
+
+<content start="111" end="131">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="131" end="132">
+<LeftIndent>140.0</LeftIndent>
+<content start="131" end="132">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="132" end="133">
+<LeftIndent>140.0</LeftIndent>
+<content start="132" end="133">
+</content>
+
+</paragraph>
+<paragraph start="133" end="152">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="133" end="135">
+<size>11</size></content>
+
+<content start="135" end="138">
+<size>11</size><href>jmolcompanion.cml</href></content>
+
+<content start="138" end="141">
+<size>11</size></content>
+
+<content start="141" end="143">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="143" end="146">
+<size>11</size></content>
+
+<content start="146" end="149">
+<size>11</size><href>field3d.cml</href></content>
+
+<content start="149" end="151">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

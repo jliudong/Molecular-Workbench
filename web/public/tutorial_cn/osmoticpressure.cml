@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Osmotic pressure measured by gauges</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#21387;&#21147;&#34920;&#27979;&#37327;&#28183;&#36879;&#21387;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#21387;&#21147;&#34920;&#30340;&#31532;&#20845;&#20010;&#23454;&#39564;&#26159;,&#27979;&#37327;&#28183;&#36879;&#21387;&#12290;&#20004;&#20010;&#34920;&#23433;&#35013;&#22312;&#28183;&#36879;&#31995;&#32479;&#30340;&#27599;&#20010;&#38548;&#38388;&#65306;&#19968;&#20010;&#26159;&#22402;&#30452;&#23545;&#40784;&#32780;&#21478;&#19968;&#20010;&#26159;&#27700;&#24179;&#12290; &#36825;&#20010;&#35774;&#32622;&#26159;&#27979;&#35797;&#28183;&#36879;&#21387;&#26159;&#21542;&#21482;&#23384;&#22312;&#20110;&#22402;&#30452;&#20110;&#21322;&#36879;&#33180;&#30340;&#26041;&#21521;&#12290;
+
+&#20854;&#20182;&#27979;&#35797;&#39033;&#30446;&#26377;&#65306;(a)&#22914;&#26524;&#21024;&#38500;&#28342;&#36136;&#65292;&#25152;&#26377;&#30340;&#20202;&#34920;&#26159;&#21542;&#26174;&#31034;&#30456;&#21516;&#21387;&#21147;&#65311;(b)&#22914;&#26524;&#21024;&#38500;&#25152;&#26377;&#30340;&#28342;&#21058;&#65292;&#24038;&#20391;&#38388;&#38548;&#39069;&#20004;&#20010;&#21387;&#21147;&#34920;&#35835;&#25968;&#26159;&#21542;&#31561;&#20110;&#28183;&#36879;&#21387;&#65311;(c)&#22914;&#26524;&#22686;&#21152;&#28909;&#28020;&#30340;&#28201;&#24230;&#65292;&#26681;&#25454;&#33539;&#25176;&#22827;&#30340;&#28183;&#36879;&#23450;&#24459;&#28183;&#36879;&#21387;&#20250;&#22686;&#21152;&#21527;&#65311;
+
+  
+ 
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+ 
+&#27880;&#24847;&#65306; &#22914;&#26524;&#24819;&#33719;&#24471;&#26356;&#21487;&#38752;&#30340;&#32467;&#26524;&#65292;&#22686;&#21152;&#35760;&#24405;&#22120;&#38271;&#24230;&#33267;500&#24103;&#65288;&#22312;&#31995;&#32479;&#37197;&#32622;&#23545;&#35805;&#26694;&#30340; &#8220;&#35760;&#24405;&#22120;&#8221;&#36873;&#39033;&#21345;&#20013;&#35774;&#32622;&#65289;&#12290;
+ 
+
+&#23454;&#39564;&#32467;&#26524;&#27627;&#26080;&#24847;&#22806;&#12290;&#21487;&#20197;&#29992;&#20197;&#19978;&#27169;&#22411;&#33258;&#25105;&#26816;&#39564;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="328">
+<paragraph start="0" end="9">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="8">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="10">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="9" end="10">
+</content>
+
+</paragraph>
+<paragraph start="10" end="29">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="10" end="12">
+<size>11</size></content>
+
+<content start="12" end="15">
+<size>11</size><href>microbuoyancy.cml</href></content>
+
+<content start="15" end="18">
+<size>11</size></content>
+
+<content start="18" end="20">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="20" end="23">
+<size>11</size></content>
+
+<content start="23" end="26">
+<size>11</size><underline>true</underline><foreground>0 0 255</foreground></content>
+
+<content start="26" end="28">
+<size>11</size></content>
+
+<content start="28" end="29">
+</content>
+
+</paragraph>
+<paragraph start="29" end="30">
+<LeftIndent>140.0</LeftIndent>
+<content start="29" end="30">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="30" end="106">
+<LeftIndent>140.0</LeftIndent>
+<content start="30" end="79">
+<size>11</size></content>
+
+<content start="79" end="106">
+<bold>true</bold><size>11</size></content>
+
+</paragraph>
+<paragraph start="106" end="107">
+<LeftIndent>140.0</LeftIndent>
+<content start="106" end="107">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="107" end="204">
+<LeftIndent>140.0</LeftIndent>
+<content start="107" end="204">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="204" end="205">
+<LeftIndent>140.0</LeftIndent>
+<content start="204" end="205">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="205" end="208">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="205" end="206">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>osmoticpressure$0.mml</resource><menubar>false</menubar></component></content>
+
+<content start="206" end="207">
+<component><class>org.concord.modeler.PageXYGraph</class>
+<model>0</model>
+<time_series_x>Time (fs)</time_series_x>
+<time_series_y1 color="-99cd" style="3" width="1.0" symbol="0" size="4" spacing="5">East pressure:Obstacle #0</time_series_y1>
+<time_series_y2 color="-ffcc67" style="0" width="1.0" symbol="0" size="4" spacing="5">West pressure:Obstacle #3</time_series_y2>
+<time_series_y3 color="-ffff01" style="0" width="0.0" symbol="1" size="4" spacing="5">North pressure:Obstacle #1</time_series_y3>
+<time_series_y4 color="-1000000" style="0" width="0.0" symbol="3" size="4" spacing="5">North pressure:Obstacle #2</time_series_y4>
+<width>250</width>
+<height>300</height>
+<axis_x_title>Time (fs)</axis_x_title>
+<axis_y_title>Pressure (bar)</axis_y_title>
+<legend_x>50</legend_x>
+<legend_y>160</legend_y>
+<bgcolor>-1</bgcolor>
+<fgcolor>-1</fgcolor>
+<menubar>false</menubar>
+<border>Raised Bevel</border>
+</component></content>
+
+<content start="207" end="208">
+</content>
+
+</paragraph>
+<paragraph start="208" end="210">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="208" end="209">
+<component><class>org.concord.modeler.PageSlider</class>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<value>500.0</value>
+<minimum>400.0</minimum>
+<maximum>800.0</maximum>
+<nstep>40</nstep>
+<title>Temperature</title>
+<width>400</width>
+<height>70</height>
+<opaque>false</opaque>
+<tick>true</tick>
+<labeltable>{value=&quot;400.0&quot;, label=&quot;400K&quot;}{value=&quot;600.0&quot;, label=&quot;600K&quot;}{value=&quot;800.0&quot;, label=&quot;800K&quot;}</labeltable>
+<change>Temperature</change>
+</component></content>
+
+<content start="209" end="210">
+</content>
+
+</paragraph>
+<paragraph start="210" end="213">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="210" end="211">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Remove all solutes</title>
+<tooltip>Remove all solutes</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>select element 1;
+remove;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="211" end="212">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Remove all solvents</title>
+<tooltip>Remove all solvents</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>select element 2;
+remove;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="212" end="213">
+</content>
+
+</paragraph>
+<paragraph start="213" end="227">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="213" end="226">
+<size>11</size></content>
+
+<content start="226" end="227">
+</content>
+
+</paragraph>
+<paragraph start="227" end="228">
+<LeftIndent>140.0</LeftIndent>
+<content start="227" end="228">
+</content>
+
+</paragraph>
+<paragraph start="228" end="230">
+<LeftIndent>140.0</LeftIndent>
+<content start="228" end="229">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-1000000</bgcolor></icon></content>
+
+<content start="229" end="230">
+</content>
+
+</paragraph>
+<paragraph start="230" end="283">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="230" end="233">
+<bold>true</bold><size>11</size></content>
+
+<content start="233" end="282">
+<size>11</size></content>
+
+<content start="282" end="283">
+</content>
+
+</paragraph>
+<paragraph start="283" end="285">
+<LeftIndent>140.0</LeftIndent>
+<content start="283" end="284">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="284" end="285">
+</content>
+
+</paragraph>
+<paragraph start="285" end="286">
+<LeftIndent>140.0</LeftIndent>
+<content start="285" end="286">
+</content>
+
+</paragraph>
+<paragraph start="286" end="308">
+<LeftIndent>140.0</LeftIndent>
+<content start="286" end="308">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="308" end="309">
+<LeftIndent>140.0</LeftIndent>
+<content start="308" end="309">
+</content>
+
+</paragraph>
+<paragraph start="309" end="328">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="309" end="311">
+<size>11</size></content>
+
+<content start="311" end="314">
+<size>11</size><href>microbuoyancy.cml</href></content>
+
+<content start="314" end="317">
+<size>11</size></content>
+
+<content start="317" end="319">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="319" end="327">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

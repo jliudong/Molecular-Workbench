@@ -1,0 +1,30 @@
+echo ""
+
+select all 
+color cpk
+
+select head
+color [x333333]
+color bonds [x333333]
+
+
+select all
+
+moveto /* time, axisAngle */ 1.0 { -126 325 -937 55.53} /* zoom, translation */  250.26 0.1 0.0  /* center, rotationRadius */ {-7.5315146 -5.0563865 -2.58211} 27.475466 /* navigation center, translation, depth */ {0.0 0.0 0.0} 40.4351 17.380096 50.0;
+
+delay 0.2
+
+moveto /* time, axisAngle */ 0.5 { -884 -425 -196 174.73} /* zoom, translation */  250.26 0.1 0.0  /* center, rotationRadius */ {-7.5315146 -5.0563865 -2.58211} 27.475466 /* navigation center, translation, depth */ {0.0 0.0 0.0} 40.933872 -17.73565 50.0;
+
+delay 0.2
+
+moveto /* time, axisAngle */ 0.5 { -126 325 -937 55.53} /* zoom, translation */  250.26 0.1 0.0  /* center, rotationRadius */ {-7.5315146 -5.0563865 -2.58211} 27.475466 /* navigation center, translation, depth */ {0.0 0.0 0.0} 40.4351 17.380096 50.0;
+
+
+set echo tailEcho 0% 100%
+color echo white
+font echo 12 sans bold
+
+echo Chlorophyll's tail is very similar to the tail of a membrane lipid.|Both are made entirely hydrogen and carbon.
+
+

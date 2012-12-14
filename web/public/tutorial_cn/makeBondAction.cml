@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Bonding Tools for making a radial bond</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#21046;&#20316;&#19968;&#20010;&#24452;&#21521;&#38190;&#30340;&#38190;&#21512;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#22312;MW&#20998;&#23376;&#24037;&#20316;&#21488;&#65292;&#19968;&#20010;  &#24452;&#21521;&#38190; &#26159;&#19968;&#23545;&#21407;&#23376;&#20043;&#38388;&#30340;&#19968;&#31181;&#35856;&#27874;&#32422;&#26463;&#65292;&#23427;&#27169;&#25311;&#20102;&#25226;&#23427;&#20204;&#32467;&#21512;&#22312;&#19968;&#36215;&#30340;&#20849;&#20215;&#38190;&#12290;&#36890;&#36807;&#20351;&#29992;&#21046;&#20316;&#24452;&#21521;&#38190;&#30340;&#38190;&#21512;&#24037;&#20855;&#65292;&#20320;&#21487;&#20197;&#20570;&#19968;&#20010;&#36825;&#26679;&#30340;&#38190;&#12290; ( &quot; &quot;  &#25353;&#38062;&#12289;&#25110;&#32773; &quot; &quot; &#25353;&#38062;).
+
+&#22914;&#26524;&#20351;&#29992; &quot; &quot; &#24037;&#20855;&#65292;&#20320;&#39318;&#20808;&#38656;&#35201;&#36873;&#25321;&#19968;&#20010;&#21407;&#23376;&#24320;&#22987;&#12290;&#19968;&#26086;&#24050;&#32463;&#36873;&#25321;&#20102;&#31532;&#19968;&#20010;&#21407;&#23376;&#65292; &#25353;&#20303;ALT&#38190; &#24182;&#36873;&#25321;&#21478;&#19968;&#20010;&#21407;&#23376;&#12290;&#22312;&#36825;&#20043;&#21518;&#65292;&#22312;&#20004;&#20010;&#21407;&#23376;&#20043;&#38388;&#23601;&#20250;&#29983;&#25104;&#19968;&#20010;&#24452;&#21521;&#38190;&#12290;&#22914;&#26524;&#20320;&#20351;&#29992; &quot; &quot; &#24037;&#20855;&#65292;&#20320;&#21482;&#38656;&#22312;&#20320;&#24819;&#38190;&#21512;&#30340;&#20004;&#20010;&#21407;&#23376;&#20043;&#38388;&#25302;&#21160;&#40736;&#26631;&#12290;
+
+                                     
+
+&#21046;&#20316;&#24452;&#21521;&#38190;&#30340;&#29699;&#26829;&#35270;&#22270;&#12290;
+
+&#20004;&#20010;&#21407;&#23376;&#20043;&#38388;&#24403;&#21069;&#30340;&#36317;&#31163;&#20250;&#34987;&#24403;&#20316;&#24179;&#34913;&#36317;&#31163;&#65292;&#23427;&#26159;&#19968;&#31181;&#31216;&#20026; &#38190;&#38271;. &#30340;&#23646;&#24615;&#12290;&#22312;&#20998;&#23376;&#21160;&#21147;&#23398;&#27169;&#25311;&#20013;&#65292;&#20004;&#20010;&#38190;&#21512;&#21407;&#23376;&#20043;&#38388;&#30340;&#36317;&#31163;&#23558;&#20250;&#22260;&#32469;&#38190;&#38271;&#19978;&#19979;&#27874;&#21160;&#65292;&#20854;&#27874;&#21160;&#39057;&#29575;&#23558;&#20027;&#35201;&#30001;&#38190;&#24378;&#24230;(&#36825;&#20197;&#21518;&#20320;&#21487;&#20197;&#25913;&#21464;)&#21644;&#38190;&#21512;&#21407;&#23376;&#30340;&#36136;&#37327;&#25152;&#20915;&#23450;&#12290;
+
+&#21024;&#38500;&#19968;&#20010;&#24452;&#21521;&#38190;&#65292;&#20320;&#21482;&#38656;&#36873;&#25321;&#35813;&#38190;&#24182;&#28857;&#20987;&#21024;&#38500;&#38190;DELETE&#12289;&#25110;&#32773;&#36864;&#26684;&#38190;BACKSPACE&#12289;&#25110;&#32773;CTRL + X&#38190;&#12289;&#25110;&#32773;&#21491;&#20987;&#38190;&#21512;&#38190;&#65292;&#24182;&#20174;&#24377;&#20986;&#33756;&#21333;&#20013;&#36873;&#25321;&#8220;&#21066;&#20943;&#8221;&#36873;&#39033;&#12290;
+
+
+                       
+
+&#21024;&#38500;&#19968;&#20010;&#24452;&#21521;&#38190;&#30340;&#29699;&#26829;&#35270;&#22270;&#12290;
+
+&#37325;&#35201;&#25552;&#31034;&#65306;&#19968;&#20010;&#20849;&#20215;&#38190;&#30340;&#38271;&#24230;&#65292;&#36890;&#24120;&#27604;&#25152;&#29301;&#28041;&#21040;&#30340;&#20004;&#20010;&#21407;&#23376;&#30340;&#33539;&#24503;&#29926;&#32819;&#26031;(VDW)&#21322;&#24452;&#30340;&#24635;&#21644;&#35201;&#30701;&#12290;&#36825;&#26159;&#22240;&#20026;&#65292; &#36825;&#20004;&#20010;&#21407;&#23376;&#30340;&#30005;&#23376;&#20113;&#24517;&#39035;&#39640;&#24230;&#37325;&#21472;&#65292;&#20197;&#24418;&#25104;&#19968;&#20010;&#20849;&#20215;&#38190;&#12290;&#20026;&#20102;&#27491;&#30830;&#22320;&#23545;&#36825;&#19968;&#37325;&#35201;&#20107;&#23454;&#36827;&#34892;&#24314;&#27169;&#65292;&#24378;&#28872;&#24314;&#35758;&#20004;&#20010;&#21407;&#23376;&#34987;&#25918;&#32622;&#30340;&#20301;&#32622;&#35201;&#20445;&#35777;&#23427;&#20204;&#30340;&#33539;&#24503;&#29926;&#32819;&#26031;&#65288;VDW&#65289;&#34920;&#38754;(&#22312;&#31354;&#38388;&#22635;&#20805;&#27169;&#24335;&#20013;&#30001;&#29699;&#20307;&#20195;&#34920;)&#37325;&#21472;&#12290;&#30001;&#27492;&#20135;&#29983;&#30340;&#19968;&#20010;&#38382;&#39064;&#26159;&#65306;&#33539;&#24503;&#29926;&#32819;&#26031;&#65288;VDW&#65289;&#34920;&#38754;&#20250;&#21407;&#23376;&#20043;&#38388;&#30340;&#25972;&#20010;&#31354;&#38388;&#65292;&#36825;&#20351;&#24471;&#29983;&#25104;&#19968;&#20010;&#38190;&#24456;&#38590;&#65292;&#32780;&#19988;&#26080;&#27861;&#30475;&#21040;&#12290;&#22240;&#27492;&#65292;&#22312;&#29983;&#25104;&#38190;&#20043;&#21069;&#65292;&#24314;&#35758;&#20320;&#36827;&#20837;&#29699;&#26829;&#27169;&#24335;&#12290;(&#21487;&#20197;&#22312;&#20320;&#30340;&#39029;&#38754;&#25554;&#20837;&#19968;&#20010;&#19979;&#25289;&#33756;&#21333;&#65292;&#24110;&#21161;&#20320;&#36731;&#26494;&#22320;&#23454;&#29616;&#22312;&#19981;&#21516;&#30340;&#26174;&#31034;&#27169;&#24335;&#20043;&#38388;&#20999;&#25442;&#65306;&#25554;&#20837;&gt;&#27169;&#22411;&#26631;&#20934;&#25511;&#21046;&#22120;&gt;&#32452;&#21512;&#26694;&#65292;&#24182;&#20174;&#8220;&#36873;&#25321;&#19968;&#20010;&#34892;&#21160;&#8221;&#21015;&#34920;&#20013;&#36873;&#25321;&#8220;&#26174;&#31034;&#39118;&#26684;&#8221;)&#12290;
+
+&#20320;&#21487;&#20197;&#29992;&#19979;&#38754;&#30340;&#27169;&#22411;&#35797;&#30528;&#21046;&#20316;&#21644;&#21024;&#38500;&#38190;&#65306;
+
+ 
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#20363;&#35777;&#65306; &#21521;&#25105;&#23637;&#31034;&#22914;&#20309;&#26500;&#24314;&#19968;&#20010;&#20998;&#23376;!
+
+ 
+&#37325;&#35201;&#25552;&#31034;&#65306;&#20320;&#24517;&#39035;&#24847;&#35782;&#21040;&#65292;&#19968;&#20010;&#24452;&#21521;&#38190;&#21482;&#26159;&#19968;&#31181;&#20114;&#21160;&#65292;&#32780;&#19981;&#26159;&#20687;&#21407;&#23376;&#19968;&#26679;&#30340;&#19968;&#20010;&#30495;&#27491;&#30340;&#23545;&#35937;&#12290;&#23613;&#31649;&#24452;&#21521;&#38190;&#24120;&#24120;&#34987;&#35828;&#25104;&#26159;&#21407;&#23376;&#20043;&#38388;&#30340;&#8220;&#24377;&#31783;&#8221;&#65292;&#20294;&#23427;&#20204;&#24182;&#38750;&#30495;&#27491;&#30340;&#24377;&#31783;&#12290;&#22914;&#26524;&#20320;&#21046;&#25104;&#19968;&#20010;&#24452;&#21521;&#38190;&#65292;&#20854;&#38190;&#21512;&#38271;&#24230;&#27604;&#20004;&#20010;&#21407;&#23376;&#30340;&#33539;&#24503;&#29926;&#32819;&#26031;(VDW)&#21322;&#24452;&#30340;&#24635;&#21644;&#36824;&#35201;&#38271;&#65292;&#20320;&#23601;&#20250;&#35266;&#23519;&#21040;&#65292;&#20854;&#20182;&#21407;&#23376;&#33021;&#31359;&#36807;&#35813;&#38190;&#12290;&#20026;&#20102;&#36991;&#20813;&#36825;&#31181;&#24773;&#20917;&#30340;&#21457;&#29983;&#65292;&#19981;&#35201;&#21046;&#20316;&#19968;&#20010;&#38271;&#38388;&#38548;&#30340;&#24452;&#21521;&#38190;&#65306;
+
+   
+
+&#22914;&#19978;&#22270;&#25152;&#31034;&#30340;&#38271;&#38388;&#38548;&#20849;&#20215;&#38190;&#65292;&#20174;&#29289;&#29702;&#19978;&#35762;&#26159;&#19981;&#21487;&#33021;&#30340;&#12290;
+
+&#20294;&#20063;&#26377;&#20363;&#22806;&#12290;&#22914;&#26524;&#22312;&#19968;&#20010;&#38750;&#20998;&#23376;&#32972;&#26223;&#19979;&#20351;&#29992;&#27169;&#25311;&#24341;&#25806;&#65292;&#27604;&#22914;&#35828;&#65292;&#31890;&#23376;&#19981;&#20195;&#34920;&#21407;&#23376;&#65292;&#20294;&#26159;&#19968;&#20123;&#24377;&#24615;&#29699;&#12289;&#24452;&#21521;&#38190;&#23558;&#20250;&#25104;&#20026;&#24377;&#31783;&#25110;&#32773;&#21018;&#24615;&#26834;&#65292;&#37027;&#20040;&#20320;&#21487;&#20197;&#20026;&#23427;&#20204;&#35774;&#32622;&#20219;&#20309;&#38271;&#24230;(&#38024;&#23545;&#24377;&#31783;&#65292;&#35831; &#21442;&#35265;&#26412;&#20363; &#65292;&#38024;&#23545;&#26834;&#65292;&#35831; &#21442;&#35265;&#26412;&#20363; ).
+ 
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#38190;&#21512; &#21629;&#20196;&#21487;&#20197;&#29992;&#26469;&#21046;&#36896;&#19968;&#20010;&#22312;&#20004;&#20010;&#29305;&#23450;&#30340;&#21407;&#23376;&#20043;&#38388;&#26377;&#30528;&#29305;&#23450;&#38190;&#24378;&#24230;&#30340;&#24452;&#21521;&#38190;&#12290;&#21024;&#38500;&#19968;&#20010;&#29616;&#26377;&#30340;&#24452;&#21521;&#38190;&#65292;&#20351;&#29992; &#36873;&#25321; &#21629;&#20196;&#39318;&#20808;&#36873;&#23450;&#23427;&#65292;&#28982;&#21518;&#35843;&#29992; &#21024;&#38500; &#21629;&#20196;&#12290;&#20363;&#22914;&#65292;&#36825;&#20123;&#33050;&#26412;&#21024;&#38500;&#20004;&#20010;&#24452;&#21521;&#38190;&#65306;&#36873;&#25321;rbond 4&#12289;5&#65307;&#21024;&#38500;&#12290;&#35201;&#24819;&#20102;&#35299;&#19968;&#20010;&#24452;&#21521;&#38190;&#30340;&#25351;&#25968;&#65292; &#35831;&#25171;&#24320;&#23427;&#30340;&#23646;&#24615;&#31383;&#21475;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="1323">
+<paragraph start="0" end="13">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="12">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="12" end="13">
+</content>
+
+</paragraph>
+<paragraph start="13" end="14">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="13" end="14">
+</content>
+
+</paragraph>
+<paragraph start="14" end="33">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="14" end="16">
+<size>11</size></content>
+
+<content start="16" end="19">
+<href>resizeAction.cml</href><size>11</size></content>
+
+<content start="19" end="22">
+<size>11</size></content>
+
+<content start="22" end="24">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="24" end="27">
+<size>11</size></content>
+
+<content start="27" end="30">
+<href>makeBendAction.cml</href><size>11</size></content>
+
+<content start="30" end="32">
+<size>11</size></content>
+
+<content start="32" end="33">
+</content>
+
+</paragraph>
+<paragraph start="33" end="34">
+<LeftIndent>100.0</LeftIndent>
+<content start="33" end="34">
+</content>
+
+</paragraph>
+<paragraph start="34" end="132">
+<LeftIndent>140.0</LeftIndent>
+<content start="34" end="46">
+<size>11</size></content>
+
+<content start="46" end="47">
+<size>11</size><icon>apiIcon.gif</icon></content>
+
+<content start="47" end="50">
+<link_statusbar>false</link_statusbar><link_width>400</link_width><link_height>400</link_height><link_left>50</link_left><link_menubar>false</link_menubar><link_top>50</link_top><size>11</size><link_toolbar>false</link_toolbar><href>glossary/RadialBond.cml</href><link_resizable>false</link_resizable><target>_blank</target></content>
+
+<content start="50" end="113">
+<size>11</size></content>
+
+<content start="113" end="114">
+<icon>radialbond.gif</icon></content>
+
+<content start="114" end="124">
+<size>11</size></content>
+
+<content start="124" end="125">
+<icon>radialbond2.gif</icon></content>
+
+<content start="125" end="132">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="132" end="133">
+<LeftIndent>140.0</LeftIndent>
+<content start="132" end="133">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="133" end="245">
+<LeftIndent>140.0</LeftIndent>
+<content start="133" end="139">
+<size>11</size></content>
+
+<content start="139" end="140">
+<icon>radialbond.gif</icon></content>
+
+<content start="140" end="173">
+<size>11</size></content>
+
+<content start="173" end="179">
+<bold>true</bold><size>11</size></content>
+
+<content start="179" end="218">
+<size>11</size></content>
+
+<content start="218" end="219">
+<icon>radialbond2.gif</icon></content>
+
+<content start="219" end="245">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="245" end="246">
+<LeftIndent>100.0</LeftIndent>
+<content start="245" end="246">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="246" end="284">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="246" end="247">
+<size>11</size></content>
+
+<content start="247" end="248">
+<size>11</size><icon>MakeBondScene1.gif</icon></content>
+
+<content start="248" end="282">
+<size>11</size></content>
+
+<content start="282" end="283">
+<size>11</size><icon>MakeBondScene2.gif</icon></content>
+
+<content start="283" end="284">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="284" end="285">
+<content start="284" end="285">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="285" end="297">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="285" end="296">
+<size>10</size></content>
+
+<content start="296" end="297">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="297" end="298">
+<LeftIndent>140.0</LeftIndent>
+<content start="297" end="298">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="298" end="400">
+<LeftIndent>140.0</LeftIndent>
+<content start="298" end="325">
+<size>11</size></content>
+
+<content start="325" end="327">
+<bold>true</bold><size>11</size></content>
+
+<content start="327" end="400">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="400" end="401">
+<LeftIndent>140.0</LeftIndent>
+<content start="400" end="401">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="401" end="481">
+<LeftIndent>140.0</LeftIndent>
+<content start="401" end="481">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="481" end="482">
+<LeftIndent>140.0</LeftIndent>
+<content start="481" end="482">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="482" end="483">
+<LeftIndent>140.0</LeftIndent>
+<content start="482" end="483">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="483" end="507">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="483" end="484">
+<size>11</size></content>
+
+<content start="484" end="485">
+<size>11</size><icon>RemoveBondScene1.gif</icon></content>
+
+<content start="485" end="505">
+<size>11</size></content>
+
+<content start="505" end="506">
+<size>11</size><icon>RemoveBondScene2.gif</icon></content>
+
+<content start="506" end="507">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="507" end="508">
+<Alignment>1</Alignment>
+<LeftIndent>100.0</LeftIndent>
+<content start="507" end="508">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="508" end="522">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="508" end="522">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="522" end="523">
+<LeftIndent>140.0</LeftIndent>
+<content start="522" end="523">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="523" end="815">
+<LeftIndent>140.0</LeftIndent>
+<content start="523" end="528">
+<bold>true</bold><size>11</size></content>
+
+<content start="528" end="574">
+<size>11</size></content>
+
+<content start="574" end="599">
+<bold>true</bold><size>11</size></content>
+
+<content start="599" end="815">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="815" end="816">
+<LeftIndent>140.0</LeftIndent>
+<content start="815" end="816">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="816" end="835">
+<LeftIndent>140.0</LeftIndent>
+<content start="816" end="835">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="835" end="836">
+<LeftIndent>100.0</LeftIndent>
+<content start="835" end="836">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="836" end="838">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="836" end="837">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>makeBondAction$0.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+<button>Build Radial Bond</button><button>Create Radial Bond</button><button>Select Object</button></component><size>11</size></content>
+
+<content start="837" end="838">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="838" end="840">
+<Alignment>1</Alignment>
+<LeftIndent>180.0</LeftIndent>
+<content start="838" end="839">
+<component><class>org.concord.modeler.PageComboBox</class>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>Display Style</action>
+<selectedIndex>1</selectedIndex>
+</component></content>
+
+<content start="839" end="840">
+</content>
+
+</paragraph>
+<paragraph start="840" end="855">
+<Alignment>1</Alignment>
+<LeftIndent>180.0</LeftIndent>
+<content start="840" end="855">
+<size>10</size></content>
+
+</paragraph>
+<paragraph start="855" end="856">
+<LeftIndent>180.0</LeftIndent>
+<content start="855" end="856">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="856" end="874">
+<Alignment>1</Alignment>
+<LeftIndent>180.0</LeftIndent>
+<content start="856" end="859">
+<bold>true</bold><size>11</size></content>
+
+<content start="859" end="860">
+<size>11</size></content>
+
+<content start="860" end="873">
+<href>BuildMolecule.cml</href><size>11</size></content>
+
+<content start="873" end="874">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="874" end="875">
+<LeftIndent>140.0</LeftIndent>
+<content start="874" end="875">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="875" end="877">
+<LeftIndent>140.0</LeftIndent>
+<content start="875" end="876">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="876" end="877">
+<bold>true</bold><size>11</size></content>
+
+</paragraph>
+<paragraph start="877" end="1035">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="877" end="882">
+<bold>true</bold><size>11</size></content>
+
+<content start="882" end="1020">
+<size>11</size></content>
+
+<content start="1020" end="1034">
+<bold>true</bold><size>11</size></content>
+
+<content start="1034" end="1035">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1035" end="1036">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="1035" end="1036">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1036" end="1040">
+<Alignment>1</Alignment>
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="1036" end="1038">
+<size>11</size></content>
+
+<content start="1038" end="1039">
+<size>11</size><icon>MakeBondScene3.gif</icon></content>
+
+<content start="1039" end="1040">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1040" end="1041">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="1040" end="1041">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1041" end="1066">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="1041" end="1066">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1066" end="1067">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="1066" end="1067">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1067" end="1168">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="1067" end="1148">
+<size>11</size></content>
+
+<content start="1148" end="1152">
+<href>../student/classic/spring/spring1.cml</href><size>11</size></content>
+
+<content start="1152" end="1160">
+<size>11</size></content>
+
+<content start="1160" end="1164">
+<href>../student/classic/machine/machine1.cml</href><size>11</size></content>
+
+<content start="1164" end="1168">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1168" end="1170">
+<LeftIndent>140.0</LeftIndent>
+<content start="1168" end="1169">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="1169" end="1170">
+</content>
+
+</paragraph>
+<paragraph start="1170" end="1171">
+<LeftIndent>140.0</LeftIndent>
+<content start="1170" end="1171">
+</content>
+
+</paragraph>
+<paragraph start="1171" end="1176">
+<LeftIndent>140.0</LeftIndent>
+<content start="1171" end="1175">
+<bold>true</bold><size>11</size></content>
+
+<content start="1175" end="1176">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1176" end="1177">
+<LeftIndent>140.0</LeftIndent>
+<content start="1176" end="1177">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1177" end="1303">
+<LeftIndent>140.0</LeftIndent>
+<content start="1177" end="1179">
+<href>script_bond.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="1179" end="1226">
+<size>11</size></content>
+
+<content start="1226" end="1228">
+<href>script_select.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="1228" end="1242">
+<size>11</size></content>
+
+<content start="1242" end="1244">
+<href>script_remove.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="1244" end="1292">
+<size>11</size></content>
+
+<content start="1292" end="1302">
+<href>accessBondProp.cml</href><size>11</size></content>
+
+<content start="1302" end="1303">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="1303" end="1304">
+<LeftIndent>140.0</LeftIndent>
+<content start="1303" end="1304">
+</content>
+
+</paragraph>
+<paragraph start="1304" end="1323">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="1304" end="1306">
+<size>11</size></content>
+
+<content start="1306" end="1309">
+<href>resizeAction.cml</href><size>11</size></content>
+
+<content start="1309" end="1312">
+<size>11</size></content>
+
+<content start="1312" end="1314">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="1314" end="1317">
+<size>11</size></content>
+
+<content start="1317" end="1320">
+<href>makeBendAction.cml</href><size>11</size></content>
+
+<content start="1320" end="1322">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

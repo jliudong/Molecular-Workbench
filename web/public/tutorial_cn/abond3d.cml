@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Adding and removing angular bonds</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#28155;&#21152;&#25110;&#21024;&#38500;&#35282;&#24230;&#38190;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+MW&#37324;&#30340;&#35282;&#24230;&#38190;&#36890;&#24120;&#22312;&#20998;&#23376;&#21147;&#23398;&#37324;&#31216;&#20026;&#35282;&#24230;&#24367;&#26354;&#21147;&#65292;&#65288;&#35265;   NIH&#30340;&#20998;&#23376;&#21147;&#23398;&#20171;&#32461;).
+
+&#21046;&#20316;&#19968;&#20010;&#35282;&#24230;&#38190;,&#35201;&#22312;&#24037;&#20855;&#26639;&#36873;&#25321;&#25353;&#38062; (&quot; &quot;) &#12290;&#24403;&#26500;&#36896;&#20989;&#25968;&#22312;&#36825;&#31181;&#27169;&#24335;&#19979;,&#28857;&#20987;&#19968;&#20010;&#24452;&#21521;&#38190;,&#28982;&#21518;ALT +&#28857;&#20987;&#21478;&#19968;&#20010;&#24452;&#21521;&#38190;&#12290;&#19968;&#20010;&#35282;&#24230;&#38190;&#23601;&#20250;&#22312;&#25152;&#36873;&#30340;&#20004;&#20010;&#24452;&#21521;&#38190;&#20043;&#38388;&#24418;&#25104;&#12290;&#27880;&#24847;&#65292;&#19981;&#33021;&#22312;&#20004;&#20010;&#27809;&#36830;&#25509;&#30340;&#24452;&#21521;&#38190;&#20043;&#38388;&#21019;&#24314;&#35282;&#24230;&#38190;&#12290;
+
+ 
+&#22914;&#26524;&#22312;MW&#21019;&#24314;&#36807;2D&#27169;&#22411;&#65292;&#22312;3D&#27169;&#22411;&#20013;&#21019;&#24314;&#35282;&#24230;&#38190;&#30340;&#36807;&#31243;&#21644;&#22312;2D&#20013;&#26159;&#30456;&#21516;&#30340;&#12290;&#20197; &#27492;&#39029; &#20026;&#21442;&#32771;&#12290;
+ 
+
+&#21024;&#38500;&#19968;&#20010;&#35282;&#24230;&#38190;&#65292;&#23601;&#21491;&#20987;(&#25110;CTRL +&#21333;&#20987;Mac OS X &#38750;&#22810;&#37325;&#25353;&#38062;&#40736;&#26631;&#65289;&#20004;&#20010;&#24452;&#21521;&#38190;&#20043;&#38388;&#30340;&#19977;&#35282;&#21306;&#22495;&#65292;&#24182;&#22312;&#24555;&#25463;&#33756;&#21333;&#20013;&#36873;&#25321;&#8220;CUT&#65288;&#21098;&#20999;&#65289;&#8221;&#12290;&#20219;&#20309;&#26102;&#20505;&#24403;&#36873;&#23450;&#19968;&#20010;&#35282;&#24230;&#38190;&#65292;&#23427;&#23558;&#34987;&#26631;&#31034;&#20986;&#65292;&#21487;&#20197;&#29992;CTRL+X&#65288;Windows/Linux&#65289;&#25110;&#21629;&#20196;+X (Mac), &#25110;DELETE&#21644;BACKSPACE&#38190;&#26469;&#21024;&#38500;&#23427;&#12290;
+
+&#22312;&#20998;&#23376;&#21160;&#21147;&#27169;&#22411;&#20013;&#24452;&#21521;&#38190;&#21644;&#35282;&#24230;&#38190;&#19981;&#36275;&#20197;&#32500;&#25345;3D&#20998;&#23376;&#32467;&#26500;&#65292;&#29305;&#27530;&#24773;&#20917;&#38500;&#22806;&#65292;&#22914;&#19977;&#21407;&#23376;&#20998;&#23376;&#12290; &#20197;&#19979;&#31456;&#33410; &#35752;&#35770;&#20851;&#20110;&#32500;&#25345;&#20004;&#20010;&#30456;&#37051;&#35282;&#24230;&#38190;&#20043;&#38388;&#35282;&#24230;&#25152;&#38656;&#30340;&#38468;&#21152;&#20316;&#29992;&#21147;&#12290;
+
+&#32451;&#20064;
+
+&#20320;&#21487;&#20197;&#29992;&#19979;&#38754;&#30340;&#31034;&#20363;&#65292;&#20307;&#39564;&#19968;&#19979;&#26377;&#20851;&#28155;&#21152;&#25110;&#21024;&#38500;&#35282;&#24230;&#38190;&#26469;&#21019;&#24314;&#19968;&#20010;&#20057;&#28911;&#20998;&#23376;&#12290;&#22914;&#26524;&#22312;&#27809;&#26377;&#28155;&#21152;&#35282;&#24230;&#38190;&#30340;&#24773;&#20917;&#19979;&#65292;&#36816;&#34892;&#36825;&#20010;&#27169;&#22411;&#65292;&#35266;&#23519;&#20998;&#23376;&#26159;&#22914;&#20309;&#25913;&#21464;&#24418;&#29366;&#30340;&#26159;&#38750;&#24120;&#26377;&#36259;&#30340;&#12290; 
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="576">
+<paragraph start="0" end="9">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="8">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="10">
+<RightIndent>20.0</RightIndent>
+<content start="9" end="10">
+</content>
+
+</paragraph>
+<paragraph start="10" end="29">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="10" end="12">
+<size>11</size></content>
+
+<content start="12" end="15">
+<size>11</size><href>rbond3d.cml</href></content>
+
+<content start="15" end="18">
+<size>11</size></content>
+
+<content start="18" end="20">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="20" end="23">
+<size>11</size></content>
+
+<content start="23" end="26">
+<size>11</size><href>tbond3d.cml</href></content>
+
+<content start="26" end="28">
+<size>11</size></content>
+
+<content start="28" end="29">
+</content>
+
+</paragraph>
+<paragraph start="29" end="30">
+<LeftIndent>140.0</LeftIndent>
+<content start="29" end="30">
+</content>
+
+</paragraph>
+<paragraph start="30" end="71">
+<LeftIndent>140.0</LeftIndent>
+<content start="30" end="56">
+<size>11</size></content>
+
+<content start="56" end="57">
+<icon>htmlink.gif</icon></content>
+
+<content start="57" end="58">
+<size>11</size></content>
+
+<content start="58" end="68">
+<size>11</size><href>http://cmm.cit.nih.gov/modeling/guide_documents/molecular_mechanics_document.html</href></content>
+
+<content start="68" end="71">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="71" end="72">
+<LeftIndent>140.0</LeftIndent>
+<content start="71" end="72">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="72" end="178">
+<LeftIndent>140.0</LeftIndent>
+<content start="72" end="92">
+<size>11</size></content>
+
+<content start="92" end="93">
+<icon>angularbond.gif</icon></content>
+
+<content start="93" end="178">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="178" end="179">
+<LeftIndent>140.0</LeftIndent>
+<content start="178" end="179">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="179" end="181">
+<LeftIndent>140.0</LeftIndent>
+<content start="179" end="180">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="180" end="181">
+</content>
+
+</paragraph>
+<paragraph start="181" end="228">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="181" end="220">
+<size>11</size></content>
+
+<content start="220" end="222">
+<size>11</size><href>makeBendAction.cml</href></content>
+
+<content start="222" end="227">
+<size>11</size></content>
+
+<content start="227" end="228">
+</content>
+
+</paragraph>
+<paragraph start="228" end="230">
+<LeftIndent>140.0</LeftIndent>
+<content start="228" end="229">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="229" end="230">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="230" end="231">
+<LeftIndent>140.0</LeftIndent>
+<content start="230" end="231">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="231" end="382">
+<LeftIndent>140.0</LeftIndent>
+<content start="231" end="382">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="382" end="383">
+<LeftIndent>140.0</LeftIndent>
+<content start="382" end="383">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="383" end="457">
+<LeftIndent>140.0</LeftIndent>
+<content start="383" end="425">
+<size>11</size></content>
+
+<content start="425" end="429">
+<size>11</size><href>tbond3d.cml</href></content>
+
+<content start="429" end="457">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="457" end="458">
+<LeftIndent>140.0</LeftIndent>
+<content start="457" end="458">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="458" end="461">
+<LeftIndent>140.0</LeftIndent>
+<content start="458" end="460">
+<bold>true</bold><size>11</size></content>
+
+<content start="460" end="461">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="461" end="462">
+<LeftIndent>140.0</LeftIndent>
+<content start="461" end="462">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="462" end="539">
+<LeftIndent>140.0</LeftIndent>
+<content start="462" end="539">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="539" end="540">
+<LeftIndent>140.0</LeftIndent>
+<content start="539" end="540">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="540" end="542">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="540" end="541">
+<component><class>org.concord.modeler.PageMd3d</class><resource>abond3d$0.mdd</resource><coordinate>abond3d$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="541" end="542">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="542" end="556">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="542" end="556">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="556" end="557">
+<LeftIndent>140.0</LeftIndent>
+<content start="556" end="557">
+</content>
+
+</paragraph>
+<paragraph start="557" end="576">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="557" end="559">
+<size>11</size></content>
+
+<content start="559" end="562">
+<size>11</size><href>rbond3d.cml</href></content>
+
+<content start="562" end="565">
+<size>11</size></content>
+
+<content start="565" end="567">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="567" end="570">
+<size>11</size></content>
+
+<content start="570" end="573">
+<size>11</size><href>tbond3d.cml</href></content>
+
+<content start="573" end="575">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

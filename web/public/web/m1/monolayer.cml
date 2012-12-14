@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Lipid molecules form a monolayer at an oil-water interface</page_title>
+<text>
+&#33026;&#36136;&#20998;&#23376;&#24418;&#25104;&#21333;&#20998;&#23376;&#33180;&#22312;&#27833;&#27700;&#30028;&#38754;
+
+ 
+&#20351;&#29992;&#8220;&#32763;&#36716;&#8221;&#25353;&#38062;&#24320;&#20851;&#65292;&#35266;&#23519;&#33026;&#36136;&#20998;&#23376;&#21453;&#24212;&#30340;&#21464;&#21270;&#12290;
+&#20320;&#20063;&#21487;&#20197;&#25302;&#21160;&#20998;&#23376;&#20174;&#25509;&#21475;&#32447;&#21644;&#30475;&#21040;&#20182;&#20204;&#22914;&#20309;&#37325;&#32452;&#12290;
+&#27880;&#24847;&#65306;&#35201;&#25302;&#21160;&#20998;&#23376;&#24517;&#39035;&#20808;&#20572;&#27490;&#27169;&#25311;&#12290;
+
+  </text>
+<section start="0" end="88">
+<paragraph start="0" end="1">
+<Alignment>1</Alignment>
+<content start="0" end="1">
+</content>
+
+</paragraph>
+<paragraph start="1" end="17">
+<Alignment>1</Alignment>
+<content start="1" end="16">
+<family>Century Gothic</family><size>16</size><bold>true</bold></content>
+
+<content start="16" end="17">
+</content>
+
+</paragraph>
+<paragraph start="17" end="18">
+<Alignment>1</Alignment>
+<content start="17" end="18">
+</content>
+
+</paragraph>
+<paragraph start="18" end="20">
+<Alignment>1</Alignment>
+<SpaceBelow>5.0</SpaceBelow>
+<content start="18" end="19">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>monolayer$0.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+</component></content>
+
+<content start="19" end="20">
+</content>
+
+</paragraph>
+<paragraph start="20" end="44">
+<Alignment>1</Alignment>
+<content start="20" end="44">
+</content>
+
+</paragraph>
+<paragraph start="44" end="67">
+<Alignment>1</Alignment>
+<content start="44" end="67">
+</content>
+
+</paragraph>
+<paragraph start="67" end="84">
+<Alignment>1</Alignment>
+<content start="67" end="69">
+<foreground>255 0 0</foreground></content>
+
+<content start="69" end="83">
+<foreground>255 0 0</foreground></content>
+
+<content start="83" end="84">
+</content>
+
+</paragraph>
+<paragraph start="84" end="85">
+<Alignment>1</Alignment>
+<content start="84" end="85">
+</content>
+
+</paragraph>
+<paragraph start="85" end="88">
+<Alignment>1</Alignment>
+<content start="85" end="86">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#32763;&#36716;</title>
+<tooltip>&#35843;&#25442;&#27700;&#21644;&#27833;</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<script>set rectangle[2].efield -%rectangle[2].efield;
+if(%rectangle[2].efield &lt; 0);
+  set rectangle[1].y 0;
+  set rectangle[0].y 17.3;
+  set rectangle[2].y %rectangle[0].y;
+  set textbox[0].y 1;
+  set textbox[1].y 36;
+else;
+  set rectangle[0].y 0;
+  set rectangle[1].y 22.5;
+  set rectangle[2].y %height-%rectangle[1].height-%rectangle[2].height;
+  set textbox[1].y 1;
+  set textbox[0].y 36;
+endif;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="86" end="87">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#21046;&#20316;&#25130;&#22270;</title>
+<tooltip></tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<opaque>false</opaque>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>Execute MW script</action>
+</component></content>
+
+</paragraph>
+</section>
+</document>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Merging models</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#21512;&#24182;&#27169;&#22411;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#26377;&#26102;&#20505;&#25105;&#20204;&#24819;&#25226;&#22312;&#20004;&#20010;&#19981;&#21516;&#27169;&#22411;&#20013;&#25152;&#21019;&#24314;&#30340;&#21512;&#24182;&#21040;&#19968;&#20010;&#27169;&#22411;&#20013;&#12290;&#20363;&#22914;&#65292;&#25105;&#20204;&#24819;&#35266;&#23519;&#26469;&#33258;&#19981;&#21516;&#27169;&#22411;&#20013;&#30340;&#29289;&#20307;&#21457;&#29983;&#25509;&#35302;&#26102;&#23558;&#22914;&#20309;&#30456;&#20114;&#20316;&#29992;&#30340;&#12290;
+
+&#36825;&#19977;&#20010;&#25353;&#38062; (&quot; &quot;, &quot; &quot; &#21644; &quot; &quot;) &#21487;&#20197;&#29992;&#20110;&#20174;&#30913;&#30424;&#21152;&#36733;&#19968;&#20010;&#27169;&#22411;&#24182;&#25918;&#20837;&#29616;&#26377;&#27169;&#22411;&#65292;&#36755;&#20837;&#27169;&#22411;&#30340;&#20013;&#24515;&#23601;&#26159;&#22312;&#25152;&#36873;&#23450;&#22402;&#30452;&#20110;&#30456;&#24212;&#22352;&#26631;&#36724;&#30340;&#24179;&#38754;&#19978;&#30340;&#28857;&#20987;&#28857;&#12290;
+
+&#21512;&#24182;&#24037;&#20855;&#38750;&#24120;&#36866;&#29992;&#65292;&#22240;&#20026;&#23427;&#33021;&#35753;&#25105;&#20204;&#23558;&#19968;&#20010;&#22823;&#27169;&#22411;&#20998;&#20026;&#20960;&#20010;&#23567;&#27169;&#22411;&#65292;&#22312;&#19981;&#21516;&#27169;&#22411;&#23481;&#22120;&#37324;&#25805;&#20316;&#27599;&#19968;&#20010;&#65292;&#26368;&#21518;&#21512;&#24182;&#23427;&#20204;&#12290;&#36825;&#20010;&#30340;&#20248;&#21183;&#26159;&#22312;&#24314;&#26500;&#27599;&#20010;&#27169;&#22411;&#26102;&#65292;&#36739;&#23569;&#21407;&#23376;&#20250;&#23637;&#29616;&#12290; &#23427;&#19981;&#20294;&#25552;&#20379;&#19968;&#20010;&#28165;&#26224;&#35270;&#22270;&#65292;&#32780;&#19988;&#21152;&#36895;&#20102;&#24314;&#26500;&#36807;&#31243;&#65288;&#22240;&#20026;&#23569;&#37327;&#21407;&#23376;&#38656;&#35201;&#34987;&#25918;&#24323;&#65289;&#12290; &#36825;&#26159;3D&#29615;&#22659;&#30340;&#19968;&#20010;&#38750;&#24120;&#26377;&#29992;&#30340;&#29305;&#24449;&#12290;
+
+&#32451;&#20064;
+
+&#20320;&#21487;&#20197;&#29992;&#19979;&#38754;&#30340;&#27169;&#22411;&#23481;&#22120;&#65292;&#20307;&#39564;&#19968;&#19979;&#26377;&#20851;&#21512;&#24182;&#27169;&#22411;&#12290;&#22914;&#26524;&#27809;&#26377;&#30475;&#21040;&#20219;&#20309;&#20197;&#19979;&#22270;&#26631;&#65306; &quot; &quot;, &quot; &quot; &#21644; &quot; &quot;, &#23601;&#21491;&#20987;&#65288;&#25110;CTRL +&#21333;&#20987;Mac OS X &#38750;&#22810;&#37325;&#25353;&#38062;&#40736;&#26631;&#65289;&#24037;&#20855;&#26639;&#19978;&#25353;&#38062;&#23547;&#25214;&#23427;&#20204;&#12290;&#20307;&#20250;&#21512;&#24182;&#27169;&#22411;&#65292;&#22312;&#19979;&#26041;&#30340;&#25991;&#26723;&#33756;&#21333;&#20013;&#36873;&#25321;&#8220;&#20445;&#23384;&#27169;&#24335;&#20026;&#8221;&#26469;&#25226;&#24403;&#21069;&#27169;&#22411;&#20445;&#23384;&#22312;&#30913;&#30424;&#30340;&#25991;&#26723;&#20013;&#12290; &#28982;&#21518;&#29992;&#36873;&#25321;&#24037;&#20855;&#20999;&#25442;&#21040;&#21512;&#24182;&#27169;&#22411;&#27169;&#24335;&#12290;&#24403;&#27169;&#24335;&#34987;&#36873;&#23450;&#65292;&#23601;&#31616;&#21333;&#30340;&#22312;&#36741;&#21161;&#24179;&#38754;&#19978;&#26576;&#22788;&#21452;&#20987;--- &#20648;&#23384;&#22312;&#30456;&#21516;&#25991;&#26723;&#20013;&#30340;&#27169;&#22411;&#23601;&#20250;&#21152;&#36733;&#22238;&#21040;&#24403;&#21069;&#27169;&#22411;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="537">
+<paragraph start="0" end="5">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="4">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<size>11</size><href>changevelocity3d.cml</href></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<size>11</size><href>minimize3d.cml</href></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>140.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="87">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="87">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="87" end="88">
+<LeftIndent>140.0</LeftIndent>
+<content start="87" end="88">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="88" end="163">
+<LeftIndent>140.0</LeftIndent>
+<content start="88" end="96">
+<size>11</size></content>
+
+<content start="96" end="97">
+<icon>AddModelOnXPlane.gif</icon></content>
+
+<content start="97" end="101">
+<size>11</size></content>
+
+<content start="101" end="102">
+<icon>AddModelOnYPlane.gif</icon></content>
+
+<content start="102" end="107">
+<size>11</size></content>
+
+<content start="107" end="108">
+<icon>AddModelOnZPlane.gif</icon></content>
+
+<content start="108" end="163">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="163" end="164">
+<LeftIndent>140.0</LeftIndent>
+<content start="163" end="164">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="164" end="293">
+<LeftIndent>140.0</LeftIndent>
+<content start="164" end="275">
+<size>11</size></content>
+
+<content start="275" end="292">
+<bold>true</bold><size>11</size></content>
+
+<content start="292" end="293">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="293" end="294">
+<LeftIndent>140.0</LeftIndent>
+<content start="293" end="294">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="294" end="297">
+<LeftIndent>140.0</LeftIndent>
+<content start="294" end="296">
+<bold>true</bold><size>11</size></content>
+
+<content start="296" end="297">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="297" end="298">
+<LeftIndent>140.0</LeftIndent>
+<content start="297" end="298">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="298" end="499">
+<LeftIndent>140.0</LeftIndent>
+<content start="298" end="336">
+<size>11</size></content>
+
+<content start="336" end="337">
+<icon>AddModelOnXPlane.gif</icon></content>
+
+<content start="337" end="341">
+<size>11</size></content>
+
+<content start="341" end="342">
+<icon>AddModelOnYPlane.gif</icon></content>
+
+<content start="342" end="347">
+<size>11</size></content>
+
+<content start="347" end="348">
+<icon>AddModelOnZPlane.gif</icon></content>
+
+<content start="348" end="499">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="499" end="500">
+<LeftIndent>140.0</LeftIndent>
+<content start="499" end="500">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="500" end="502">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="500" end="501">
+<component><class>org.concord.modeler.PageMd3d</class><resource>mergemodel3d$0.mdd</resource><coordinate>mergemodel3d$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="501" end="502">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="502" end="516">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="502" end="516">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="516" end="517">
+<LeftIndent>140.0</LeftIndent>
+<content start="516" end="517">
+</content>
+
+</paragraph>
+<paragraph start="517" end="518">
+<LeftIndent>140.0</LeftIndent>
+<content start="517" end="518">
+</content>
+
+</paragraph>
+<paragraph start="518" end="537">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="518" end="520">
+<size>11</size></content>
+
+<content start="520" end="523">
+<size>11</size><href>changevelocity3d.cml</href></content>
+
+<content start="523" end="526">
+<size>11</size></content>
+
+<content start="526" end="528">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="528" end="531">
+<size>11</size></content>
+
+<content start="531" end="534">
+<size>11</size><href>minimize3d.cml</href></content>
+
+<content start="534" end="536">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

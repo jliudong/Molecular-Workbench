@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Query Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#26597;&#35810;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#26597;&#35810;&#24037;&#20855; (&quot; &quot;) &#36820;&#22238;&#19968;&#20010;&#26377;&#20851;&#22312;&#27169;&#22411;&#20013;&#36873;&#23450;&#30340;&#23545;&#35937;&#30340;&#31616;&#30701;&#25991;&#26412;&#25551;&#36848;&#12290;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#22914;&#26524;&#21333;&#20987;&#28857;&#19981;&#21253;&#21547;&#22312;&#20219;&#20309;&#23545;&#35937;&#20869;&#65292;&#37027;&#20040;&#36825;&#20010;&#24037;&#20855;&#23558;&#21482;&#20250;&#26174;&#31034;&#22352;&#26631;(&#22312;&#22467;&#20013;)&#12290;&#20540;&#24471;&#25351;&#20986;&#30340;&#26159;&#65292;&#22352;&#26631;&#31995;&#32479;&#30340;&#21407;&#28857;&#20301;&#20110;&#31383;&#21475;&#30340;&#24038;&#19978;&#35282;&#65292;&#32780;&#19988;y&#36724;&#25351;&#21521;&#19979;&#26041;&#12290;&#22240;&#27492;&#65292;&#21491;&#19979;&#35282;&#26377;&#26368;&#22823;&#30340;x&#21644;y&#22352;&#26631;&#12290;&#24182;&#19988;&#65292;&#25152;&#26377;&#30340;&#22352;&#26631;&#37117;&#26159;&#27491;&#22352;&#26631;&#12290;
+
+&#36825;&#20010;&#24037;&#20855;&#21487;&#20197;&#29992;&#26469; &#24555;&#36895;&#22320;&#26597;&#25214;&#19968;&#20010;&#23545;&#35937;&#30340;&#25351;&#25968;, &#22312;&#36890;&#36807; &#33050;&#26412;.&#35775;&#38382;&#20854;&#23646;&#24615;&#26102;&#38656;&#35201;&#25351;&#25968;&#12290;&#20363;&#22914;&#65292;&#20026;&#20102;&#33719;&#21462;&#19968;&#20010;&#21407;&#23376;&#30340;&#36895;&#24230;&#65292;&#20320;&#39318;&#20808;&#38656;&#35201;&#30693;&#36947;&#23427;&#30340;&#25351;&#25968;(&#27604;&#22914;&#35828;10)&#65292;&#28982;&#21518;&#22312; &#31995;&#32479;&#21464;&#37327;: &#20013;&#20351;&#29992;&#35813;&#34920;&#36798;&#24335;&#65306;&#21407;&#23376;[10].vx&#21644;&#21407;&#23376;[10].vy&#65292;&#20197;&#33719;&#24471;&#20854;&#25968;&#20540;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="317">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>makeBendAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>measureDistanceAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="61">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="33">
+<size>11</size></content>
+
+<content start="33" end="34">
+<size>11</size><icon>WhatIsThis.gif</icon></content>
+
+<content start="34" end="61">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="61" end="62">
+<LeftIndent>140.0</LeftIndent>
+<content start="61" end="62">
+</content>
+
+</paragraph>
+<paragraph start="62" end="65">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="62" end="63">
+</content>
+
+<content start="63" end="64">
+<icon>WhatIsThisPointer.gif</icon></content>
+
+<content start="64" end="65">
+</content>
+
+</paragraph>
+<paragraph start="65" end="77">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="65" end="76">
+<size>10</size></content>
+
+<content start="76" end="77">
+</content>
+
+</paragraph>
+<paragraph start="77" end="78">
+<LeftIndent>140.0</LeftIndent>
+<content start="77" end="78">
+</content>
+
+</paragraph>
+<paragraph start="78" end="175">
+<LeftIndent>140.0</LeftIndent>
+<content start="78" end="174">
+<size>11</size></content>
+
+<content start="174" end="175">
+</content>
+
+</paragraph>
+<paragraph start="175" end="176">
+<LeftIndent>140.0</LeftIndent>
+<content start="175" end="176">
+</content>
+
+</paragraph>
+<paragraph start="176" end="297">
+<LeftIndent>140.0</LeftIndent>
+<content start="176" end="185">
+<size>11</size></content>
+
+<content start="185" end="197">
+<bold>true</bold><size>11</size></content>
+
+<content start="197" end="203">
+<size>11</size></content>
+
+<content start="203" end="205">
+<href>mwscripts.cml</href><size>11</size></content>
+
+<content start="205" end="255">
+<size>11</size></content>
+
+<content start="255" end="259">
+<href>script_variable.cml</href><size>11</size></content>
+
+<content start="259" end="296">
+<size>11</size></content>
+
+<content start="296" end="297">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="297" end="298">
+<LeftIndent>140.0</LeftIndent>
+<content start="297" end="298">
+</content>
+
+</paragraph>
+<paragraph start="298" end="317">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="298" end="300">
+<size>11</size></content>
+
+<content start="300" end="303">
+<href>makeBendAction.cml</href><size>11</size></content>
+
+<content start="303" end="306">
+<size>11</size></content>
+
+<content start="306" end="308">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="308" end="311">
+<size>11</size></content>
+
+<content start="311" end="314">
+<href>measureDistanceAction.cml</href><size>11</size></content>
+
+<content start="314" end="316">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

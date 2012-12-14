@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Pascal&apos;s Principle: pressure is the same throughout a fluid</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#24085;&#26031;&#21345;&#21407;&#29702;&#65306;&#28082;&#20307;&#30340;&#21508;&#37096;&#20301;&#21387;&#21147;&#26159;&#30456;&#21516;&#30340;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#31532;&#22235;&#20010;&#21387;&#21147;&#35745;&#30340;&#27979;&#35797;&#26159;&#31532;&#19977;&#20010;&#27979;&#35797;&#24310;&#32493;&#12290;&#21387;&#21147;&#34920;&#23433;&#35013;&#22312;&#23481;&#22120;&#30340;&#21508;&#20010;&#38754;&#29992;&#26469;&#27979;&#37327;&#23481;&#22120;&#20869;&#37096;&#28082;&#20307;&#30340;&#21387;&#21147;&#12290;&#24403;&#28082;&#20307;&#22788;&#20110;&#24179;&#34913;&#65292;&#19988;&#26080;&#20219;&#20309;&#26799;&#24230;&#65292;&#23481;&#22120;&#21508;&#20869;&#22721;&#30340;&#21387;&#21147;&#24212;&#35813;&#22823;&#33268;&#30456;&#21516;&#12290; &#36825;&#26159;&#28082;&#20307;&#30340;&#19968;&#20010;&#38750;&#24120;&#37325;&#35201;&#30340;&#23646;&#24615;&#65306; &#23545;&#20110;&#19968;&#20010;&#22312;&#27809;&#26377;&#20219;&#20309;&#26799;&#24230;&#19979;&#22343;&#21248;&#27969;&#20307;&#65292;&#19981;&#35770;&#22312;&#21738;&#20799;&#27979;&#37327;&#65292;&#21387;&#21147;&#24212;&#35813;&#30456;&#21516;&#12290;&#36825;&#34987;&#31216;&#20026;&#24085;&#26031;&#21345;&#21407;&#29702;&#65292;&#36825;&#26159;&#27700;&#21147;&#23398;&#30340;&#22522;&#26412;&#23450;&#24459;&#12290;
+
+&#35774;&#31435;&#19979;&#38754;&#30340;&#23454;&#39564;&#65292;&#26159;&#20026;&#20102;&#35777;&#26126;&#36825;&#19968;&#28857;&#12290;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&#20197;&#19978;&#27169;&#25311;&#34920;&#26126;&#65292;&#25152;&#27979;&#37327;&#22235;&#22721;&#30340;&#21387;&#21147;&#22823;&#33268;&#30456;&#21516;(~ 2&#24085;)&#65292;&#36825;&#26679;&#19968;&#20010;&#23567;&#31995;&#32479;&#20250;&#26377;&#19968;&#20123;&#21512;&#29702;&#30340;&#27874;&#21160;&#12290;
+
+&#30456;&#20851;&#30340;&#27169;&#25311;&#65306; &#19968;&#20010;&#28082;&#21387;&#26438;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="301">
+<paragraph start="0" end="19">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="18">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="18" end="19">
+</content>
+
+</paragraph>
+<paragraph start="19" end="20">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="19" end="20">
+</content>
+
+</paragraph>
+<paragraph start="20" end="39">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="20" end="22">
+<size>11</size></content>
+
+<content start="22" end="25">
+<size>11</size><href>isopressure.cml</href></content>
+
+<content start="25" end="28">
+<size>11</size></content>
+
+<content start="28" end="30">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="30" end="33">
+<size>11</size></content>
+
+<content start="33" end="36">
+<size>11</size><href>microbuoyancy.cml</href></content>
+
+<content start="36" end="38">
+<size>11</size></content>
+
+<content start="38" end="39">
+</content>
+
+</paragraph>
+<paragraph start="39" end="40">
+<LeftIndent>140.0</LeftIndent>
+<content start="39" end="40">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="40" end="185">
+<LeftIndent>140.0</LeftIndent>
+<content start="40" end="185">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="185" end="186">
+<LeftIndent>140.0</LeftIndent>
+<content start="185" end="186">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="186" end="204">
+<LeftIndent>140.0</LeftIndent>
+<content start="186" end="204">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="204" end="205">
+<LeftIndent>140.0</LeftIndent>
+<content start="204" end="205">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="205" end="208">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="205" end="206">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>wallpressure$0.mml</resource><menubar>false</menubar></component></content>
+
+<content start="206" end="207">
+<component><class>org.concord.modeler.PageXYGraph</class>
+<model>0</model>
+<time_series_x>Time (fs)</time_series_x>
+<time_series_y1 color="-10000" style="1" width="1.0" symbol="0" size="4" spacing="5">East pressure:Obstacle #2</time_series_y1>
+<time_series_y2 color="-339a" style="2" width="1.0" symbol="0" size="4" spacing="5">West pressure:Obstacle #3</time_series_y2>
+<time_series_y3 color="-33ff34" style="3" width="1.0" symbol="0" size="4" spacing="5">North pressure:Obstacle #0</time_series_y3>
+<time_series_y4 color="-336700" style="0" width="1.0" symbol="0" size="4" spacing="5">South pressure:Obstacle #1</time_series_y4>
+<autofity>false</autofity>
+<axis_y_min>0.0</axis_y_min>
+<axis_y_max>6.0</axis_y_max>
+<width>250</width>
+<height>334</height>
+<axis_x_title>Time (fs)</axis_x_title>
+<axis_y_title>Pressure (bar)</axis_y_title>
+<legend_x>40</legend_x>
+<legend_y>40</legend_y>
+<bgcolor>-1</bgcolor>
+<fgcolor>-1</fgcolor>
+<menubar>false</menubar>
+<border>Raised Bevel</border>
+</component></content>
+
+<content start="207" end="208">
+</content>
+
+</paragraph>
+<paragraph start="208" end="222">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="208" end="221">
+<size>10</size></content>
+
+<content start="221" end="222">
+</content>
+
+</paragraph>
+<paragraph start="222" end="223">
+<LeftIndent>140.0</LeftIndent>
+<content start="222" end="223">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="223" end="267">
+<LeftIndent>140.0</LeftIndent>
+<content start="223" end="266">
+<size>10</size></content>
+
+<content start="266" end="267">
+</content>
+
+</paragraph>
+<paragraph start="267" end="268">
+<LeftIndent>140.0</LeftIndent>
+<content start="267" end="268">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="268" end="281">
+<LeftIndent>140.0</LeftIndent>
+<content start="268" end="275">
+<size>10</size></content>
+
+<content start="275" end="280">
+<size>10</size><href>../student/fluid/pascal.cml</href></content>
+
+<content start="280" end="281">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="281" end="282">
+<LeftIndent>140.0</LeftIndent>
+<content start="281" end="282">
+</content>
+
+</paragraph>
+<paragraph start="282" end="301">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="282" end="284">
+<size>11</size></content>
+
+<content start="284" end="287">
+<size>11</size><href>isopressure.cml</href></content>
+
+<content start="287" end="290">
+<size>11</size></content>
+
+<content start="290" end="292">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="292" end="295">
+<size>11</size></content>
+
+<content start="295" end="298">
+<size>11</size><href>microbuoyancy.cml</href></content>
+
+<content start="298" end="300">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

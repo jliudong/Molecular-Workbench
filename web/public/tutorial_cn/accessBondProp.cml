@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Accessing a radial bond&apos;s properties</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#35775;&#38382;&#24452;&#21521;&#38190;&#23646;&#24615;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#35775;&#38382;&#24452;&#21521;&#38190;&#23646;&#24615;&#65292;&#24403;&#27169;&#22411;&#23481;&#22120;&#22788;&#20110;&#36873;&#25321;&#27169;&#24335;(&#21363;&#65306;&#25353;&#38062; &quot; &quot; &#34987;&#36873;&#23450;)&#26102;&#65292;&#21452;&#20987;&#35813;&#24452;&#21521;&#38190;&#65292;&#20320;&#20250;&#30475;&#21040;&#19979;&#38754;&#30340;&#23545;&#35805;&#26694;&#31383;&#21475;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#36825;&#20010;&#23545;&#35805;&#26694;&#23558;&#20801;&#35768;&#20320;&#25913;&#21464;&#38190;&#30340;&#38271;&#24230;&#21644;&#24378;&#24230;&#65292;&#36873;&#25321;&#39118;&#26684;&#65292;&#24182;&#35774;&#32622;&#25152;&#36873;&#38190;&#30340;&#39068;&#33394;(&#40664;&#35748;&#29366;&#24577;&#19979;&#65292;&#38190;&#30340;&#39068;&#33394;&#65292;&#23558;&#30001;&#37027;&#20123;&#21407;&#23376;&#30340;&#39068;&#33394;&#25152;&#20915;&#23450;&#65306;&#25509;&#36817;&#19968;&#20010;&#21407;&#23376;&#19968;&#21322;&#30340;&#38190;&#26834;&#65292;&#23558;&#20351;&#29992;&#35813;&#21407;&#23376;&#30340;&#39068;&#33394;)&#12290;&#20320;&#20063;&#21487;&#20197;&#21521;&#19968;&#20010;&#24452;&#21521;&#38190;&#26045;&#21152;&#36716;&#30697;&#65292;&#20197;&#20415;&#20351;&#23427;&#22260;&#32469;&#20854;&#20013;&#30340;&#19968;&#20010;&#21407;&#23376;&#25110;&#32773;&#38190;&#30340;&#20013;&#24515;&#26059;&#36716;&#65307;&#25110;&#32773;&#65292;&#20197;&#25351;&#23450;&#30340;&#21147;&#25391;&#24133;&#12289;&#21608;&#26399;&#21644;&#30456;&#31227;&#65292;&#26045;&#21152;&#19968;&#20010;&#24378;&#36843;&#25391;&#21160;&#12290;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#25913;&#21464;&#24452;&#21521;&#38190;&#30340;&#23646;&#24615;&#65292;&#35831;&#20351;&#29992; &#35774;&#32622; &#21629;&#20196;&#12290;&#20363;&#22914;&#65292;&#35774;&#32622;rbond[1].&#24378;&#24230;0.5&#65292;&#35774;&#32622;&#31532;&#20108;&#20010;&#24452;&#21521;&#38190;&#30340;&#24378;&#24230;&#12290;&#30446;&#21069;&#65292;&#19968;&#20010;&#24452;&#21521;&#38190;&#30340;&#19979;&#36848;&#23646;&#24615;&#21487;&#20197;&#36890;&#36807;&#33050;&#26412;&#36827;&#34892;&#35774;&#23450;&#65306;&#24378;&#24230;&#12289;&#38190;&#38271;&#12289;&#36716;&#30697;&#12289;&#36716;&#30697;&#31867;&#22411;&#12289;&#25391;&#24133;&#12289;&#21608;&#26399;&#12289;&#30456;&#12289;&#21487;&#35265;&#12289;&#39118;&#26684;&#12289;&#21644;&#39068;&#33394;&#12290;&#39118;&#26684;&#21442;&#25968;&#30340;&#36873;&#39033;&#22914;&#19979;&#65306;STANDARD_STICK_STYLE &#65288;&#26631;&#20934;_&#26834;_&#39118;&#26684;&#65289;&#12289;LONG_SPRING_STYLE&#65288;&#38271;_&#24377;&#31783;_&#39118;&#26684;&#65289;&#12289; SOLID_LINE_STYLE &#65288;&#23454;_&#32447;_&#39118;&#26684;&#65289;&#12289;GHOST_STYLE&#65288;&#39740;_&#39118;&#26684;&#65289;&#12289;UNICOLOR_STICK_STYLE&#65288;&#21333;&#33394;_&#26834;_&#39118;&#26684;&#65289;&#12289;&#20197;&#21450;SHORT_SPRING_STYLE&#65288;&#30701;_&#24377;&#31783;_&#39118;&#26684;&#65289;&#12290;&#36716;&#30697;&#31867;&#22411;&#30340;&#36873;&#39033;&#22914;&#19979;&#65306;TORQUE_AROUND_ATOM1&#65288;&#36716;&#30697;_&#22260;&#32469;_&#21407;&#23376;1&#65289;&#12289;TORQUE_AROUND_ATOM2 &#65288;&#36716;&#30697;_&#22260;&#32469;_&#21407;&#23376;2&#65289;&#12289; &#21644;TORQUE_AROUND_CENTER&#65288;&#36716;&#30697;_&#22260;&#32469;_&#20013;&#24515;&#65289;&#12290;
+
+&#25913;&#21464;&#22810;&#37325;&#24452;&#21521;&#38190;&#23646;&#24615;&#65292;&#39318;&#20808; &#36873;&#23450; &#23427;&#20204;&#65292;&#28982;&#21518;&#35843;&#29992;&#35774;&#32622;&#24378;&#24230;[&#20540;]&#26469;&#25913;&#21464;&#23427;&#20204;&#30340;&#24378;&#24230;&#65292;&#24182;&#35774;&#32622;&#38190;&#38271;[&#20540;]&#26469;&#25913;&#21464;&#23427;&#20204;&#38190;&#38271;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="718">
+<paragraph start="0" end="8">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="7">
+<bold>true</bold><size>16</size><italic>true</italic></content>
+
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="9">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="28">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="9" end="11">
+<size>11</size></content>
+
+<content start="11" end="14">
+<href>accessAtomProp.cml</href><size>11</size></content>
+
+<content start="14" end="17">
+<size>11</size></content>
+
+<content start="17" end="19">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="19" end="22">
+<size>11</size></content>
+
+<content start="22" end="25">
+<href>accessBendProp.cml</href><size>11</size></content>
+
+<content start="25" end="27">
+<size>11</size></content>
+
+<content start="27" end="28">
+</content>
+
+</paragraph>
+<paragraph start="28" end="29">
+<LeftIndent>100.0</LeftIndent>
+<content start="28" end="29">
+</content>
+
+</paragraph>
+<paragraph start="29" end="85">
+<LeftIndent>140.0</LeftIndent>
+<content start="29" end="55">
+<size>11</size></content>
+
+<content start="55" end="56">
+<icon>Select.gif</icon><size>11</size></content>
+
+<content start="56" end="85">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="85" end="86">
+<LeftIndent>100.0</LeftIndent>
+<content start="85" end="86">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="86" end="89">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="86" end="87">
+<size>11</size></content>
+
+<content start="87" end="88">
+<icon>BondProp.gif</icon><size>11</size></content>
+
+<content start="88" end="89">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="89" end="101">
+<LeftIndent>140.0</LeftIndent>
+<Alignment>1</Alignment>
+<content start="89" end="100">
+<size>10</size></content>
+
+<content start="100" end="101">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="101" end="102">
+<LeftIndent>100.0</LeftIndent>
+<content start="101" end="102">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="102" end="247">
+<LeftIndent>140.0</LeftIndent>
+<content start="102" end="247">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="247" end="248">
+<LeftIndent>140.0</LeftIndent>
+<content start="247" end="248">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="248" end="253">
+<LeftIndent>140.0</LeftIndent>
+<content start="248" end="252">
+<bold>true</bold><size>11</size></content>
+
+<content start="252" end="253">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="253" end="254">
+<LeftIndent>140.0</LeftIndent>
+<content start="253" end="254">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="254" end="641">
+<LeftIndent>140.0</LeftIndent>
+<content start="254" end="267">
+<size>11</size></content>
+
+<content start="267" end="269">
+<href>script_set.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="269" end="641">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="641" end="642">
+<LeftIndent>140.0</LeftIndent>
+<content start="641" end="642">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="642" end="698">
+<LeftIndent>140.0</LeftIndent>
+<content start="642" end="655">
+<size>11</size></content>
+
+<content start="655" end="657">
+<href>script_select.cml</href><size>11</size></content>
+
+<content start="657" end="697">
+<size>11</size></content>
+
+<content start="697" end="698">
+</content>
+
+</paragraph>
+<paragraph start="698" end="699">
+<content start="698" end="699">
+</content>
+
+</paragraph>
+<paragraph start="699" end="718">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="699" end="701">
+<size>11</size></content>
+
+<content start="701" end="704">
+<href>accessAtomProp.cml</href><size>11</size></content>
+
+<content start="704" end="707">
+<size>11</size></content>
+
+<content start="707" end="709">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="709" end="712">
+<size>11</size></content>
+
+<content start="712" end="715">
+<href>accessBendProp.cml</href><size>11</size></content>
+
+<content start="715" end="717">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

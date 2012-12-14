@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Measuring Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#27979;&#37327;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#20320;&#21487;&#20197;&#27979;&#37327;&#20004;&#20010;&#31890;&#23376;&#20043;&#38388;&#30340;&#36317;&#31163;&#65292;&#20197;&#21450;&#19968;&#20010;&#31890;&#23376;&#21644;&#19968;&#20010;&#20219;&#24847;&#28857;&#20043;&#38388;&#30340;&#36317;&#31163;&#12290;&#28155;&#21152;&#19968;&#20010;&#27979;&#37327;&#65292;&#21333;&#20987;&#27979;&#37327;&#24037;&#20855;&#25353;&#38062; (&quot; &quot;)&#65292;&#25353;&#20303;Shift&#38190;&#65292;&#28982;&#21518;&#21333;&#20987;&#19968;&#20010;&#31890;&#23376;&#12290;&#27492;&#26102;&#65292;&#19968;&#26465;&#20197;&#36873;&#23450;&#30340;&#31890;&#23376;&#20026;&#20013;&#24515;&#30340;&#32447;&#21644;&#19968;&#20010;&#23567;&#30340;&#32511;&#33394;&#30697;&#24418;&#28909;&#28857;&#23601;&#20250;&#20998;&#21035;&#20986;&#29616;&#22312;&#20004;&#31471;&#12290;&#22914;&#26524;&#20320;&#25302;&#21160;&#28909;&#28857;&#65292;&#40736;&#26631;&#20809;&#26631;&#21644;&#31890;&#23376;&#20043;&#38388;&#30340;&#36317;&#31163;&#23558;&#20250;&#26174;&#31034;&#22312;&#32447;&#20013;&#24515;&#30340;&#21608;&#22260;&#12290;&#24403;&#40736;&#26631;&#20809;&#26631;&#36234;&#36807;&#19968;&#20010;&#31890;&#23376;&#26102;&#22914;&#26524;&#20320;&#37322;&#25918;&#40736;&#26631;&#25353;&#38062;&#65292;&#20004;&#20010;&#31890;&#23376;&#20013;&#24515;&#20043;&#38388;&#30340;&#36317;&#31163;&#23601;&#20250;&#34987;&#27979;&#37327;&#12290;&#21542;&#21017;&#65292;&#36215;&#22987;&#31890;&#23376;&#30340;&#20013;&#24515;&#33267;&#20320;&#37322;&#25918;&#40736;&#26631;&#25353;&#38062;&#30340;&#20301;&#32622;&#20043;&#38388;&#30340;&#36317;&#31163;&#23601;&#20250;&#34987;&#27979;&#37327;&#12290;&#22312;&#19968;&#20010;&#27169;&#25311;&#20013;&#65292;&#20381;&#38468;&#20110;&#31890;&#23376;&#30340;&#32447;&#30340;&#26411;&#31471;&#23558;&#20250;&#38543;&#20043;&#19968;&#36215;&#31227;&#21160;&#65292;&#32780;&#38543;&#30528;&#31890;&#23376;&#30340;&#20301;&#32622;&#30340;&#26356;&#26032;&#65292;&#25152;&#27979;&#37327;&#30340;&#36317;&#31163;&#20063;&#23558;&#20250;&#34987;&#21047;&#26032;&#12290;
+
+                   
+
+ 
+&#28155;&#21152;&#19968;&#20010;&#26032;&#30340;&#27979;&#37327;(&#22810;&#37325;&#27979;&#37327;&#26159;&#20801;&#35768;&#30340;)&#65292;&#35831;&#25353;&#20303;SHIFT&#38190;&#65292;&#24182;&#21333;&#20987;&#19968;&#20010;&#31890;&#23376;&#12290;&#21024;&#38500;&#19968;&#20010;&#27979;&#37327;&#65292;&#35831;&#25302;&#21160;&#32511;&#28909;&#28857;&#65292;&#24182;&#23558;&#20854;&#25172;&#20986;&#27169;&#25311;&#22120;&#30340;&#31383;&#21475;&#12290;
+ 
+
+&#22312;&#19979;&#38754;&#30340;&#27169;&#22411;&#20013;&#23581;&#35797;&#27979;&#37327;&#24037;&#20855;&#65306;
+
+ 
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12290;&#12305;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#27979;&#37327;&#24037;&#20855;&#21482;&#33021;&#29992;&#20110;&#27979;&#37327;&#38024;&#23545;&#27169;&#22411;&#24403;&#21069;&#29366;&#24577;&#30340;&#29289;&#20307;&#20043;&#38388;&#30340;&#36317;&#31163;&#12290;&#33719;&#24471;&#26576;&#20010;&#36317;&#31163;&#30340; &#26102;&#38388;&#24207;&#21015; &#30340;&#19968;&#33324;&#26041;&#27861;&#26159;&#20351;&#29992; &#32472;&#22270; &#21629;&#20196;&#12290;&#19979;&#38754;&#26159;&#20004;&#20010;&#20363;&#23376;&#65306;
+
+1. &#26174;&#31034;&#31532;&#19968;&#21644;&#31532;&#20108;&#20010;&#21407;&#23376;&#20043;&#38388;&#30340;&#36317;&#31163;&#30340;&#26102;&#38388;&#24207;&#21015;&#65306;
+
+&#32472;&#22270; &quot;sqrt((%atom[0].rx-%atom[1].rx)*(%atom[0].rx-%atom[1].rx)+(%atom[0].ry-%atom[1].ry)*(%atom[0].ry-%atom[1].ry))&quot;
+
+2. &#26174;&#31034;&#31532;&#19968;&#20010;&#21407;&#23376;&#21644;&#31383;&#21475;&#20013;&#24515;&#20043;&#38388;&#30340;&#36317;&#31163;&#30340;&#26102;&#38388;&#24207;&#21015;&#65292;&#24182;&#22312;&#21516;&#26679;&#30340;&#22270;&#20013;&#26174;&#31034;&#31532;&#20108;&#20010;&#21407;&#23376;&#21644;&#31383;&#21475;&#20013;&#24515;&#20043;&#38388;&#30340;&#36317;&#31163;&#65306;
+
+&#32472;&#22270; &quot;sqrt((%atom[0].rx-%width/2)*(%atom[0].rx-%width/2)+(%atom[0].ry-%height/2)*(%atom[0].ry-%height/2))&quot;, &quot;sqrt((%atom[1].rx-%width/2)*(%atom[1].rx-%width/2)+(%atom[1].ry-%height/2)*(%atom[1].ry-%height/2))&quot;
+
+&#36890;&#36807;&#28857;&#20987;&#27169;&#22411;&#19979;&#38754;&#30340;&#20004;&#20010;&#25353;&#38062;&#21487;&#20197;&#26174;&#31034;&#31034;&#20363;&#22270;&#65292;&#35813;&#31034;&#20363;&#22270;&#20351;&#29992;&#19978;&#38754;&#30340;&#20004;&#20010;&#33050;&#26412;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="950">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>whatIsThisAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>changeVelocityAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>140.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="291">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="77">
+<size>11</size></content>
+
+<content start="77" end="78">
+<size>11</size><icon>Ruler.gif</icon></content>
+
+<content start="78" end="291">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="291" end="292">
+<LeftIndent>100.0</LeftIndent>
+<content start="291" end="292">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="292" end="312">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="292" end="293">
+<size>11</size></content>
+
+<content start="293" end="294">
+<size>11</size><icon>MeasureDistanceScene1.gif</icon></content>
+
+<content start="294" end="310">
+<size>11</size></content>
+
+<content start="310" end="311">
+<size>11</size><icon>MeasureDistanceScene2.gif</icon></content>
+
+<content start="311" end="312">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="312" end="313">
+<LeftIndent>140.0</LeftIndent>
+<content start="312" end="313">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="313" end="315">
+<LeftIndent>140.0</LeftIndent>
+<content start="313" end="314">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="314" end="315">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="315" end="379">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="315" end="379">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="379" end="381">
+<LeftIndent>140.0</LeftIndent>
+<content start="379" end="380">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="380" end="381">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="381" end="382">
+<LeftIndent>140.0</LeftIndent>
+<content start="381" end="382">
+</content>
+
+</paragraph>
+<paragraph start="382" end="397">
+<LeftIndent>140.0</LeftIndent>
+<content start="382" end="396">
+<size>11</size></content>
+
+<content start="396" end="397">
+</content>
+
+</paragraph>
+<paragraph start="397" end="398">
+<LeftIndent>140.0</LeftIndent>
+<content start="397" end="398">
+</content>
+
+</paragraph>
+<paragraph start="398" end="400">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="398" end="399">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>measureDistanceAction$0.mml</resource><menubar>false</menubar><button>Measure Distance</button><button>Select Object</button><button>Draw Lines</button></component></content>
+
+<content start="399" end="400">
+</content>
+
+</paragraph>
+<paragraph start="400" end="403">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="400" end="401">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Plot distance between marked atoms</title>
+<tooltip>Plot distance between marked atoms vs. time</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>plot &quot;sqrt((%atom[0].rx-%atom[1].rx)*(%atom[0].rx-%atom[1].rx)+(%atom[0].ry-%atom[1].ry)*(%atom[0].ry-%atom[1].ry))&quot;;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="401" end="402">
+<component><class>org.concord.modeler.PageButton</class>
+<title>Plot distances between marked atoms and the center</title>
+<tooltip>Plot distances between marked atoms and the center vs. time</tooltip>
+<border>Raised Bevel</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>plot &quot;sqrt((%atom[0].rx-%width/2)*(%atom[0].rx-%width/2)+(%atom[0].ry-%height/2)*(%atom[0].ry-%height/2))&quot;, &quot;sqrt((%atom[1].rx-%width/2)*(%atom[1].rx-%width/2)+(%atom[1].ry-%height/2)*(%atom[1].ry-%height/2))&quot;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="402" end="403">
+</content>
+
+</paragraph>
+<paragraph start="403" end="418">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="403" end="417">
+<size>10</size></content>
+
+<content start="417" end="418">
+</content>
+
+</paragraph>
+<paragraph start="418" end="419">
+<LeftIndent>140.0</LeftIndent>
+<content start="418" end="419">
+</content>
+
+</paragraph>
+<paragraph start="419" end="424">
+<LeftIndent>140.0</LeftIndent>
+<content start="419" end="423">
+<bold>true</bold><size>11</size></content>
+
+<content start="423" end="424">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="424" end="425">
+<LeftIndent>140.0</LeftIndent>
+<content start="424" end="425">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="425" end="489">
+<LeftIndent>140.0</LeftIndent>
+<content start="425" end="460">
+<size>11</size></content>
+
+<content start="460" end="464">
+<href>timeSeries.cml</href><size>11</size></content>
+
+<content start="464" end="474">
+<size>11</size></content>
+
+<content start="474" end="476">
+<href>script_plot.cml</href><family>Courier New</family><size>11</size></content>
+
+<content start="476" end="489">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="489" end="490">
+<LeftIndent>140.0</LeftIndent>
+<content start="489" end="490">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="490" end="515">
+<LeftIndent>140.0</LeftIndent>
+<content start="490" end="515">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="515" end="516">
+<LeftIndent>140.0</LeftIndent>
+<content start="515" end="516">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="516" end="631">
+<LeftIndent>160.0</LeftIndent>
+<content start="516" end="630">
+<family>Courier New</family><size>11</size></content>
+
+<content start="630" end="631">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="631" end="632">
+<LeftIndent>140.0</LeftIndent>
+<content start="631" end="632">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="632" end="684">
+<LeftIndent>140.0</LeftIndent>
+<content start="632" end="684">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="684" end="685">
+<LeftIndent>140.0</LeftIndent>
+<content start="684" end="685">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="685" end="893">
+<LeftIndent>160.0</LeftIndent>
+<content start="685" end="892">
+<family>Courier New</family><size>11</size></content>
+
+<content start="892" end="893">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="893" end="894">
+<LeftIndent>140.0</LeftIndent>
+<content start="893" end="894">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="894" end="930">
+<LeftIndent>140.0</LeftIndent>
+<content start="894" end="929">
+<size>11</size></content>
+
+<content start="929" end="930">
+</content>
+
+</paragraph>
+<paragraph start="930" end="931">
+<LeftIndent>140.0</LeftIndent>
+<content start="930" end="931">
+</content>
+
+</paragraph>
+<paragraph start="931" end="950">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="931" end="933">
+<size>11</size></content>
+
+<content start="933" end="936">
+<href>whatIsThisAction.cml</href><size>11</size></content>
+
+<content start="936" end="939">
+<size>11</size></content>
+
+<content start="939" end="941">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="941" end="944">
+<size>11</size></content>
+
+<content start="944" end="947">
+<href>changeVelocityAction.cml</href><size>11</size></content>
+
+<content start="947" end="949">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

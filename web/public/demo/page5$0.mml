@@ -1,0 +1,4616 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_32" class="java.beans.XMLDecoder"> 
+ <object id="Element0" class="org.concord.mw2d.models.Element"> 
+  <void property="epsilon"> 
+   <double>0.004999999888241291</double> 
+  </void> 
+  <void property="mass"> 
+   <double>0.08333333333333333</double> 
+  </void> 
+  <void property="sigma"> 
+   <double>5.0</double> 
+  </void> 
+ </object> 
+ <object id="Element1" class="org.concord.mw2d.models.Element"> 
+  <void property="ID"> 
+   <int>1</int> 
+  </void> 
+  <void property="mass"> 
+   <double>0.3333333333333333</double> 
+  </void> 
+  <void property="sigma"> 
+   <double>14.0</double> 
+  </void> 
+ </object> 
+ <object id="Element2" class="org.concord.mw2d.models.Element"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="epsilon"> 
+   <double>0.004999999888241291</double> 
+  </void> 
+  <void property="mass"> 
+   <double>1.6666666666666667</double> 
+  </void> 
+  <void property="sigma"> 
+   <double>25.0</double> 
+  </void> 
+ </object> 
+ <object id="Element3" class="org.concord.mw2d.models.Element"> 
+  <void property="ID"> 
+   <int>3</int> 
+  </void> 
+  <void property="mass"> 
+   <double>0.6666666666666666</double> 
+  </void> 
+  <void property="sigma"> 
+   <double>28.0</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Affinity"> 
+  <void property="epsilon"> 
+   <void method="put"> 
+    <object id="Pair0" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element2"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element3"/> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair1" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element0"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element1"/> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair2" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element1"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element3"/> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair3" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element0"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element2"/> 
+     </void> 
+    </object> 
+    <double>0.009999999776482582</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair4" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element1"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element2"/> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair5" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element0"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element3"/> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair6" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element0"/> 
+     </void> 
+     <void property="element2"> 
+      <object id="Element4" class="org.concord.mw2d.models.Element"> 
+       <void property="ID"> 
+        <int>4</int> 
+       </void> 
+       <void property="mass"> 
+        <double>5.0</double> 
+       </void> 
+      </object> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair7" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element1"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element4"/> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair8" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element2"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element4"/> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+   <void method="put"> 
+    <object id="Pair9" class="org.concord.mw2d.models.Pair"> 
+     <void property="element1"> 
+      <object idref="Element3"/> 
+     </void> 
+     <void property="element2"> 
+      <object idref="Element4"/> 
+     </void> 
+    </object> 
+    <double>0.1</double> 
+   </void> 
+  </void> 
+  <void property="lbMixing"> 
+   <void method="put"> 
+    <object idref="Pair0"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair1"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair2"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair3"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair4"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair5"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair6"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair7"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair8"/> 
+    <boolean>true</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair9"/> 
+    <boolean>true</boolean> 
+   </void> 
+  </void> 
+  <void property="repulsive"> 
+   <void method="put"> 
+    <object idref="Pair0"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair1"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair2"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair3"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair4"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair5"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair6"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair7"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair8"/> 
+    <boolean>false</boolean> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair9"/> 
+    <boolean>false</boolean> 
+   </void> 
+  </void> 
+  <void property="sigma"> 
+   <void method="put"> 
+    <object idref="Pair0"/> 
+    <double>24.24871130596428</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair1"/> 
+    <double>9.899494936611665</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair2"/> 
+    <double>19.79898987322333</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair3"/> 
+    <double>11.180339887498949</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair4"/> 
+    <double>17.146428199482248</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair5"/> 
+    <double>14.0</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair6"/> 
+    <double>9.16515138991168</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair7"/> 
+    <double>12.96148139681572</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair8"/> 
+    <double>15.874507866387544</double> 
+   </void> 
+   <void method="put"> 
+    <object idref="Pair9"/> 
+    <double>18.33030277982336</double> 
+   </void> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.AtomicModel$State"> 
+  <void property="LJBetweenBondPairs"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="RList"> 
+   <float>1.65</float> 
+  </void> 
+  <void property="boundary"> 
+   <object class="org.concord.mw2d.models.RectangularBoundary$Delegate"> 
+    <void property="height"> 
+     <double>170.0</double> 
+    </void> 
+    <void property="showBorder"> 
+     <boolean>false</boolean> 
+    </void> 
+    <void property="type"> 
+     <int>5565</int> 
+    </void> 
+    <void property="viewSize"> 
+     <object class="java.awt.Dimension"> 
+      <int>400</int> 
+      <int>170</int> 
+     </object> 
+    </void> 
+    <void property="width"> 
+     <double>400.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="cutOff"> 
+   <float>1.0</float> 
+  </void> 
+  <void property="interCoulomb"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="lightSource"> 
+   <object class="org.concord.mw2d.models.LightSource"/> 
+  </void> 
+  <void property="numberOfParticles"> 
+   <int>165</int> 
+  </void> 
+  <void property="properties"> 
+   <void method="put"> 
+    <string>filename</string> 
+    <string>page5$0.mml</string> 
+   </void> 
+   <void method="put"> 
+    <string>date</string> 
+    <object class="java.util.Date"> 
+     <long>1346827959016</long> 
+    </object> 
+   </void> 
+   <void method="put"> 
+    <string>url</string> 
+    <string>D:\projects\MW\public\demo\page5$0.mml</string> 
+   </void> 
+   <void method="put"> 
+    <string>size</string> 
+    <long>115275</long> 
+   </void> 
+   <void method="put"> 
+    <string>codebase</string> 
+    <string>D:\projects\MW\public\demo</string> 
+   </void> 
+  </void> 
+  <void property="quantumRule"> 
+   <object class="org.concord.mw2d.models.QuantumRule"/> 
+  </void> 
+  <void property="script"> 
+   <string>define %temp 10;</string> 
+  </void> 
+  <void property="tasks"> 
+   <void method="add"> 
+    <object class="org.concord.mw2d.models.TaskAttributes"> 
+     <void property="description"> 
+      <string>Calculate current</string> 
+     </void> 
+     <void property="interval"> 
+      <int>100</int> 
+     </void> 
+     <void property="name"> 
+      <string>My task</string> 
+     </void> 
+     <void property="script"> 
+      <string>show selectionhalo off;
+select element 2;
+set kelvin %temp;
+select element none;
+show selectionhalo on;
+set %current speed(x, 0);
+set %current -%current*0.01;
+if(%current &lt; 0);
+  set %current 0;
+endif;
+store 0 %current;
+</string> 
+     </void> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="timeStep"> 
+   <double>1.0</double> 
+  </void> 
+  <void property="universe"> 
+   <object class="org.concord.mw2d.models.Universe"> 
+    <void property="dielectricConstant"> 
+     <float>21.0</float> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.AtomisticView$State"> 
+  <void property="VDWCircleStyle"> 
+   <byte>82</byte> 
+  </void> 
+  <void property="colorCode"> 
+   <string>None</string> 
+  </void> 
+  <void property="displayStyle"> 
+   <byte>3</byte> 
+  </void> 
+  <void property="drawCharge"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="elementColors"> 
+   <void index="2"> 
+    <int>-8355712</int> 
+   </void> 
+  </void> 
+  <void property="forceFlavor"> 
+   <void property="color"> 
+    <object class="java.awt.Color"> 
+     <int>255</int> 
+     <int>0</int> 
+     <int>255</int> 
+     <int>255</int> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="momentumFlavor"> 
+   <void property="color"> 
+    <object class="java.awt.Color"> 
+     <int>0</int> 
+     <int>0</int> 
+     <int>255</int> 
+     <int>255</int> 
+    </object> 
+   </void> 
+  </void> 
+  <void property="monochromatic"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraintStyle"> 
+   <byte>24</byte> 
+  </void> 
+  <void property="showClock"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="showMirrorImages"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="showVDWCircles"> 
+   <boolean>true</boolean> 
+  </void> 
+  <void property="trajectoryStyle"> 
+   <byte>50</byte> 
+  </void> 
+  <void property="velocityFlavor"> 
+   <void property="length"> 
+    <int>200</int> 
+   </void> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>20.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>19.29329836150425</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.82760837590329</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0028562974468080136</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0015834385110708082</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>50.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>49.972233733886156</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.82585927952618</double> 
+  </void> 
+  <void property="vx"> 
+   <double>8.352672286014898E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0035272847829879686</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>80.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>80.3425374831482</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.98548428081606</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.002458260455936108</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.005741061489491466</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>110.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>110.30404393424205</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.980210918180568</double> 
+  </void> 
+  <void property="vx"> 
+   <double>8.952931693702734E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0027512285538322796</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>140.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>139.97800097630852</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.74016557489511</double> 
+  </void> 
+  <void property="vx"> 
+   <double>5.515503533545148E-5</double> 
+  </void> 
+  <void property="vy"> 
+   <double>6.8684277562759604E-6</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>170.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>170.0965441761933</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.937877623576714</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0011167711505541947</double> 
+  </void> 
+  <void property="vy"> 
+   <double>5.139768653869191E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>200.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>199.9902694748217</double> 
+  </void> 
+  <void property="ry"> 
+   <double>25.347647369883187</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0012369763742576202</double> 
+  </void> 
+  <void property="vy"> 
+   <double>6.224598458604045E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>230.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>230.1175981188456</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.61006971038122</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.006350739399750962</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0015628371252946437</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>260.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>260.26910325345455</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.882111134133545</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0010986448224466648</double> 
+  </void> 
+  <void property="vy"> 
+   <double>3.687759403030552E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>290.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>289.88116112499114</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.700782408059926</double> 
+  </void> 
+  <void property="vx"> 
+   <double>4.883153822337227E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.004898370445781734</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>320.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>319.91927055826596</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.616214739941576</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-3.6048419438903015E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.001196496070853065</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>350.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>349.4746265367063</double> 
+  </void> 
+  <void property="ry"> 
+   <double>24.712525441308998</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0012673002129500943</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.003914383057772568</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>380.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>25.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>380.42007333173376</double> 
+  </void> 
+  <void property="ry"> 
+   <double>25.053292205627127</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0014313685007222984</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0012413303753832513</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>20.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>20.261696147841754</double> 
+  </void> 
+  <void property="ry"> 
+   <double>54.999126909744405</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0028769934542717647</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0038643272761455572</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>50.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>49.802506723783836</double> 
+  </void> 
+  <void property="ry"> 
+   <double>55.21338671507225</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0015583845368161847</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0023821522134760222</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>80.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>79.80237479396308</double> 
+  </void> 
+  <void property="ry"> 
+   <double>54.857638501138766</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0022226713966490585</double> 
+  </void> 
+  <void property="vy"> 
+   <double>8.059660590854697E-5</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>110.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>110.02411088864162</double> 
+  </void> 
+  <void property="ry"> 
+   <double>54.94342967787603</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0023381638627241797</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0015596319725819639</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>140.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>139.85487728795292</double> 
+  </void> 
+  <void property="ry"> 
+   <double>54.81670624339066</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-1.5621214387031182E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>4.6532824470221166E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>170.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>170.06175189050794</double> 
+  </void> 
+  <void property="ry"> 
+   <double>55.145896559228476</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0017017296786688947</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-7.05778964091205E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>200.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>200.10498733034197</double> 
+  </void> 
+  <void property="ry"> 
+   <double>54.84882546936459</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0019363490630505023</double> 
+  </void> 
+  <void property="vy"> 
+   <double>3.026369348797753E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>230.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>230.02203864424172</double> 
+  </void> 
+  <void property="ry"> 
+   <double>54.866472606139375</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-8.104195733919642E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-3.4854184015612594E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>260.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>260.21946013239705</double> 
+  </void> 
+  <void property="ry"> 
+   <double>55.51129514546196</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0017596484845992916</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.002230896067280231</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>290.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>290.0970056455152</double> 
+  </void> 
+  <void property="ry"> 
+   <double>55.00130045278999</double> 
+  </void> 
+  <void property="vx"> 
+   <double>9.782763819402556E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>6.790501533150763E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>320.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>320.1102662539068</double> 
+  </void> 
+  <void property="ry"> 
+   <double>54.76865887728812</double> 
+  </void> 
+  <void property="vx"> 
+   <double>1.0113395825528932E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0026192972142356466</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>350.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>349.8779862376247</double> 
+  </void> 
+  <void property="ry"> 
+   <double>54.605985500397075</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0012286431542770817</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0032564743029922538</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>380.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>55.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>379.99232853147987</double> 
+  </void> 
+  <void property="ry"> 
+   <double>55.19319037951713</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.00138416296572143</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-6.828628146303777E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>20.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>19.908044143798342</double> 
+  </void> 
+  <void property="ry"> 
+   <double>84.94189262074582</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-6.110838867183681E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-3.9665292443019856E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>50.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>49.61413179179453</double> 
+  </void> 
+  <void property="ry"> 
+   <double>84.64961043271875</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0015191192308127623</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0013046880182885055</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>80.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>79.97977478505517</double> 
+  </void> 
+  <void property="ry"> 
+   <double>85.27323313137815</double> 
+  </void> 
+  <void property="vx"> 
+   <double>2.0007613824260013E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-5.03012819909219E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>110.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>109.96531051508899</double> 
+  </void> 
+  <void property="ry"> 
+   <double>84.90534835390145</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-8.674639790488334E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0010584148001892924</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>140.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>140.38724984044177</double> 
+  </void> 
+  <void property="ry"> 
+   <double>84.70468462078921</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0012022340624567804</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0026115736719837207</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>170.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>170.44762236669374</double> 
+  </void> 
+  <void property="ry"> 
+   <double>84.94178250422512</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0036531064309780715</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0017049341135118676</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>200.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>200.01334725611966</double> 
+  </void> 
+  <void property="ry"> 
+   <double>84.97184755578105</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-2.381890504692485E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.00139489271795086</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>230.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>230.18874303155638</double> 
+  </void> 
+  <void property="ry"> 
+   <double>85.20910251021992</double> 
+  </void> 
+  <void property="vx"> 
+   <double>4.1626241343771167E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.002145733071660888</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>260.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>259.9141699199928</double> 
+  </void> 
+  <void property="ry"> 
+   <double>84.75685196726366</double> 
+  </void> 
+  <void property="vx"> 
+   <double>6.932876270518822E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.001633686735024015</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>290.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>290.12205579242243</double> 
+  </void> 
+  <void property="ry"> 
+   <double>85.04815333426218</double> 
+  </void> 
+  <void property="vx"> 
+   <double>1.877118232094445E-5</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-5.0191231542262056E-5</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>320.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>319.9149635875891</double> 
+  </void> 
+  <void property="ry"> 
+   <double>85.07124155149279</double> 
+  </void> 
+  <void property="vx"> 
+   <double>3.2627375729520953E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-7.836215093789561E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>350.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>350.03205198359734</double> 
+  </void> 
+  <void property="ry"> 
+   <double>84.9077199349894</double> 
+  </void> 
+  <void property="vx"> 
+   <double>5.59550731771563E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0022278898633169065</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>380.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>85.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>380.0009191104776</double> 
+  </void> 
+  <void property="ry"> 
+   <double>85.03352370921675</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.003313700562694876</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.003993650800345119</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>20.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>19.952981275849805</double> 
+  </void> 
+  <void property="ry"> 
+   <double>114.94776552869757</double> 
+  </void> 
+  <void property="vx"> 
+   <double>1.1804154128759216E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-2.761530130850739E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>50.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>50.09212214254786</double> 
+  </void> 
+  <void property="ry"> 
+   <double>114.73685772247953</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0016962468213277476</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.002388274458945066</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>80.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>79.8227909335543</double> 
+  </void> 
+  <void property="ry"> 
+   <double>114.91257283501913</double> 
+  </void> 
+  <void property="vx"> 
+   <double>3.6390333706804074E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>9.450872457143283E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>110.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>110.17549547774011</double> 
+  </void> 
+  <void property="ry"> 
+   <double>114.92575152565944</double> 
+  </void> 
+  <void property="vx"> 
+   <double>9.363062404007436E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0016694173482492223</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>140.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>139.65587258413106</double> 
+  </void> 
+  <void property="ry"> 
+   <double>115.14973393805018</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.00133210237501169</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0014465372668269975</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>170.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>170.21156095233653</double> 
+  </void> 
+  <void property="ry"> 
+   <double>114.91875851064633</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.001502846192322055</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.001333985823944706</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>200.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>199.88086924528204</double> 
+  </void> 
+  <void property="ry"> 
+   <double>114.93014651698033</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-2.1782870036696908E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.001441826662995165</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>230.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>229.95891626764174</double> 
+  </void> 
+  <void property="ry"> 
+   <double>115.06084593791171</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.001012652954512854</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0016047096638454252</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>260.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>259.94769125597867</double> 
+  </void> 
+  <void property="ry"> 
+   <double>114.69419113694849</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0015333696806451257</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.002023395080978811</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>290.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>290.1749658169136</double> 
+  </void> 
+  <void property="ry"> 
+   <double>115.23352027635383</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-7.138192688584072E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0016909863549887851</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>320.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>319.88806419925186</double> 
+  </void> 
+  <void property="ry"> 
+   <double>114.92018318664734</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.001848041957458077</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.005159258216282409</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>350.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>349.9250303288925</double> 
+  </void> 
+  <void property="ry"> 
+   <double>115.19978716927837</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0013882932054345269</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.001379290152296502</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>380.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>115.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>380.19717413248827</double> 
+  </void> 
+  <void property="ry"> 
+   <double>115.16468591643057</double> 
+  </void> 
+  <void property="vx"> 
+   <double>9.132863222799005E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0018567414794567823</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>20.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>19.750437099132782</double> 
+  </void> 
+  <void property="ry"> 
+   <double>145.08982150365685</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-2.0808015263539724E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0017016496212818072</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>50.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>49.932729979070565</double> 
+  </void> 
+  <void property="ry"> 
+   <double>144.73558004046916</double> 
+  </void> 
+  <void property="vx"> 
+   <double>8.814327531156937E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-6.665572592018176E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>80.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>79.93741600156099</double> 
+  </void> 
+  <void property="ry"> 
+   <double>145.23647215502635</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-5.796884179575955E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0026272116378795937</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>110.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>109.85724351874835</double> 
+  </void> 
+  <void property="ry"> 
+   <double>144.89698329675528</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0012281622410520606</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-2.1668000064615958E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>140.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>139.69911329574296</double> 
+  </void> 
+  <void property="ry"> 
+   <double>145.03678066881514</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0017355818703499882</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0018854505779558068</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>170.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>169.89223946689174</double> 
+  </void> 
+  <void property="ry"> 
+   <double>144.72252113471845</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0021288324195996595</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0011403803490824369</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>200.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>199.8790317005335</double> 
+  </void> 
+  <void property="ry"> 
+   <double>145.0936851074563</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0023335106198101394</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.003228170740179758</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>230.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>230.09738524045704</double> 
+  </void> 
+  <void property="ry"> 
+   <double>145.00465972775328</double> 
+  </void> 
+  <void property="vx"> 
+   <double>3.230634192762364E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>3.2129755504294196E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>260.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>260.1525554756905</double> 
+  </void> 
+  <void property="ry"> 
+   <double>144.9012928852748</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0024510041548220333</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.001842132146369503</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>290.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>289.85599038375193</double> 
+  </void> 
+  <void property="ry"> 
+   <double>145.1967568262839</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.003972105184943785</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0023634648381858784</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>320.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>319.93759179392055</double> 
+  </void> 
+  <void property="ry"> 
+   <double>144.5290720758561</double> 
+  </void> 
+  <void property="vx"> 
+   <double>5.788622137629719E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>5.341532665124669E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>350.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>349.7530796072906</double> 
+  </void> 
+  <void property="ry"> 
+   <double>145.20224390719824</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0029938040119891172</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.006476361124236937</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="ID"> 
+   <int>2</int> 
+  </void> 
+  <void property="radical"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="restraint"> 
+   <object class="org.concord.mw2d.models.PointRestraint"> 
+    <void property="k"> 
+     <double>2.0</double> 
+    </void> 
+    <void property="x0"> 
+     <double>380.0</double> 
+    </void> 
+    <void property="y0"> 
+     <double>145.0</double> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="rx"> 
+   <double>379.71491132789964</double> 
+  </void> 
+  <void property="ry"> 
+   <double>144.43843661838014</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.003476733604539219</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0022464155761948313</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>358.59964864009</double> 
+  </void> 
+  <void property="ry"> 
+   <double>35.07447260350426</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.01642075439279059</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0060064105010219975</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>39.678180693441675</double> 
+  </void> 
+  <void property="ry"> 
+   <double>149.8861003218517</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.009085276468398294</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.005990593385039754</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>60.10349056491523</double> 
+  </void> 
+  <void property="ry"> 
+   <double>45.60838187279234</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.03786023790803914</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.006139842347811032</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>177.01910550121755</double> 
+  </void> 
+  <void property="ry"> 
+   <double>70.39921600477824</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0033197877716987095</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.015234398017054165</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>133.45024762031153</double> 
+  </void> 
+  <void property="ry"> 
+   <double>94.01429603451544</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0062383360953159675</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.012985579499066802</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>200.6367923032565</double> 
+  </void> 
+  <void property="ry"> 
+   <double>41.984541459249584</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.007413478103971551</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.014787134839249667</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>122.66036350013019</double> 
+  </void> 
+  <void property="ry"> 
+   <double>22.96061662022778</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.03338200586461228</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.01652858554975425</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>240.9983772477926</double> 
+  </void> 
+  <void property="ry"> 
+   <double>126.67033641071087</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.005051553423012216</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0025777152728469204</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>28.398830550064126</double> 
+  </void> 
+  <void property="ry"> 
+   <double>39.652824311720785</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.010384418157852017</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.023350861409623128</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>2.128582979829507</double> 
+  </void> 
+  <void property="ry"> 
+   <double>125.09482003327358</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.04087020165853955</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-7.433385479173162E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>9.72677569488815</double> 
+  </void> 
+  <void property="ry"> 
+   <double>61.03058068026875</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0035215393262959674</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.003921741104721567</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>42.79594641556032</double> 
+  </void> 
+  <void property="ry"> 
+   <double>104.69852777309379</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0023907878495203257</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.01776133724374211</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>234.6274263096403</double> 
+  </void> 
+  <void property="ry"> 
+   <double>8.809763233189491</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.011109457965085725</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.016353026527326297</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>30.770960166030125</double> 
+  </void> 
+  <void property="ry"> 
+   <double>13.836380889039637</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.012126443696187678</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.018053648298306586</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>154.91270369086328</double> 
+  </void> 
+  <void property="ry"> 
+   <double>143.8193968677496</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.03070829191660354</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.023299445159042205</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>188.10905169374183</double> 
+  </void> 
+  <void property="ry"> 
+   <double>61.18298981800505</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.009720508389967018</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-9.954398684406554E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>351.05155294195674</double> 
+  </void> 
+  <void property="ry"> 
+   <double>99.32939485494029</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.008484804908615647</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0017300459441353347</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>366.4032557428911</double> 
+  </void> 
+  <void property="ry"> 
+   <double>156.85233598184655</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.026011357523714595</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.013475237537380492</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>364.873436130783</double> 
+  </void> 
+  <void property="ry"> 
+   <double>93.60405887901354</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.006004933646854087</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.008730575031891029</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>337.1424609224317</double> 
+  </void> 
+  <void property="ry"> 
+   <double>13.802153586358296</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.01944061564613831</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.01061845890738597</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>146.75148940022154</double> 
+  </void> 
+  <void property="ry"> 
+   <double>128.66751494116488</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.004278321958983057</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.004514724792920378</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>393.13321386988474</double> 
+  </void> 
+  <void property="ry"> 
+   <double>133.35345236753741</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.027331273294168054</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0014728890061298263</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>307.93116851377755</double> 
+  </void> 
+  <void property="ry"> 
+   <double>65.98128820337084</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0017081573603900336</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0026627916066963597</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>77.2630979217767</double> 
+  </void> 
+  <void property="ry"> 
+   <double>157.25723777305083</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.009750322294927654</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0057721479524534</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>263.59723610553795</double> 
+  </void> 
+  <void property="ry"> 
+   <double>156.34458906581304</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.01910450191336663</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.013437633677510042</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>354.80867867448217</double> 
+  </void> 
+  <void property="ry"> 
+   <double>6.675839019821781</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.012227930698375978</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.020165133814076305</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>86.99762467725512</double> 
+  </void> 
+  <void property="ry"> 
+   <double>129.22796758754484</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.02518087708239871</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-9.794007698108813E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>75.59393510067488</double> 
+  </void> 
+  <void property="ry"> 
+   <double>36.07541457006945</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.014985165982468941</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0012178448365521262</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>65.9411750175698</double> 
+  </void> 
+  <void property="ry"> 
+   <double>141.1555090442626</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0035182558940292418</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.016093552468025657</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>311.90251316813436</double> 
+  </void> 
+  <void property="ry"> 
+   <double>97.54269835256991</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.002363568492884561</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.007079780120044835</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>215.45278416383087</double> 
+  </void> 
+  <void property="ry"> 
+   <double>95.96788799257207</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.010294878699488988</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.01157330155154146</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>10.34463953873881</double> 
+  </void> 
+  <void property="ry"> 
+   <double>35.877118403316956</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0045836201096886384</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.008389395351984059</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>181.2178631815144</double> 
+  </void> 
+  <void property="ry"> 
+   <double>16.925849568599848</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.002217744129003381</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.008366901945074024</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>60.24327909450685</double> 
+  </void> 
+  <void property="ry"> 
+   <double>150.44813832051486</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.020297812860726204</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.020637366080671637</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>47.80464806375055</double> 
+  </void> 
+  <void property="ry"> 
+   <double>101.8943518623483</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.014942671960487345</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.017258841003275443</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>372.9691345380026</double> 
+  </void> 
+  <void property="ry"> 
+   <double>162.46644863934233</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.026207776173298964</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.023859493508292147</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>348.5583447377119</double> 
+  </void> 
+  <void property="ry"> 
+   <double>38.862455675846626</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0060684166142610735</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.009105659144058855</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>271.63175124239655</double> 
+  </void> 
+  <void property="ry"> 
+   <double>13.326848427960458</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0027403673546474282</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.011191336385417635</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>313.7260932166665</double> 
+  </void> 
+  <void property="ry"> 
+   <double>127.98150244726469</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0017771321592927043</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.005195327065308167</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>90.10681163284949</double> 
+  </void> 
+  <void property="ry"> 
+   <double>50.407364558933494</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.019765890618318467</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0021008213071827815</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>65.39539360202464</double> 
+  </void> 
+  <void property="ry"> 
+   <double>75.9713432715358</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.034545420451825716</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.004720180918540894</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>303.1501116020993</double> 
+  </void> 
+  <void property="ry"> 
+   <double>102.41902001622893</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.009975803619795451</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.005218146162945428</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>338.60457466364096</double> 
+  </void> 
+  <void property="ry"> 
+   <double>7.168097756903626</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.007274568373519551</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.005128458868709198</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>246.38298689574071</double> 
+  </void> 
+  <void property="ry"> 
+   <double>45.261376161116495</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.015233672907880696</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.010293356784788172</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>234.4512915665692</double> 
+  </void> 
+  <void property="ry"> 
+   <double>167.02898110712212</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.04162189461683231</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.008614527882026213</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>396.7198022386115</double> 
+  </void> 
+  <void property="ry"> 
+   <double>121.97649872707439</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.013598943862678263</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.008437148091143296</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>190.12487558872814</double> 
+  </void> 
+  <void property="ry"> 
+   <double>34.28057784090256</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.012372137842603171</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0027155008408895538</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>274.3860187639289</double> 
+  </void> 
+  <void property="ry"> 
+   <double>117.61536970193958</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0032516649590923277</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.006609731461604868</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>37.417117403864495</double> 
+  </void> 
+  <void property="ry"> 
+   <double>29.766789827605884</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.01191210677323185</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.017934280275212086</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>208.95830479862175</double> 
+  </void> 
+  <void property="ry"> 
+   <double>11.865247242343793</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0025602132592722677</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.022040822416742798</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>14.75256605536323</double> 
+  </void> 
+  <void property="ry"> 
+   <double>40.98987560768666</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.007219554005991456</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.005893352270947425</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>10.859564354577117</double> 
+  </void> 
+  <void property="ry"> 
+   <double>100.61612788904199</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.0036756066257531686</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.01165773027942048</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>373.9794006723768</double> 
+  </void> 
+  <void property="ry"> 
+   <double>10.666194345213349</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.03064668029850243</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.02206473507206353</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>214.357749906034</double> 
+  </void> 
+  <void property="ry"> 
+   <double>81.4741626958183</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.015146741360687275</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.005913967518201988</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>279.6841972704761</double> 
+  </void> 
+  <void property="ry"> 
+   <double>161.15591234463173</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.015842944441102246</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.004034734394626205</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>3.6699710161494012</double> 
+  </void> 
+  <void property="ry"> 
+   <double>77.02657765156529</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.02125634092808216</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0027944062231800063</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>365.6934250620513</double> 
+  </void> 
+  <void property="ry"> 
+   <double>26.70663994026645</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.019747076853437833</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.001777003915659965</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>40.23829675982297</double> 
+  </void> 
+  <void property="ry"> 
+   <double>96.20117800227666</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.004044354650160034</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0019174782078521047</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>358.194639410082</double> 
+  </void> 
+  <void property="ry"> 
+   <double>101.34619252116474</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.017105930877849517</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0012141137303463094</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>329.1126523943093</double> 
+  </void> 
+  <void property="ry"> 
+   <double>41.51326027250382</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.028722780541791157</double> 
+  </void> 
+  <void property="vy"> 
+   <double>4.813227289693619E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>57.649714321563565</double> 
+  </void> 
+  <void property="ry"> 
+   <double>38.78787472858009</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.015478747056968582</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.02782780162094029</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>240.04141124350411</double> 
+  </void> 
+  <void property="ry"> 
+   <double>74.78211763453176</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.005493673378296987</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.004912193681139186</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>7.920275754484918</double> 
+  </void> 
+  <void property="ry"> 
+   <double>18.899160764022604</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0029219697978161274</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.028561581100283073</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>88.44675425842468</double> 
+  </void> 
+  <void property="ry"> 
+   <double>100.3633132720571</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.010008298451639122</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.012878625649013</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>27.235442938396854</double> 
+  </void> 
+  <void property="ry"> 
+   <double>33.13868127443998</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.008699821098798277</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.018300057112311804</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>273.7141407329942</double> 
+  </void> 
+  <void property="ry"> 
+   <double>95.51458314152971</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.036632418608783864</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.006379758454351611</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>154.86665917146675</double> 
+  </void> 
+  <void property="ry"> 
+   <double>52.35692331029402</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.009980324249911484</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.011555871996957233</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>5.234898986244653</double> 
+  </void> 
+  <void property="ry"> 
+   <double>68.09234729958813</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-3.364901905814733E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.003480424614037543</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>218.32794798377594</double> 
+  </void> 
+  <void property="ry"> 
+   <double>5.239462052603577</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.021729780733842786</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.009031162481807005</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>280.122879148232</double> 
+  </void> 
+  <void property="ry"> 
+   <double>99.47366209657136</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.02842197314404563</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.013027147254614563</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>363.3156013448985</double> 
+  </void> 
+  <void property="ry"> 
+   <double>119.91973039994652</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.003084280957478601</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.015321450938998525</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>9.52872675639492</double> 
+  </void> 
+  <void property="ry"> 
+   <double>108.42679936642031</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0013943480557150698</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0026604343201047194</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>241.81831284403248</double> 
+  </void> 
+  <void property="ry"> 
+   <double>60.766991542886934</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.006514639720869861</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0010500355572791637</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>141.02094730444557</double> 
+  </void> 
+  <void property="ry"> 
+   <double>36.7333220142981</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.010220355497603462</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.007543358783191031</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>291.0566647457375</double> 
+  </void> 
+  <void property="ry"> 
+   <double>127.8509845553183</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-7.846691477799344E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.009638641898646355</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>358.0788481309505</double> 
+  </void> 
+  <void property="ry"> 
+   <double>2.9171011243531884</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.01279053731850854</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.011486990241221157</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>364.1773163958049</double> 
+  </void> 
+  <void property="ry"> 
+   <double>49.67169406199424</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0269761555373726</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0018356842252142955</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>146.26227969690768</double> 
+  </void> 
+  <void property="ry"> 
+   <double>97.45029228543731</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0027189437646950587</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.00859915434266068</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>141.31947539374335</double> 
+  </void> 
+  <void property="ry"> 
+   <double>126.23943327571865</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.010820675173196525</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.016762103744365316</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>182.67741134017666</double> 
+  </void> 
+  <void property="ry"> 
+   <double>111.60106531383168</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.010926234080197569</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.003889922877591734</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>393.74737792953016</double> 
+  </void> 
+  <void property="ry"> 
+   <double>97.79931514629425</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.017864789742844268</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.0028385563658240515</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>181.59636265169118</double> 
+  </void> 
+  <void property="ry"> 
+   <double>82.58285824394937</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.007035188379326564</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.017288105317575807</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>191.2021178925847</double> 
+  </void> 
+  <void property="ry"> 
+   <double>97.91215559248806</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.01693708681707023</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.01138946326597392</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>36.58381324760781</double> 
+  </void> 
+  <void property="ry"> 
+   <double>163.36229184389444</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.025285718264291875</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.008931822302444341</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>151.87916801703324</double> 
+  </void> 
+  <void property="ry"> 
+   <double>137.03028730498497</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.00628953648876713</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.02429487490048161</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>370.96497461569066</double> 
+  </void> 
+  <void property="ry"> 
+   <double>127.72039881085368</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.012653112318411746</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.010351322637336487</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>161.36035268347803</double> 
+  </void> 
+  <void property="ry"> 
+   <double>44.785497775596085</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.006771963141512793</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.005258239306504347</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>174.90829737092926</double> 
+  </void> 
+  <void property="ry"> 
+   <double>134.70103171588872</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.004282336380925448</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.011851682150639175</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>143.6353437070801</double> 
+  </void> 
+  <void property="ry"> 
+   <double>162.8062544751926</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.020369607034501438</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.016442239528923534</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>33.42658523061368</double> 
+  </void> 
+  <void property="ry"> 
+   <double>123.91429870087329</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.012993339151079123</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-7.031062996689527E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>89.99437830044415</double> 
+  </void> 
+  <void property="ry"> 
+   <double>3.338769536015239</double> 
+  </void> 
+  <void property="vx"> 
+   <double>6.830960771591352E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.017203404854717802</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>87.21931100424744</double> 
+  </void> 
+  <void property="ry"> 
+   <double>164.20969638998716</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.0024097448884652065</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.00943284807001822</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>290.068677649086</double> 
+  </void> 
+  <void property="ry"> 
+   <double>11.689576948490435</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.01598353721080692</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.020526446245988084</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>244.02380360952594</double> 
+  </void> 
+  <void property="ry"> 
+   <double>108.59589537870967</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.013312554140079647</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.02145218455454115</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>42.94189249772458</double> 
+  </void> 
+  <void property="ry"> 
+   <double>161.80956316390882</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.004937179855107752</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.008153396150401653</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>223.34912056369487</double> 
+  </void> 
+  <void property="ry"> 
+   <double>38.57256650587016</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.03163519909098243</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.015340716666084813</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>88.53820948925365</double> 
+  </void> 
+  <void property="ry"> 
+   <double>94.11228467780944</double> 
+  </void> 
+  <void property="vx"> 
+   <double>0.017678974431935147</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.010037772903850014</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>186.36466153837625</double> 
+  </void> 
+  <void property="ry"> 
+   <double>128.29266188219492</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.006691497469703713</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-1.6593623982277304E-4</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>226.89244764822652</double> 
+  </void> 
+  <void property="ry"> 
+   <double>66.84824493066793</double> 
+  </void> 
+  <void property="vx"> 
+   <double>-0.011998718765908297</double> 
+  </void> 
+  <void property="vy"> 
+   <double>-0.0038675464197992014</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.Atom"> 
+  <void property="charge"> 
+   <double>-0.10000000149011612</double> 
+  </void> 
+  <void property="friction"> 
+   <float>0.0010</float> 
+  </void> 
+  <void property="rx"> 
+   <double>0.3088892061904422</double> 
+  </void> 
+  <void property="ry"> 
+   <double>71.04852722190721</double> 
+  </void> 
+  <void property="vx"> 
+   <double>9.194786962100898E-4</double> 
+  </void> 
+  <void property="vy"> 
+   <double>0.005302056268948769</double> 
+  </void> 
+ </object> 
+ <object class="org.concord.mw2d.models.MolecularModel$State"/> 
+</java> 

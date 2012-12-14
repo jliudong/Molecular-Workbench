@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Resizing a simulator</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#35843;&#25972;&#27169;&#25311;&#22120;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#22312;&#21019;&#24314;&#19968;&#20010;&#26032;&#30340;&#27169;&#22411;&#26102;&#65292;&#20320;&#20250;&#32463;&#24120;&#38656;&#35201;&#35843;&#25972;&#27169;&#25311;&#22120;&#12290;&#30446;&#21069;&#65292;&#23884;&#20837;&#27169;&#25311;&#22120;&#30340; &#32534;&#20889;&#31995;&#32479; &#19981;&#25903;&#25345;&#25302;&#21160;-&#21644;-&#35843;&#25972;&#21151;&#33021;&#12290;&#35843;&#25972;&#27169;&#25311;&#22120;&#65292;&#20320;&#19981;&#24471;&#19981;&#20351;&#29992;&#20854;&#32534;&#36753;&#33756;&#21333;&#19979;&#30340;&#8220;&#25913;&#21464;&#27169;&#22411;&#23610;&#23544;&#8221;&#33756;&#21333;&#65306;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#22522;&#26412;&#30340;2D&#20998;&#23376;&#27169;&#25311;&#22120;&#30340;&#32534;&#36753;&#33756;&#21333;&#30340;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12290;&#12305;
+
+&#19968;&#32463;&#36873;&#25321;&#65292;&#19968;&#20010;&#23545;&#35805;&#26694;&#23558;&#20250;&#26174;&#31034;&#65292;&#35813;&#23545;&#35805;&#26694;&#23558;&#20801;&#35768;&#20320;&#20855;&#20307;&#25351;&#23450;&#35813;&#27169;&#22411;&#23610;&#23544;&#30340;&#25968;&#20540;&#12290;&#27880;&#24847;&#65306;&#26412;&#23545;&#35805;&#26694;&#30340;&#23610;&#23544;&#21333;&#20301;&#20026;&#20687;&#32032;(&#19968;&#20010;&#20687;&#32032;&#31561;&#20110;&#21313;&#20998;&#20043;&#19968;&#22467;)&#12290;
+
+&#22914;&#26524;&#35813;&#27169;&#22411;&#30340;&#20219;&#20309;&#32452;&#20214;&#30001;&#20110;&#35843;&#25972;&#32780;&#36229;&#20986;&#26032;&#30340;&#36793;&#30028;&#65292;&#21017;&#35843;&#25972;&#23558;&#19981;&#20250;&#34987;&#20801;&#35768;&#12290;
+
+ 
+&#27880;&#24847;&#65306; &#22914;&#26524; &#36793;&#30028; &#26159;&#19968;&#20010; &#21453;&#23556;&#24615; &#36793;&#30028;, &#35843;&#25972;&#23558;&#20250;&#34987;&#20801;&#35768;. &#20294;&#22914;&#26524;&#36793;&#30028;&#26159;&#19968;&#20010; p&#21608;&#26399;&#24615;&#30340;&#36793;&#30028;&#65292;&#23613;&#31649;&#31383;&#21475;&#23558;&#20250;&#34987;&#35843;&#25972;&#65292;&#20294;&#21333;&#20803;&#19981;&#20250;&#12290;
+ 
+
+&#27169;&#22411;&#30340;&#35843;&#25972;&#65292;&#26159;&#21487;&#25764;&#38144;&#30340;&#21644;&#21487;&#37325;&#20570;&#30340;&#12290;
+
+&#22914;&#26524;&#22312;&#27169;&#22411;&#23481;&#22120;&#20013;&#26377;&#29616;&#26377;&#35774;&#32622;&#65292;&#20320;&#21487;&#23545;&#20854;&#36827;&#34892;&#25972;&#20307;&#36716;&#25442;&#25110;&#26059;&#36716;&#65292;&#20197;&#33150;&#20986;&#31354;&#38388;&#20943;&#23569;&#27169;&#22411;&#23481;&#22120;&#30340;&#35268;&#27169;&#65292;&#32780;&#26080;&#38656;&#21024;&#38500;&#20219;&#20309;&#32452;&#20214;&#25110;&#26356;&#25913;&#35774;&#32622;&#12290;&#23545;&#25972;&#20010;&#27169;&#22411;&#36827;&#34892;&#36716;&#25442;&#65292;&#35831;&#20351;&#29992;&#8220;&#36716;&#25442;&#25972;&#20010;&#27169;&#22411;&#8221;&#33756;&#21333;&#65292;&#21487;&#22312;&#27169;&#22411;&#23481;&#22120;&#30340;&#32534;&#36753;&#33756;&#21333;&#20013;&#25214;&#21040;&#12290;&#26059;&#36716;&#65292;&#35831;&#20351;&#29992;&#8220;&#26059;&#36716;&#25152;&#26377;&#31890;&#23376;&#8221;&#33756;&#21333;&#12290;
+
+&#36716;&#25442;&#25972;&#20010;&#27169;&#22411;&#24182;&#23545;&#25152;&#26377;&#31890;&#23376;&#36827;&#34892;&#26059;&#36716;&#30340;&#24037;&#20316;&#65292;&#26159;&#21487;&#25764;&#38144;&#30340;&#21644;&#21487;&#37325;&#20570;&#30340;&#12290;
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#20351;&#29992;&#33050;&#26412;&#21487;&#23545;&#27169;&#22411;&#36827;&#34892;&#35843;&#25972;&#65306; &#35774;&#32622; &#23485;&#24230;(&#20215;&#20540;)&#21644;&#35774;&#32622;&#39640;&#24230;(&#20215;&#20540;). &#36716;&#25442;&#25152;&#26377;&#23545;&#35937;, &#20351;&#29992; &#36873;&#25321; &#21629;&#20196;&#65292;&#36873;&#25321;&#19968;&#20010;&#31867;&#22411;&#30340;&#25152;&#26377;&#23545;&#35937; &#28982;&#21518;&#20351;&#29992; &#31227;&#21160;&#21629;&#20196;&#23545;&#20854;&#36827;&#34892;&#36716;&#25442;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="589">
+<paragraph start="0" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="5">
+<bold>true</bold><size>15</size><italic>true</italic></content>
+
+<content start="5" end="6">
+<bold>true</bold><italic>true</italic></content>
+
+</paragraph>
+<paragraph start="6" end="7">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="26">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="7" end="9">
+<size>11</size></content>
+
+<content start="9" end="12">
+<size>11</size><href>modelIO.cml</href></content>
+
+<content start="12" end="15">
+<size>11</size></content>
+
+<content start="15" end="17">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="17" end="20">
+<size>11</size></content>
+
+<content start="20" end="23">
+<size>11</size><href>autostop.cml</href></content>
+
+<content start="23" end="25">
+<size>11</size></content>
+
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="27">
+<LeftIndent>100.0</LeftIndent>
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="109">
+<LeftIndent>140.0</LeftIndent>
+<content start="27" end="60">
+<size>11</size></content>
+
+<content start="60" end="64">
+<size>11</size><href>intro_authoring.cml</href></content>
+
+<content start="64" end="109">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="109" end="110">
+<LeftIndent>140.0</LeftIndent>
+<content start="109" end="110">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="110" end="113">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="110" end="111">
+</content>
+
+<content start="111" end="112">
+<icon>EditMenu.gif</icon></content>
+
+<content start="112" end="113">
+</content>
+
+</paragraph>
+<paragraph start="113" end="143">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="113" end="142">
+<size>10</size></content>
+
+<content start="142" end="143">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="143" end="144">
+<LeftIndent>140.0</LeftIndent>
+<content start="143" end="144">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="144" end="210">
+<LeftIndent>140.0</LeftIndent>
+<content start="144" end="210">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="210" end="211">
+<LeftIndent>140.0</LeftIndent>
+<content start="210" end="211">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="211" end="244">
+<LeftIndent>140.0</LeftIndent>
+<content start="211" end="244">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="244" end="245">
+<LeftIndent>140.0</LeftIndent>
+<content start="244" end="245">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="245" end="247">
+<LeftIndent>140.0</LeftIndent>
+<content start="245" end="246">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="246" end="247">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="247" end="312">
+<LeftIndent>200.0</LeftIndent>
+<RightIndent>100.0</RightIndent>
+<content start="247" end="250">
+<size>11</size><bold>true</bold></content>
+
+<content start="250" end="254">
+<size>11</size></content>
+
+<content start="254" end="256">
+<size>11</size><href>boundary.cml</href></content>
+
+<content start="256" end="261">
+<size>11</size></content>
+
+<content start="261" end="264">
+<size>11</size><href>glossary/ReflectingBC.cml</href></content>
+
+<content start="264" end="287">
+<size>11</size></content>
+
+<content start="287" end="291">
+<size>11</size><href>glossary/PeriodicBC.cml</href></content>
+
+<content start="291" end="312">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="312" end="314">
+<LeftIndent>140.0</LeftIndent>
+<content start="312" end="313">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="313" end="314">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="314" end="315">
+<LeftIndent>140.0</LeftIndent>
+<content start="314" end="315">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="315" end="333">
+<LeftIndent>140.0</LeftIndent>
+<content start="315" end="333">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="333" end="334">
+<LeftIndent>140.0</LeftIndent>
+<content start="333" end="334">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="334" end="449">
+<LeftIndent>140.0</LeftIndent>
+<content start="334" end="449">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="449" end="450">
+<LeftIndent>140.0</LeftIndent>
+<content start="449" end="450">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="450" end="482">
+<LeftIndent>140.0</LeftIndent>
+<content start="450" end="482">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="482" end="483">
+<LeftIndent>140.0</LeftIndent>
+<content start="482" end="483">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="483" end="488">
+<LeftIndent>140.0</LeftIndent>
+<content start="483" end="487">
+<size>11</size><bold>true</bold></content>
+
+<content start="487" end="488">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="488" end="489">
+<LeftIndent>140.0</LeftIndent>
+<content start="488" end="489">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="489" end="569">
+<LeftIndent>140.0</LeftIndent>
+<content start="489" end="503">
+<size>11</size></content>
+
+<content start="503" end="505">
+<size>11</size><family>Courier New</family><href>script_set.cml</href></content>
+
+<content start="505" end="521">
+<size>11</size><family>Courier New</family></content>
+
+<content start="521" end="534">
+<size>11</size></content>
+
+<content start="534" end="536">
+<size>11</size><family>Courier New</family><href>script_select.cml</href></content>
+
+<content start="536" end="557">
+<size>11</size></content>
+
+<content start="557" end="559">
+<size>11</size><family>Courier New</family><href>script_move.cml</href></content>
+
+<content start="559" end="569">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="569" end="570">
+<LeftIndent>140.0</LeftIndent>
+<content start="569" end="570">
+</content>
+
+</paragraph>
+<paragraph start="570" end="589">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="570" end="572">
+<size>11</size></content>
+
+<content start="572" end="575">
+<size>11</size><href>modelIO.cml</href></content>
+
+<content start="575" end="578">
+<size>11</size></content>
+
+<content start="578" end="580">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="580" end="583">
+<size>11</size></content>
+
+<content start="583" end="587">
+<size>11</size><href>autostop.cml</href></content>
+
+<content start="587" end="588">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

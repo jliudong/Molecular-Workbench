@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Mutating Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#21464;&#24322;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#20551;&#35774;&#20320;&#24050;&#32463;&#26500;&#24314;&#20102;&#19968;&#20010;&#22797;&#26434;&#30340;&#20998;&#23376;&#65292;&#29616;&#22312;&#20320;&#24819;&#25913;&#21464;&#20854;&#20013;&#19968;&#20010;&#21407;&#23376;&#30340;&#31867;&#22411;&#12290;&#20320;&#21487;&#33021;&#19981;&#24471;&#19981;&#21024;&#38500;&#35813;&#21407;&#23376;&#65292;&#25918;&#36827;&#19968;&#20010;&#26032;&#31867;&#22411;&#30340;&#21407;&#23376;&#65292;&#24182;&#37325;&#24314;&#19982;&#20854;&#30456;&#20851;&#30340; &#24452;&#21521;&#38190; &#21644; &#35282;&#38190; &#20294;&#26159;&#65292;&#26377;&#20102;&#21464;&#24322;&#24037;&#20855; (&quot; &quot;), &#20320;&#21482;&#38656;&#25913;&#21464;&#21407;&#23376;&#30340;&#31867;&#22411;(&#21363;&#65306;&#20803;&#32032;)&#65306;
+  &#10154; 
+
+
+&#25913;&#21464;&#19968;&#20010;&#21407;&#23376;&#30340;&#31867;&#22411;&#24182;&#19981;&#20250;&#25913;&#21464;&#20854;&#38190;&#32467;&#26500;&#12290;&#26032;&#31867;&#22411;&#30340;&#21407;&#23376;&#65292;&#22914;&#21516;&#26087;&#31867;&#22411;&#30340;&#21407;&#23376;&#19968;&#26679;&#65292;&#20250;&#19982;&#21516;&#26679;&#30340;&#21407;&#23376;&#20135;&#29983;&#21516;&#22871;&#30340;&#24452;&#21521;&#38190;&#21644;&#35282;&#38190;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="218">
+<paragraph start="0" end="5">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="4">
+<size>16</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="6" end="8">
+<size>11</size></content>
+
+<content start="8" end="11">
+<href>changeVelocityAction.cml</href><size>11</size></content>
+
+<content start="11" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<href>showTrajAction.cml</href><size>11</size></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>100.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="134">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="90">
+<size>11</size></content>
+
+<content start="90" end="93">
+<href>makeBondAction.cml</href><size>11</size></content>
+
+<content start="93" end="96">
+<size>11</size></content>
+
+<content start="96" end="98">
+<href>makeBendAction.cml</href><size>11</size></content>
+
+<content start="98" end="111">
+<size>11</size></content>
+
+<content start="111" end="112">
+<size>11</size><icon>mutate.gif</icon></content>
+
+<content start="112" end="133">
+<size>11</size></content>
+
+<content start="133" end="134">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="134" end="139">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="134" end="135">
+<size>11</size></content>
+
+<content start="135" end="136">
+<size>11</size><icon>MutateAtomScene1.gif</icon></content>
+
+<content start="136" end="137">
+<foreground>255 0 0</foreground><size>72</size></content>
+
+<content start="137" end="138">
+<size>11</size><icon>MutateAtomScene2.gif</icon></content>
+
+<content start="138" end="139">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="139" end="140">
+<LeftIndent>100.0</LeftIndent>
+<content start="139" end="140">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="140" end="141">
+<content start="140" end="141">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="141" end="198">
+<LeftIndent>140.0</LeftIndent>
+<content start="141" end="197">
+<size>11</size></content>
+
+<content start="197" end="198">
+</content>
+
+</paragraph>
+<paragraph start="198" end="199">
+<LeftIndent>140.0</LeftIndent>
+<content start="198" end="199">
+</content>
+
+</paragraph>
+<paragraph start="199" end="218">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="199" end="201">
+<size>11</size></content>
+
+<content start="201" end="204">
+<href>changeVelocityAction.cml</href><size>11</size></content>
+
+<content start="204" end="207">
+<size>11</size></content>
+
+<content start="207" end="209">
+<href>index1.cml</href><size>11</size></content>
+
+<content start="209" end="212">
+<size>11</size></content>
+
+<content start="212" end="215">
+<href>showTrajAction.cml</href><size>11</size></content>
+
+<content start="215" end="217">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

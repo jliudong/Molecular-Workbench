@@ -1,0 +1,16 @@
+define ~oxyA (oxygen and ~chainA)
+define ~oxyB (oxygen and ~chainB)
+
+define ~hydA (hydrogen and ~chainA and not within(1.2,carbon))
+define ~hydB (hydrogen and ~chainB and not within(1.2,carbon))
+
+select all
+
+
+connect 1.2 2.5 (~oxyA) (~hydB) hbond create
+connect 1.2 2.5 (~oxyB) (~hydA) hbond create
+hbonds on
+hbonds 0.2
+color hbonds [x9b9dff]  # MW polar color
+
+

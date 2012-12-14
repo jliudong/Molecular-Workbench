@@ -1,0 +1,18 @@
+define ~carbonA (carbon and ~chainA)
+define ~carbonB (carbon and ~chainB)
+
+define ~hydCHA (hydrogen and ~chainA and within(1.2,carbon))
+define ~hydCHB (hydrogen and ~chainB and within(1.2,carbon))
+
+select all
+
+
+connect 3.0 4.0 (~carbonA) (~hydCHB) hbond create
+connect 3.0 4.0 (~carbonB) (~hydCHA) hbond create
+
+select ~carbonA, ~carbonB, ~hydCHB, ~hydCHA
+hbonds on
+hbonds 0.2
+color hbonds pink
+
+

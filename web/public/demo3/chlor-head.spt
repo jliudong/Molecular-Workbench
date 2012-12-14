@@ -1,0 +1,73 @@
+echo ""
+
+if ~cpk
+select not magnesium
+cpk2off
+endif
+
+moveto /* time, axisAngle */ 1.0 { 0 0 -1000 1.0} /* zoom, translation */  101.64 -9.43 -0.75  /* center, rotationRadius */ {0.0 0.0 0.0} 19.89804 /* navigation center, translation, depth */ {0.0 0.0 0.0} -9.523809 -0.75 50.0;
+
+select head
+color bonds none
+color cpk
+
+select tail
+color [x333333]
+select all
+
+set echo headEcho 0% 100%
+color echo white
+font echo 12 sans bold
+
+echo Chlorophyll's head has many ring structures, with alternating|double and single bonds...
+script jmol-echoFadeWhite.spt
+
+
+echo This is a good arrangement for trapping energy...
+color echo white
+#script jmol-echoFadeWhite.spt
+
+
+moveto /* time, axisAngle */ 1.0 { -799 492 -346 28.75} /* zoom, translation */  262.29 0.29 8.25  /* center, rotationRadius */ {6.2439404 5.749155 3.3615386} 29.011 /* navigation center, translation, depth */ {0.0 0.0 0.0} -34.089302 38.581825 50.0;
+
+delay 0.2
+
+moveto /* time, axisAngle */ 0.5 { 972 172 162 157.84} /* zoom, translation */  262.29 0.39 8.25  /* center, rotationRadius */ {6.2439404 5.749155 3.3615386} 29.011 /* navigation center, translation, depth */ {0.0 0.0 0.0} -36.65998 -13.148545 50.0;
+
+delay 0.2
+
+moveto /* time, axisAngle */ 0.5 { -799 492 -346 28.75} /* zoom, translation */  262.29 0.29 8.25  /* center, rotationRadius */ {6.2439404 5.749155 3.3615386} 29.011 /* navigation center, translation, depth */ {0.0 0.0 0.0} -34.089302 38.581825 50.0;
+
+			select within(6.0, magnesium)
+			color bonds red
+			delay 0.1
+			color bonds white
+			delay 0.1
+			color bonds red
+			delay 0.1
+			color bonds white
+			delay 0.1
+			color bonds red
+			delay 0.1
+			color bonds white
+			delay 0.1
+			color bonds cpk
+			color atoms cpk
+
+
+script jmol-echoFadeWhite.spt
+
+color echo white
+echo the magnesium atom at the center of the head is important|in determining the color of light that is absorbed by chlorophyll
+
+select magnesium
+label magnesium
+font label 16 sans bold
+color label green
+set labelpointer on
+set labelfront on
+set labeloffset 50 50
+background label white
+set labelPointer BACKGROUND
+
+select all

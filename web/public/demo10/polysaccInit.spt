@@ -1,0 +1,62 @@
+restrict none
+frank off
+select all
+display none
+set fontscaling true
+
+# definitions for this movie -------------------
+
+define ~chainA (atomno<88)
+define ~chainB (atomno>87)
+
+select within(6.0, atomno=1) and not ~chainB
+define ~unit1 selected
+#color yellow
+
+select within(6.0, atomno=2) and not (~chainB or ~unit1) 
+define ~unit2 selected
+#color green
+
+select within(6.0, atomno=33) and not (~chainB or ~unit1 or ~unit2)
+define ~unit3 selected
+#color blue
+
+select within(6.0, atomno=45) and not (~chainB or ~unit2 or ~unit3)
+define ~unit4 selected
+#color pink
+
+# functions ----------------------------------------
+
+# Grow spacefill --------
+
+function off2cpk
+  for ( var i=0; i<101; i = i + 10 )
+	x = script("cpk " + i + "%; delay 0.1;")	
+  end for
+end function
+
+# Shrink spacefill ------
+
+function cpk2off
+  for ( var i=100; i>-1; i = i - 10 )
+	x = script("cpk " + i + "%; delay 0.1;")	
+  end for
+end function
+
+# Grow wireframe --------
+
+function off2wf
+  for ( var i=0.06; i<0.2; i = i + 0.02 )
+	x = script("wireframe " + i + "; delay 0.1;")	
+  end for
+end function
+
+# Shrink wireframe ------
+
+function wf2off
+  for ( var i=100; i>-1; i = i - 10 )
+	x = script("cpk " + i + "%; delay 0.1;")	
+  end for
+end function
+
+

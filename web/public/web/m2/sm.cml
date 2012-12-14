@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>States of Matter</page_title>
+<referenced_files>sm_sol.mml, sm_liq.mml, sm_gas.mml</referenced_files>
+<text>&#29289;&#36136;&#30340;&#29366;&#24577;
+
+ 
+
+         
+
+&#25351;&#24341;&#65306;&#28857;&#20987;&#8220;&#27668;&#20307;&#8221;&#65292;&#8220;&#28082;&#20307;&#8221;&#65292;&#25110;&#8220;&#22266;&#20307;&#8221;&#21152;&#36733;&#30456;&#24212;&#30340;&#27169;&#22411;&#12290;&#36733;&#20837;&#21518;&#65292;&#28857;&#20987;&#8220;&#36816;&#34892;&#8221;&#24320;&#22987;&#27169;&#25311;&#20223;&#30495;&#12290;&#35753;&#23427;&#36816;&#34892;&#19968;&#27573;&#26102;&#38388;&#65292;&#30452;&#21040;&#31995;&#32479;&#31283;&#23450;&#12290;&#28982;&#21518;&#28857;&#20987;&#8220;&#24320;&#22987;&#21387;&#32553;&#8221;&#65292;&#30475;&#30475;&#23427;&#26159;&#22914;&#20309;&#21453;&#24212;&#30340;&#22806;&#22312;&#21387;&#21147;&#12290;
+ 
+
+</text>
+<section start="0" end="112">
+<paragraph start="0" end="6">
+<Alignment>1</Alignment>
+<SpaceAbove>4.0</SpaceAbove>
+<LeftIndent>6.0</LeftIndent>
+<content start="0" end="5">
+<family>Broadway</family><size>20</size><bold>true</bold></content>
+
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="7">
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="9">
+<Alignment>1</Alignment>
+<content start="7" end="8">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>sm$0.mml</resource><menubar>false</menubar><statusbar>false</statusbar><recorderless>true</recorderless>
+</component></content>
+
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="10">
+<Alignment>1</Alignment>
+<content start="9" end="10">
+</content>
+
+</paragraph>
+<paragraph start="10" end="20">
+<Alignment>1</Alignment>
+<content start="10" end="11">
+<component><class>org.concord.modeler.PageRadioButton</class>
+<title>&#27668;&#20307;</title>
+<tooltip>Load the gas model</tooltip>
+<disabled_at_script>true</disabled_at_script>
+<selected>true</selected>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<groupid>1263821488734</groupid>
+<script>load sm_gas.mml</script>
+<action>Execute MW script</action></component></content>
+
+<content start="11" end="12">
+<component><class>org.concord.modeler.PageRadioButton</class>
+<title>&#28082;&#20307;</title>
+<tooltip>Load the liquid model</tooltip>
+<disabled_at_script>true</disabled_at_script>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<groupid>1263821488734</groupid>
+<script>load sm_liq.mml</script>
+<action>Execute MW script</action></component></content>
+
+<content start="12" end="13">
+<component><class>org.concord.modeler.PageRadioButton</class>
+<title>&#22266;&#20307;</title>
+<tooltip>Load the solid model</tooltip>
+<disabled_at_script>true</disabled_at_script>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<groupid>1263821488734</groupid>
+<script>load sm_sol.mml</script>
+<action>Execute MW script</action></component></content>
+
+<content start="13" end="14">
+</content>
+
+<content start="14" end="15">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#36816;&#34892;</title>
+<tooltip>&#36816;&#34892;</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_run>true</disabled_at_run>
+<script>run</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="15" end="16">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#20572;&#27490;</title>
+<tooltip>&#20572;&#27490;</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<script>stop</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="16" end="17">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#37325;&#32622;</title>
+<tooltip>&#37325;&#32622;</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<script>reset silently</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="17" end="18">
+</content>
+
+<content start="18" end="19">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#24320;&#22987;&#21387;&#32553;</title>
+<tooltip>&#24320;&#22987;&#21387;&#32553;</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>set obstacle[0].density 0.1;
+set obstacle[0].hy 0.2;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="19" end="20">
+</content>
+
+</paragraph>
+<paragraph start="20" end="21">
+<Alignment>1</Alignment>
+<content start="20" end="21">
+</content>
+
+</paragraph>
+<paragraph start="21" end="108">
+<Alignment>1</Alignment>
+<LeftIndent>20.0</LeftIndent>
+<content start="21" end="107">
+<family>Century Gothic</family><size>13</size></content>
+
+<content start="107" end="108">
+<family>Book Antiqua</family></content>
+
+</paragraph>
+<paragraph start="108" end="110">
+<Alignment>1</Alignment>
+<LeftIndent>50.0</LeftIndent>
+<RightIndent>50.0</RightIndent>
+<content start="108" end="110">
+</content>
+
+</paragraph>
+<paragraph start="110" end="111">
+<content start="110" end="111">
+</content>
+
+</paragraph>
+<paragraph start="111" end="112">
+</paragraph>
+</section>
+</document>

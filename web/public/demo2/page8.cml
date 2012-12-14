@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Heat and Temperature: An Energy View of Heating</page_title>
+<bg_color><Red>241</Red><Green>240</Green><Blue>246</Blue></bg_color>
+<text>
+ 
+ 
+
+ 
+
+ 
+ 
+
+   
+   
+     
+(&#27880;&#24847;&#65306;&#22312;&#36825;&#20010;&#27169;&#22411;&#20013;&#30340;&#28909;&#33192;&#32960;&#34987;&#22840;&#22823;&#20102;&#12290;&#22312;&#29616;&#23454;&#20013;&#65292;&#23427;&#26159;&#38750;&#24120;&#23567;&#30340;&#12290;)
+ 
+   
+
+ </text>
+<section start="0" end="70">
+<paragraph start="0" end="1">
+<content start="0" end="1">
+</content>
+
+</paragraph>
+<paragraph start="1" end="3">
+<Alignment>1</Alignment>
+<content start="1" end="2">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;5&quot; color=&quot;#FFFFFF&quot;&gt;&lt;strong&gt;&amp;#28909;&amp;#21644;&amp;#28201;&amp;#24230;&amp;#65306;&lt;/strong&gt; 
+    &amp;#28909;&amp;#20316;&amp;#20026;&amp;#33021;&amp;#37327;&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-cca464</bgcolor></icon></content>
+
+<content start="2" end="3">
+</content>
+
+</paragraph>
+<paragraph start="3" end="5">
+<Alignment>1</Alignment>
+<content start="3" end="4">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>26.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;0&quot; background=&quot;topNavBarLeftMargin.jpg&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; id=&quot;Table_01&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img height=&quot;26&quot; width=&quot;14&quot; src=&quot;topNavBarLeftMargin.jpg&quot;&gt;
+          &lt;a href=&quot;page7.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;60&quot; src=&quot;prev.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;59&quot; src=&quot;next.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img height=&quot;26&quot; width=&quot;54&quot; src=&quot;page.jpg&quot;&gt;
+          &lt;a href=&quot;index.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;46&quot; src=&quot;index.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page1.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page2.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page3.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;29&quot; src=&quot;page4.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page5.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page6.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page7.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page8.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;29&quot; src=&quot;page8Selected.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page9.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;img height=&quot;26&quot; width=&quot;7&quot; src=&quot;topNavBarRightMargin.jpg&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>1</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="8">
+<Alignment>1</Alignment>
+<content start="6" end="7">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>110</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>15</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginheight=&quot;5&quot;&gt;
+    &lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img height=&quot;58&quot; src=&quot;motionMainIdea.png&quot; width=&quot;98&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;&amp;#24403;&amp;#20320;&amp;#23545;&amp;#19968;&amp;#20010;&amp;#29289;&amp;#20307;&amp;#21152;&amp;#28909;&amp;#65292;&amp;#22312;&amp;#21407;&amp;#23376;&amp;#30340;&amp;#23618;&amp;#27425;&amp;#21457;&amp;#29983;&amp;#30340;&amp;#19981;&amp;#20165;&amp;#20165;&amp;#26159;&amp;#28201;&amp;#24230;&amp;#30340;&amp;#21319;&amp;#39640;&amp;#65288;&amp;#21407;&amp;#23376;&amp;#36895;&amp;#24230;&amp;#21152;&amp;#24555;&amp;#65289;&amp;#65292;&amp;#36824;&amp;#26377;&amp;#20854;&amp;#20182;&amp;#30340;&amp;#21464;&amp;#21270;&amp;#65292;&amp;#22914;&amp;#28909;&amp;#33192;&amp;#32960;&amp;#21644;&amp;#29289;&amp;#24577;&amp;#21464;&amp;#21270;&amp;#21464;&amp;#12290;&amp;#23427;&amp;#20204;&amp;#37117;&amp;#21644;&amp;#29289;&amp;#20307;&amp;#20869;&amp;#33021;&amp;#21464;&amp;#21270;&amp;#26377;&amp;#20851;&amp;#12290;&lt;/font&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-282012</bgcolor></icon></content>
+
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="9">
+<Alignment>1</Alignment>
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="11">
+<Alignment>1</Alignment>
+<content start="9" end="10">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>540.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;verdana&quot;&gt;
+    &lt;map name=&quot;map&quot;&gt;
+      &lt;area href=&quot;script:page:0:message &lt;t&gt;&lt;font face=verdana&gt;&#19968;&#31181;&#29289;&#36136;&#30340;&#20869;&#37096;&#33021;&#37327;&#26159;&#25152;&#26377;&#23427;&#30340;&#21407;&#23376;&#30340;&#21160;&#33021;&#21644;&#21183;&#33021;&#30340;&#24635;&#21644;&#12290;&lt;/font&gt;&lt;/t&gt;&quot; shape=&quot;rect&quot; coords=&quot;290,130,400,145&quot;&gt;&lt;/area&gt;
+      &lt;area coords=&quot;420,225,480,250&quot; href=&quot;script:page:0:message &lt;t&gt;&lt;font face=verdana&gt;&#21407;&#23376;&#30340;&#21183;&#33021;&#26159;&#20174;&#23427;&#20204;&#20043;&#38388;&#30340;&#30456;&#20114;&#20316;&#29992;&#20135;&#29983;&#30340;&#33021;&#37327;&#12290;&lt;br&gt;&#23427;&#24448;&#24448;&#26159;&#30001;&#21407;&#23376;&#30340;&#31354;&#38388;&#25490;&#21015;&#12290;&lt;/font&gt;&lt;/t&gt;&quot; shape=&quot;rect&quot;&gt;&lt;/area&gt;
+      &lt;area coords=&quot;310,410,440,420&quot; href=&quot;script:page:0:message &lt;t&gt;&lt;font face=verdana&gt;&#28909;&#33192;&#32960;&#31995;&#25968;&#30340;&#29289;&#36136;&#30340;&#20542;&#21521;&#65292;&#21709;&#24212;&#20110;&#28201;&#24230;&#21464;&#21270;&#30340;&#21464;&#21270;&#37327;&#12290;&lt;/font&gt;&lt;/t&gt;&quot; shape=&quot;rect&quot;&gt;&lt;/area&gt;
+      &lt;area coords=&quot;520,410,620,420&quot; href=&quot;script:page:0:message &lt;t&gt;&lt;font face=verdana&gt;&#30456;&#20301;&#30340;&#21464;&#21270;&#26159;&#20174;&#19968;&#20010;&#38454;&#27573;&#21040;&#21478;&#19968;&#20010;&#30340;&#29289;&#36136;&#30340;&#21464;&#21270;&#12290;&#27604;&#22914;&#65292;&#20912;&#30340;&#34701;&#21270;&#26159;&#22266;&#20307;&#21644;&#28082;&#20307;&#20043;&#38388;&#30340;&#30456;&#20301;&#21464;&#21270;&#12290;&lt;br&gt;&#27700;&#30340;&#33976;&#21457;&#65292;&#28082;&#20307;&#21644;&#27668;&#20307;&#20043;&#38388;&#30340;&#30456;&#20301;&#21464;&#21270;&#12290;&lt;/font&gt;&lt;/t&gt;&quot; shape=&quot;rect&quot;&gt;&lt;/area&gt;
+    &lt;/map&gt;
+    &amp;#19979;&amp;#22270;&amp;#26174;&amp;#31034;&amp;#32473;&amp;#21407;&amp;#23376;&amp;#21152;&amp;#20837;&amp;#33021;&amp;#37327;&amp;#21518;&amp;#25152;&amp;#21457;&amp;#29983;&amp;#30340;&amp;#21464;&amp;#21270;&amp;#12290;&amp;#20320;&amp;#25226;&amp;#40736;&amp;#26631;&amp;#31227;&amp;#21040;&amp;#26576;&amp;#20123;&amp;#35789;&amp;#19978;&amp;#38754;&amp;#65292;&amp;#21487;&amp;#20197;&amp;#28857;&amp;#20987;&amp;#20986;&amp;#29616;&amp;#24377;&amp;#20986;&amp;#31383;&amp;#21475;&amp;#65292;&amp;#37324;&amp;#38754;&amp;#26159;&amp;#36825;&amp;#20010;&amp;#35789;&amp;#27719;&amp;#30340;&amp;#23450;&amp;#20041;&amp;#12290;
+
+    &lt;p align=&quot;center&quot; face=&quot;Verdana&quot;&gt;
+      &lt;img src=&quot;heat.gif&quot; usemap=&quot;#map&quot;&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="10" end="11">
+</content>
+
+</paragraph>
+<paragraph start="11" end="13">
+<Alignment>1</Alignment>
+<content start="11" end="12">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>160.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Verdana&quot;&gt;
+    &amp;#19979;&amp;#38754;&amp;#30340;&amp;#27169;&amp;#22411;&amp;#26174;&amp;#31034;&amp;#24403;&amp;#21152;&amp;#28909;&amp;#25110;&amp;#20919;&amp;#21364;&amp;#22266;&amp;#20307;&amp;#65288;&amp;#28784;&amp;#21407;&amp;#23376;&amp;#26684;&amp;#23376;&amp;#65289;&amp;#30340;&amp;#26102;&amp;#20505;&amp;#24179;&amp;#22343;&amp;#21160;&amp;#33021;&amp;#21644;&amp;#28508;&amp;#22312;&amp;#33021;&amp;#37327;&amp;#26159;&amp;#24590;&amp;#20040;&amp;#21464;&amp;#21270;&amp;#30340;&amp;#12290;&amp;#21491;&amp;#36793;&amp;#30340;&amp;#22270;&amp;#20013;&amp;#65292;&lt;font color=&quot;red&quot;&gt;&amp;#32418;&amp;#32447;&lt;/font&gt;&amp;#34920;&amp;#31034;&amp;#24179;&amp;#22343;&amp;#21160;&amp;#33021;&amp;#65292;&lt;font color=&quot;blue&quot;&gt;&amp;#34013;&amp;#32447;&lt;/font&gt;&amp;#34920;&amp;#31034;&amp;#24179;&amp;#22343;&amp;#28508;&amp;#33021;&amp;#12290;&amp;#28508;&amp;#33021;&amp;#21253;&amp;#25324;&amp;#38190;&amp;#33021;&amp;#21644;&amp;#33539;&amp;#24503;&amp;#21326;&amp;#33021;&amp;#37327;&amp;#12290;
+
+    &lt;p&gt;
+      &amp;#25805;&amp;#20316;&amp;#27493;&amp;#39588;&amp;#65306;&amp;#28857;&amp;#20987;&amp;#8220;&amp;#21152;&amp;#28909;&amp;#8221;&amp;#25110;&amp;#8220;&amp;#20919;&amp;#21364;&amp;#8221;&amp;#25353;&amp;#38062;&amp;#65292;&amp;#35266;&amp;#23519;&amp;#21491;&amp;#36793;&amp;#22270;&amp;#24418;&amp;#30340;&amp;#21464;&amp;#21270;&amp;#65292;&amp;#21516;&amp;#26102;&amp;#27880;&amp;#24847;&amp;#22266;&amp;#20307;&amp;#30340;&amp;#20307;&amp;#31215;&amp;#26159;&amp;#24590;&amp;#20040;&amp;#33192;&amp;#32960;&amp;#30340;&amp;#65288;&amp;#26368;&amp;#21021;&amp;#30340;&amp;#20307;&amp;#31215;&amp;#29992;&amp;#34394;&amp;#32447;&amp;#20570;&amp;#35760;&amp;#21495;&amp;#65289;&amp;#12290;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="12" end="13">
+</content>
+
+</paragraph>
+<paragraph start="13" end="14">
+<Alignment>1</Alignment>
+<content start="13" end="14">
+</content>
+
+</paragraph>
+<paragraph start="14" end="18">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="14" end="15">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>page8$0.mml</resource><menubar>false</menubar><statusbar>false</statusbar><border>none</border></component></content>
+
+<content start="15" end="16">
+</content>
+
+<content start="16" end="17">
+<component><class>org.concord.modeler.PageXYGraph</class>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<time_series_x>Time (fs)</time_series_x>
+<time_series_y1 color="-10000" style="0" width="2.0" symbol="0" size="4" spacing="5" smoother="1">Kinetic Energy/Particle</time_series_y1>
+<time_series_y2 color="-ffff01" style="0" width="2.0" symbol="0" size="4" spacing="5" smoother="1">Potential Energy/Particle</time_series_y2>
+<width>350</width>
+<height>250</height>
+<axis_x_title>&#26102;&#38388; (fs)</axis_x_title>
+<axis_y_title>&#27599;&#20010;&#21407;&#23376;&#30340;&#33021;&#37327; (eV)</axis_y_title>
+<legend_x>0</legend_x>
+<legend_y>600</legend_y>
+<bgcolor>-333334</bgcolor>
+<fgcolor>-1</fgcolor>
+<menubar>false</menubar>
+<toolbar>false</toolbar>
+<border>Lowered Etched</border>
+</component></content>
+
+<content start="17" end="18">
+</content>
+
+</paragraph>
+<paragraph start="18" end="22">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="18" end="19">
+<component><class>org.concord.modeler.PageCheckBox</class>
+<title>&#21160;&#33021;&#36896;&#24433;</title>
+<tooltip>Redder shading means higher kinetic energy.</tooltip>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<action>K. E. Shading</action>
+</component></content>
+
+<content start="19" end="20">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#21152;&#28909;</title>
+<tooltip>Add heat to the solid.</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>show selectionhalo off;
+select atom all;
+heat 0.05;
+select atom none;
+show selectionhalo on;
+run;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="20" end="21">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#20919;&#21364;</title>
+<tooltip>Subtract heat from the solid.</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>show selectionhalo off;
+select atom all;
+heat -0.05;
+select atom none;
+show selectionhalo on;
+run;</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="21" end="22">
+</content>
+
+</paragraph>
+<paragraph start="22" end="28">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="22" end="23">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#27169;&#22411;&#25293;&#29031;</title>
+<width>120</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+</component></content>
+
+<content start="23" end="24">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#36816;&#34892;</title>
+<tooltip>Run the simulation.</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_run>true</disabled_at_run>
+<script>run</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="24" end="25">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#20572;&#27490;</title>
+<tooltip>Stop the simulation.</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>stop</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="25" end="26">
+<component><class>org.concord.modeler.PageButton</class>
+<title>&#37325;&#32622;</title>
+<tooltip>Reset the model.</tooltip>
+<width>51</width><height>25</height>
+<border>None</border>
+<modelclass>org.concord.mw2d.models.MolecularModel</modelclass>
+<model>0</model>
+<disabled_at_script>true</disabled_at_script>
+<script>reset</script>
+<action>Execute MW script</action>
+</component></content>
+
+<content start="26" end="27">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>&#22270;&#20687;&#25293;&#29031;</title>
+<tooltip>Take a snapshot of the graph.</tooltip>
+<width>60</width><height>25</height>
+<border>None</border>
+<script>script:xygraph:1:snapshot</script>
+<action>Script</action></component></content>
+
+<content start="27" end="28">
+</content>
+
+</paragraph>
+<paragraph start="28" end="61">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="28" end="61">
+</content>
+
+</paragraph>
+<paragraph start="61" end="63">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="61" end="62">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>80.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Verdana&quot;&gt;
+    &amp;#36825;&amp;#20010;&amp;#27169;&amp;#22411;&amp;#23637;&amp;#31034;&amp;#20102;&amp;#22266;&amp;#20307;&amp;#21152;&amp;#28909;&amp;#21518;&amp;#65292;&amp;#19981;&amp;#20165;&amp;#28201;&amp;#24230;&amp;#21319;&amp;#39640;&amp;#65292;&amp;#32780;&amp;#19988;&amp;#20307;&amp;#31215;&amp;#33192;&amp;#32960;&amp;#65292;&lt;b&gt;&amp;#28909;&amp;#33192;&amp;#32960;&lt;/b&gt; 
+    (&lt;a href=&quot;script:page:0:message &lt;t&gt;&lt;font face=verdana&gt;&#23613;&#31649;&#22823;&#37096;&#20998;&#29289;&#20307;&#37117;&#26159;&#28909;&#33192;&#32960;&#65292;&#20294;&#20063;&#26377;&#23569;&#25968;&#26448;&#26009;&lt;br&gt;&#20250;&#22312;&#19968;&#23450;&#33539;&#22260;&#20869;&#28201;&#24230;&#21319;&#39640;&#20250;&#25910;&#32553;&#65292;&#36825;&#21483;&#20570;&lt;b&gt;&#36127;&#28909;&#33192;&#32960;&lt;/b&gt;&#12290;&lt;/font&gt;&lt;/t&gt;&quot;&gt;&amp;#27880;&amp;#37322;&lt;/a&gt;&lt;font color=&quot;gray&quot;&gt;&amp;#10063;&lt;/font&gt;), 
+    &amp;#21478;&amp;#22806;&amp;#28201;&amp;#24230;&amp;#21319;&amp;#39640;&amp;#12290;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="62" end="63">
+<foreground>255 0 0</foreground></content>
+
+</paragraph>
+<paragraph start="63" end="67">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="63" end="64">
+<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot; marginheight=&quot;5&quot;&gt;
+    &lt;b&gt;&amp;#32473;&amp;#27169;&amp;#22411;&amp;#30340;&amp;#28909;&amp;#33192;&amp;#32960;&amp;#25293;&amp;#20010;&amp;#29031;&amp;#29255;&amp;#65292;&amp;#26681;&amp;#25454;&amp;#19979;&amp;#38754;&amp;#30340;&amp;#35828;&amp;#26126;&amp;#25289;&amp;#20837;&amp;#25293;&amp;#19979;&amp;#30340;&amp;#22270;&amp;#20687;&amp;#12290;&lt;/b&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="64" end="65">
+</content>
+
+<content start="65" end="66">
+<component><class>org.concord.modeler.ImageQuestion</class><width>372</width><height>300</height><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body face=&quot;Arial&quot; marginwidth=&quot;5&quot; bgcolor=&quot;rgb(230, 230, 230)&quot; marginheight=&quot;5&quot;&gt;
+    &lt;b&gt;&amp;#32473;&amp;#27169;&amp;#22411;&amp;#30340;&amp;#33021;&amp;#37327;&amp;#22686;&amp;#21152;&amp;#25293;&amp;#29031;&amp;#65292;&amp;#26681;&amp;#25454;&amp;#19979;&amp;#38754;&amp;#30340;&amp;#35828;&amp;#26126;&amp;#25289;&amp;#20837;&amp;#25293;&amp;#19979;&amp;#30340;&amp;#22270;&amp;#20687;&amp;#12290;&lt;/b&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="66" end="67">
+</content>
+
+</paragraph>
+<paragraph start="67" end="68">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="67" end="68">
+</content>
+
+</paragraph>
+<paragraph start="68" end="70">
+<Alignment>1</Alignment>
+<content start="68" end="69">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>26.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;0&quot; background=&quot;topNavBarLeftMargin.jpg&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; id=&quot;Table_01&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img height=&quot;26&quot; width=&quot;14&quot; src=&quot;topNavBarLeftMargin.jpg&quot;&gt;
+          &lt;a href=&quot;page7.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;60&quot; src=&quot;prev.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;59&quot; src=&quot;next.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img height=&quot;26&quot; width=&quot;54&quot; src=&quot;page.jpg&quot;&gt;
+          &lt;a href=&quot;index.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;46&quot; src=&quot;index.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page1.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page2.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page3.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;29&quot; src=&quot;page4.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page5.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page6.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page7.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page8.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;29&quot; src=&quot;page8Selected.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;font&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page9.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;img height=&quot;26&quot; width=&quot;7&quot; src=&quot;topNavBarRightMargin.jpg&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+</paragraph>
+</section>
+</document>

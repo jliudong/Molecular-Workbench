@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Generic particles</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#36890;&#29992;&#31890;&#23376;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#38500;&#20102;&#25903;&#25345;&#20803;&#32032;&#65292;3D&#27169;&#22411;&#23481;&#22120;&#20134;&#25552;&#20379;&#22235;&#31181;&#31867;&#22411;&#30340;&#36890;&#29992;&#31890;&#23376;&#65292;&#20195;&#34920;&#31526;&#21495;&#20026;:X1,X2,X3&#21644;X4&#12290;&#21487;&#20197;&#29992;&#26469;&#21019;&#24314;&#19981;&#25658;&#24102;&#20998;&#23376;&#24847;&#20041;&#25277;&#35937;&#31890;&#23376;&#27169;&#22411;&#65292;&#25110;&#22312;&#21407;&#23376;&#26631;&#24230;&#27169;&#25311;&#19968;&#20010;&#29289;&#20307;&#12290;&#20363;&#22914;, &#19979;&#38754;&#26159;&#19968;&#20010;&#29992;&#22823;&#29699;&#20195;&#34920;&#26576;&#31181;&#32467;&#26500;&#19982;&#23567;&#29699;&#20195;&#34920;&#30340;&#20854;&#20182;&#32467;&#26500;&#30456;&#20114;&#20316;&#29992;&#30340;&#27169;&#22411;&#12290;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+&#19981;&#21516;&#20110;&#20854;&#20182;&#20803;&#32032;&#65292;&#36890;&#29992;&#31890;&#23376;&#30340;&#23646;&#24615;&#21487;&#20197;&#33258;&#30001;&#32534;&#36753;&#12290;&#22312;&#19968;&#20010;&#31890;&#23376;&#19978;&#21491;&#20987;&#24182;&#22312;&#24555;&#25463;&#33756;&#21333;&#36873;&#25321;&#8220;&#23646;&#24615;&#8221;&#12290;&#20320;&#23601;&#33021;&#30475;&#21040;&#19968;&#20010;&#31383;&#21475;&#65292;&#26174;&#31034;&#25152;&#36873;&#23450;&#31890;&#23376;&#25152;&#26377;&#21487;&#32534;&#36753;&#30340;&#23646;&#24615;&#12290;
+
+&#22312;&#21516;&#19968;&#20010;&#20301;&#32622;&#32534;&#36753;&#25152;&#26377;&#30340;&#36890;&#29992;&#31890;&#23376;&#65292;&#20351;&#29992;&#27169;&#22411;&#30340;&#23646;&#24615;&#31383;&#21475;&#65292;&#22312;&#27809;&#26377;&#34987;&#20219;&#20309;&#29289;&#20307;&#21344;&#29992;&#30340;&#35270;&#22270;&#31383;&#21475;&#21491;&#20987;&#19968;&#20010;&#28857;&#26102;&#65292;&#20174;&#40664;&#35748;&#30340;&#24555;&#25463;&#33756;&#21333;&#20013;&#36873;&#25321;&#8220;Access Model properties&#65288;&#36827;&#20837;&#27169;&#22411;&#23646;&#24615;&#65289;&#8221;&#23601;&#21487;&#20197;&#25171;&#24320;&#12290;&#24403;&#8220;Model Properties(&#27169;&#22411;&#23646;&#24615;)&#8221;&#31383;&#21475;&#25171;&#24320;&#20102;&#65292;&#36873;&#25321;&#8220;&#30456;&#20114;&#20316;&#29992;&#8221;&#39033;&#65292;&#28982;&#21518;&#28857;&#20987;&#8220;&#36890;&#29992;&#31890;&#23376;&#23646;&#24615;&#8221;&#36830;&#25509;&#12290; &#20320;&#24212;&#35813;&#30475;&#21040;&#20197;&#19979;&#31383;&#21475;&#12290;
+
+  
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23631;&#24149;&#25130;&#22270;&#12305;
+
+&#20197;&#19978;&#31383;&#21475;&#21487;&#20197;&#35774;&#32622;&#25152;&#26377;&#25903;&#25345;&#36890;&#29992;&#31890;&#23376;&#24403;&#21069;&#21487;&#32534;&#36753;&#30340;&#23646;&#24615;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="457">
+<paragraph start="0" end="5">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="4">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="25">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="14">
+<size>11</size></content>
+
+<content start="14" end="16">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="16" end="19">
+<size>11</size></content>
+
+<content start="19" end="22">
+<size>11</size><href>extrusion.cml</href></content>
+
+<content start="22" end="24">
+<size>11</size></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<LeftIndent>140.0</LeftIndent>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="140">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="140">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="140" end="141">
+<LeftIndent>140.0</LeftIndent>
+<content start="140" end="141">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="141" end="143">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="141" end="142">
+<component><class>org.concord.modeler.PageMd3d</class><resource>genericparticle$0.mdd</resource><coordinate>genericparticle$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="142" end="143">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="143" end="157">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="143" end="156">
+<size>10</size></content>
+
+<content start="156" end="157">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="157" end="158">
+<LeftIndent>140.0</LeftIndent>
+<content start="157" end="158">
+</content>
+
+</paragraph>
+<paragraph start="158" end="228">
+<LeftIndent>140.0</LeftIndent>
+<content start="158" end="227">
+<size>10</size></content>
+
+<content start="227" end="228">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="228" end="229">
+<LeftIndent>140.0</LeftIndent>
+<content start="228" end="229">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="229" end="395">
+<LeftIndent>140.0</LeftIndent>
+<content start="229" end="395">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="395" end="396">
+<LeftIndent>140.0</LeftIndent>
+<content start="395" end="396">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="396" end="399">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="396" end="397">
+<size>11</size></content>
+
+<content start="397" end="398">
+<icon>genericparticleprop.gif</icon></content>
+
+<content start="398" end="399">
+</content>
+
+</paragraph>
+<paragraph start="399" end="410">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="399" end="410">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="410" end="411">
+<LeftIndent>140.0</LeftIndent>
+<content start="410" end="411">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="411" end="437">
+<LeftIndent>140.0</LeftIndent>
+<content start="411" end="437">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="437" end="438">
+<LeftIndent>140.0</LeftIndent>
+<content start="437" end="438">
+</content>
+
+</paragraph>
+<paragraph start="438" end="457">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="438" end="446">
+<size>11</size></content>
+
+<content start="446" end="448">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="448" end="451">
+<size>11</size></content>
+
+<content start="451" end="454">
+<size>11</size><href>extrusion.cml</href></content>
+
+<content start="454" end="456">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

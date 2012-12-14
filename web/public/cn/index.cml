@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="GB18030"?>
+<document>
+<language>GB18030</language>
+<page_title>分子工作台主页</page_title>
+<text> 
+新添功能  |  搜索  |  用户提交区 |  用户手册 |  报告问题  
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+美国国家科学基金会资助.此软件所表达的观点并不代表国家科学基金会.
+開發者：謝謙博士
+
+三维图像由Jmol图形库生成。Jmol图形库由Jmol开发组研制。数学表达式分析由JEP支持。JEP由Singular Systems开发. 
+concord.org域名内的内容使用“署名-非商业性使用3.0”许可协议发布。
+
+
+
+
+
+</text>
+<section start="0" end="231">
+<paragraph start="0" end="2">
+<Alignment>1</Alignment>
+<content start="0" end="1">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>95.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body bgcolor=&quot;#bce297&quot; leftmargin=&quot;0&quot; topmargin=&quot;0&quot;&gt;
+    &lt;map name=&quot;map&quot;&gt;
+      &lt;area coords=&quot;530,76,572,86&quot; shape=&quot;rect&quot; href=&quot;../index.cml&quot;&gt;&lt;/area&gt;
+      &lt;area coords=&quot;655,76,700,86&quot; shape=&quot;rect&quot; href=&quot;../tw/index.cml&quot;&gt;&lt;/area&gt;
+    &lt;/map&gt;
+    &lt;center&gt;
+      &lt;img usemap=&quot;#map&quot; src=&quot;banner_cn.gif&quot;&gt;
+    &lt;/center&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-2b2f38</bgcolor>
+<border>Lowered Etched</border>
+</component></content>
+
+<content start="1" end="2">
+<size>13</size></content>
+
+</paragraph>
+<paragraph start="2" end="42">
+<Alignment>1</Alignment>
+<content start="2" end="6">
+<href>../new.cml</href><size>13</size></content>
+
+<content start="6" end="11">
+<size>13</size></content>
+
+<content start="11" end="13">
+<href>search.cml</href><size>13</size></content>
+
+<content start="13" end="18">
+<size>13</size></content>
+
+<content start="18" end="23">
+<href>modelspace.jsp?client=mw</href><size>13</size></content>
+
+<content start="23" end="27">
+<size>13</size></content>
+
+<content start="27" end="31">
+<href>../tutorial/index.cml</href><size>13</size></content>
+
+<content start="31" end="35">
+<size>13</size></content>
+
+<content start="35" end="39">
+<href>../bug.cml</href><size>13</size></content>
+
+<content start="39" end="42">
+<size>13</size></content>
+
+</paragraph>
+<paragraph start="42" end="43">
+<Alignment>1</Alignment>
+<content start="42" end="43">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="43" end="46">
+<Alignment>1</Alignment>
+<content start="43" end="44">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>300.0</width>
+<height>340.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body vlink=&quot;#000099&quot; marginwidth=&quot;5&quot; face=&quot;Verdana&quot; bgcolor=&quot;#ffffff&quot; marginheight=&quot;2&quot;&gt;
+    &lt;h4&gt;
+      &amp;#29305;&amp;#36873;&amp;#30340;&amp;#23637;&amp;#31034;&amp;#27169;&amp;#22411;
+    &lt;/h4&gt;
+    &lt;b&gt;&amp;#37327;&amp;#32423;&amp;#33322;&amp;#34892;&amp;#65306;&lt;/b&gt; &lt;a href=&quot;../part2/ZoomIt/main.cml&quot;&gt;&lt;font&gt;ZOOMIT 
+    &lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&amp;#34394;&amp;#25311;&amp;#29616;&amp;#23454;&amp;#65306;&lt;/b&gt; &lt;a href=&quot;../student/fly/index.cml&quot;&gt;&lt;font&gt;&amp;#20998;&amp;#23376;&amp;#28459;&amp;#28216; 
+    &lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&amp;#20114;&amp;#21160;&amp;#19987;&amp;#39064;&amp;#65306;&lt;/b&gt; &lt;a href=&quot;../monograph.cml&quot;&gt;&lt;font&gt;&amp;#27969;&amp;#20307;&amp;#21147;&amp;#23398; 
+    &lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&amp;#33258;&amp;#21160;&amp;#28436;&amp;#31034;&amp;#65306;&lt;/b&gt; &lt;a href=&quot;../tutorial/BuildMolecule.cml&quot;&gt;&lt;font&gt;&amp;#21046;&amp;#36896;&amp;#20998;&amp;#23376;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&amp;#20998;&amp;#26512;&amp;#24037;&amp;#20855;&amp;#65306;&lt;/b&gt; 
+    &lt;a href=&quot;../tutorial/script_mvd.cml&quot;&gt;&lt;font&gt;&amp;#36895;&amp;#24230;&amp;#20998;&amp;#24067;&amp;#20998;&amp;#26512;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&amp;#29983;&amp;#21629;&amp;#20043;&amp;#26641;&amp;#65306;&lt;/b&gt; 
+    &lt;a href=&quot;../part2/TreeOfLife/treeoflife1.cml&quot;&gt;&lt;font&gt;&amp;#25506;&amp;#32034;&amp;#29983;&amp;#29289;&amp;#22823;&amp;#20998;&amp;#23376;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/daintywalker.cml&quot;&gt;&lt;font&gt;&amp;#22235;&amp;#36275;&amp;#34892;&amp;#36208;&amp;#26426;&amp;#22120;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/biomodels/monolayer.cml&quot;&gt;&lt;font&gt;&amp;#27700;&amp;#21644;&amp;#27833;&amp;#30028;&amp;#38754;&amp;#19978;&amp;#33026;&amp;#31867;&amp;#21333;&amp;#20998;&amp;#23376;&amp;#23618;&amp;#30340;&amp;#24418;&amp;#25104;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/materials/fracture.cml&quot;&gt;&lt;font&gt;&amp;#26029;&amp;#35010;&amp;#27169;&amp;#25311;&amp;#65306;&amp;#35010;&amp;#32441;&amp;#30340;&amp;#20256;&amp;#25773;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/electrostatics/cyclotron.cml&quot;&gt;&lt;font&gt;&amp;#22238;&amp;#26059;&amp;#21152;&amp;#36895;&amp;#22120;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/centrifugal.cml&quot;&gt;&lt;font&gt;&amp;#31163;&amp;#24515;&amp;#21147;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/stringwave.cml&quot;&gt;&lt;font&gt;&amp;#32499;&amp;#23376;&amp;#19978;&amp;#30340;&amp;#27874;&amp;#21160; 
+    &lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/inversependulum.cml&quot;&gt;&lt;font&gt;&amp;#21453;&amp;#21333;&amp;#25670;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/cycloid.cml&quot;&gt;&lt;font&gt;&amp;#25670;&amp;#32447;,&amp;#20839;&amp;#25670;&amp;#32447;,&amp;#22806;&amp;#25670;&amp;#32447;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/undershotwaterwheel.cml&quot;&gt;&lt;font&gt;&amp;#27700;&amp;#36710;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/electrostatics/needle.cml&quot;&gt;&lt;font&gt;&amp;#39564;&amp;#30005;&amp;#22120;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/machine/bike.cml&quot;&gt;&lt;font&gt;&amp;#33258;&amp;#34892;&amp;#36710;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/dam.cml&quot;&gt;&lt;font&gt;&amp;#28291;&amp;#22365;&amp;#27169;&amp;#25311;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/hourglass.cml&quot;&gt;&lt;font&gt;&amp;#27801;&amp;#28431;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/genevadrive.cml&quot;&gt;&lt;font&gt;&amp;#26085;&amp;#20869;&amp;#29926;&amp;#20256;&amp;#21160;&amp;#26426;&amp;#21046;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/peaucellier.cml&quot;&gt;&lt;font&gt;&amp;#30452;&amp;#32447;&amp;#36816;&amp;#21160;&amp;#26426;&amp;#21046;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/motion/galtonboard.cml&quot;&gt;&lt;font&gt;&amp;#27491;&amp;#24577;&amp;#20998;&amp;#24067;&amp;#26426;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part2/atomstrk/index.cml&quot;&gt;&lt;font&gt;&amp;#21407;&amp;#23376;&amp;#32467;&amp;#26500;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part2/chemreact/index.cml&quot;&gt;&lt;font&gt;&amp;#21270;&amp;#23398;&amp;#21453;&amp;#24212;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part2/phasechange/index.cml&quot;&gt;&lt;font&gt;&amp;#29289;&amp;#36136;&amp;#19977;&amp;#30456;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part2/vdw/index.cml&quot;&gt;&lt;font&gt;&amp;#20998;&amp;#23376;&amp;#30456;&amp;#20114;&amp;#20316;&amp;#29992;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/fly/ghg.cml&quot;&gt;&lt;font&gt;&amp;#28201;&amp;#23460;&amp;#27668;&amp;#20307;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/fly/hemoglobin2.cml&quot;&gt;&lt;font&gt;&amp;#28459;&amp;#28216;&amp;#34880;&amp;#32418;&amp;#34507;&amp;#30333;&amp;#20998;&amp;#23376; 
+    &lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/fly/gas.cml&quot;&gt;&lt;font&gt;&amp;#20174;&amp;#20869;&amp;#37096;&amp;#35266;&amp;#23519;&amp;#27668;&amp;#20307;&amp;#36816;&amp;#21160; &lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/fly/nanotube2.cml&quot;&gt;&lt;font&gt;&amp;#30899;&amp;#32435;&amp;#31859;&amp;#31649;&amp;#20013;&amp;#30340;&amp;#30002;&amp;#28919;&amp;#20998;&amp;#23376; 
+    &lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/quantumchemistry/index.cml&quot;&gt;&lt;font&gt;&amp;#21407;&amp;#23376;&amp;#36712;&amp;#36947;&amp;#21644;&amp;#20998;&amp;#23376;&amp;#36712;&amp;#36947; 
+    &lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/electrostatics/generator.cml&quot;&gt;&lt;font&gt;&amp;#20999;&amp;#21106;&amp;#30913;&amp;#21147;&amp;#32447;&amp;#20135;&amp;#29983;&amp;#30005;&amp;#27969;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/motionandforce/reversemicelle.cml&quot;&gt;&lt;font&gt;&amp;#21453;&amp;#33014;&amp;#26463;&amp;#21160;&amp;#21147;&amp;#23398;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/nanocar2.cml&quot;&gt;&lt;font&gt;&amp;#26368;&amp;#23567;&amp;#30340;&amp;#36710;&amp;#65306;&amp;#32435;&amp;#31859;&amp;#31649;&amp;#20570;&amp;#30340;&amp;#36710;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/nanocar.cml&quot;&gt;&lt;font&gt;&amp;#26368;&amp;#23567;&amp;#30340;&amp;#36710;&amp;#65306;&amp;#24052;&amp;#22522;&amp;#29699;&amp;#20570;&amp;#30340;&amp;#32435;&amp;#31859;&amp;#36710;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/waterrace.cml&quot;&gt;&lt;font&gt;&amp;#30899;&amp;#32435;&amp;#31859;&amp;#31649;&amp;#20013;&amp;#30340;&amp;#27700;&amp;#20998;&amp;#23376;&amp;#36187;&amp;#36305;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/nanotubejoint.cml&quot;&gt;&lt;font&gt;&amp;#30899;&amp;#32435;&amp;#31859;&amp;#31649;&amp;#22235;&amp;#21521;&amp;#32467;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/c60xe.cml&quot;&gt;&lt;font&gt;&amp;#27673;&amp;#21407;&amp;#23376;&amp;#25758;&amp;#20987;&amp;#30899;60&amp;#20998;&amp;#23376;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/nanotubeongold.cml&quot;&gt;&lt;font&gt;&amp;#30899;&amp;#32435;&amp;#31859;&amp;#31649;&amp;#21560;&amp;#38468;&amp;#22312;&amp;#40644;&amp;#37329;&amp;#34920;&amp;#38754;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/waternanotube.cml&quot;&gt;&lt;font&gt;&amp;#30899;&amp;#32435;&amp;#31859;&amp;#31649;&amp;#20013;&amp;#30340;&amp;#27700;&amp;#20998;&amp;#23376;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/motionandforce/debyesphere.cml&quot;&gt;&lt;font&gt;&amp;#24503;&amp;#25308;&amp;#21322;&amp;#24452;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/stateofmatter/latentheat2.cml&quot;&gt;&lt;font&gt;&amp;#35266;&amp;#23519;&amp;#30456;&amp;#21464;&amp;#28508;&amp;#28909;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/electrostatics/balloon.cml&quot;&gt;&lt;font&gt;&amp;#24102;&amp;#30005;&amp;#27668;&amp;#29699;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/reverseosmosis/reverse.cml&quot;&gt;&lt;font&gt;&amp;#28023;&amp;#27700;&amp;#28129;&amp;#21270;&amp;#65306;&amp;#36870;&amp;#28183;&amp;#36879;&amp;#28436;&amp;#31034;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/planetarygear.cml&quot;&gt;&lt;font&gt;&amp;#20998;&amp;#23376;&amp;#34892;&amp;#26143;&amp;#40831;&amp;#36718;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/conveyor.cml&quot;&gt;&lt;font&gt;&amp;#32435;&amp;#31859;&amp;#20256;&amp;#36865;&amp;#24102;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../mw3d/index.cml&quot;&gt;&lt;font&gt;&amp;#19977;&amp;#32500;&amp;#27169;&amp;#25311;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part1/polymer/polymersPage1.cml&quot;&gt;&lt;font&gt;&amp;#20998;&amp;#23376;&amp;#32858;&amp;#21512;&amp;#21453;&amp;#24212;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/proteinfolding/drugdelivery.cml&quot;&gt;&lt;font&gt;&amp;#33647;&amp;#29289;&amp;#36816;&amp;#36755;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/fluid/pascal.cml&quot;&gt;&lt;font&gt;&amp;#28082;&amp;#21387;&amp;#26464;&amp;#26438;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/alcvd.cml&quot;&gt;&lt;font&gt;&amp;#21407;&amp;#23376;&amp;#23618;&amp;#21270;&amp;#23398;&amp;#27773;&amp;#30456;&amp;#27785;&amp;#31215;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part1/xray/intro.cml&quot;&gt;&lt;font&gt;X&amp;#23556;&amp;#32447;&amp;#34893;&amp;#23556;&amp;#26415;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part1/eric/selfassembly/self_assembly1.cml&quot;&gt;&lt;font&gt;&amp;#20998;&amp;#23376;&amp;#33258;&amp;#35013;&amp;#37197;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/classic/machine/SliderCrank.cml&quot;&gt;&lt;font&gt;&amp;#30452;&amp;#32447;&amp;#36816;&amp;#21160;&amp;#21644;&amp;#22278;&amp;#21608;&amp;#36816;&amp;#21160;&amp;#30456;&amp;#20114;&amp;#36716;&amp;#21270;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/electrostatics/twocharges.cml&quot;&gt;&lt;font&gt;&amp;#26174;&amp;#31034;&amp;#30005;&amp;#21147;&amp;#22330;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part1/elisa/elisa1.cml&quot;&gt;&lt;font&gt;ELISA&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part1/dna2protein/DNAtoProteins1.cml&quot;&gt;&lt;font&gt;&amp;#20174;DNA&amp;#21040;&amp;#34507;&amp;#30333;&amp;#36136;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part1/dan/dnahybrid/intro.cml&quot;&gt;&lt;font&gt;DNA&amp;#26816;&amp;#27979;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../part1/dan/brownian/newBrownianPage1.cml&quot;&gt;&lt;font&gt;&amp;#24067;&amp;#26391;&amp;#36816;&amp;#21160;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/chemicalreaction/equilibrium.cml&quot;&gt;&lt;font&gt;&amp;#21270;&amp;#23398;&amp;#21453;&amp;#24212;&amp;#24179;&amp;#34913;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/chemicalreaction/catalysis1.cml&quot;&gt;&lt;font&gt;&amp;#21248;&amp;#30456;&amp;#20652;&amp;#21270;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/materials/piezoelectric1.cml&quot;&gt;&lt;font&gt;&amp;#21387;&amp;#30005;&amp;#25928;&amp;#24212;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;../student/nano/dock.cml&quot;&gt;&lt;font&gt;&amp;#22823;&amp;#20998;&amp;#23376;&amp;#25509;&amp;#21512;&lt;/font&gt;&lt;/a&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+<border>Lowered Etched</border>
+</component></content>
+
+<content start="44" end="45">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>500.0</width>
+<height>340.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;10&quot; bgcolor=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;
+    &lt;map name=&quot;Map2&quot;&gt;
+      &lt;area coords=&quot;271,88,372,105&quot; shape=&quot;rect&quot; href=&quot;library/index.cml&quot;&gt;&lt;/area&gt;
+      &lt;area coords=&quot;271,140,350,157&quot; shape=&quot;rect&quot; href=&quot;../part1/index.cml&quot;&gt;&lt;/area&gt;
+      &lt;area coords=&quot;271,193,387,210&quot; shape=&quot;rect&quot; href=&quot;../teacher/index.cml&quot;&gt;&lt;/area&gt;
+    &lt;/map&gt;
+    &lt;center&gt;
+      &lt;p&gt;
+        &lt;img usemap=&quot;#Map2&quot; src=&quot;mwlinks_cn.jpg&quot;&gt;
+        
+      &lt;/p&gt;
+      &lt;p&gt;
+        &lt;font size=&quot;4&quot;&gt;&lt;b&gt;&amp;#28857;&amp;#20987;&amp;#20197;&amp;#19978;&amp;#36830;&amp;#25509;&amp;#36827;&amp;#20837;.&lt;/b&gt;&lt;/font&gt;
+      &lt;/p&gt;
+    &lt;/center&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+<border>Lowered Etched</border>
+</component></content>
+
+<content start="45" end="46">
+</content>
+
+</paragraph>
+<paragraph start="46" end="47">
+<content start="46" end="47">
+<bold>true</bold><size>14</size></content>
+
+</paragraph>
+<paragraph start="47" end="49">
+<Alignment>1</Alignment>
+<content start="47" end="48">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>800.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font face=&quot;Verdana&quot; size=&quot;4&quot;&gt;&lt;b&gt;&amp;#27426;&amp;#36814;&amp;#24744;&amp;#20351;&amp;#29992;&amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#21488;&lt;/b&gt;&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-431d69</bgcolor><leftmargin>20</leftmargin><rightmargin>20</rightmargin></icon></content>
+
+<content start="48" end="49">
+</content>
+
+</paragraph>
+<paragraph start="49" end="51">
+<Alignment>1</Alignment>
+<content start="49" end="50">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>120.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body vlink=&quot;#000099&quot; marginwidth=&quot;5&quot; face=&quot;Verdana&quot; bgcolor=&quot;#ffffff&quot; marginheight=&quot;2&quot;&gt;
+    &amp;#22312;&amp;#31185;&amp;#30740;&amp;#21644;&amp;#24037;&amp;#19994;&amp;#20013;&amp;#65292;&amp;#20998;&amp;#23376;&amp;#27169;&amp;#25311;&amp;#25216;&amp;#26415;&amp;#34987;&amp;#24191;&amp;#27867;&amp;#29992;&amp;#26469;&amp;#25506;&amp;#32034;&amp;#21644;&amp;#35299;&amp;#37322;&amp;#21457;&amp;#29983;&amp;#22312;&amp;#32435;&amp;#31859;&amp;#23618;&amp;#32423;&amp;#65288;&amp;#21313;&amp;#20159;&amp;#20998;&amp;#20043;&amp;#19968;&amp;#31859;&amp;#65289;&amp;#30340;&amp;#29289;&amp;#29702;&amp;#21270;&amp;#23398;&amp;#29616;&amp;#35937;&amp;#12290;&amp;#36825;&amp;#20010;&amp;#23618;&amp;#32423;&amp;#30340;&amp;#35268;&amp;#24459;&amp;#20027;&amp;#35201;&amp;#26159;&amp;#21407;&amp;#23376;&amp;#20998;&amp;#23376;&amp;#30340;&amp;#36816;&amp;#21160;&amp;#22312;&amp;#20027;&amp;#23548;&amp;#12290;&amp;#20154;&amp;#30340;&amp;#32905;&amp;#30524;&amp;#19981;&amp;#33021;&amp;#30452;&amp;#25509;&amp;#30475;&amp;#21040;&amp;#22312;&amp;#36825;&amp;#24494;&amp;#23567;&amp;#30340;&amp;#23610;&amp;#24230;&amp;#21457;&amp;#29983;&amp;#30340;&amp;#20107;&amp;#24773;&amp;#65292;&amp;#32780;&amp;#19988;&amp;#36825;&amp;#26679;&amp;#30340;&amp;#36807;&amp;#31243;&amp;#36890;&amp;#24120;&amp;#21457;&amp;#29983;&amp;#24471;&amp;#38750;&amp;#24120;&amp;#24555;&amp;#65288;&amp;#27604;&amp;#26041;&amp;#35828;&amp;#19975;&amp;#20159;&amp;#20998;&amp;#20043;&amp;#19968;&amp;#31186;&amp;#65289;&amp;#12290;&amp;#20294;&amp;#26159;&amp;#25308;&amp;#29289;&amp;#29702;&amp;#23398;&amp;#20043;&amp;#36176;&amp;#65292;&amp;#25105;&amp;#20204;&amp;#22823;&amp;#33268;&amp;#30693;&amp;#36947;&amp;#21407;&amp;#23376;&amp;#20998;&amp;#23376;&amp;#30340;&amp;#36816;&amp;#21160;&amp;#23450;&amp;#24459;&amp;#30340;&amp;#25968;&amp;#23398;&amp;#26041;&amp;#31243;&amp;#12290;&amp;#38543;&amp;#30528;&amp;#20449;&amp;#24687;&amp;#25216;&amp;#26415;&amp;#30340;&amp;#36827;&amp;#27493;&amp;#65292;&amp;#22312;&amp;#26222;&amp;#36890;&amp;#23478;&amp;#29992;&amp;#30005;&amp;#33041;&amp;#19978;&amp;#36816;&amp;#34892;&amp;#35299;&amp;#36825;&amp;#20123;&amp;#26041;&amp;#31243;&amp;#30340;&amp;#31243;&amp;#24207;&amp;#26469;&amp;#23637;&amp;#31034;&amp;#24494;&amp;#35266;&amp;#19990;&amp;#30028;&amp;#30340;&amp;#36816;&amp;#21160;&amp;#24050;&amp;#32463;&amp;#25104;&amp;#20026;&amp;#29616;&amp;#23454;&amp;#12290;&amp;#35768;&amp;#22810;&amp;#37325;&amp;#35201;&amp;#30340;&amp;#33258;&amp;#28982;&amp;#29616;&amp;#35937;&amp;#30340;&amp;#21457;&amp;#29983;&amp;#26426;&amp;#29702;&amp;#30001;&amp;#27492;&amp;#21487;&amp;#20197;&amp;#29983;&amp;#21160;&amp;#22320;&amp;#28436;&amp;#31034;&amp;#20986;&amp;#26469;&amp;#12290;&amp;#20114;&amp;#32852;&amp;#32593;&amp;#30340;&amp;#26222;&amp;#21450;&amp;#26356;&amp;#20351;&amp;#24471;&amp;#29992;&amp;#25143;&amp;#33021;&amp;#22815;&amp;#26041;&amp;#20415;&amp;#22320;&amp;#24471;&amp;#21040;&amp;#21035;&amp;#20154;&amp;#30340;&amp;#27169;&amp;#22411;&amp;#12290;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="50" end="51">
+<family>SimSun</family><bold>true</bold><size>14</size></content>
+
+</paragraph>
+<paragraph start="51" end="53">
+<Alignment>1</Alignment>
+<content start="51" end="52">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>800.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font face=&quot;Verdana&quot; size=&quot;4&quot;&gt;&lt;b&gt;&amp;#19968;&amp;#20010;&amp;#23545;&amp;#29702;&amp;#35770;&amp;#19978;&amp;#30340;&amp;#20998;&amp;#23376;&amp;#21407;&amp;#23376;&amp;#36816;&amp;#21160;&amp;#36827;&amp;#34892;&amp;#35266;&amp;#23519;&amp;#21644;&amp;#25805;&amp;#20316;&amp;#30340;&amp;#36719;&amp;#20214;&amp;#30028;&amp;#38754;&lt;/b&gt;&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-431d69</bgcolor><leftmargin>20</leftmargin><rightmargin>20</rightmargin></icon></content>
+
+<content start="52" end="53">
+</content>
+
+</paragraph>
+<paragraph start="53" end="55">
+<Alignment>1</Alignment>
+<content start="53" end="54">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>150.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body vlink=&quot;#000099&quot; marginwidth=&quot;5&quot; face=&quot;Verdana&quot; bgcolor=&quot;#ffffff&quot; marginheight=&quot;2&quot;&gt;
+    &amp;#21482;&amp;#39035;&amp;#36890;&amp;#36807;&amp;#25805;&amp;#20316;&amp;#20108;&amp;#32500;&amp;#25110;&amp;#19977;&amp;#32500;&amp;#30340;&amp;#25152;&amp;#35265;&amp;#21363;&amp;#25152;&amp;#24471;&amp;#30340;&amp;#22270;&amp;#24418;&amp;#30028;&amp;#38754;&amp;#65292;&amp;#24744;&amp;#23601;&amp;#21487;&amp;#20197;&amp;#33258;&amp;#24049;&amp;#35774;&amp;#35745;&amp;#27169;&amp;#22411;&amp;#65292;&amp;#24403;&amp;#21363;&amp;#36816;&amp;#31639;&amp;#65292;&amp;#24182;&amp;#19988;&amp;#31435;&amp;#21051;&amp;#26174;&amp;#31034;&amp;#32467;&amp;#26524;&amp;#12290;&amp;#27604;&amp;#22914;&amp;#35828;&amp;#65292;&amp;#25105;&amp;#20204;&amp;#21487;&amp;#20197;&amp;#20351;&amp;#29992;&amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#21488;&amp;#25552;&amp;#20379;&amp;#30340;&amp;#19977;&amp;#32500;&amp;#20998;&amp;#23376;&amp;#35774;&amp;#35745;&amp;#24037;&amp;#20855;&amp;#35774;&amp;#35745;&amp;#32435;&amp;#31859;&amp;#32467;&amp;#26500;&amp;#65292;&amp;#20363;&amp;#22914;&amp;#35774;&amp;#24819;&lt;a href=&quot;../student/nano/nanocar.cml&quot;&gt;&lt;font&gt;&amp;#29992;&amp;#20110;&amp;#36816;&amp;#36755;&amp;#20998;&amp;#23376;&amp;#30340;&amp;#32435;&amp;#31859;&amp;#36710;&lt;/font&gt;&lt;/a&gt;&amp;#65292;&amp;#28982;&amp;#21518;&amp;#36827;&amp;#34892;&amp;#20998;&amp;#23376;&amp;#21160;&amp;#21147;&amp;#23398;&amp;#27169;&amp;#25311;&amp;#30740;&amp;#31350;&amp;#22914;&amp;#20309;&amp;#25511;&amp;#21046;&amp;#23427;&amp;#30340;&amp;#36816;&amp;#21160;&amp;#12290;&amp;#20877;&amp;#27604;&amp;#22914;&amp;#35828;&amp;#65292;&amp;#28183;&amp;#36879;&amp;#36807;&amp;#31243;&amp;#26377;&amp;#35768;&amp;#22810;&amp;#37325;&amp;#35201;&amp;#30340;&amp;#24212;&amp;#29992;&amp;#65292;&amp;#20294;&amp;#26159;&amp;#23427;&amp;#30340;&amp;#35814;&amp;#32454;&amp;#26426;&amp;#29702;&amp;#20154;&amp;#20204;&amp;#21040;&amp;#29616;&amp;#22312;&amp;#20063;&amp;#27809;&amp;#26377;&amp;#19968;&amp;#33268;&amp;#30340;&amp;#30475;&amp;#27861;&amp;#12290;&amp;#25105;&amp;#20204;&amp;#21487;&amp;#20197;&amp;#29992;&amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#21488;&amp;#24314;&amp;#31435;&amp;#27169;&amp;#22411;&amp;#23558;&amp;#23427;&amp;#27169;&amp;#25311;&amp;#20986;&amp;#26469;&amp;#65292;&amp;#28982;&amp;#21518;&amp;#26469;&amp;#20855;&amp;#20307;&amp;#20998;&amp;#26512;&amp;#31350;&amp;#31455;&amp;#26159;&amp;#21738;&amp;#20123;&amp;#22240;&amp;#32032;&amp;#22312;&amp;#36215;&amp;#20316;&amp;#29992;&amp;#12290;&amp;#36824;&amp;#27604;&amp;#22914;&amp;#35828;&amp;#65292;&amp;#29992;&amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#21488;&amp;#25105;&amp;#20204;&amp;#21487;&amp;#20197;&amp;#23481;&amp;#26131;&amp;#22320;&amp;#27169;&amp;#25311;&amp;#20986;&amp;#26230;&amp;#20307;&amp;#22312;&amp;#21152;&amp;#28909;&amp;#26102;&amp;#30340;&amp;#34701;&amp;#21270;&amp;#36807;&amp;#31243;&amp;#65292;&amp;#20294;&amp;#26159;&amp;#31350;&amp;#31455;&amp;#34701;&amp;#21270;&amp;#26159;&amp;#24590;&amp;#26679;&amp;#21457;&amp;#29983;&amp;#30340;&amp;#65292;&amp;#23398;&amp;#30028;&amp;#30446;&amp;#21069;&amp;#23578;&amp;#26080;&amp;#23450;&amp;#35770;&amp;#12290;&amp;#26377;&amp;#20102;&amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#21488;&amp;#36825;&amp;#20010;&amp;#24037;&amp;#20855;&amp;#65292;&amp;#24744;&amp;#23601;&amp;#21487;&amp;#20197;&amp;#23545;&amp;#36825;&amp;#20123;&amp;#38382;&amp;#39064;&amp;#36827;&amp;#34892;&amp;#19968;&amp;#20123;&amp;#27604;&amp;#36739;&amp;#28145;&amp;#20837;&amp;#30340;&amp;#25506;&amp;#35752;&amp;#12290;&amp;#20174;&amp;#35774;&amp;#35745;&amp;#29289;&amp;#29702;&amp;#23398;&amp;#26368;&amp;#31616;&amp;#21333;&amp;#30340;&amp;#21333;&amp;#25670;&amp;#25110;&amp;#24377;&amp;#31783;&amp;#23454;&amp;#39564;&amp;#65292;&amp;#21270;&amp;#23398;&amp;#30340;&amp;#25193;&amp;#25955;&amp;#28183;&amp;#36879;&amp;#21644;&amp;#29289;&amp;#36136;&amp;#19977;&amp;#24577;&amp;#65292;&amp;#29616;&amp;#20195;&amp;#20998;&amp;#23376;&amp;#29983;&amp;#29289;&amp;#23398;&amp;#30340;&amp;#34507;&amp;#30333;&amp;#36136;&amp;#21512;&amp;#25104;&amp;#20013;&amp;#24515;&amp;#21407;&amp;#29702;&amp;#65292;&amp;#21040;&amp;#29983;&amp;#29289;&amp;#25216;&amp;#26415;&amp;#30340;&amp;#30005;&amp;#27891;&amp;#21644;&amp;#22522;&amp;#22240;&amp;#27979;&amp;#23450;&amp;#65292;&amp;#20877;&amp;#21040;&amp;#30446;&amp;#21069;&amp;#30740;&amp;#31350;&amp;#28909;&amp;#38376;&amp;#30340;&amp;#32435;&amp;#31859;&amp;#21046;&amp;#36896;&amp;#21644;&amp;#32435;&amp;#31859;&amp;#22120;&amp;#20214;&amp;#65292;&amp;#23427;&amp;#25552;&amp;#20379;&amp;#32473;&amp;#24744;&amp;#19968;&amp;#20010;&amp;#23454;&amp;#29992;&amp;#30340;&amp;#31185;&amp;#30740;&amp;#21644;&amp;#25945;&amp;#23398;&amp;#24179;&amp;#21488;&amp;#12290;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="54" end="55">
+<family>SimSun</family><bold>true</bold><size>14</size></content>
+
+</paragraph>
+<paragraph start="55" end="57">
+<LeftIndent>20.0</LeftIndent>
+<Alignment>1</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="55" end="56">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>800.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font face=&quot;Verdana&quot; size=&quot;4&quot;&gt;&lt;b&gt;&amp;#20114;&amp;#21160;&amp;#23186;&amp;#20307;&amp;#21019;&amp;#20316;&amp;#29615;&amp;#22659;&lt;/b&gt;&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-431d69</bgcolor><leftmargin>20</leftmargin><rightmargin>20</rightmargin></icon></content>
+
+<content start="56" end="57">
+</content>
+
+</paragraph>
+<paragraph start="57" end="59">
+<Alignment>1</Alignment>
+<content start="57" end="58">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body vlink=&quot;#000099&quot; marginwidth=&quot;5&quot; face=&quot;Verdana&quot; bgcolor=&quot;#ffffff&quot; marginheight=&quot;2&quot;&gt;
+    &amp;#38500;&amp;#20102;&amp;#26680;&amp;#24515;&amp;#30340;&amp;#20998;&amp;#23376;&amp;#27169;&amp;#25311;&amp;#24341;&amp;#25806;&amp;#20197;&amp;#22806;&amp;#65292;&amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#21488;&amp;#36824;&amp;#20026;&amp;#25945;&amp;#32946;&amp;#30028;&amp;#30340;&amp;#26379;&amp;#21451;&amp;#20204;&amp;#25552;&amp;#20379;&amp;#20102;&amp;#19968;&amp;#20010;&amp;#21151;&amp;#33021;&amp;#24378;&amp;#22823;&amp;#30340;&amp;#20114;&amp;#21160;&amp;#23186;&amp;#20307;&amp;#21019;&amp;#20316;&amp;#29615;&amp;#22659;&amp;#12290;&amp;#24744;&amp;#21487;&amp;#20197;&amp;#22312;&amp;#19968;&amp;#20010;&amp;#31867;&amp;#20284;&amp;#24120;&amp;#29992;&amp;#25991;&amp;#23383;&amp;#22788;&amp;#29702;&amp;#22120;&amp;#30340;&amp;#21451;&amp;#22909;&amp;#30028;&amp;#38754;&amp;#19978;&amp;#20316;&amp;#32593;&amp;#32476;&amp;#35838;&amp;#20214;&amp;#65292;&amp;#25945;&amp;#23398;&amp;#28436;&amp;#31034;&amp;#25110;&amp;#34394;&amp;#25311;&amp;#35797;&amp;#39564;&amp;#12290;&amp;#24744;&amp;#21487;&amp;#20197;&amp;#26041;&amp;#20415;&amp;#22320;&amp;#36755;&amp;#20837;&amp;#25991;&amp;#23383;&amp;#12289;&amp;#24314;&amp;#31435;&amp;#27169;&amp;#22411;&amp;#12289;&amp;#25554;&amp;#20837;&amp;#25511;&amp;#21046;&amp;#22120;&amp;#12289;&amp;#36755;&amp;#20986;&amp;#22270;&amp;#34920;&amp;#12289;&amp;#35774;&amp;#35745;&amp;#38382;&amp;#39064;&amp;#12289;&amp;#25918;&amp;#21040;&amp;#32593;&amp;#19978;&amp;#31561;&amp;#31561;&amp;#12290;&amp;#34429;&amp;#28982;&amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#21488;&amp;#26159;&amp;#24320;&amp;#28304;&amp;#36719;&amp;#20214;&amp;#65292;&amp;#20294;&amp;#26159;&amp;#24744;&amp;#20173;&amp;#28982;&amp;#25317;&amp;#26377;&amp;#24744;&amp;#30340;&amp;#21407;&amp;#21019;&amp;#30340;&amp;#33879;&amp;#20316;&amp;#20135;&amp;#26435;&amp;#12290;&amp;#20063;&amp;#23601;&amp;#26159;&amp;#35828;&amp;#65292;&amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#21488;&amp;#30340;&amp;#24320;&amp;#28304;&amp;#24615;&amp;#24182;&amp;#19981;&amp;#22952;&amp;#30861;&amp;#24744;&amp;#20197;&amp;#23427;&amp;#20026;&amp;#24037;&amp;#20855;&amp;#21019;&amp;#20316;&amp;#20197;&amp;#36194;&amp;#21033;&amp;#20026;&amp;#30446;&amp;#30340;&amp;#30340;&amp;#36164;&amp;#26009;&amp;#12290;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="58" end="59">
+<family>SimSun</family><size>14</size></content>
+
+</paragraph>
+<paragraph start="59" end="61">
+<LeftIndent>20.0</LeftIndent>
+<Alignment>1</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="59" end="60">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>800.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font face=&quot;Verdana&quot; size=&quot;4&quot;&gt;&lt;b&gt;&amp;#31163;&amp;#32447;&amp;#20351;&amp;#29992;&lt;/b&gt;&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-431d69</bgcolor><leftmargin>20</leftmargin><rightmargin>20</rightmargin></icon></content>
+
+<content start="60" end="61">
+</content>
+
+</paragraph>
+<paragraph start="61" end="63">
+<Alignment>1</Alignment>
+<content start="61" end="62">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>800.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body vlink=&quot;#000099&quot; marginwidth=&quot;5&quot; face=&quot;Verdana&quot; bgcolor=&quot;#ffffff&quot; marginheight=&quot;2&quot;&gt;
+    &amp;#20998;&amp;#23376;&amp;#24037;&amp;#20316;&amp;#26080;&amp;#38656;&amp;#22987;&amp;#32456;&amp;#36830;&amp;#32447;&amp;#12290;&amp;#24744;&amp;#21487;&amp;#20197;&amp;#25353;&amp;#20197;&amp;#19979;&amp;#27493;&amp;#39588;&amp;#20107;&amp;#20808;&amp;#23558;&amp;#22823;&amp;#37096;&amp;#20998;&amp;#32593;&amp;#39029;&amp;#19979;&amp;#36733;&amp;#21040;&amp;#39640;&amp;#36895;&amp;#25968;&amp;#25454;&amp;#32531;&amp;#23384;&amp;#21306;&amp;#28982;&amp;#24460;&amp;#19979;&amp;#32447;&amp;#20351;&amp;#29992;&amp;#65306;&amp;#36873;&amp;#25321;&amp;#8220;&amp;#36873;&amp;#39033;&amp;#12297;&amp;#39044;&amp;#20808;&amp;#32531;&amp;#23384;&amp;#8221;&amp;#33756;&amp;#21333;&amp;#65292;&amp;#36873;&amp;#25321;&amp;#23433;&amp;#35013;&amp;#25152;&amp;#26377;&amp;#20869;&amp;#23481;&amp;#65292;&amp;#28982;&amp;#21518;&amp;#38745;&amp;#20399;&amp;#12290;&amp;#19979;&amp;#36733;&amp;#23436;&amp;#27605;&amp;#21518;&amp;#20174;&amp;#8220;&amp;#25991;&amp;#26723;&amp;#8221;&amp;#33756;&amp;#21333;&amp;#36873;&amp;#25321;&amp;#8220;&amp;#31163;&amp;#32447;&amp;#24037;&amp;#20316;&amp;#8221;&amp;#12290;&amp;#24744;&amp;#23601;&amp;#21487;&amp;#20197;&amp;#26080;&amp;#38656;&amp;#32593;&amp;#32476;&amp;#36830;&amp;#25509;&amp;#20063;&amp;#21487;&amp;#20197;&amp;#20351;&amp;#29992;&amp;#20102;&amp;#12290;&amp;#27880;&amp;#24847;&amp;#19981;&amp;#26159;&amp;#25152;&amp;#26377;&amp;#30340;&amp;#32593;&amp;#39029;&amp;#37117;&amp;#25552;&amp;#20379;&amp;#39044;&amp;#32531;&amp;#23384;&amp;#26381;&amp;#21153;&amp;#12290;&amp;#27809;&amp;#26377;&amp;#36825;&amp;#39033;&amp;#26381;&amp;#21153;&amp;#30340;&amp;#32593;&amp;#39029;&amp;#19979;&amp;#32447;&amp;#24460;&amp;#19981;&amp;#19968;&amp;#23450;&amp;#33021;&amp;#30475;&amp;#21040;&amp;#12290;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="62" end="63">
+<size>10</size></content>
+
+</paragraph>
+<paragraph start="63" end="65">
+<Alignment>1</Alignment>
+<content start="63" end="64">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>800.0</width><height>50</height><arcwidth>400</arcwidth><archeight>25</archeight><cornerarc>10</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;center&gt;
+      &lt;font face=&quot;Verdana&quot; color=&quot;#666666&quot; size=&quot;3&quot;&gt;Concord Consortium Inc., 
+      &amp;#20108;&amp;#38646;&amp;#38646;&amp;#22235;&amp;#24180;&amp;#33267;&amp;#20108;&amp;#38646;&amp;#19968;&amp;#20108;&amp;#24180;&lt;br&gt;&amp;#160;&lt;/font&gt;&lt;a href=&quot;http://mw.concord.org/modeler/&quot;&gt;&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;http://mw.concord.org&lt;/font&gt;&lt;/a&gt;
+    &lt;/center&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-431d69</bgcolor><leftmargin>20</leftmargin><rightmargin>20</rightmargin></icon></content>
+
+<content start="64" end="65">
+<size>10</size></content>
+
+</paragraph>
+<paragraph start="65" end="68">
+<Alignment>1</Alignment>
+<content start="65" end="66">
+</content>
+
+<content start="66" end="67">
+<icon>nsflogx.gif</icon></content>
+
+<content start="67" end="68">
+</content>
+
+</paragraph>
+<paragraph start="68" end="102">
+<Alignment>1</Alignment>
+<content start="68" end="102">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="102" end="111">
+<Alignment>1</Alignment>
+<content start="102" end="106">
+<size>14</size></content>
+
+<content start="106" end="110">
+<href>http://www.concord.org/~qxie/</href><size>14</size></content>
+
+<content start="110" end="111">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="111" end="112">
+<Alignment>1</Alignment>
+<content start="111" end="112">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="112" end="184">
+<Alignment>1</Alignment>
+<content start="112" end="184">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="184" end="225">
+<Alignment>1</Alignment>
+<content start="184" end="204">
+<size>14</size></content>
+
+<content start="204" end="216">
+<href>http://creativecommons.org/licenses/by-nc/3.0/</href><size>14</size></content>
+
+<content start="216" end="225">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="225" end="226">
+<Alignment>1</Alignment>
+<content start="225" end="226">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="226" end="227">
+<Alignment>1</Alignment>
+<content start="226" end="227">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="227" end="228">
+<Alignment>1</Alignment>
+<content start="227" end="228">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="228" end="229">
+<Alignment>1</Alignment>
+<content start="228" end="229">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="229" end="230">
+<content start="229" end="230">
+<size>14</size></content>
+
+</paragraph>
+<paragraph start="230" end="231">
+</paragraph>
+</section>
+</document>

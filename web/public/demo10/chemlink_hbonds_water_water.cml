@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Intermolecular Attractions: Hydrogen &quot;Bonds&quot; - A Special Type of Attraction</page_title>
+<bg_color><Red>240</Red><Green>233</Green><Blue>207</Blue></bg_color>
+<text>
+
+ 
+ 
+
+ 
+     
+
+ 
+
+&#20320;&#24050;&#23436;&#25104;&#22797;&#20064;&#65292;&#25226;&#31383;&#21475;&#20851;&#25481;&#65292;&#22238;&#21040;&#21407;&#26469;&#30340;&#27963;&#21160;&#20013;&#12290;
+
+</text>
+<section start="0" end="44">
+<paragraph start="0" end="1">
+<Alignment>1</Alignment>
+<content start="0" end="1">
+</content>
+
+</paragraph>
+<paragraph start="1" end="2">
+<Alignment>1</Alignment>
+<content start="1" end="2">
+</content>
+
+</paragraph>
+<paragraph start="2" end="4">
+<Alignment>1</Alignment>
+<content start="2" end="3">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>40</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;strong&gt;&lt;font size=&quot;5&quot; color=&quot;#FFFFFF&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;&amp;#21270;&amp;#23398;&amp;#38142;&amp;#25509;:&lt;/font&gt;&lt;/strong&gt;&lt;font size=&quot;5&quot; color=&quot;#FFFFFF&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt; 
+    &amp;#27700;&amp;#23545;&amp;#27700;&amp;#30340;&amp;#21560;&amp;#24341;&amp;#21147;&amp;#21644;&amp;#27682;&amp;#38190;&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-59a2d4</bgcolor></icon></content>
+
+<content start="3" end="4">
+</content>
+
+</paragraph>
+<paragraph start="4" end="6">
+<Alignment>1</Alignment>
+<content start="4" end="5">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>120</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>15</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginheight=&quot;5&quot;&gt;
+    &lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;98&quot; src=&quot;chargeMainIdea.png&quot; height=&quot;58&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;font size=&quot;4&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;&amp;#22312;&amp;#27700;&amp;#21644;&amp;#20854;&amp;#20182;&amp;#35768;&amp;#22810;&amp;#29983;&amp;#29289;&amp;#20998;&amp;#23376;&amp;#20013;&amp;#65292;&amp;#27682;&amp;#25658;&amp;#24102;&amp;#37096;&amp;#20998;&amp;#27491;&amp;#30005;&amp;#33655;&amp;#12290;&amp;#25152;&amp;#20197;&amp;#65292;&amp;#19968;&amp;#20010;&amp;#20998;&amp;#23376;&amp;#20013;&amp;#30340;&amp;#27682;&amp;#21407;&amp;#23376;&amp;#20250;&amp;#21560;&amp;#24341;&amp;#21478;&amp;#19968;&amp;#20010;&amp;#20998;&amp;#23376;&amp;#20013;&amp;#21407;&amp;#23376;&amp;#36127;&amp;#30005;&amp;#30340;&amp;#37096;&amp;#20998;&amp;#65292;&amp;#36825;&amp;#20010;&amp;#20114;&amp;#30456;&amp;#20316;&amp;#29992;&amp;#26377;&amp;#23427;&amp;#33258;&amp;#24049;&amp;#30340;&amp;#21517;&amp;#31216;&amp;#65306;&lt;b&gt;&amp;#27682;&amp;#38190;&lt;/b&gt;&amp;#12290;&lt;/font&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-15235a</bgcolor></icon></content>
+
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="7">
+<Alignment>1</Alignment>
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="9">
+<Alignment>1</Alignment>
+<content start="7" end="8">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>370.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;table border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;
+      &lt;tr&gt;
+        &lt;td rowspan=&quot;2&quot;&gt;
+          &lt;img width=&quot;265&quot; src=&quot;dipoleHbond.gif&quot; height=&quot;351&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td align=&quot;center&quot;&gt;
+          &lt;img width=&quot;365&quot; src=&quot;water_surface2Comp.png&quot; height=&quot;201&quot;&gt;
+          
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td valign=&quot;top&quot;&gt;
+          &lt;font size=&quot;4&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;&amp;#27700;&amp;#65292;&amp;#23545;&amp;#29983;&amp;#21629;&amp;#26368;&amp;#37325;&amp;#35201;&amp;#30340;&amp;#20998;&amp;#23376;&amp;#65292;&amp;#26159;&amp;#26497;&amp;#24615;&amp;#20998;&amp;#23376;&amp;#12290;&amp;#25152;&amp;#20197;&amp;#65292;&amp;#27700;&amp;#20998;&amp;#23376;&amp;#20114;&amp;#30456;&amp;#21560;&amp;#24341;&amp;#12290;&amp;#19968;&amp;#20010;&amp;#20998;&amp;#23376;&amp;#24102;&amp;#27491;&amp;#30005;&amp;#30340;&amp;#27682;&amp;#21644;&amp;#20854;&amp;#20182;&amp;#20998;&amp;#23376;&amp;#24102;&amp;#36127;&amp;#30005;&amp;#30340;&amp;#37096;&amp;#20998;&amp;#21560;&amp;#24341;&amp;#65292;&amp;#25105;&amp;#20204;&amp;#29992;&amp;#8221;&amp;#27682;&amp;#38190;&amp;#8220;&amp;#34920;&amp;#31034;&amp;#36825;&amp;#31181;&amp;#20598;&amp;#26497;-&amp;#20598;&amp;#26497;&amp;#21560;&amp;#24341;&amp;#21147;&amp;#30340;&amp;#8226;&amp;#30456;&amp;#23545;&amp;#24378;&amp;#30340;&amp;#24418;&amp;#24335;&amp;#12290;&lt;/font&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="15">
+<Alignment>1</Alignment>
+<content start="9" end="10">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>330.0</width>
+<height>290.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;table border=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;font size=&quot;4&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;&amp;#21491;&amp;#36793;&amp;#26159;&amp;#20010;&amp;#27668;&amp;#24577;&amp;#27700;&amp;#30340;&amp;#27169;&amp;#22411;&amp;#65288;&amp;#21363;&amp;#27700;&amp;#33976;&amp;#27773;&amp;#65289;&amp;#12290;&amp;#36816;&amp;#34892;( 
+          &lt;img width=&quot;7&quot; src=&quot;play.gif&quot; height=&quot;12&quot;&gt; )&amp;#27169;&amp;#22411;&amp;#65292;&amp;#23454;&amp;#39564;&amp;#19979;&amp;#38754;&amp;#30340;&amp;#25511;&amp;#20214;&amp;#65292;&amp;#26469;&amp;#30475;&amp;#27700;&amp;#20013;&amp;#27682;&amp;#38190;&amp;#30340;&amp;#25928;&amp;#26524;&amp;#12290;&lt;/font&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align=&quot;center&quot;&gt;
+          &lt;table border=&quot;0&quot; width=&quot;207&quot;&gt;
+            &lt;tr&gt;
+              &lt;td colspan=&quot;2&quot; align=&quot;center&quot;&gt;
+                &lt;input script=&quot;script:mw:1:select atom all; heat 0.2; select atom none;&quot; value=&quot;&#21152;&#28909;&quot; type=&quot;submit&quot; name=&quot;Submit&quot;&gt;
+                &amp;#160; &lt;input script=&quot;script:mw:1:select atom all; heat -0.2; select atom none;&quot; value=&quot;&#20919;&#21364;&quot; type=&quot;submit&quot; name=&quot;Submit2&quot;&gt;
+              &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td width=&quot;24&quot;&gt;
+                &lt;input checked=&quot;checked&quot; script_selected=&quot;script:mw:1:show vdwline on&quot; script_deselected=&quot;script:mw:1:show vdwline off&quot; value=&quot;checkbox&quot; type=&quot;checkbox&quot; name=&quot;checkbox&quot;&gt;
+                
+              &lt;/td&gt;
+              &lt;td width=&quot;159&quot;&gt;
+                &amp;#26174;&amp;#31034;&amp;#27682;&amp;#38190;
+              &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                &lt;input script_selected=&quot;script:mw:1:show charge on&quot; script_deselected=&quot;script:mw:1:show charge off&quot; value=&quot;checkbox&quot; type=&quot;checkbox&quot; name=&quot;checkbox2&quot;&gt;
+                
+              &lt;/td&gt;
+              &lt;td&gt;
+                &amp;#26174;&amp;#31034;&amp;#30005;&amp;#33655;
+              &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                &lt;input script_selected=&quot;script:mw:1:set timestep .1;&quot; script_deselected=&quot;script:mw:1:set timestep 1;&quot; value=&quot;checkbox&quot; type=&quot;checkbox&quot; name=&quot;checkbox3&quot;&gt;
+                
+              &lt;/td&gt;
+              &lt;td&gt;
+                &amp;#24930;&amp;#38236;&amp;#22836;
+              &lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/table&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="10" end="13">
+</content>
+
+<content start="13" end="14">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>chemlink_hbonds_water_water$0.mml</resource><menubar>false</menubar><recorderless>true</recorderless>
+</component></content>
+
+<content start="14" end="15">
+</content>
+
+</paragraph>
+<paragraph start="15" end="16">
+<Alignment>1</Alignment>
+<content start="15" end="16">
+</content>
+
+</paragraph>
+<paragraph start="16" end="18">
+<Alignment>1</Alignment>
+<content start="16" end="17">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>110.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;10&quot; marginheight=&quot;10&quot;&gt;
+    &lt;p class=&quot;firstp&quot;&gt;
+      &lt;font size=&quot;3&quot;&gt;&amp;#27880;&amp;#24847;&amp;#65306;&amp;#29992;&amp;#26469;&amp;#34920;&amp;#31034;&amp;#27491;&amp;#36127;&amp;#30005;&amp;#33655;&amp;#30340;&amp;#39068;&amp;#33394;&amp;#21644;&amp;#21270;&amp;#23398;&amp;#65292;&amp;#29983;&amp;#29289;&amp;#27963;&amp;#21160;&amp;#19981;&amp;#19968;&amp;#26679;&amp;#12290;&lt;b&gt;&amp;#35760;&amp;#24471;&amp;#26816;&amp;#26597;&amp;#39068;&amp;#33394;&amp;#38190;&amp;#30475;&amp;#30475;&amp;#21738;&amp;#31181;&amp;#39068;&amp;#33394;&amp;#34920;&amp;#31034;&amp;#27491;&amp;#65292;&amp;#21738;&amp;#31181;&amp;#39068;&amp;#33394;&amp;#34920;&amp;#31034;&amp;#36127;&lt;/b&gt;&amp;#65292;&amp;#21644;&amp;#21270;&amp;#23398;&amp;#27963;&amp;#21160;&amp;#20013;&amp;#19981;&amp;#19968;&amp;#26679;&amp;#65292;&amp;#65288;&amp;#36825;&amp;#37324;&amp;#65292;&amp;#32418;&amp;#33394;&amp;#34920;&amp;#38754;&amp;#26159;&amp;#27491;&amp;#30340;&amp;#65289;,&amp;#22312;&amp;#29983;&amp;#29289;&amp;#27963;&amp;#21160;&amp;#20013;&amp;#65288;&amp;#32418;&amp;#33394;&amp;#34920;&amp;#38754;&amp;#26159;&amp;#36127;&amp;#30340;&amp;#65289;&amp;#12290;&amp;#28982;&amp;#32780;&amp;#65292;&amp;#26356;&amp;#37325;&amp;#35201;&amp;#30340;&amp;#26159;&amp;#25226;&amp;#30005;&amp;#33655;&amp;#20998;&amp;#25104;&amp;#27491;&amp;#21644;&amp;#36127;&amp;#30340;&amp;#37327;&amp;#65292;&amp;#21363;&amp;#39068;&amp;#33394;&amp;#30340;&amp;#20142;&amp;#24230;&amp;#65292;&amp;#32780;&amp;#19981;&amp;#26159;&amp;#21738;&amp;#20010;&amp;#20195;&amp;#34920;&amp;#27491;&amp;#65292;&amp;#21738;&amp;#20010;&amp;#20195;&amp;#34920;&amp;#36127;&amp;#12290;&lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+<border>Raised Etched</border>
+</component></content>
+
+<content start="17" end="18">
+</content>
+
+</paragraph>
+<paragraph start="18" end="19">
+<Alignment>1</Alignment>
+<content start="18" end="19">
+</content>
+
+</paragraph>
+<paragraph start="19" end="42">
+<Alignment>1</Alignment>
+<content start="19" end="41">
+<size>14</size></content>
+
+<content start="41" end="42">
+</content>
+
+</paragraph>
+<paragraph start="42" end="43">
+<content start="42" end="43">
+<size>10</size></content>
+
+</paragraph>
+<paragraph start="43" end="44">
+</paragraph>
+</section>
+</document>

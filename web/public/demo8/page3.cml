@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>From DNA to Proteins: Modeling a 3D helix in 2D space</page_title>
+<bg_color><Red>244</Red><Green>245</Green><Blue>239</Blue></bg_color>
+<text>
+ 
+ 
+
+ 
+
+
+ 
+&#21333;&#20987;&#19978;&#22270;&#20013;&#30340;&#23383;&#27597;&#26469;&#31361;&#20986;&#19979;&#38754;&#30340; 3D &#20998;&#23376;&#20013;&#30340;&#26680;&#33527;&#37240;&#12290;
+ 
+ 
+ 
+
+ 
+
+</text>
+<section start="0" end="50">
+<paragraph start="0" end="1">
+<content start="0" end="1">
+</content>
+
+</paragraph>
+<paragraph start="1" end="3">
+<Alignment>1</Alignment>
+<content start="1" end="2">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; color=&quot;#FFFFFF&quot; size=&quot;5&quot;&gt;&lt;strong&gt;&amp;#20174;DNA&amp;#21040;&amp;#34507;&amp;#30333;&amp;#36136;&amp;#65306;&lt;/strong&gt; 
+    &amp;#22312;&amp;#20108;&amp;#32500;&amp;#24179;&amp;#38754;&amp;#27169;&amp;#25311;&amp;#19977;&amp;#32500;&amp;#34746;&amp;#26059;&lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-c588a1</bgcolor></icon></content>
+
+<content start="2" end="3">
+</content>
+
+</paragraph>
+<paragraph start="3" end="5">
+<Alignment>1</Alignment>
+<content start="3" end="4">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>26.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;0&quot; marginheight=&quot;0&quot; background=&quot;topNavBarLeftMargin.jpg&quot;&gt;
+    &lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; id=&quot;Table_01&quot; width=&quot;100%&quot; border=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img src=&quot;topNavBarLeftMargin.jpg&quot; width=&quot;14&quot; height=&quot;26&quot;&gt;
+          &lt;a href=&quot;page2.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;prev.jpg&quot; height=&quot;26&quot; width=&quot;60&quot; border=&quot;0&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;next.jpg&quot; border=&quot;0&quot; width=&quot;59&quot; height=&quot;26&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img src=&quot;page.jpg&quot; width=&quot;54&quot; height=&quot;26&quot;&gt;
+          &lt;a href=&quot;index.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;index.jpg&quot; border=&quot;0&quot; width=&quot;46&quot; height=&quot;26&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;page1.jpg&quot; height=&quot;26&quot; width=&quot;28&quot; border=&quot;0&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img src=&quot;page2.jpg&quot; height=&quot;26&quot; width=&quot;28&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img src=&quot;page3Selected.jpg&quot; height=&quot;26&quot; width=&quot;28&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;page4.jpg&quot; border=&quot;0&quot; width=&quot;29&quot; height=&quot;26&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img src=&quot;page5.jpg&quot; border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img src=&quot;page6.jpg&quot; border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;img src=&quot;page7.jpg&quot; border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page8.cml&quot;&gt;&lt;img src=&quot;page8.jpg&quot; border=&quot;0&quot; width=&quot;29&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;img src=&quot;page9.jpg&quot; border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page10.cml&quot;&gt;&lt;img src=&quot;page10.jpg&quot; border=&quot;0&quot; width=&quot;25&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page11.cml&quot;&gt;&lt;img src=&quot;page11.jpg&quot; border=&quot;0&quot; width=&quot;27&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;img src=&quot;topNavBarRightMargin.jpg&quot; width=&quot;7&quot; height=&quot;26&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>1</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="8">
+<Alignment>1</Alignment>
+<content start="6" end="7">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>140</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>15</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginheight=&quot;5&quot;&gt;
+    &lt;table cellpadding=&quot;0&quot; border=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;98&quot; height=&quot;58&quot; src=&quot;atomMainIdea.png&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;&amp;#22312;&amp;#21069;&amp;#19968;&amp;#39029;&amp;#38754;&amp;#24744;&amp;#24050;&amp;#32463;&amp;#30475;&amp;#21040; 
+          DNA &amp;#26159;&amp;#20004;&amp;#32929;&amp;#34746;&amp;#26059;&amp;#65292;&amp;#27599;&amp;#32929;&amp;#30001;&amp;#26680;&amp;#33527;&amp;#37240;&amp;#24207;&amp;#21015;&amp;#32452;&amp;#25104;&amp;#12290;&lt;b&gt;&amp;#20026;&amp;#32487;&amp;#32493;&amp;#25506;&amp;#32034; 
+          DNA &amp;#21644;&amp;#23427;&amp;#30340;&amp;#23494;&amp;#30721;&amp;#65292;&amp;#25105;&amp;#20204;&amp;#24050;&amp;#25226;3D &amp;#34746;&amp;#26059;&amp;#27169; &amp;#22411;&amp;#36716;&amp;#21464;&amp;#25104;2D &amp;#27169;&amp;#22411;&amp;#65292;&amp;#25226;&amp;#23427;&amp;#30340;&amp;#20027;&amp;#26438;&amp;#25289;&amp;#30452;&lt;/b&gt;&amp;#36825;&amp;#26679;&amp;#23601;&amp;#26356;&amp;#23481;&amp;#26131;&amp;#20102;&amp;#35299;&amp;#26680;&amp;#33527;&amp;#37240;&amp;#30340;&amp;#24207;&amp;#21015;&amp;#65292;&amp;#21450;&amp;#36825;&amp;#20123;&amp;#24207;&amp;#21015;&amp;#26159;&amp;#22914;&amp;#20309;&amp;#21253;&amp;#21547;&amp;#20102;&amp;#32454;&amp;#32990;&amp;#20013;&amp;#21019;&amp;#24314;&amp;#34507;&amp;#30333;&amp;#36136;&amp;#30340; 
+          &amp;#20449;&amp;#24687;&amp;#30340;&amp;#12290;&lt;/font&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-231326</bgcolor></icon></content>
+
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="9">
+<Alignment>1</Alignment>
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="10">
+<Alignment>1</Alignment>
+<content start="9" end="10">
+</content>
+
+</paragraph>
+<paragraph start="10" end="12">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="10" end="11">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>400.0</width>
+<height>100.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;map name=&quot;Map&quot;&gt;
+      &lt;area shape=&quot;poly&quot; coords=&quot;24,8,26,43&quot; href=&quot;#&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;27,10,50,45&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[T]10; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;83,10,106,46&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[T]8; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;112,11,134,44&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[T]7; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;167,10,191,45&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[T]5; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;196,10,218,45&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[T]4; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;281,11,304,43&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[T]1; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;281,50,303,81&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[A]10; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;251,10,276,43&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[A]2; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;252,49,275,83&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[T]9; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; color atoms red; delay 0.33; color atoms [255,246,153]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;197,50,218,83&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[A]7; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;168,50,191,82&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[A]6; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;111,48,134,82&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[A]4; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;poly&quot; coords=&quot;55,9,55,40,67,33,78,40,77,10&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[G]9; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;83,50,106,83&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[A]3; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;rect&quot; coords=&quot;28,50,51,83&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[A]1; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; color atoms red; delay 0.33; color atoms [125,167,217]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;poly&quot; coords=&quot;55,82,55,50,66,41,78,50,77,82,77,82&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[C]2; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;poly&quot; coords=&quot;139,11,139,41,151,52,159,44,161,11&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[C]6; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;poly&quot; coords=&quot;139,51,139,82,163,82,161,50,152,58&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[G]5; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;poly&quot; coords=&quot;224,83,224,49,234,40,245,49,246,83&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[C]8; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; color atoms red; delay 0.33; color atoms [196,253,154]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+      &lt;area shape=&quot;poly&quot; coords=&quot;224,11,246,10,246,40,237,32,224,40&quot; href=&quot;script:jmol:1:select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]; select[G]3; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; color atoms red; delay 0.33; color atoms [253,197,136]; delay 0.33; select all&quot;&gt;&lt;/area&gt;
+    &lt;/map&gt;
+    &lt;div align=&quot;center&quot;&gt;
+      &lt;img usemap=&quot;#Map&quot; src=&quot;dnaModel.gif&quot;&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="11" end="12">
+</content>
+
+</paragraph>
+<paragraph start="12" end="39">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="12" end="39">
+<bold>true</bold><size>14</size></content>
+
+</paragraph>
+<paragraph start="39" end="41">
+<Alignment>1</Alignment>
+<content start="39" end="40">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>400.0</width><height>20</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-339a00</bgcolor></icon></content>
+
+<content start="40" end="41">
+</content>
+
+</paragraph>
+<paragraph start="41" end="43">
+<Alignment>1</Alignment>
+<content start="41" end="42">
+<component><class>org.concord.modeler.PageMolecularViewer</class>
+<script>select *.O1P; labels %n; color labels white; font label 16 sansserif bold;  set labeloffset 0 0; select A; color atoms [125,167,217]; select T; color atoms [255,246,153]; select G; color atoms [253,197,136]; select C; color atoms [196,253,154]</script><menubar>false</menubar><toolbar>false</toolbar><statusbar>false</statusbar><resource>dna.pdb</resource><state>page3$0.jms</state><width>400.0</width>
+<height>400.0</height>
+</component></content>
+
+<content start="42" end="43">
+</content>
+
+</paragraph>
+<paragraph start="43" end="45">
+<Alignment>1</Alignment>
+<content start="43" end="44">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>400.0</width><height>28</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>10</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-339a00</bgcolor></icon></content>
+
+<content start="44" end="45">
+</content>
+
+</paragraph>
+<paragraph start="45" end="46">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="45" end="46">
+</content>
+
+</paragraph>
+<paragraph start="46" end="48">
+<Alignment>1</Alignment>
+<content start="46" end="47">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>26.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;0&quot; marginheight=&quot;0&quot; background=&quot;topNavBarLeftMargin.jpg&quot;&gt;
+    &lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; id=&quot;Table_01&quot; width=&quot;100%&quot; border=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img src=&quot;topNavBarLeftMargin.jpg&quot; width=&quot;14&quot; height=&quot;26&quot;&gt;
+          &lt;a href=&quot;page2.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;prev.jpg&quot; height=&quot;26&quot; width=&quot;60&quot; border=&quot;0&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;next.jpg&quot; border=&quot;0&quot; width=&quot;59&quot; height=&quot;26&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img src=&quot;page.jpg&quot; width=&quot;54&quot; height=&quot;26&quot;&gt;
+          &lt;a href=&quot;index.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;index.jpg&quot; border=&quot;0&quot; width=&quot;46&quot; height=&quot;26&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;page1.jpg&quot; height=&quot;26&quot; width=&quot;28&quot; border=&quot;0&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img src=&quot;page2.jpg&quot; height=&quot;26&quot; width=&quot;28&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img src=&quot;page3Selected.jpg&quot; height=&quot;26&quot; width=&quot;28&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;font&gt;&lt;img src=&quot;page4.jpg&quot; border=&quot;0&quot; width=&quot;29&quot; height=&quot;26&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img src=&quot;page5.jpg&quot; border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img src=&quot;page6.jpg&quot; border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;img src=&quot;page7.jpg&quot; border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page8.cml&quot;&gt;&lt;img src=&quot;page8.jpg&quot; border=&quot;0&quot; width=&quot;29&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;img src=&quot;page9.jpg&quot; border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page10.cml&quot;&gt;&lt;img src=&quot;page10.jpg&quot; border=&quot;0&quot; width=&quot;25&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page11.cml&quot;&gt;&lt;img src=&quot;page11.jpg&quot; border=&quot;0&quot; width=&quot;27&quot; height=&quot;26&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;img src=&quot;topNavBarRightMargin.jpg&quot; width=&quot;7&quot; height=&quot;26&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="47" end="48">
+</content>
+
+</paragraph>
+<paragraph start="48" end="49">
+<content start="48" end="49">
+</content>
+
+</paragraph>
+<paragraph start="49" end="50">
+</paragraph>
+</section>
+</document>

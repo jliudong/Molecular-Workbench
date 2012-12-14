@@ -1,0 +1,50 @@
+COMPND  fructose_alpha.PDB                                                      
+HETATM    1  C                  -1.422   0.380   0.365                
+HETATM    2  O                   1.074  -0.891   1.161                
+HETATM    3  C                   2.161   0.290  -0.560                
+HETATM    4  C                  -2.311  -1.521  -0.882                
+HETATM    5  O                  -1.807   0.446   1.732                
+HETATM    6  C                   0.839  -0.200  -0.058                
+HETATM    7  C                  -1.208  -1.049   0.024                
+HETATM    8  C                  -0.041   0.969   0.250                
+HETATM    9  O                  -0.030   1.828  -0.881                
+HETATM   10  O                  -0.006  -1.119  -0.697                
+HETATM   11  O                   2.987  -0.848  -0.760                
+HETATM   12  O                  -2.064  -2.888  -1.180                
+HETATM   17  H                  -2.275   0.777  -0.226                
+HETATM   18  H                   1.464  -0.274   1.755                
+HETATM   19  H                   2.649   0.905   0.227                
+HETATM   20  H                   2.026   0.766  -1.555                
+HETATM   21  H                  -2.260  -0.970  -1.846                
+HETATM   22  H                  -3.279  -1.484  -0.336                
+HETATM   23  H                  -1.940   1.355   1.935                
+HETATM   13  H                  -1.210  -1.655   0.955                
+HETATM   14  H                   0.255   1.406   1.228                
+HETATM   15  H                   0.837   2.189  -0.942                
+HETATM   16  H                   3.069  -1.278   0.075                
+HETATM   24  H                  -1.224  -2.927  -1.605                
+CONECT    1    5    7    8   17                              
+CONECT    2    6   18                                        
+CONECT    3    6   11   19   20                              
+CONECT    4    7   12   21   22                              
+CONECT    5    1   23                                        
+CONECT    6    2    3    8   10                              
+CONECT    7    1    4   10   13                              
+CONECT    8    1    6    9   14                              
+CONECT    9    8   15                                        
+CONECT   10    6    7                                        
+CONECT   11    3   16                                        
+CONECT   12    4   24                                        
+CONECT   17    1                                             
+CONECT   18    2                                             
+CONECT   19    3                                             
+CONECT   20    3                                             
+CONECT   21    4                                             
+CONECT   22    4                                             
+CONECT   23    5                                             
+CONECT   13    7                                             
+CONECT   14    8                                             
+CONECT   15    9                                             
+CONECT   16   11                                             
+CONECT   24   12                                             
+END   

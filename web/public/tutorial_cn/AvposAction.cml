@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>The Average-Position Tool</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#24179;&#22343;&#20301;&#32622;&#24037;&#20855;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#22312;&#19968;&#20010;&#27169;&#25311;&#20013;&#65292;&#26174;&#31034;&#19968;&#20010;&#23545;&#35937;&#30446;&#21069;&#30340;&#24179;&#22343;&#20301;&#32622;&#23558;&#20250;&#24456;&#26377;&#35048;&#30410;&#12290;&#20363;&#22914;&#65292;&#22312;&#19968;&#20010;&#33180;&#30340;&#27169;&#25311;&#20013;&#65292;&#30001;&#20110;&#23384;&#22312;&#26126;&#26174;&#30340;&#28909;&#27874;&#21160;&#29616;&#35937;&#65292;&#31890;&#23376;&#30340;&#25391;&#21160;&#21487;&#33021;&#24456;&#26126;&#26174;&#12290;&#20026;&#20102;&#30830;&#23450;&#38024;&#23545;&#19968;&#20010;&#29305;&#23450;&#30340;&#26041;&#21521;&#26159;&#21542;&#23384;&#22312;&#19968;&#31181;&#19968;&#33268;&#30340;&#25197;&#26354;&#29616;&#35937;&#65292;&#25105;&#20204;&#21482;&#33021;&#35745;&#31639;&#23427;&#30340;&#24179;&#22343;&#20301;&#32622;&#12290;
+
+&#26174;&#31034;&#25110;&#32773;&#38544;&#34255;&#20854;&#24403;&#21069;&#30340;&#24179;&#22343;&#20301;&#32622;&#65292;&#35831;&#36873;&#25321;&#36712;&#36857;&#24037;&#20855; (&quot; &quot;), &#65292;&#28982;&#21518;&#28857;&#20987;&#19968;&#20010;&#31890;&#23376;&#12290;&#20854;&#22522;&#20110;&#24050;&#32463;&#35760;&#24405;&#30340;&#36712;&#36857;&#30340;&#24179;&#22343;&#20301;&#32622;&#65292;&#23558;&#20250;&#26174;&#31034;&#12290;&#20877;&#27425;&#21333;&#20987;&#31890;&#23376;&#65292;&#20854;&#24179;&#22343;&#20301;&#32622;&#23558;&#20250;&#38544;&#34255;&#12290;
+
+ 
+&#12304;This is an embedded model container.&#12305;
+
+ 
+&#37325;&#35201;&#25552;&#31034;&#65306; &#22914;&#26524;&#35760;&#24405;&#22120;&#34987;&#31105;&#29992;&#65292;&#23558;&#19981;&#20250;&#26377;&#36712;&#36857;&#26174;&#31034;&#12290;&#35760;&#24405;&#22120;&#25511;&#21046;&#30340;&#24103;&#36234;&#22810;&#65292;&#20854;&#24179;&#22343;&#20301;&#32622;&#23601;&#36234;&#20934;&#30830;(&#21363;&#65306;&#25968;&#25454;&#23558;&#25110;&#26377;&#26356;&#23569;&#30340;&#27874;&#21160;)&#12290;
+ 
+
+&#33050;&#26412;&#25903;&#25345;
+
+&#24179;&#22343;&#20301;&#32622; &#21629;&#20196;&#65292;&#21487;&#29992;&#20110;&#26174;&#31034;&#25110;&#38544;&#34255;&#24403;&#21069;&#25152;&#36873;&#23450;&#31890;&#23376;&#30340;&#36136;&#24515;&#30340;&#24179;&#22343;&#20301;&#32622;&#12290;&#24320;&#21551;/&#20851;&#38381;&#35813;&#29305;&#24615;&#65292;&#39318;&#20808;&#35831; &#36873;&#23450; &#31890;&#23376;&#65292;&#28982;&#21518;&#20351;&#29992; &#24179;&#22343;&#20301;&#32622; &#21629;&#20196;.
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="410">
+<paragraph start="0" end="7">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="6">
+<size>16</size><bold>true</bold><italic>true</italic></content>
+
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="8">
+<RightIndent>20.0</RightIndent>
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="27">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="8" end="10">
+<size>11</size></content>
+
+<content start="10" end="13">
+<size>11</size><href>showTrajAction.cml</href></content>
+
+<content start="13" end="16">
+<size>11</size></content>
+
+<content start="16" end="18">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="18" end="21">
+<size>11</size></content>
+
+<content start="21" end="24">
+<size>11</size><href>boundary.cml</href></content>
+
+<content start="24" end="26">
+<size>11</size></content>
+
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="28">
+<LeftIndent>100.0</LeftIndent>
+<content start="27" end="28">
+</content>
+
+</paragraph>
+<paragraph start="28" end="132">
+<LeftIndent>140.0</LeftIndent>
+<content start="28" end="132">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="132" end="133">
+<LeftIndent>140.0</LeftIndent>
+<content start="132" end="133">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="133" end="212">
+<LeftIndent>140.0</LeftIndent>
+<content start="133" end="158">
+<size>11</size></content>
+
+<content start="158" end="159">
+<icon>meanpos.gif</icon></content>
+
+<content start="159" end="212">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="212" end="213">
+<LeftIndent>140.0</LeftIndent>
+<content start="212" end="213">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="213" end="215">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="213" end="214">
+<component><class>org.concord.mw2d.activity.AtomContainer</class>
+<resource>AvposAction$0.mml</resource><menubar>false</menubar><button>Select Object</button><button>Toggle Average Position</button></component></content>
+
+<content start="214" end="215">
+</content>
+
+</paragraph>
+<paragraph start="215" end="254">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="215" end="253">
+<size>10</size></content>
+
+<content start="253" end="254">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="254" end="255">
+<LeftIndent>140.0</LeftIndent>
+<content start="254" end="255">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="255" end="257">
+<LeftIndent>140.0</LeftIndent>
+<content start="255" end="256">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="256" end="257">
+<foreground>255 0 0</foreground><size>11</size></content>
+
+</paragraph>
+<paragraph start="257" end="316">
+<RightIndent>100.0</RightIndent>
+<LeftIndent>200.0</LeftIndent>
+<content start="257" end="262">
+<foreground>255 0 0</foreground><size>11</size><bold>true</bold></content>
+
+<content start="262" end="316">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="316" end="318">
+<LeftIndent>140.0</LeftIndent>
+<content start="316" end="317">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-7f7f80</bgcolor></icon></content>
+
+<content start="317" end="318">
+</content>
+
+</paragraph>
+<paragraph start="318" end="319">
+<LeftIndent>140.0</LeftIndent>
+<content start="318" end="319">
+</content>
+
+</paragraph>
+<paragraph start="319" end="324">
+<LeftIndent>140.0</LeftIndent>
+<content start="319" end="323">
+<size>11</size><bold>true</bold></content>
+
+<content start="323" end="324">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="324" end="325">
+<LeftIndent>140.0</LeftIndent>
+<content start="324" end="325">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="325" end="390">
+<LeftIndent>140.0</LeftIndent>
+<content start="325" end="329">
+<size>11</size><href>script_averageposition.cml</href><family>Courier New</family></content>
+
+<content start="329" end="370">
+<size>11</size></content>
+
+<content start="370" end="372">
+<size>11</size><href>script_select.cml</href></content>
+
+<content start="372" end="381">
+<size>11</size></content>
+
+<content start="381" end="385">
+<size>11</size><href>script_averageposition.cml</href><family>Courier New</family></content>
+
+<content start="385" end="389">
+<size>11</size></content>
+
+<content start="389" end="390">
+</content>
+
+</paragraph>
+<paragraph start="390" end="391">
+<LeftIndent>140.0</LeftIndent>
+<content start="390" end="391">
+</content>
+
+</paragraph>
+<paragraph start="391" end="410">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="391" end="393">
+<size>11</size></content>
+
+<content start="393" end="396">
+<size>11</size><href>showTrajAction.cml</href></content>
+
+<content start="396" end="399">
+<size>11</size></content>
+
+<content start="399" end="401">
+<size>11</size><href>index1.cml</href></content>
+
+<content start="401" end="404">
+<size>11</size></content>
+
+<content start="404" end="407">
+<size>11</size><href>boundary.cml</href></content>
+
+<content start="407" end="409">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

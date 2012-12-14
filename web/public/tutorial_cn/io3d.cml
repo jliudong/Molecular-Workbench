@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Inputting and outputting</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>&#36755;&#20837;&#21644;&#36755;&#20986;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+&#24403;&#20320;&#20445;&#23384;&#19968;&#20010;MW&#65288;&#20998;&#23376;&#24037;&#20316;&#21488;&#65289;&#39029;&#38754;&#26102;&#65292;&#19968;&#20010;&#23884;&#20837;&#24335;3D&#27169;&#22411;&#30340;&#24403;&#21069;&#29366;&#24577;&#20063;&#23558;&#34987;&#33258;&#21160;&#20445;&#23384;&#12290;&#20294;&#26159;&#20320;&#21487;&#20197;&#25226;&#19968;&#20010;&#19981;&#23646;&#20110;MW&#39029;&#38754;&#30340;&#29366;&#24577;&#20445;&#23384;&#22312;&#19968;&#20010;&#25991;&#20214;&#37324;&#12290;&#20043;&#21518;&#65292;&#36825;&#20010;&#25991;&#20214;&#20250;&#34987;&#36733;&#20837;&#27169;&#22411;&#23481;&#22120;&#12290;
+
+&#35201;&#36733;&#20837;&#27169;&#22411;&#23481;&#22120;&#65292;&#20320;&#21482;&#38656;&#29992;&#27169;&#25311;&#22120;&#25991;&#20214;&#33756;&#21333;&#39033;&#20013;&#30340;&#8220;Save Model As &#65288;&#20445;&#23384;&#27169;&#22411;&#20026;&#65289;&#8221;&#21644; &#8220;Open Model &#65288;&#25171;&#24320;&#27169;&#22411;&#65289;&#8221;&#12290;&#25110;&#32773;&#65292;&#22312;&#27169;&#22411;&#23481;&#22120;&#30340;&#35270;&#22270;&#31383;&#21475;&#65292;&#31616;&#21333;&#30340;&#21491;&#20987; &#65288;&#25110;&#22312;&#27809;&#26377;&#22810;&#25353;&#38062;&#40736;&#26631;&#24773;&#20917;&#19979; &#25353;CTRL+ &#28857;&#20987;Mac OS X&#65289;&#19968;&#20010;&#31354;&#30333;&#22788;&#65292; &#28982;&#21518;&#20174;&#24555;&#25463;&#33756;&#21333;&#36873;&#25321;&#30456;&#23545;&#24212;&#30340;&#36873;&#39033;&#12290;&#27880;&#24847;&#65306;&#25991;&#20214;&#30340;&#25193;&#23637;&#21517;&#26159;&#8220;mdd&#8221;.&#10102;
+
+&#32451;&#20064;
+
+&#21487;&#29992;&#19979;&#38754;&#30340;&#27169;&#22411;&#23481;&#22120;&#26469;&#20307;&#39564;&#36755;&#20837;&#21644;&#36755;&#20986;&#19968;&#20010;&#27169;&#22411;&#29366;&#24577;&#12290; &#36816;&#34892;&#27169;&#25311;&#19968;&#27573;&#26102;&#38388;&#21518;&#65292;&#20572;&#27490;&#65292;&#28982;&#21518;&#25226;&#36825;&#20010;&#29366;&#24577;&#23384;&#20837;&#25991;&#20214;&#12290;&#37325;&#22797;&#20960;&#27425;&#65292;&#28982;&#21518;&#21152;&#36733;&#22238;&#20445;&#23384;&#30340;&#25991;&#20214;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+ 
+&#10102; MDD&#65288;&#27169;&#22359;&#39537;&#21160;&#23618;&#65289;&#25991;&#20214;&#21253;&#21547;&#27169;&#22411;&#29366;&#24577;&#65292;&#20294;&#19981;&#26159;&#21407;&#23376;&#30340;&#22352;&#26631;&#65292;&#65288;&#21407;&#23376;&#22352;&#26631;&#65289;&#20998;&#21035;&#20197;XYZ&#26684;&#24335;&#20445;&#23384;&#12290;&#25152;&#20197;&#20320;&#21019;&#24314;&#30340;&#27599;&#20010;&#27169;&#22411;&#21253;&#21547;&#20004;&#20010;&#25991;&#20214;--- &#19968;&#20010;MDD &#25991;&#20214;&#65292;&#19968;&#20010;XYZ&#25991;&#20214;&#12290;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="469">
+<paragraph start="0" end="6">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="0" end="5">
+<bold>true</bold><italic>true</italic><size>15</size></content>
+
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="7">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="26">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="7" end="9">
+<size>11</size></content>
+
+<content start="9" end="12">
+<size>11</size><href>recorder3d.cml</href></content>
+
+<content start="12" end="15">
+<size>11</size></content>
+
+<content start="15" end="17">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="17" end="20">
+<size>11</size></content>
+
+<content start="20" end="23">
+<size>11</size><href>jmolcompanion.cml</href></content>
+
+<content start="23" end="25">
+<size>11</size></content>
+
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="27">
+<LeftIndent>140.0</LeftIndent>
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="112">
+<LeftIndent>140.0</LeftIndent>
+<content start="27" end="112">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="112" end="113">
+<LeftIndent>140.0</LeftIndent>
+<content start="112" end="113">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="113" end="273">
+<LeftIndent>140.0</LeftIndent>
+<content start="113" end="271">
+<size>11</size></content>
+
+<content start="271" end="272">
+<size>13</size></content>
+
+<content start="272" end="273">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="273" end="274">
+<LeftIndent>140.0</LeftIndent>
+<content start="273" end="274">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="274" end="277">
+<LeftIndent>140.0</LeftIndent>
+<content start="274" end="276">
+<size>11</size><bold>true</bold></content>
+
+<content start="276" end="277">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="277" end="278">
+<LeftIndent>140.0</LeftIndent>
+<content start="277" end="278">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="278" end="344">
+<LeftIndent>140.0</LeftIndent>
+<content start="278" end="344">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="344" end="345">
+<LeftIndent>140.0</LeftIndent>
+<content start="344" end="345">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="345" end="347">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="345" end="346">
+<component><class>org.concord.modeler.PageMd3d</class><resource>io3d$0.mdd</resource><coordinate>io3d$0.xyz</coordinate><width>400</width><height>300</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="346" end="347">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="347" end="361">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="347" end="360">
+<size>10</size></content>
+
+<content start="360" end="361">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="361" end="362">
+<LeftIndent>140.0</LeftIndent>
+<content start="361" end="362">
+</content>
+
+</paragraph>
+<paragraph start="362" end="364">
+<LeftIndent>140.0</LeftIndent>
+<content start="362" end="363">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>0.8</width><height>1</height><opaque>false</opaque><bgcolor>-1000000</bgcolor></icon></content>
+
+<content start="363" end="364">
+</content>
+
+</paragraph>
+<paragraph start="364" end="449">
+<LeftIndent>140.0</LeftIndent>
+<content start="364" end="365">
+<size>13</size></content>
+
+<content start="365" end="366">
+</content>
+
+<content start="366" end="448">
+<size>10</size></content>
+
+<content start="448" end="449">
+</content>
+
+</paragraph>
+<paragraph start="449" end="450">
+<RightIndent>20.0</RightIndent>
+<content start="449" end="450">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="450" end="469">
+<RightIndent>20.0</RightIndent>
+<Alignment>2</Alignment>
+<content start="450" end="452">
+<size>11</size></content>
+
+<content start="452" end="455">
+<size>11</size><href>recorder3d.cml</href></content>
+
+<content start="455" end="458">
+<size>11</size></content>
+
+<content start="458" end="460">
+<size>11</size><href>index4.cml</href></content>
+
+<content start="460" end="463">
+<size>11</size></content>
+
+<content start="463" end="466">
+<size>11</size><href>jmolcompanion.cml</href></content>
+
+<content start="466" end="468">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

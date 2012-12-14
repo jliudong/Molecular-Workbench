@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Basic parts of the 3D modeling environment</page_title>
+<bg_image>sidebar2.gif</bg_image>
+<text>3D&#24314;&#27169;&#29615;&#22659;&#30340;&#22522;&#26412;&#37096;&#20998;
+
+&lt; &#19978;&#19968;&#39029; | &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;
+
+3D&#24314;&#27169;&#29615;&#22659;&#30340;&#32467;&#26500;&#19982;2D&#24314;&#27169;&#29615;&#22659;&#31867;&#20284;&#12290;&#20197;&#19979;&#27880;&#37322;&#26174;&#31034;&#20102;3D&#24314;&#27169;&#29615;&#22659;&#30340;&#19981;&#21516;&#35270;&#35273;&#37096;&#20998;&#65306;
+
+ 
+&#12304;&#36825;&#26159;&#19968;&#20010;&#23884;&#20837;&#24335;&#27169;&#22411;&#23481;&#22120;&#12305;
+
+ &#27169;&#25311;&#25511;&#21046;&#20250;&#22312; &#19979;&#31456; &#36827;&#19968;&#27493;&#35762;&#35299;&#12290;
+
+&lt; &#19978;&#19968;&#39029;| &#32034;&#24341; | &#19979;&#19968;&#39029; &gt;</text>
+<section start="0" end="129">
+<paragraph start="0" end="12">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="0" end="11">
+<size>15</size><italic>true</italic><bold>true</bold></content>
+
+<content start="11" end="12">
+</content>
+
+</paragraph>
+<paragraph start="12" end="13">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="12" end="13">
+</content>
+
+</paragraph>
+<paragraph start="13" end="32">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="13" end="15">
+<size>11</size></content>
+
+<content start="15" end="18">
+<href>intro_3d.cml</href><size>11</size></content>
+
+<content start="18" end="21">
+<size>11</size></content>
+
+<content start="21" end="23">
+<href>index4.cml</href><size>11</size></content>
+
+<content start="23" end="26">
+<size>11</size></content>
+
+<content start="26" end="29">
+<href>mw3d_move.cml</href><size>11</size></content>
+
+<content start="29" end="31">
+<size>11</size></content>
+
+<content start="31" end="32">
+</content>
+
+</paragraph>
+<paragraph start="32" end="33">
+<LeftIndent>140.0</LeftIndent>
+<content start="32" end="33">
+</content>
+
+</paragraph>
+<paragraph start="33" end="74">
+<LeftIndent>140.0</LeftIndent>
+<content start="33" end="74">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="74" end="75">
+<LeftIndent>140.0</LeftIndent>
+<content start="74" end="75">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="75" end="77">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="75" end="76">
+<component><class>org.concord.modeler.PageMd3d</class><resource>basic3d$0.mdd</resource><coordinate>basic3d$0.xyz</coordinate><width>500</width><height>400</height><border>Raised Bevel</border>
+</component></content>
+
+<content start="76" end="77">
+</content>
+
+</paragraph>
+<paragraph start="77" end="91">
+<Alignment>1</Alignment>
+<LeftIndent>140.0</LeftIndent>
+<content start="77" end="90">
+<size>10</size></content>
+
+<content start="90" end="91">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="91" end="92">
+<LeftIndent>140.0</LeftIndent>
+<content start="91" end="92">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="92" end="110">
+<LeftIndent>140.0</LeftIndent>
+<content start="92" end="100">
+<size>11</size></content>
+
+<content start="100" end="103">
+<href>recorder3d.cml</href><size>11</size></content>
+
+<content start="103" end="110">
+<size>11</size></content>
+
+</paragraph>
+<paragraph start="110" end="111">
+<LeftIndent>140.0</LeftIndent>
+<content start="110" end="111">
+</content>
+
+</paragraph>
+<paragraph start="111" end="129">
+<Alignment>2</Alignment>
+<RightIndent>20.0</RightIndent>
+<content start="111" end="113">
+<size>11</size></content>
+
+<content start="113" end="116">
+<href>intro_3d.cml</href><size>11</size></content>
+
+<content start="116" end="118">
+<size>11</size></content>
+
+<content start="118" end="120">
+<href>index4.cml</href><size>11</size></content>
+
+<content start="120" end="123">
+<size>11</size></content>
+
+<content start="123" end="126">
+<href>mw3d_move.cml</href><size>11</size></content>
+
+<content start="126" end="128">
+<size>11</size></content>
+
+</paragraph>
+</section>
+</document>

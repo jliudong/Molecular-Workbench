@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Lipids and Carbohydrates: Table of Contents</page_title>
+<bg_color><Red>244</Red><Green>245</Green><Blue>239</Blue></bg_color>
+<text>
+ 
+ 
+
+ 
+
+  
+    
+
+ 
+
+   
+
+
+    
+
+
+    
+
+ 
+
+
+</text>
+<section start="0" end="45">
+<paragraph start="0" end="1">
+<Alignment>1</Alignment>
+<content start="0" end="1">
+</content>
+
+</paragraph>
+<paragraph start="1" end="3">
+<Alignment>1</Alignment>
+<content start="1" end="2">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;p class=&quot;pagetitle&quot;&gt;
+      &lt;strong&gt;&amp;#33026;&amp;#31867;&amp;#21644;&amp;#31958;&amp;#31867;&amp;#65306;&lt;/strong&gt;&amp;#30452;&amp;#38142;&amp;#22810;&amp;#31958;&amp;#21644;&amp;#25903;&amp;#38142;&amp;#22810;&amp;#31958;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-c588a1</bgcolor></icon></content>
+
+<content start="2" end="3">
+</content>
+
+</paragraph>
+<paragraph start="3" end="5">
+<Alignment>1</Alignment>
+<content start="3" end="4">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>26.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body background=&quot;topNavBarLeftMargin.jpg&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table id=&quot;Table_01&quot; border=&quot;0&quot; width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;14&quot; height=&quot;26&quot; src=&quot;topNavBarLeftMargin.jpg&quot;&gt;
+          &lt;a href=&quot;page5.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;60&quot; height=&quot;26&quot; src=&quot;prev.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;59&quot; height=&quot;26&quot; src=&quot;next.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img width=&quot;54&quot; height=&quot;26&quot; src=&quot;page.jpg&quot;&gt;
+          &lt;a href=&quot;index.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;46&quot; height=&quot;26&quot; src=&quot;index.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page1.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page2.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page3.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;29&quot; height=&quot;26&quot; src=&quot;page4.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page5.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page6Selected.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page7.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;img width=&quot;7&quot; height=&quot;26&quot; src=&quot;topNavBarRightMargin.jpg&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="4" end="5">
+</content>
+
+</paragraph>
+<paragraph start="5" end="6">
+<Alignment>1</Alignment>
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="8">
+<Alignment>1</Alignment>
+<content start="6" end="7">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>80</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>15</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body class=&quot;mainidea&quot;&gt;
+    &lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;98&quot; src=&quot;atomMainIdea.png&quot; height=&quot;58&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;p class=&quot;mainidea&quot;&gt;
+            &amp;#22810;&amp;#31958;&amp;#26159;&amp;#31958;&amp;#30340;&amp;#32858;&amp;#21512;&amp;#29289;&amp;#65292;&amp;#21333;&amp;#31958;&amp;#21644;&amp;#37238;&amp;#32467;&amp;#21512;&amp;#24418;&amp;#25104;&amp;#38271;&amp;#38142;&amp;#12290;&amp;#23427;&amp;#20204;&amp;#29992;&amp;#26469;&amp;#23384;&amp;#20648;&amp;#33021;&amp;#37327;&amp;#65292;&amp;#26500;&amp;#25104;&amp;#22362;&amp;#24378;&amp;#30340;&amp;#32454;&amp;#32990;&amp;#32467;&amp;#26500;&amp;#12290;
+          &lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-231326</bgcolor></icon></content>
+
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="9">
+<Alignment>1</Alignment>
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="12">
+<Alignment>1</Alignment>
+<content start="9" end="10">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>420.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table border=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;100%&quot;&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;
+          &lt;p class=&quot;firstp&quot;&gt;
+            &amp;#22810;&amp;#31958;&amp;#26159;&amp;#24456;&amp;#37325;&amp;#35201;&amp;#30340;&amp;#65292;&amp;#22240;&amp;#20026;&amp;#23427;&amp;#20204;&amp;#33021;&amp;#20648;&amp;#23384;&amp;#33021;&amp;#37327;&amp;#65292;&amp;#32473;&amp;#29983;&amp;#29289;&amp;#25552;&amp;#20379;&amp;#24314;&amp;#31569;&amp;#32454;&amp;#32990;&amp;#30340;&amp;#26448;&amp;#26009;&amp;#12290;
+          &lt;/p&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;ul&gt;
+            &lt;li&gt;
+              &lt;b&gt;&amp;#28096;&amp;#31881;&amp;#26159;&amp;#30001;&amp;#33889;&amp;#33796;&amp;#31958;&amp;#38142;&amp;#32452;&amp;#25104;&lt;/b&gt;. 
+              &amp;#22312;&amp;#31859;&amp;#21644;&amp;#22303;&amp;#35910;&amp;#20013;&amp;#23384;&amp;#22312;&amp;#65292;&amp;#26159;&amp;#33021;&amp;#37327;&amp;#20648;&amp;#23384;&amp;#30340;&amp;#22810;&amp;#31958;&amp;#12290;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &lt;b&gt;&amp;#26893;&amp;#29289;&amp;#32454;&amp;#32990;&amp;#22721;&amp;#22240;&amp;#20026;&amp;#32420;&amp;#32500;&amp;#32032;&amp;#32780;&amp;#32467;&amp;#23454;.&lt;/b&gt; 
+              &amp;#34299;&amp;#31867;&amp;#30340;&amp;#32454;&amp;#32990;&amp;#22721;&amp;#30001;&amp;#22810;&amp;#31958;&amp;#29756;&amp;#33026;&amp;#24378;&amp;#21270;&amp;#12290;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &lt;b&gt;&amp;#22810;&amp;#31958;&amp;#30002;&amp;#22771;&amp;#32032;&lt;/b&gt;&amp;#26159;&amp;#26118;&amp;#34411;&amp;#22914;&amp;#34434;&amp;#34433;&amp;#65292;&amp;#30002;&amp;#22771;&amp;#34411;&amp;#65292;&amp;#30002;&amp;#22771;&amp;#21160;&amp;#29289;&amp;#22914;&amp;#34691;&amp;#34809;&amp;#65292;&amp;#40857;&amp;#34430;&amp;#31561;&amp;#30340;&amp;#22806;&amp;#22771;&amp;#30340;&amp;#20027;&amp;#35201;&amp;#30340;&amp;#25104;&amp;#20998;&amp;#12290;&amp;#30002;&amp;#22771;&amp;#32032;&amp;#20063;&amp;#26159;&amp;#31456;&amp;#40060;&amp;#25110;&amp;#20044;&amp;#36156;&amp;#20840;&amp;#36523;&amp;#21807;&amp;#19968;&amp;#30828;&amp;#30340;&amp;#37096;&amp;#20998;-&amp;#21913;&amp;#30340;&amp;#25104;&amp;#20998;&amp;#12290;
+            &lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;300&quot; src=&quot;octopus.jpg&quot; height=&quot;226&quot;&gt;
+          
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;
+          &lt;p&gt;
+            &amp;#22810;&amp;#31958;&amp;#38271;&amp;#38142;&amp;#26159;&amp;#24590;&amp;#26679;&amp;#26500;&amp;#25104;&amp;#30340;&amp;#65311;&lt;br&gt;&lt;b&gt;&amp;#25805;&amp;#20316;&amp;#27493;&amp;#39588;&amp;#65306;&lt;/b&gt;
+          &lt;/p&gt;
+          &lt;ul&gt;
+            &lt;li&gt;
+              &amp;#20808;&amp;#29992;&amp;#19979;&amp;#38754;&amp;#30340;&amp;#25511;&amp;#20214;&amp;#30475;&amp;#20004;&amp;#27573;&amp;#30005;&amp;#24433;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &amp;#27880;&amp;#24847;&amp;#35266;&amp;#23519;&amp;#21333;&amp;#31958;&amp;#24590;&amp;#20040;&amp;#32467;&amp;#21512;&amp;#25104;&amp;#38271;&amp;#38142;&amp;#38142;&amp;#65292;&amp;#20004;&amp;#20010;&amp;#38271;&amp;#38142;&amp;#22914;&amp;#20309;&amp;#30456;&amp;#20114;&amp;#20316;&amp;#29992;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &amp;#29992;&amp;#21035;&amp;#30340;&amp;#25511;&amp;#20214;&amp;#25506;&amp;#32034;
+            &lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="10" end="12">
+</content>
+
+</paragraph>
+<paragraph start="12" end="17">
+<Alignment>1</Alignment>
+<content start="12" end="13">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>374.0</width>
+<height>200.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;5&quot; marginheight=&quot;2&quot;&gt;
+    &lt;p class=&quot;firstp&quot;&gt;
+      
+    &lt;/p&gt;
+    &lt;table border=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;4&quot;&gt;
+          &lt;input alt=&quot;see a polysaccharide chain&quot; script=&quot;script:nativescript:plugin:1:isosurface delete; script moviePolysacc.spt&quot; type=&quot;submit&quot; value=&quot;&#31532;&#19968;&#27573;&#30005;&#24433;	&quot; name=&quot;Button1&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td width=&quot;6&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td width=&quot;24&quot;&gt;
+          &lt;input alt=&quot;see the atoms in a spacefilling display&quot; selfscript=&quot;selectcomponent 4 false;&quot; script=&quot;script:nativescript:plugin:1:exit; set echo off; isosurface delete; select displayed; off2cpk;&quot; type=&quot;radio&quot; name=&quot;RadioGroup1&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td width=&quot;76&quot;&gt;
+          &amp;#20805;&amp;#28385;&amp;#31354;&amp;#38388;
+        &lt;/td&gt;
+        &lt;td width=&quot;24&quot;&gt;
+          &lt;input alt=&quot;see the bonds&quot; selfscript=&quot;selectcomponent 4 false;&quot; script=&quot;script:nativescript:plugin:1:exit; set echo off; isosurface delete; select displayed; cpk2off; &quot; type=&quot;radio&quot; name=&quot;RadioGroup1&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td width=&quot;41&quot;&gt;
+          &amp;#26829;&amp;#29366;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;4&quot;&gt;
+          &lt;input alt=&quot;see how two polysaccharide chains interact&quot; selfscript=&quot;selectcomponent 4 false;&quot; script=&quot;script:nativescript:plugin:1:exit; isosurface delete; script movieSecondPolysacc.spt&quot; value=&quot;&#31532;&#20108;&#27573;&#30005;&#24433;&quot; type=&quot;submit&quot; name=&quot;Button3&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td&gt;
+          &amp;#160;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;!--&lt;input name=&quot;checkbox2&quot; value=&quot;surface&quot; script_selected=&quot;script:nativescript:plugin:1:exit; set echo off; isosurface delete; select displayed; isosurface ignore (not selected) sasurface 0.6 ; &quot; script_deselected=&quot;nativescript:plugin:1:isosurface delete;&quot; type=&quot;checkbox&quot; alt=&quot;view the surface of the polysaccharide&quot;&gt;--&gt;
+          
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;!--surface--&gt;
+          
+        &lt;/td&gt;
+        &lt;td colspan=&quot;2&quot;&gt;
+          &amp;#160;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;input alt=&quot;&quot; selfscript=&quot;selectcomponent 4 false;&quot; script=&quot;script:nativescript:plugin:1:exit; set echo off; display ~chainA; isosurface delete; wireframe 0.2;&quot; type=&quot;radio&quot; name=&quot;RadioGroup1&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td width=&quot;78&quot;&gt;
+          &amp;#19968;&amp;#26465;&amp;#38142;
+        &lt;/td&gt;
+        &lt;td width=&quot;28&quot; align=&quot;right&quot;&gt;
+          &lt;input alt=&quot;&quot; selfscript=&quot;selectcomponent 4 false;&quot; script=&quot;script:nativescript:plugin:1:exit; set echo off; display all; isosurface delete; select all; hbonds off; wireframe 0.2; zoomto 1 (all) 90%;&quot; type=&quot;radio&quot; name=&quot;RadioGroup1&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td colspan=&quot;6&quot;&gt;
+          &amp;#20004;&amp;#26465;&amp;#38142;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td width=&quot;24&quot; align=&quot;right&quot;&gt;
+          &lt;input alt=&quot;view the forces between chains&quot; script_selected=&quot;script:nativescript:plugin:1:exit; set echo off; isosurface delete; display all; select all; script hbondsCarb.spt;&quot; script_deselected=&quot;nativescript:plugin:1:select all; hbonds off;&quot; value=&quot;weakbonds&quot; type=&quot;checkbox&quot; name=&quot;checkbox2&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td colspan=&quot;2&quot;&gt;
+          &amp;#27682;&amp;#38190;
+        &lt;/td&gt;
+        &lt;td colspan=&quot;6&quot;&gt;
+          &amp;#160;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<bgcolor>-131415</bgcolor>
+<border>Raised Bevel</border>
+</component></content>
+
+<content start="13" end="15">
+</content>
+
+<content start="15" end="16">
+<component><class>org.concord.modeler.PageJContainer</class>
+<appletjar>JmolApplet.jar</appletjar>
+<appletjar>netscape.jar</appletjar>
+<appletclass>org.jmol.applet.MwPlugin</appletclass>
+<resource>page6$plugin$0.aps</resource><parameter>{name=&quot;load&quot; value=&quot;cellulose2.xyz&quot;}
+{name=&quot;nostatepersistence&quot; value=&quot;true&quot;}
+{name=&quot;script&quot; value=&quot;frank off; script polysaccInit.spt; script echoMiddleCenter.spt; echo Click the button for Movie 1&quot;}
+</parameter>
+<width>372</width><height>200</height>
+<border>None</border><codebase>http://223.4.82.92/public/lib/</codebase><cachefile>polysaccInit.spt, echoMiddleCenter.spt, moviePolysacc.spt, movieSecondPolysacc.spt, jmol-echoFade.spt, sun.gif, hbondsCarb.spt</cachefile></component></content>
+
+<content start="16" end="17">
+</content>
+
+</paragraph>
+<paragraph start="17" end="18">
+<Alignment>1</Alignment>
+<content start="17" end="18">
+</content>
+
+</paragraph>
+<paragraph start="18" end="20">
+<Alignment>1</Alignment>
+<content start="18" end="19">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>320.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;table border=&quot;0&quot; cellpadding=&quot;2&quot; width=&quot;100%&quot;&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;
+          &lt;span class=&quot;firstp&quot;&gt;&amp;#35753;&amp;#25105;&amp;#20204;&amp;#29992;&amp;#19968;&amp;#20010;&amp;#27169;&amp;#22411;&amp;#26469;&amp;#27169;&amp;#25311;&amp;#29038;&amp;#27832;&amp;#19968;&amp;#20123;&amp;#22810;&amp;#31958;&amp;#65292;&amp;#30475;&amp;#30475;&amp;#37027;&amp;#20123;&amp;#31181;&amp;#31867;&amp;#19981;&amp;#23481;&amp;#26131;&amp;#26029;&amp;#24320;&amp;#12290;&amp;#22240;&amp;#20026;&amp;#38271;&amp;#38142;&amp;#26159;&amp;#30001;&amp;#27682;&amp;#38190;&amp;#36830;&amp;#25509;&amp;#22312;&amp;#19968;&amp;#36215;&amp;#65292;&amp;#25105;&amp;#20204;&amp;#33021;&amp;#22815;&amp;#36890;&amp;#36807;&amp;#25226;&amp;#33021;&amp;#37327;&amp;#65288;&amp;#28909;&amp;#65289;&amp;#21152;&amp;#20837;&amp;#21040;&amp;#27700;&amp;#20013;&amp;#26469;&amp;#25171;&amp;#30772;&amp;#38271;&amp;#38142;&amp;#12290;&amp;#36890;&amp;#36807;&amp;#22312;&amp;#27169;&amp;#22411;&amp;#20013;&amp;#36825;&amp;#26679;&amp;#20570;&amp;#65292;&amp;#25105;&amp;#20204;&amp;#21487;&amp;#20197;&amp;#27604;&amp;#30452;&amp;#38142;&amp;#22810;&amp;#31958;&amp;#65288;&amp;#22914;&amp;#32420;&amp;#32500;&amp;#36136;&amp;#65289;&amp;#32420;&amp;#32500;&amp;#20043;&amp;#38388;&amp;#24341;&amp;#21147;&amp;#30340;&amp;#24378;&amp;#24230;&amp;#21644;&amp;#25903;&amp;#38142;&amp;#22810;&amp;#31958;&amp;#65288;&amp;#22914;&amp;#28096;&amp;#31881;&amp;#65289;&amp;#32420;&amp;#32500;&amp;#38388;&amp;#24341;&amp;#21147;&amp;#30340;&amp;#24378;&amp;#24230;&amp;#12290; 
+          &lt;/span&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;p&gt;
+            &lt;b&gt;&amp;#25805;&amp;#20316;&amp;#27493;&amp;#39588;&amp;#65306;&lt;/b&gt;
+          &lt;/p&gt;
+          &lt;ul&gt;
+            &lt;li&gt;
+              &amp;#22312;&amp;#19979;&amp;#38754;&amp;#30340;&amp;#27169;&amp;#22411;&amp;#20013;&amp;#65292;&amp;#28784;&amp;#33394;&amp;#23567;&amp;#29699;&amp;#26159;&amp;#21333;&amp;#31958;&amp;#65292;&amp;#23427;&amp;#20204;&amp;#30001;&amp;#20849;&amp;#38454;&amp;#38190;&amp;#32467;&amp;#21512;&amp;#25104;&amp;#22810;&amp;#31958;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &amp;#36816;&amp;#34892;&amp;#27169;&amp;#22411;&amp;#65292;&amp;#20351;&amp;#29992;&amp;#28369;&amp;#26438;&amp;#65288;slider&amp;#65289;&amp;#25552;&amp;#39640;&amp;#28201;&amp;#24230;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &amp;#9679;&amp;#27880;&amp;#24847;&amp;#30475;&amp;#21738;&amp;#31181;&amp;#22810;&amp;#31958;&amp;#20808;&amp;#20998;&amp;#35299;
+            &lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;361&quot; src=&quot;polysacc.gif&quot; height=&quot;208&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="19" end="20">
+</content>
+
+</paragraph>
+<paragraph start="20" end="21">
+<Alignment>1</Alignment>
+<content start="20" end="21">
+</content>
+
+</paragraph>
+<paragraph start="21" end="25">
+<Alignment>1</Alignment>
+<content start="21" end="22">
+<component><class>org.concord.modeler.PageMd3d</class><resource>page6$0.mdd</resource><coordinate>page6$0.xyz</coordinate><width>372</width><height>300</height><menubar>false</menubar>
+<toolbar>false</toolbar>
+<statusbar>false</statusbar>
+<recorderless>true</recorderless>
+</component></content>
+
+<content start="22" end="23">
+</content>
+
+<content start="23" end="24">
+<component><class>org.concord.modeler.PageMd3d</class><resource>page6$1.mdd</resource><coordinate>page6$1.xyz</coordinate><width>372</width><height>300</height><menubar>false</menubar>
+<toolbar>false</toolbar>
+<statusbar>false</statusbar>
+<recorderless>true</recorderless>
+</component></content>
+
+<content start="24" end="25">
+</content>
+
+</paragraph>
+<paragraph start="25" end="26">
+<Alignment>1</Alignment>
+<content start="25" end="26">
+</content>
+
+</paragraph>
+<paragraph start="26" end="27">
+<Alignment>1</Alignment>
+<content start="26" end="27">
+</content>
+
+</paragraph>
+<paragraph start="27" end="32">
+<Alignment>1</Alignment>
+<content start="27" end="28">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>&#36816;&#34892;</title>
+<width>51</width><height>25</height>
+<border>None</border>
+<opaque>false</opaque>
+<script>script:mw3d:1:run;
+script:mw3d:2:run;</script>
+<action>Script</action></component></content>
+
+<content start="28" end="29">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>&#26242;&#20572;</title>
+<width>51</width><height>25</height>
+<border>None</border>
+<opaque>false</opaque>
+<script>script:mw3d:1:stop;
+script:mw3d:2:stop;</script>
+<action>Script</action></component></content>
+
+<content start="29" end="30">
+<component><class>org.concord.modeler.ActivityButton</class>
+<title>&#37325;&#35774;</title>
+<width>51</width><height>25</height>
+<border>None</border>
+<opaque>false</opaque>
+<script>script:mw3d:1:reset;
+script:mw3d:2:reset;</script>
+<action>Script</action></component></content>
+
+<content start="30" end="31">
+<component><class>org.concord.modeler.PageSlider</class>
+<modelclass>org.concord.modeler.PageMd3d</modelclass>
+<model>0</model>
+<value>0.0</value>
+<minimum>0.0</minimum>
+<maximum>100.0</maximum>
+<nstep>50</nstep>
+<title>&#28201;&#24230; (K)</title>
+<width>300</width>
+<height>80</height>
+<opaque>false</opaque>
+<tick>true</tick>
+<labeltable>{value=&quot;90.0&quot;, label=&quot;1000&quot;}{value=&quot;0.0&quot;, label=&quot;100&quot;}</labeltable>
+<script>static define %t 100+%val*20;
+set heatbath %t;
+beginexternal;
+  @mw3d:2:set heatbath %t;
+endexternal;
+</script>
+<change>Execute MW script</change>
+</component></content>
+
+<content start="31" end="32">
+</content>
+
+</paragraph>
+<paragraph start="32" end="33">
+<Alignment>1</Alignment>
+<content start="32" end="33">
+</content>
+
+</paragraph>
+<paragraph start="33" end="34">
+<Alignment>1</Alignment>
+<content start="33" end="34">
+</content>
+
+</paragraph>
+<paragraph start="34" end="39">
+<Alignment>1</Alignment>
+<content start="34" end="35">
+</content>
+
+<content start="35" end="36">
+<component><class>org.concord.modeler.PageMultipleChoice</class>
+<single>true</single>
+<row>4</row>
+<width>372</width>
+<height>270</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body class=&quot;question&quot;&gt;
+    &lt;p class=&quot;question&quot;&gt;
+      &amp;#20026;&amp;#20160;&amp;#20040;&amp;#30001;&amp;#38271;&amp;#30340;&amp;#30452;&amp;#38142;&amp;#22810;&amp;#31958;&amp;#26500;&amp;#25104;&amp;#30340;&amp;#32420;&amp;#32500;&amp;#24456;&amp;#24378;&amp;#65311;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<submit>true</submit>
+<choice>&lt;html&gt; &#24456;&#22810;&#32447;&#24615;&#20998;&#23376;&#25490;&#21015;&#22312;&#19968;&#36215;&#21487;&#20197;&#24418;&#25104;&#26356;&#22810;&#30340;&#27682;&#38190;&lt;/html&gt;</choice>
+<choice>&lt;html&gt;&#24456;&#22810;&#32447;&#24615;&#20998;&#23376;&#25490;&#21015;&#22312;&#19968;&#36215;&#21487;&#20197;&#20114;&#30456;&#25490;&#26021;&lt;/html&gt;</choice>
+<choice>&lt;html&gt;&#22810;&#31958;&#30340;&#38750;&#26497;&#24615;&#29305;&#28857;&#35753;&#23427;&#20204;&#20114;&#30456;&#21560;&#24341;&#26356;&#24378;&lt;/html&gt;</choice>
+<choice>&lt;html&gt;&#22810;&#31958;&#20998;&#23376;&#26159;&#26356;&#24378;&#30340;&#20998;&#23376;&lt;/html&gt;</choice>
+<answer>0</answer>
+<bgcolor>-373738</bgcolor>
+<border>Line</border>
+<script> -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
+</component></content>
+
+<content start="36" end="37">
+</content>
+
+<content start="37" end="38">
+<component><class>org.concord.modeler.PageMultipleChoice</class>
+<single>true</single>
+<row>4</row>
+<width>372</width>
+<height>270</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;bioStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body class=&quot;question&quot;&gt;
+    &lt;p class=&quot;question&quot;&gt;
+      &amp;#25903;&amp;#38142;&amp;#22810;&amp;#31958;&amp;#27604;&amp;#30452;&amp;#38142;&amp;#22810;&amp;#31958;&amp;#26356;&amp;#23481;&amp;#26131;&amp;#20998;&amp;#25104;&amp;#21333;&amp;#29420;&amp;#30340;&amp;#38271;&amp;#38142;&amp;#65292;&amp;#36825;&amp;#26159;&amp;#22240;&amp;#20026;&amp;#65306;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<submit>true</submit>
+<choice>&lt;html&gt;&#25903;&#38142;&#20998;&#23376;&#38388;&#21487;&#20197;&#21457;&#29983;&#26356;&#32039;&#30340;&#21305;&#37197;.&lt;/html&gt;</choice>
+<choice>&lt;html&gt;&#30452;&#38142;&#20013;&#20849;&#38454;&#38190;&#30340;&#25968;&#30446;&#22686;&#21152;&lt;/html&gt;</choice>
+<choice>&lt;html&gt;&#25903;&#38142;&#20043;&#38388;&#24418;&#25104;&#30340;&#24369;&#30340;&#20114;&#30456;&#20316;&#29992;&#30340;&#25968;&#30446;&#38477;&#20302;&lt;/html&gt;</choice>
+<choice>&lt;html&gt;&#30452;&#38142;&#20043;&#38388;&#24418;&#25104;&#30340;&#24369;&#30340;&#20114;&#30456;&#20316;&#29992;&#30340;&#25968;&#30446;&#38477;&#20302;&lt;/html&gt;</choice>
+<answer>2</answer>
+<bgcolor>-373738</bgcolor>
+<border>Line</border>
+<script> -choiceseparator-  -choiceseparator-  -choiceseparator- </script>
+</component></content>
+
+<content start="38" end="39">
+</content>
+
+</paragraph>
+<paragraph start="39" end="40">
+<Alignment>1</Alignment>
+<content start="39" end="40">
+</content>
+
+</paragraph>
+<paragraph start="40" end="42">
+<Alignment>1</Alignment>
+<content start="40" end="41">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>26.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body background=&quot;topNavBarLeftMargin.jpg&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table id=&quot;Table_01&quot; border=&quot;0&quot; width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;14&quot; height=&quot;26&quot; src=&quot;topNavBarLeftMargin.jpg&quot;&gt;
+          &lt;a href=&quot;page5.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;60&quot; height=&quot;26&quot; src=&quot;prev.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;59&quot; height=&quot;26&quot; src=&quot;next.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img width=&quot;54&quot; height=&quot;26&quot; src=&quot;page.jpg&quot;&gt;
+          &lt;a href=&quot;index.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;46&quot; height=&quot;26&quot; src=&quot;index.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page1.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page2.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page3.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;font&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;29&quot; height=&quot;26&quot; src=&quot;page4.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page5.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page6Selected.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;font&gt;&lt;img border=&quot;0&quot; width=&quot;28&quot; height=&quot;26&quot; src=&quot;page7.jpg&quot;&gt;
+          &lt;/font&gt;&lt;/a&gt;&lt;img width=&quot;7&quot; height=&quot;26&quot; src=&quot;topNavBarRightMargin.jpg&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="41" end="42">
+</content>
+
+</paragraph>
+<paragraph start="42" end="43">
+<Alignment>1</Alignment>
+<content start="42" end="43">
+</content>
+
+</paragraph>
+<paragraph start="43" end="44">
+<content start="43" end="44">
+<size>10</size></content>
+
+</paragraph>
+<paragraph start="44" end="45">
+</paragraph>
+</section>
+</document>
