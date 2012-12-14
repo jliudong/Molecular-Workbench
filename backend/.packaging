@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configurations>
+<archive destination="" exploded="false" name="MwEJB.jar" used="true">
+<folder excludes="" includes="org/concord/mwbackend/ejb/*.class, org/concord/mwbackend/ejb/resource/*.*,  org/concord/mwbackend/interfaces/*.class, org/concord/mwbackend/business/*.class, org/concord/mwbackend/util/*.class" location="bin" name="bin" prefix="" project="" projectLocation="bin" used="true"/>
+<file location="src/META-INF/ejb-jar.xml" name="ejb-jar.xml" prefix="META-INF" project="" projectLocation="src/META-INF/ejb-jar.xml" used="true"/>
+<file location="src/META-INF/jboss.xml" name="jboss.xml" prefix="META-INF" project="" projectLocation="src/META-INF/jboss.xml" used="true"/>
+</archive>
+<archive destination="" exploded="false" name="MwWeb.war" used="true">
+<folder excludes="" includes="org/concord/mwbackend/web/*.class" location="bin" name="bin" prefix="WEB-INF/classes" project="" projectLocation="bin" used="true"/>
+<file location="src/WEB-INF/web.xml" name="web.xml" prefix="WEB-INF" project="" projectLocation="src/WEB-INF/web.xml" used="true"/>
+<file location="src/WEB-INF/jboss-web.xml" name="jboss-web.xml" prefix="WEB-INF" project="" projectLocation="src/WEB-INF/jboss-web.xml" used="true"/>
+<folder excludes="" includes="" location="docroot" name="docroot" prefix="" project="" projectLocation="docroot" used="true"/>
+</archive>
+<archive destination="" exploded="false" name="MwApp.ear" used="true">
+<file location="src/META-INF/application.xml" name="application.xml" prefix="META-INF" project="" projectLocation="src/META-INF/application.xml" used="true"/>
+<file location="MwEJB.jar" name="MwEJB.jar" prefix="" project="" projectLocation="MwEJB.jar" used="true"/>
+<file location="MwWeb.war" name="MwWeb.war" prefix="" project="" projectLocation="MwWeb.war" used="true"/>
+</archive>
+</configurations>

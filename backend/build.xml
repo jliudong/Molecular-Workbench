@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="MW backend" default="release" basedir=".">
+
+  <!-- =================================================================== -->
+  <!-- Initialization target                                               -->
+  <!-- =================================================================== -->
+  <target name="init">
+    <tstamp/>
+    <buildnumber/>
+
+    <property file="build.properties"/>
+
+    <echo message="${NAME}"/>
+    <echo message="----------- ${name} ${version} [${year}] ------------"/>
+
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Prepares the build directory                                        -->
+  <!-- =================================================================== -->
+  <target name="prepare" depends="init">
+    <!-- first delete temp dir and old release dir -->
+    <delete dir="${dest.dir}"/>
+    <!-- create all temp dir -->
+    <mkdir dir="${classes.dir}"/>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Compiles the source directory                                       -->
+  <!-- =================================================================== -->
+  <target name="compile" depends="prepare">
+    <javac srcdir="${src.dir}"
+           destdir="${classes.dir}"
+           debug="${debug}"
+           optimize="${optimize}"
+           encoding="${encoding}">
+      <classpath>
+        <fileset dir="${lib.dir}">
+          <include name="**/*.jar"/>
+        </fileset>
+      </classpath>
+    </javac>
+    <mkdir dir="${classes.dir}/org/concord/mwbackend/web/properties"/>
+    <copy todir="${classes.dir}/org/concord/mwbackend/web/properties" flatten="true">
+      <fileset dir="${src.dir}/org/concord/mwbackend/web/properties"/>
+    </copy>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Creates EJB package                                                 -->
+  <!-- =================================================================== -->
+  <target name="MwEJB" depends="compile">
+    <jar destfile="${dest.dir}/MwEJB.jar">
+        <zipfileset dir="${src.dir}/META-INF" prefix="META-INF">
+            <include name="ejb-jar.xml"/>
+        </zipfileset>
+        <zipfileset dir="${src.dir}/META-INF" prefix="META-INF">
+            <include name="jboss.xml"/>
+        </zipfileset>
+        <zipfileset dir="${classes.dir}" includes="org/concord/mwbackend/ejb/*.class, org/concord/mwbackend/ejb/resource/*.*,  org/concord/mwbackend/interfaces/*.class, org/concord/mwbackend/business/*.class, org/concord/mwbackend/util/*.class"/>
+      <manifest>
+        <attribute name="Built-By" value="jliudong"/>
+      </manifest>
+    </jar>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Creates WEB package                                                 -->
+  <!-- =================================================================== -->
+  <target name="MwWeb" depends="compile">
+    <jar destfile="${dest.dir}/MwWeb.war">
+        <zipfileset dir="${src.dir}/WEB-INF" prefix="WEB-INF">
+            <include name="web.xml"/>
+        </zipfileset>
+        <zipfileset dir="${src.dir}/WEB-INF" prefix="WEB-INF">
+            <include name="jboss-web.xml"/>
+        </zipfileset>
+        <zipfileset dir="${classes.dir}" prefix="WEB-INF/classes" includes="org/concord/mwbackend/web/*.class, org/concord/mwbackend/web/properties/*.*"/>
+        <zipfileset dir="${web.dir}"/>
+      <manifest>
+        <attribute name="Built-By" value="jliudong"/>
+      </manifest>
+    </jar>
+  </target>
+
+  <!-- =================================================================== -->
+  <!-- Creates APP package                                                 -->
+  <!-- =================================================================== -->
+  <target name="MwApp" depends="compile">
+    <jar destfile="${dest.dir}/MwApp.ear">
+        <zipfileset dir="${src.dir}/META-INF" prefix="META-INF">
+            <include name="application.xml"/>
+        </zipfileset>
+        <zipfileset dir="${dest.dir}">
+            <include name="MwEJB.jar"/>
+        </zipfileset>
+        <zipfileset dir="${dest.dir}">
+            <include name="MwWeb.war"/>
+        </zipfileset>
+      <manifest>
+        <attribute name="Built-By" value="jliudong"/>
+      </manifest>
+    </jar>
+  </target>
+
+  
+  <!-- =================================================================== -->
+  <!-- Creates the class package                                           -->
+  <!-- =================================================================== -->
+  <target name="release" depends="MwEJB,MwWeb,MwApp">
+    <!-- Give message if all target complete -->
+    <echo message="Build success completed!"/>
+  </target>
+
+  <target name="updateServer" depends="release">
+    <!-- Give message if all target complete -->
+    <echo message="Build success completed!"/>
+  </target>
+
+
+</project>
+
+
+
+
+
+
+<!-- End of file -->

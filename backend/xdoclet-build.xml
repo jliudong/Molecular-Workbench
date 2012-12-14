@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="XDoclet Generator" default="_xdoclet_generation_">
+<property file="xdoclet-build.properties"/>
+<property name="eclipse.home" value="C:/eclipse-jboss"/>
+<property name="xdoclet.basedir" value="${eclipse.home}/plugins/org.jboss.ide.eclipse.xdoclet.core_2.0.0.Beta2"/>
+<property name="jboss.net.version" value="4.0"/>
+<path id="project.classpath"><pathelement location="bin"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/rt.jar"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/jsse.jar"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/jce.jar"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/charsets.jar"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/ext/dnsns.jar"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/ext/localedata.jar"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/ext/mysql-connector-java-5.0.5-bin.jar"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/ext/sunjce_provider.jar"/>
+<pathelement location="C:/Program Files/Java/jre1.5.0_11/lib/ext/sunpkcs11.jar"/>
+<pathelement location="${eclipse.home}/plugins/org.jboss.ide.eclipse.jdt.ws.core_2.0.0.Beta2/lib/wsi-1.0/jaxr-api.jar"/>
+<pathelement location="${eclipse.home}/plugins/org.jboss.ide.eclipse.jdt.ws.core_2.0.0.Beta2/lib/wsi-1.0/jaxrpc-api.jar"/>
+<pathelement location="${eclipse.home}/plugins/org.jboss.ide.eclipse.jdt.ws.core_2.0.0.Beta2/lib/wsi-1.0/saaj-api.jar"/>
+<pathelement location="${eclipse.home}/plugins/org.jboss.ide.eclipse.jdt.ws.core_2.0.0.Beta2/lib/wsi-1.0/xml-api.jar"/>
+<pathelement location="C:/Sun/SDK/lib/javaee.jar"/>
+</path>
+<path id="xdoclet.classpath">
+<path refid="project.classpath"/>
+<fileset dir="${xdoclet.basedir}">
+<include name="*.jar"/>
+<exclude name="xdoclet-module-jboss-net-*.jar"/>
+</fileset>
+<fileset dir="${xdoclet.basedir}">
+<include name="xdoclet-module-jboss-net-${jboss.net.version}*.jar"/>
+</fileset>
+</path>
+<target name="_xdoclet_generation_" depends="N65540,N66506"/>
+<target name="N65540" description="EJB">
+<taskdef name="ejbdoclet" classname="xdoclet.modules.ejb.EjbDocletTask" classpathref="xdoclet.classpath"/><ejbdoclet ejbSpec="2.0"  destDir="src" >
+
+
+
+
+
+
+
+
+<fileset dir="src"  includes="**/*Bean.java" >
+
+
+
+</fileset>
+<deploymentdescriptor destDir="src/META-INF" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</deploymentdescriptor>
+<jboss Version="4.0"  destDir="src/META-INF" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</jboss>
+<packageSubstitution packages="ejb"  substituteWith="interfaces" >
+
+
+
+</packageSubstitution>
+<remoteinterface>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</remoteinterface>
+<homeinterface>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</homeinterface>
+<localinterface>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</localinterface>
+<localhomeinterface>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</localhomeinterface>
+</ejbdoclet></target>
+<target name="N66506" description="WEB">
+<taskdef name="webdoclet" classname="xdoclet.modules.web.WebDocletTask" classpathref="xdoclet.classpath"/><webdoclet destDir="src/WEB-INF" >
+
+
+
+
+
+
+<fileset dir="src"  includes="**/*Servlet.java" >
+
+
+
+</fileset>
+<deploymentdescriptor Servletspec="2.3" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</deploymentdescriptor>
+<jbosswebxml Version="4.0" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</jbosswebxml>
+</webdoclet></target>
+</project>

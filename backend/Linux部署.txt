@@ -1,0 +1,145 @@
+
+安装MySQL
+1. groupadd mysql
+2. mkdir /home/mysql
+3. useradd -g mysql -d /home/mysql mysql
+4. cp mysql-5.0.45-linux-i686-icc-glibc23.tar.gz到/usr/local目录
+5. 解压：tar zxvf mysql-5.0.45-linux-i686-icc-glibc23.tar.gz
+6. ln -s mysql-5.0.45-linux-i686-icc-glibc23 mysql
+7. cd /usr/local/mysql
+8. chown -R mysql .
+9. chgrp -R mysql .
+10. scripts/mysql_install_db --user=mysql (一定要在mysql目录下执行，注意输出的文字，里边有修改root密码和启动mysql的命令）
+11. 为root设置密码： ./bin/mysqladmin -u root password 'passw0rd'
+
+
+安装JBoss
+1. copy jboss-4.0.5.GA.zip /usr/local
+2. cd /usr/local
+3. unzip jboss-4.0.5.GA.zip
+4. ln -s jboss-4.0.5.GA jboss
+5. cp /usr/local/jboss/docs/examples/jca/mysql-ds.xml /usr/local/jboss/server/default/deploy
+6. vi /usr/local/jboss/server/default/deploy/mysql-ds.xml
+=============================================================
+<datasources>
+  <local-tx-datasource>
+    <jndi-name>MySqlDS</jndi-name>
+    <connection-url>jdbc:mysql://127.0.0.1:3306/molo_qxie</connection-url>
+    <driver-class>com.mysql.jdbc.Driver</driver-class>
+    <user-name>qxie</user-name>
+    <password>123456</password>
+    <exception-sorter-class-name>org.jboss.resource.adapter.jdbc.vendor.MySQLExceptionSorter</exception-sorter-class-name>
+
+    <!-- should only be used on drivers after 3.22.1 with "ping" support
+    <valid-connection-checker-class-name>org.jboss.resource.adapter.jdbc.vendor.MySQLValidConnectionChecker</valid-connection-checker-class-name>
+    -->
+    <!-- sql to call when connection is created
+    <new-connection-sql>some arbitrary sql</new-connection-sql>
+      -->
+    <!-- sql to call on an existing pooled connection when it is obtained from pool - MySQLValidConnectionChecker is preferred for newer drivers
+    <check-valid-connection-sql>some arbitrary sql</check-valid-connection-sql>
+      -->
+
+    <!-- corresponding type-mapping in the standardjbosscmp-jdbc.xml (optional) -->
+    <metadata>
+       <type-mapping>mySQL</type-mapping>
+    </metadata>
+  </local-tx-datasource>
+</datasources>
+=============================================================
+7. cd /usr/local/jboss/server/default/deploy/jms
+8. mv hsqldb-jdbc-state-service.xml mysql-jdbc-state-service.xml
+9. vi mysql-jdbc-state-service.xml
+=============================================================
+== 将DefaultDS替换为MySqlDS
+  <mbean code="org.jboss.mq.sm.jdbc.JDBCStateManager"
+              name="jboss.mq:service=StateManager">
+    <depends optional-attribute-name="ConnectionManager">jboss.jca:service=DataSourceBinding,name=MySqlDS</depends>
+    <attribute name="SqlProperties">
+      CREATE_TABLES_ON_STARTUP = TRUE
+      CREATE_USER_TABLE = CREATE TABLE JMS_USERS (USERID VARCHAR(32) NOT NULL, PASSWD VARCHAR(32) NOT NULL, \
+=============================================================
+10. rm -f hsqldb-jdbc2-service.xml
+11. cp /usr/local/jboss/docs/examples/jms/mysql-jdbc2-service.xml .
+12. cd /usr/local/jboss/server/default/conf
+13. vi login-config.xml
+=============================================================
+== 将DefaultDS替换为MySqlDS
+    <application-policy name = "jbossmq">
+       <authentication>
+          <login-module code = "org.jboss.security.auth.spi.DatabaseServerLoginModule"
+             flag = "required">
+             <module-option name = "unauthenticatedIdentity">guest</module-option>
+             <module-option name = "dsJndiName">java:/MySqlDS</module-option>
+             <module-option name = "principalsQuery">SELECT PASSWD FROM JMS_USERS WHERE USERID=?</module-option>
+             <module-option name = "rolesQuery">SELECT ROLEID, 'Roles' FROM JMS_ROLES WHERE USERID=?</module-option>
+          </login-module>
+       </authentication>
+    </application-policy>
+
+    <!-- Security domain for JBossMQ when using file-state-service.xml
+    <application-policy name = "jbossmq">
+       <authentication>
+          <login-module code = "org.jboss.mq.sm.file.DynamicLoginModule"
+             flag = "required">
+             <module-option name = "unauthenticatedIdentity">guest</module-option>
+             <module-option name = "sm.objectname">jboss.mq:service=StateManager</module-option>
+          </login-module>
+       </authentication>
+    </application-policy>
+    -->
+
+    <!-- Security domains for testing new jca framework -->
+    <application-policy name = "HsqlDbRealm">
+       <authentication>
+          <login-module code = "org.jboss.resource.security.ConfiguredIdentityLoginModule"
+             flag = "required">
+             <module-option name = "principal">sa</module-option>
+             <module-option name = "userName">sa</module-option>
+             <module-option name = "password"></module-option>
+             <module-option name = "managedConnectionFactoryName">jboss.jca:service=LocalTxCM,name=MySqlDS</module-option>
+          </login-module>
+       </authentication>
+    </application-policy>
+=============================================================
+14. vi standardjbosscmp-jdbc.xml
+=============================================================
+== 将DefaultDS替换为MySqlDS
+   <defaults>
+      <datasource>java:/MySqlDS</datasource>
+      <!-- optional since 4.0 <datasource-mapping>Hypersonic SQL</datasource-mapping> -->
+
+      <create-table>true</create-table>
+=============================================================
+15. vi standardjaws.xml
+=============================================================
+== 将DefaultDS替换为MySqlDS
+<jaws>
+   <datasource>java:/MySqlDS</datasource>
+   <type-mapping>mySQL</type-mapping>
+   <debug>false</debug>
+=============================================================
+16. cd /usr/local/jboss/server/default/deploy
+17. rm -f hsqldb-ds.xml
+18. vi ejb-deployer.xml
+=============================================================
+== 将DefaultDS替换为MySqlDS
+  <mbean code="org.jboss.ejb.txtimer.DatabasePersistencePolicy" name="jboss.ejb:service=EJBTimerService,persistencePolicy=database">
+    <!-- DataSource JNDI name -->
+    <depends optional-attribute-name="DataSource">jboss.jca:service=DataSourceBinding,name=MySqlDS</depends>
+    <!-- The plugin that handles database persistence -->
+    <attribute name="DatabasePersistencePlugin">org.jboss.ejb.txtimer.GeneralPurposeDatabasePersistencePlugin</attribute>
+  </mbean>
+=============================================================
+19. cd /usr/local/jboss/server/default/deploy/uuid-key-generator.sar/META-INF
+20. vi jboss-service.xml
+=============================================================
+== 将DefaultDS替换为MySqlDS
+     <!-- Attributes common to HiLo factory instances -->
+
+     <!-- DataSource JNDI name -->
+     <depends optional-attribute-name="DataSource">jboss.jca:service=DataSourceBinding,name=MySqlDS</depends>
+=============================================================
+21. 拷贝mysql jdbc驱动到/usr/local/jboss/server/default/lib
+22. cd /usr/local/jboss/bin
+23. ./run.sh

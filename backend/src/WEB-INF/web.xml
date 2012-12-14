@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app >
+   <distributable/>
+
+    <!--
+    To use non XDoclet filters, create a filters.xml file that
+    contains the additional filters (eg Sitemesh) and place it in your
+    project's merge dir.  Don't include filter-mappings in this file,
+    include them in a file called filter-mappings.xml and put that in
+    the same directory.
+    -->
+
+    <!--
+    To use non XDoclet filter-mappings, create a filter-mappings.xml file that
+    contains the additional filter-mappings and place it in your
+    project's merge dir.
+    -->
+
+    <!--
+    To use non XDoclet listeners, create a listeners.xml file that
+    contains the additional listeners and place it in your
+    project's merge dir.
+    -->
+
+   <servlet>
+      <servlet-name>ModelReceiver</servlet-name>
+      <display-name>Name for ModelReceiver</display-name>
+      <description><![CDATA[Description for ModelReceiver]]></description>
+      <servlet-class>org.concord.mwbackend.web.ModelReceiverServlet</servlet-class>
+
+   </servlet>
+   <servlet>
+      <servlet-name>Newsletter</servlet-name>
+      <display-name>Name for Newsletter</display-name>
+      <description><![CDATA[Description for Newsletter]]></description>
+      <servlet-class>org.concord.mwbackend.web.NewsletterServlet</servlet-class>
+
+   </servlet>
+   <servlet>
+      <servlet-name>Login</servlet-name>
+      <display-name>Login</display-name>
+      <description><![CDATA[Login]]></description>
+      <servlet-class>org.concord.mwbackend.web.LoginServlet</servlet-class>
+
+   </servlet>
+   <servlet>
+      <servlet-name>Contact</servlet-name>
+      <display-name>Name for Contact</display-name>
+      <description><![CDATA[Description for Contact]]></description>
+      <servlet-class>org.concord.mwbackend.web.ContactServlet</servlet-class>
+
+   </servlet>
+   <servlet>
+      <servlet-name>Admin</servlet-name>
+      <display-name>Name for Admin</display-name>
+      <description><![CDATA[Description for Admin]]></description>
+      <servlet-class>org.concord.mwbackend.web.AdminServlet</servlet-class>
+
+   </servlet>
+   <servlet>
+      <servlet-name>Classmate</servlet-name>
+      <display-name>Classmate</display-name>
+      <description><![CDATA[Classmate]]></description>
+      <servlet-class>org.concord.mwbackend.web.ClassmateServlet</servlet-class>
+
+   </servlet>
+   <servlet>
+      <servlet-name>UserContact</servlet-name>
+      <display-name>Name for UserContact</display-name>
+      <description><![CDATA[Description for UserContact]]></description>
+      <servlet-class>org.concord.mwbackend.web.AuthenticationServlet</servlet-class>
+
+      <init-param>
+         <param-name>A parameter</param-name>
+         <param-value>A value</param-value>
+      </init-param>
+
+   </servlet>
+   <servlet>
+      <servlet-name>Receptionist</servlet-name>
+      <display-name>Name for Receptionist</display-name>
+      <description><![CDATA[Description for Receptionist]]></description>
+      <servlet-class>org.concord.mwbackend.web.ReceptionistServlet</servlet-class>
+
+      <init-param>
+         <param-name>A parameter</param-name>
+         <param-value>A value</param-value>
+      </init-param>
+
+   </servlet>
+   <servlet>
+      <servlet-name>Grade</servlet-name>
+      <display-name>Grade Servlet</display-name>
+      <description><![CDATA[Grade]]></description>
+      <servlet-class>org.concord.mwbackend.web.GradeServlet</servlet-class>
+
+      <init-param>
+         <param-name>driverName</param-name>
+         <param-value>com.mysql.jdbc.Driver</param-value>
+      </init-param>
+      <init-param>
+         <param-name>connectionURLPrefix</param-name>
+         <param-value>jdbc:mysql://</param-value>
+      </init-param>
+      <init-param>
+         <param-name>dbserver</param-name>
+         <param-value>localhost</param-value>
+      </init-param>
+      <init-param>
+         <param-name>dbname</param-name>
+         <param-value>molo_qxie</param-value>
+      </init-param>
+      <init-param>
+         <param-name>user</param-name>
+         <param-value>qxie</param-value>
+      </init-param>
+      <init-param>
+         <param-name>pswd</param-name>
+         <param-value>123456</param-value>
+      </init-param>
+
+   </servlet>
+   <servlet>
+      <servlet-name>CommentManager</servlet-name>
+      <display-name>Name for CommentManager</display-name>
+      <description><![CDATA[Description for CommentManager]]></description>
+      <servlet-class>org.concord.mwbackend.web.CommentManagerServlet</servlet-class>
+
+      <init-param>
+         <param-name>A parameter</param-name>
+         <param-value>A value</param-value>
+      </init-param>
+
+   </servlet>
+   <servlet>
+      <servlet-name>JnlpGenerator</servlet-name>
+      <display-name>Name for JnlpGenerator</display-name>
+      <description><![CDATA[Description for JnlpGenerator]]></description>
+      <servlet-class>org.concord.mwbackend.web.JnlpGeneratorServlet</servlet-class>
+
+   </servlet>
+   <servlet>
+      <servlet-name>ReportReceiver</servlet-name>
+      <display-name>Name for ReportReceiver</display-name>
+      <description><![CDATA[Description for ReportReceiver]]></description>
+      <servlet-class>org.concord.mwbackend.web.ReportReceiverServlet</servlet-class>
+
+      <init-param>
+         <param-name>A parameter</param-name>
+         <param-value>A value</param-value>
+      </init-param>
+
+   </servlet>
+   <servlet>
+      <servlet-name>Registration</servlet-name>
+      <display-name>Molecular Workbench Registration</display-name>
+      <description><![CDATA[Registration to Molecular Workbench]]></description>
+      <servlet-class>org.concord.mwbackend.web.RegistrationServlet</servlet-class>
+
+      <init-param>
+         <param-name>A parameter</param-name>
+         <param-value>A value</param-value>
+      </init-param>
+
+   </servlet>
+
+  <!--
+  To use non XDoclet servlets, create a servlets.xml file that
+  contains the additional servlets (eg Struts) and place it in your
+  project's merge dir.  Don't include servlet-mappings in this file,
+  include them in a file called servlet-mappings.xml and put that in
+  the same directory.
+  -->
+
+   <servlet-mapping>
+      <servlet-name>ModelReceiver</servlet-name>
+      <url-pattern>/modelupload</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>Newsletter</servlet-name>
+      <url-pattern>/newsletter</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>Login</servlet-name>
+      <url-pattern>/login</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>Contact</servlet-name>
+      <url-pattern>/contact</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>Admin</servlet-name>
+      <url-pattern>/admin</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>Classmate</servlet-name>
+      <url-pattern>/classmate</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>UserContact</servlet-name>
+      <url-pattern>/auth</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>Receptionist</servlet-name>
+      <url-pattern>/reception</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>Grade</servlet-name>
+      <url-pattern>/grade</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>CommentManager</servlet-name>
+      <url-pattern>/comment</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>JnlpGenerator</servlet-name>
+      <url-pattern>/tmp.jnlp</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>ReportReceiver</servlet-name>
+      <url-pattern>/reportupload</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+      <servlet-name>Registration</servlet-name>
+      <url-pattern>/register</url-pattern>
+   </servlet-mapping>
+
+   <!--
+   To specify mime mappings, create a file named mime-mappings.xml, put it in your project's mergedir.
+   Organize mime-mappings.xml following this DTD slice:
+
+   <!ELEMENT mime-mapping (extension, mime-type)>
+   -->
+
+   <!--
+   To specify error pages, create a file named error-pages.xml, put it in your project's mergedir.
+   Organize error-pages.xml following this DTD slice:
+
+   <!ELEMENT error-page ((error-code | exception-type), location)>
+   -->
+
+  <!--
+  To add taglibs by xml, create a file called taglibs.xml and place it
+  in your merge dir.
+  -->
+
+   <!--
+   To set up security settings for your web app, create a file named web-security.xml, put it in your project's mergedir.
+   Organize web-security.xml following this DTD slice:
+
+   <!ELEMENT security-constraint (display-name?, web-resource-collection+, auth-constraint?, user-data-constraint?)>
+   <!ELEMENT web-resource-collection (web-resource-name, description?, url-pattern*, http-method*)>
+   <!ELEMENT web-resource-name (#PCDATA)>
+   <!ELEMENT url-pattern (#PCDATA)>
+   <!ELEMENT http-method (#PCDATA)>
+   <!ELEMENT user-data-constraint (description?, transport-guarantee)>
+   <!ELEMENT transport-guarantee (#PCDATA)>
+
+   <!ELEMENT login-config (auth-method?, realm-name?, form-login-config?)>
+   <!ELEMENT auth-method (#PCDATA)>
+   <!ELEMENT realm-name (#PCDATA)>
+   <!ELEMENT form-login-config (form-login-page, form-error-page)>
+   <!ELEMENT form-login-page (#PCDATA)>
+   <!ELEMENT form-error-page (#PCDATA)>
+   -->
+
+   <ejb-ref >
+      <description><![CDATA[Reference to the ModelManager EJB]]></description>
+      <ejb-ref-name>ejb/ModelManager</ejb-ref-name>
+      <ejb-ref-type>Session</ejb-ref-type>
+      <home>org.concord.mwbackend.interfaces.ModelManagerHome</home>
+      <remote>org.concord.mwbackend.interfaces.ModelManager</remote>
+   </ejb-ref>
+   <ejb-ref >
+      <description><![CDATA[Reference to the Login EJB]]></description>
+      <ejb-ref-name>ejb/Login</ejb-ref-name>
+      <ejb-ref-type>Session</ejb-ref-type>
+      <home>org.concord.mwbackend.interfaces.LoginHome</home>
+      <remote>org.concord.mwbackend.interfaces.Login</remote>
+   </ejb-ref>
+   <ejb-ref >
+      <description><![CDATA[Reference to the UserContact EJB]]></description>
+      <ejb-ref-name>ejb/UserContact</ejb-ref-name>
+      <ejb-ref-type>Session</ejb-ref-type>
+      <home>org.concord.mwbackend.interfaces.UserContactHome</home>
+      <remote>org.concord.mwbackend.interfaces.UserContact</remote>
+   </ejb-ref>
+   <ejb-ref >
+      <description><![CDATA[Reference to the Receptionist EJB]]></description>
+      <ejb-ref-name>ejb/Receptionist</ejb-ref-name>
+      <ejb-ref-type>Session</ejb-ref-type>
+      <home>org.concord.mwbackend.interfaces.ReceptionistHome</home>
+      <remote>org.concord.mwbackend.interfaces.Receptionist</remote>
+   </ejb-ref>
+   <ejb-ref >
+      <description><![CDATA[Reference to the CommentManager EJB]]></description>
+      <ejb-ref-name>ejb/CommentManager</ejb-ref-name>
+      <ejb-ref-type>Session</ejb-ref-type>
+      <home>org.concord.mwbackend.interfaces.CommentManagerHome</home>
+      <remote>org.concord.mwbackend.interfaces.CommentManager</remote>
+   </ejb-ref>
+   <ejb-ref >
+      <description><![CDATA[Reference to the ReportManager EJB]]></description>
+      <ejb-ref-name>ejb/ReportManager</ejb-ref-name>
+      <ejb-ref-type>Session</ejb-ref-type>
+      <home>org.concord.mwbackend.interfaces.ReportManagerHome</home>
+      <remote>org.concord.mwbackend.interfaces.ReportManager</remote>
+   </ejb-ref>
+   <ejb-ref >
+      <description><![CDATA[Reference to the Registration EJB]]></description>
+      <ejb-ref-name>ejb/Registration</ejb-ref-name>
+      <ejb-ref-type>Session</ejb-ref-type>
+      <home>org.concord.mwbackend.interfaces.RegistrationHome</home>
+      <remote>org.concord.mwbackend.interfaces.Registration</remote>
+   </ejb-ref>
+   <ejb-ref >
+      <description><![CDATA[Reference to the ClassManager EJB]]></description>
+      <ejb-ref-name>ejb/ClassManager</ejb-ref-name>
+      <ejb-ref-type>Session</ejb-ref-type>
+      <home>org.concord.mwbackend.interfaces.ClassManagerHome</home>
+      <remote>org.concord.mwbackend.interfaces.ClassManager</remote>
+   </ejb-ref>
+
+</web-app>
